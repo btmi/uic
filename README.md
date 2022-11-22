@@ -7,3 +7,5 @@ The UIC is licensed under a Creative Commons Attribution 3.0 Unported License ht
 
 A technical description of the UIC by Mark Carroll, James Koehne and Peter Grimshaw was published in the Music Reference Services Quarterly Volume 17, 2014 – Issue 1.
 http://www.tandfonline.com/doi/abs/10.1080/10588167.2014.873226?mobileUi=0&journalCode=wmus20
+
+For more information visit www.btmi.com.au
