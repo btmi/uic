@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--The Universal Instrumentation Code (UIC) by BTM Innovation Pty Ltd (www.btmi.com.au) is licensed under a Creative Commons Attribution 3.0 Unported License. http://creativecommons.org/licenses/by/3.0/deed.en_US-->
+<result>
+  <UIC>
+    <InstErrataID>1</InstErrataID>
+    <InstErrataOldInstID>917523</InstErrataOldInstID>
+    <InstErrataNewInstID>393331</InstErrataNewInstID>
+    <InstErrataOldName>Duduk</InstErrataOldName>
+    <InstErrataNewName>Duduk</InstErrataNewName>
+    <InstErrataAdded>2017-02-27T00:58:24.143+00:00</InstErrataAdded>
+    <InstErrataAddedBy>Peter Grimshaw</InstErrataAddedBy>
+  </UIC>
+  <UIC>
+    <InstErrataID>2</InstErrataID>
+    <InstErrataOldInstID>6422549</InstErrataOldInstID>
+    <InstErrataNewInstID>131093</InstErrataNewInstID>
+    <InstErrataOldName>Percussion (etc)</InstErrataOldName>
+    <InstErrataNewName>Percussion</InstErrataNewName>
+    <InstErrataAdded>2017-02-27T01:00:50.347+00:00</InstErrataAdded>
+    <InstErrataAddedBy>Peter Grimshaw</InstErrataAddedBy>
+  </UIC>
+  <UIC>
+    <InstErrataID>3</InstErrataID>
+    <InstErrataOldInstID>786509</InstErrataOldInstID>
+    <InstErrataNewInstID>1441877</InstErrataNewInstID>
+    <InstErrataOldName>Ukelele</InstErrataOldName>
+    <InstErrataNewName>Ukulele</InstErrataNewName>
+    <InstErrataAdded>2017-02-27T01:07:27.077+00:00</InstErrataAdded>
+    <InstErrataAddedBy>Peter Grimshaw</InstErrataAddedBy>
+  </UIC>
+  <UIC>
+    <InstErrataID>4</InstErrataID>
+    <InstErrataOldInstID>917588</InstErrataOldInstID>
+    <InstErrataNewInstID>786432</InstErrataNewInstID>
+    <InstErrataOldName>Cornett</InstErrataOldName>
+    <InstErrataNewName>Cornett</InstErrataNewName>
+    <InstErrataAdded>2018-04-21T16:03:33.607+00:00</InstErrataAdded>
+    <InstErrataAddedBy>Peter Grimshaw</InstErrataAddedBy>
+  </UIC>
+  <UIC>
+    <InstErrataID>5</InstErrataID>
+    <InstErrataOldInstID>131269</InstErrataOldInstID>
+    <InstErrataNewInstID>655446</InstErrataNewInstID>
+    <InstErrataOldName>Nyckelharpa</InstErrataOldName>
+    <InstErrataNewName>Nyckelharpa</InstErrataNewName>
+    <InstErrataAdded>2021-08-18T07:25:22.603+00:00</InstErrataAdded>
+    <InstErrataAddedBy>Peter Grimshaw</InstErrataAddedBy>
+  </UIC>
+</result>
