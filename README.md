@@ -1,6 +1,6 @@
 ![UIC SVG Logo](https://uic.btmi.au/UIC.svg)
 
-## Universal Instrumentation Code
+# Universal Instrumentation Code
 
 The Universal Instrumentation Code or [UIC] was created by Peter Grimshaw of BTM Innovation Pty Ltd in 2014 to create a standard for the identification of instrumental parts that is not bound to any language or convention and can provide new ways to search and display the instrumental requirements of printed music.
 
@@ -46,6 +46,7 @@ A technical description of the UIC by Mark Carroll, James Koehne and Peter Grims
 
 [https://uic.btmi.au/errata.json](https://uic.btmi.au/errata.json) - a complete collection of UIC Errata items
 
-##
+### for more information
 
-For more information visit https://www.btmi.au
+[https://www.btmi.au](https://www.btmi.au)
+
