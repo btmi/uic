@@ -1,4 +1,4 @@
-#![UIC SVG Logo](https://uic.btmi.au/UIC.svg)
+![UIC SVG Logo](https://uic.btmi.au/UIC.svg)
 
 ## Universal Instrumentation Code
 
@@ -6,7 +6,7 @@ The Universal Instrumentation Code or [UIC] was created by Peter Grimshaw of BTM
 
 The UIC is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/) so that it can be freely used  by any sort of system that catalogues instrumental parts creating data sets that can be easily shared with different systems.
 
-The files are updated every day at 1am (all dates and times are in UTC).
+The files are updated every day at 01:00am (all dates and times are in UTC) and the status.xml/json file can be used to trigger any download updates.
 
 A technical description of the UIC by Mark Carroll, James Koehne and Peter Grimshaw was published in the [Music Reference Services Quarterly Volume 17, 2014 – Issue 1](https://www.tandfonline.com/doi/abs/10.1080/10588167.2014.873226?mobileUi=0&journalCode=wmus20)
 
@@ -46,7 +46,6 @@ A technical description of the UIC by Mark Carroll, James Koehne and Peter Grims
 
 [https://uic.btmi.au/errata.json](https://uic.btmi.au/errata.json) - a complete collection of UIC Errata items
 
-
-
+##
 
 For more information visit https://www.btmi.au
