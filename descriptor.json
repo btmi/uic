@@ -6869,6 +6869,62 @@
         "DescriptorOrder": "500"
       },
       {
+        "DescriptorID": "410",
+        "DescriptorName": "Amateur",
+        "DescriptorShort": "Am",
+        "DescriptorNameDE": "Amateur",
+        "DescriptorShortDE": "Am",
+        "DescriptorNameFR": "Amateur",
+        "DescriptorShortFR": "Am",
+        "DescriptorNameIT": "Dilettante",
+        "DescriptorShortIT": "Di",
+        "DescriptorNameES": "Aficionado",
+        "DescriptorShortES": "Af",
+        "DescriptorNameJA": "Amateur",
+        "DescriptorShortJA": "Am",
+        "DescriptorNameKO": "Amateur",
+        "DescriptorShortKO": "Am",
+        "DescriptorNamePL": "Amateur",
+        "DescriptorShortPL": "Am",
+        "DescriptorNamePT": "Amateur",
+        "DescriptorShortPT": "Am",
+        "DescriptorNameRU": "Amateur",
+        "DescriptorShortRU": "Am",
+        "DescriptorNameZH": "Amateur",
+        "DescriptorShortZH": "Am",
+        "DescriptorOrder": "501",
+        "DescriptorAdded": "2022-11-23T22:25:45.65+00:00",
+        "DescriptorEdited": "2022-11-23T22:27:00.533+00:00"
+      },
+      {
+        "DescriptorID": "411",
+        "DescriptorName": "Professional",
+        "DescriptorShort": "Pro",
+        "DescriptorNameDE": "Profi",
+        "DescriptorShortDE": "Pro",
+        "DescriptorNameFR": "Professionnelle",
+        "DescriptorShortFR": "Pro",
+        "DescriptorNameIT": "Professionale",
+        "DescriptorShortIT": "Pro",
+        "DescriptorNameES": "Profesional",
+        "DescriptorShortES": "Pro",
+        "DescriptorNameJA": "Professional",
+        "DescriptorShortJA": "Pro",
+        "DescriptorNameKO": "Professional",
+        "DescriptorShortKO": "Pro",
+        "DescriptorNamePL": "Professional",
+        "DescriptorShortPL": "Pro",
+        "DescriptorNamePT": "Professional",
+        "DescriptorShortPT": "Pro",
+        "DescriptorNameRU": "Professional",
+        "DescriptorShortRU": "Pro",
+        "DescriptorNameZH": "Professional",
+        "DescriptorShortZH": "Pro",
+        "DescriptorOrder": "504",
+        "DescriptorAdded": "2022-11-23T22:26:47.237+00:00",
+        "DescriptorEdited": "2022-11-23T22:26:47.237+00:00"
+      },
+      {
         "DescriptorID": "94",
         "DescriptorName": "Score",
         "DescriptorShort": "Sc",
@@ -6892,7 +6948,7 @@
         "DescriptorShortRU": "Партитура",
         "DescriptorNameZH": "总谱",
         "DescriptorShortZH": "总谱",
-        "DescriptorOrder": "504"
+        "DescriptorOrder": "510"
       },
       {
         "DescriptorID": "365",
@@ -6918,7 +6974,7 @@
         "DescriptorShortRU": "PlyngSc",
         "DescriptorNameZH": "Playing Score",
         "DescriptorShortZH": "PlyngSc",
-        "DescriptorOrder": "505",
+        "DescriptorOrder": "511",
         "DescriptorAdded": "2019-03-11T15:25:51.077+00:00",
         "DescriptorEdited": "2019-03-11T15:25:51.077+00:00"
       },
@@ -6946,7 +7002,7 @@
         "DescriptorShortRU": "Divisi",
         "DescriptorNameZH": "Divisi",
         "DescriptorShortZH": "Divisi",
-        "DescriptorOrder": "506",
+        "DescriptorOrder": "512",
         "DescriptorAdded": "2021-03-23T05:07:09.513+00:00",
         "DescriptorEdited": "2021-03-23T05:07:09.513+00:00"
       },
@@ -6974,7 +7030,7 @@
         "DescriptorShortRU": "Пульт 1",
         "DescriptorNameZH": "谱台 1",
         "DescriptorShortZH": "谱台 1",
-        "DescriptorOrder": "511"
+        "DescriptorOrder": "517"
       },
       {
         "DescriptorID": "205",
@@ -7000,7 +7056,7 @@
         "DescriptorShortRU": "Пульт 1:1",
         "DescriptorNameZH": "谱台 1:1",
         "DescriptorShortZH": "谱台 1:1",
-        "DescriptorOrder": "512",
+        "DescriptorOrder": "518",
         "DescriptorAdded": "2016-03-18T22:17:00.78+00:00",
         "DescriptorEdited": "2016-03-18T22:18:21.95+00:00"
       },
@@ -7028,7 +7084,7 @@
         "DescriptorShortRU": "Пульт 1:2 ",
         "DescriptorNameZH": "谱台 1:2",
         "DescriptorShortZH": "谱台 1:2",
-        "DescriptorOrder": "515",
+        "DescriptorOrder": "521",
         "DescriptorAdded": "2016-03-18T22:17:59.84+00:00",
         "DescriptorEdited": "2016-03-18T22:17:59.84+00:00"
       },
@@ -7056,7 +7112,7 @@
         "DescriptorShortRU": "Пульт 2",
         "DescriptorNameZH": "谱台 2",
         "DescriptorShortZH": "谱台 2",
-        "DescriptorOrder": "518"
+        "DescriptorOrder": "524"
       },
       {
         "DescriptorID": "99",
@@ -7082,7 +7138,7 @@
         "DescriptorShortRU": "Пульт 3",
         "DescriptorNameZH": "谱台 3",
         "DescriptorShortZH": "谱台 3",
-        "DescriptorOrder": "519"
+        "DescriptorOrder": "525"
       },
       {
         "DescriptorID": "282",
@@ -7108,7 +7164,7 @@
         "DescriptorShortRU": "Пульт 3:4",
         "DescriptorNameZH": "谱台 3:4",
         "DescriptorShortZH": "谱台 3:4",
-        "DescriptorOrder": "520",
+        "DescriptorOrder": "526",
         "DescriptorAdded": "2018-01-25T08:27:38.76+00:00",
         "DescriptorEdited": "2018-01-25T08:27:38.76+00:00"
       },
@@ -7136,7 +7192,7 @@
         "DescriptorShortRU": "Пульт 4",
         "DescriptorNameZH": "谱台 4",
         "DescriptorShortZH": "谱台 4",
-        "DescriptorOrder": "522"
+        "DescriptorOrder": "528"
       },
       {
         "DescriptorID": "368",
@@ -7162,7 +7218,7 @@
         "DescriptorShortRU": "Desk4:6",
         "DescriptorNameZH": "Desk 4:6",
         "DescriptorShortZH": "Desk4:6",
-        "DescriptorOrder": "523",
+        "DescriptorOrder": "529",
         "DescriptorAdded": "2019-04-10T12:54:41.22+00:00",
         "DescriptorEdited": "2019-04-10T12:54:41.22+00:00"
       },
@@ -7190,7 +7246,7 @@
         "DescriptorShortRU": "Пульт 5",
         "DescriptorNameZH": "谱台 5",
         "DescriptorShortZH": "谱台 5",
-        "DescriptorOrder": "525",
+        "DescriptorOrder": "531",
         "DescriptorAdded": "2016-10-06T10:51:51.39+00:00",
         "DescriptorEdited": "2016-10-06T10:51:51.39+00:00"
       },
@@ -7218,7 +7274,7 @@
         "DescriptorShortRU": "Пульт 5:6",
         "DescriptorNameZH": "谱台 5:6",
         "DescriptorShortZH": "谱台 5:6",
-        "DescriptorOrder": "526",
+        "DescriptorOrder": "532",
         "DescriptorAdded": "2018-01-25T08:28:18.477+00:00",
         "DescriptorEdited": "2018-01-25T12:53:39.33+00:00"
       },
@@ -7246,7 +7302,7 @@
         "DescriptorShortRU": "Desk5:7",
         "DescriptorNameZH": "Desk 5:7",
         "DescriptorShortZH": "Desk5:7",
-        "DescriptorOrder": "527",
+        "DescriptorOrder": "533",
         "DescriptorAdded": "2019-04-10T12:55:55.153+00:00",
         "DescriptorEdited": "2019-04-10T12:55:55.153+00:00"
       },
@@ -7274,7 +7330,7 @@
         "DescriptorShortRU": "Пульт 6",
         "DescriptorNameZH": "谱台 6",
         "DescriptorShortZH": "谱台 6",
-        "DescriptorOrder": "530",
+        "DescriptorOrder": "536",
         "DescriptorAdded": "2016-12-21T09:50:35.153+00:00",
         "DescriptorEdited": "2016-12-21T09:50:35.153+00:00"
       },
@@ -7302,7 +7358,7 @@
         "DescriptorShortRU": "Пульт 7",
         "DescriptorNameZH": "谱台 7",
         "DescriptorShortZH": "谱台 7",
-        "DescriptorOrder": "531",
+        "DescriptorOrder": "537",
         "DescriptorAdded": "2016-12-21T22:08:25.243+00:00",
         "DescriptorEdited": "2016-12-21T22:08:25.243+00:00"
       },
@@ -7330,7 +7386,7 @@
         "DescriptorShortRU": "Пульт 7:8",
         "DescriptorNameZH": "谱台 7:8",
         "DescriptorShortZH": "谱台 7:8",
-        "DescriptorOrder": "532",
+        "DescriptorOrder": "538",
         "DescriptorAdded": "2018-01-25T08:29:15.73+00:00",
         "DescriptorEdited": "2018-01-25T08:29:15.73+00:00"
       },
@@ -7358,7 +7414,7 @@
         "DescriptorShortRU": "Пульт 8",
         "DescriptorNameZH": "谱台 8",
         "DescriptorShortZH": "谱台 8",
-        "DescriptorOrder": "534",
+        "DescriptorOrder": "540",
         "DescriptorAdded": "2016-12-21T22:08:50.633+00:00",
         "DescriptorEdited": "2016-12-21T22:08:50.633+00:00"
       },
@@ -7386,7 +7442,7 @@
         "DescriptorShortRU": "Пульт9",
         "DescriptorNameZH": "谱台 9",
         "DescriptorShortZH": "谱台9",
-        "DescriptorOrder": "535",
+        "DescriptorOrder": "541",
         "DescriptorAdded": "2019-01-08T15:00:34.443+00:00",
         "DescriptorEdited": "2019-01-08T15:00:34.443+00:00"
       },
@@ -7414,7 +7470,7 @@
         "DescriptorShortRU": "Desk9:10",
         "DescriptorNameZH": "Desk 9:10",
         "DescriptorShortZH": "Desk9:10",
-        "DescriptorOrder": "536",
+        "DescriptorOrder": "542",
         "DescriptorAdded": "2019-06-17T14:48:05.84+00:00",
         "DescriptorEdited": "2019-06-17T14:48:05.84+00:00"
       },
@@ -7442,7 +7498,7 @@
         "DescriptorShortRU": "Пульт10",
         "DescriptorNameZH": "谱台 10",
         "DescriptorShortZH": "谱台10",
-        "DescriptorOrder": "538",
+        "DescriptorOrder": "544",
         "DescriptorAdded": "2019-01-08T15:46:50.207+00:00",
         "DescriptorEdited": "2019-01-08T15:46:50.207+00:00"
       },
@@ -7470,7 +7526,7 @@
         "DescriptorShortRU": "Пульт11",
         "DescriptorNameZH": "谱台 11",
         "DescriptorShortZH": "谱台11",
-        "DescriptorOrder": "539",
+        "DescriptorOrder": "545",
         "DescriptorAdded": "2019-01-08T15:53:34.21+00:00",
         "DescriptorEdited": "2019-01-08T15:53:34.21+00:00"
       },
@@ -7498,7 +7554,7 @@
         "DescriptorShortRU": "Desk11:12",
         "DescriptorNameZH": "Desk 11:12",
         "DescriptorShortZH": "Desk11:12",
-        "DescriptorOrder": "540",
+        "DescriptorOrder": "546",
         "DescriptorAdded": "2019-06-17T14:48:36.79+00:00",
         "DescriptorEdited": "2019-06-17T14:48:36.79+00:00"
       },
@@ -7526,7 +7582,7 @@
         "DescriptorShortRU": "Пульт12",
         "DescriptorNameZH": "谱台 12",
         "DescriptorShortZH": "谱台12",
-        "DescriptorOrder": "542",
+        "DescriptorOrder": "548",
         "DescriptorAdded": "2019-01-08T15:56:19.21+00:00",
         "DescriptorEdited": "2019-01-08T15:56:19.21+00:00"
       },
@@ -7554,7 +7610,7 @@
         "DescriptorShortRU": "Пульт13",
         "DescriptorNameZH": "谱台 13",
         "DescriptorShortZH": "谱台13",
-        "DescriptorOrder": "543",
+        "DescriptorOrder": "549",
         "DescriptorAdded": "2019-01-08T16:13:28.75+00:00",
         "DescriptorEdited": "2019-01-08T16:13:28.75+00:00"
       },
@@ -7582,7 +7638,7 @@
         "DescriptorShortRU": "Desk13:14",
         "DescriptorNameZH": "Desk 13:14",
         "DescriptorShortZH": "Desk13:14",
-        "DescriptorOrder": "544",
+        "DescriptorOrder": "550",
         "DescriptorAdded": "2019-06-17T14:49:05.227+00:00",
         "DescriptorEdited": "2019-06-17T14:49:05.227+00:00"
       },
@@ -7610,7 +7666,7 @@
         "DescriptorShortRU": "Пульт14",
         "DescriptorNameZH": "谱台  14",
         "DescriptorShortZH": "谱台14",
-        "DescriptorOrder": "546",
+        "DescriptorOrder": "552",
         "DescriptorAdded": "2019-01-08T16:16:16.343+00:00",
         "DescriptorEdited": "2019-01-08T16:16:16.343+00:00"
       },
@@ -7638,7 +7694,7 @@
         "DescriptorShortRU": "Пульт15",
         "DescriptorNameZH": "谱台 15",
         "DescriptorShortZH": "谱台15",
-        "DescriptorOrder": "547",
+        "DescriptorOrder": "553",
         "DescriptorAdded": "2019-01-08T16:19:14.263+00:00",
         "DescriptorEdited": "2019-01-08T16:19:14.263+00:00"
       },
@@ -7666,7 +7722,7 @@
         "DescriptorShortRU": "Desk15:16",
         "DescriptorNameZH": "Desk 15:16",
         "DescriptorShortZH": "Desk15:16",
-        "DescriptorOrder": "548",
+        "DescriptorOrder": "554",
         "DescriptorAdded": "2019-06-17T14:49:32.247+00:00",
         "DescriptorEdited": "2019-06-17T14:49:32.247+00:00"
       },
@@ -7694,9 +7750,37 @@
         "DescriptorShortRU": "glialtri",
         "DescriptorNameZH": "gli altri",
         "DescriptorShortZH": "glialtri",
-        "DescriptorOrder": "549",
+        "DescriptorOrder": "555",
         "DescriptorAdded": "2022-07-13T12:52:01.997+00:00",
         "DescriptorEdited": "2022-07-13T12:52:49.437+00:00"
+      },
+      {
+        "DescriptorID": "412",
+        "DescriptorName": "Ensemble",
+        "DescriptorShort": "Ensemble",
+        "DescriptorNameDE": "Ensemble",
+        "DescriptorShortDE": "Ensemble",
+        "DescriptorNameFR": "Ensemble",
+        "DescriptorShortFR": "Ensemble",
+        "DescriptorNameIT": "Ensemble",
+        "DescriptorShortIT": "Ensemble",
+        "DescriptorNameES": "Ensemble",
+        "DescriptorShortES": "Ensemble",
+        "DescriptorNameJA": "Ensemble",
+        "DescriptorShortJA": "Ensemble",
+        "DescriptorNameKO": "Ensemble",
+        "DescriptorShortKO": "Ensemble",
+        "DescriptorNamePL": "Ensemble",
+        "DescriptorShortPL": "Ensemble",
+        "DescriptorNamePT": "Ensemble",
+        "DescriptorShortPT": "Ensemble",
+        "DescriptorNameRU": "Ensemble",
+        "DescriptorShortRU": "Ensemble",
+        "DescriptorNameZH": "Ensemble",
+        "DescriptorShortZH": "Ensemble",
+        "DescriptorOrder": "556",
+        "DescriptorAdded": "2022-11-23T22:33:33.153+00:00",
+        "DescriptorEdited": "2022-11-23T22:33:33.153+00:00"
       },
       {
         "DescriptorID": "104",
@@ -7722,7 +7806,7 @@
         "DescriptorShortRU": "Джаз",
         "DescriptorNameZH": "爵士乐",
         "DescriptorShortZH": "爵士乐",
-        "DescriptorOrder": "565"
+        "DescriptorOrder": "573"
       },
       {
         "DescriptorID": "296",
@@ -7748,7 +7832,7 @@
         "DescriptorShortRU": "Лидер",
         "DescriptorNameZH": "首席",
         "DescriptorShortZH": "首席",
-        "DescriptorOrder": "566",
+        "DescriptorOrder": "574",
         "DescriptorAdded": "2018-03-19T10:37:19.427+00:00",
         "DescriptorEdited": "2018-03-19T10:39:17.88+00:00"
       },
@@ -7776,7 +7860,7 @@
         "DescriptorShortRU": "Ритм",
         "DescriptorNameZH": "节奏",
         "DescriptorShortZH": "节奏",
-        "DescriptorOrder": "567",
+        "DescriptorOrder": "575",
         "DescriptorAdded": "2016-11-16T00:16:30.537+00:00",
         "DescriptorEdited": "2016-11-16T00:16:30.537+00:00"
       },
@@ -7804,7 +7888,7 @@
         "DescriptorShortRU": "Acoustic",
         "DescriptorNameZH": "Acoustic",
         "DescriptorShortZH": "Acoustic",
-        "DescriptorOrder": "569",
+        "DescriptorOrder": "577",
         "DescriptorAdded": "2020-03-13T04:49:22.083+00:00",
         "DescriptorEdited": "2020-03-13T04:49:22.083+00:00"
       },
@@ -7832,7 +7916,7 @@
         "DescriptorShortRU": "Электронна",
         "DescriptorNameZH": "电动",
         "DescriptorShortZH": "电动",
-        "DescriptorOrder": "570"
+        "DescriptorOrder": "578"
       },
       {
         "DescriptorID": "307",
@@ -7858,7 +7942,7 @@
         "DescriptorShortRU": "электроник",
         "DescriptorNameZH": "电子产品",
         "DescriptorShortZH": "电子产品",
-        "DescriptorOrder": "571",
+        "DescriptorOrder": "579",
         "DescriptorAdded": "2018-04-18T07:09:50.36+00:00",
         "DescriptorEdited": "2018-04-18T07:09:50.36+00:00"
       },
@@ -7886,7 +7970,7 @@
         "DescriptorShortRU": "Усиленный",
         "DescriptorNameZH": "扩音／加强",
         "DescriptorShortZH": "扩音／加强",
-        "DescriptorOrder": "572",
+        "DescriptorOrder": "580",
         "DescriptorAdded": "2018-04-20T07:40:55.207+00:00",
         "DescriptorEdited": "2018-04-20T07:40:55.207+00:00"
       },
@@ -7914,7 +7998,7 @@
         "DescriptorShortRU": "Midi",
         "DescriptorNameZH": "乐器数码化接口",
         "DescriptorShortZH": "乐器数码化接口",
-        "DescriptorOrder": "575",
+        "DescriptorOrder": "583",
         "DescriptorAdded": "2015-11-07T06:12:53.92+00:00",
         "DescriptorEdited": "2015-11-07T06:12:53.92+00:00"
       },
@@ -7942,7 +8026,7 @@
         "DescriptorShortRU": "Препариров",
         "DescriptorNameZH": "改装",
         "DescriptorShortZH": "改装",
-        "DescriptorOrder": "576",
+        "DescriptorOrder": "584",
         "DescriptorAdded": "2018-05-17T07:32:36.7+00:00",
         "DescriptorEdited": "2018-05-17T07:32:36.7+00:00"
       },
@@ -7970,7 +8054,7 @@
         "DescriptorShortRU": "Большой",
         "DescriptorNameZH": "盛大的",
         "DescriptorShortZH": "盛大的",
-        "DescriptorOrder": "579",
+        "DescriptorOrder": "587",
         "DescriptorAdded": "2013-04-08T09:12:17.857+00:00",
         "DescriptorEdited": "2013-04-08T09:12:57.03+00:00"
       },
@@ -7998,7 +8082,7 @@
         "DescriptorShortRU": "Малый",
         "DescriptorNameZH": "小的",
         "DescriptorShortZH": "小的",
-        "DescriptorOrder": "580",
+        "DescriptorOrder": "588",
         "DescriptorAdded": "2013-04-02T10:10:46.907+00:00",
         "DescriptorEdited": "2013-04-02T10:10:46.907+00:00"
       },
@@ -8026,7 +8110,7 @@
         "DescriptorShortRU": "Большой",
         "DescriptorNameZH": "大的",
         "DescriptorShortZH": "大的",
-        "DescriptorOrder": "581",
+        "DescriptorOrder": "589",
         "DescriptorAdded": "2014-05-11T04:49:58.057+00:00",
         "DescriptorEdited": "2014-05-11T04:49:58.057+00:00"
       },
@@ -8054,7 +8138,7 @@
         "DescriptorShortRU": "Глубокий",
         "DescriptorNameZH": "深的",
         "DescriptorShortZH": "深的",
-        "DescriptorOrder": "582",
+        "DescriptorOrder": "590",
         "DescriptorAdded": "2017-01-10T23:34:29.293+00:00",
         "DescriptorEdited": "2017-01-10T23:34:29.293+00:00"
       },
@@ -8082,7 +8166,7 @@
         "DescriptorShortRU": "Short",
         "DescriptorNameZH": "Short",
         "DescriptorShortZH": "Short",
-        "DescriptorOrder": "583",
+        "DescriptorOrder": "591",
         "DescriptorAdded": "2021-01-24T04:21:57.87+00:00",
         "DescriptorEdited": "2021-01-24T04:21:57.87+00:00"
       },
@@ -8110,7 +8194,7 @@
         "DescriptorShortRU": "Нотация",
         "DescriptorNameZH": "(音)符号／记谱",
         "DescriptorShortZH": "(音)符号／记谱",
-        "DescriptorOrder": "588"
+        "DescriptorOrder": "596"
       },
       {
         "DescriptorID": "112",
@@ -8136,7 +8220,7 @@
         "DescriptorShortRU": "Табулатура",
         "DescriptorNameZH": "指法",
         "DescriptorShortZH": "指法",
-        "DescriptorOrder": "589"
+        "DescriptorOrder": "597"
       },
       {
         "DescriptorID": "118",
@@ -8162,7 +8246,7 @@
         "DescriptorShortRU": "NTSC",
         "DescriptorNameZH": "北美电视转播系统",
         "DescriptorShortZH": "北美电视转播系统",
-        "DescriptorOrder": "590",
+        "DescriptorOrder": "598",
         "DescriptorAdded": "2013-04-13T04:23:30.263+00:00",
         "DescriptorEdited": "2013-04-13T04:25:59.2+00:00"
       },
@@ -8190,7 +8274,7 @@
         "DescriptorShortRU": "PAL",
         "DescriptorNameZH": "亚洲电视转播系统",
         "DescriptorShortZH": "亚洲电视转播系统",
-        "DescriptorOrder": "591",
+        "DescriptorOrder": "599",
         "DescriptorAdded": "2013-04-13T04:23:19.153+00:00",
         "DescriptorEdited": "2013-04-13T04:23:19.153+00:00"
       },
@@ -8218,7 +8302,7 @@
         "DescriptorShortRU": "Аннотирова",
         "DescriptorNameZH": "注释",
         "DescriptorShortZH": "注释",
-        "DescriptorOrder": "592",
+        "DescriptorOrder": "600",
         "DescriptorAdded": "2013-04-24T00:30:29.82+00:00",
         "DescriptorEdited": "2013-04-24T00:30:29.82+00:00"
       },
@@ -8246,7 +8330,7 @@
         "DescriptorShortRU": "Открытые с",
         "DescriptorNameZH": "空弦",
         "DescriptorShortZH": "空弦",
-        "DescriptorOrder": "593",
+        "DescriptorOrder": "601",
         "DescriptorAdded": "2016-05-24T11:30:12.4+00:00",
         "DescriptorEdited": "2016-05-24T11:30:12.4+00:00"
       },
@@ -8274,7 +8358,7 @@
         "DescriptorShortRU": "Пиццикато",
         "DescriptorNameZH": "拨琴弦",
         "DescriptorShortZH": "拨琴弦",
-        "DescriptorOrder": "594",
+        "DescriptorOrder": "602",
         "DescriptorAdded": "2018-03-06T12:36:49.4+00:00",
         "DescriptorEdited": "2018-03-06T12:36:49.4+00:00"
       },
@@ -8302,7 +8386,7 @@
         "DescriptorShortRU": "С медиатор",
         "DescriptorNameZH": "用拨子",
         "DescriptorShortZH": "用拨子",
-        "DescriptorOrder": "595",
+        "DescriptorOrder": "603",
         "DescriptorAdded": "2018-03-29T10:16:24.28+00:00",
         "DescriptorEdited": "2018-03-29T10:16:24.28+00:00"
       },
@@ -8330,7 +8414,7 @@
         "DescriptorShortRU": "withLowA",
         "DescriptorNameZH": "with Low A",
         "DescriptorShortZH": "withLowA",
-        "DescriptorOrder": "596",
+        "DescriptorOrder": "604",
         "DescriptorAdded": "2018-07-16T08:23:45.563+00:00",
         "DescriptorEdited": "2018-07-16T08:23:45.563+00:00"
       },
@@ -8358,7 +8442,7 @@
         "DescriptorShortRU": "LowC",
         "DescriptorNameZH": "with Low C",
         "DescriptorShortZH": "LowC",
-        "DescriptorOrder": "597",
+        "DescriptorOrder": "605",
         "DescriptorAdded": "2021-03-24T00:27:04.07+00:00",
         "DescriptorEdited": "2021-03-24T02:30:11.987+00:00"
       },
@@ -8386,7 +8470,7 @@
         "DescriptorShortRU": "Фолк",
         "DescriptorNameZH": "民间的",
         "DescriptorShortZH": "民间的",
-        "DescriptorOrder": "603",
+        "DescriptorOrder": "611",
         "DescriptorAdded": "2015-10-23T05:18:31.433+00:00",
         "DescriptorEdited": "2015-10-23T05:18:31.433+00:00"
       },
@@ -8414,7 +8498,7 @@
         "DescriptorShortRU": "Этническая",
         "DescriptorNameZH": "民族的",
         "DescriptorShortZH": "民族的",
-        "DescriptorOrder": "604",
+        "DescriptorOrder": "612",
         "DescriptorAdded": "2013-04-24T00:40:35.503+00:00",
         "DescriptorEdited": "2018-04-18T07:03:24.123+00:00"
       },
@@ -8442,7 +8526,7 @@
         "DescriptorShortRU": "Верхняя ст",
         "DescriptorNameZH": "主线",
         "DescriptorShortZH": "主线",
-        "DescriptorOrder": "608",
+        "DescriptorOrder": "616",
         "DescriptorAdded": "2018-03-08T17:35:07.13+00:00",
         "DescriptorEdited": "2018-03-08T17:35:07.13+00:00"
       },
@@ -8470,7 +8554,7 @@
         "DescriptorShortRU": "Скрипичный",
         "DescriptorNameZH": "G 谱号",
         "DescriptorShortZH": "G 谱号",
-        "DescriptorOrder": "610",
+        "DescriptorOrder": "618",
         "DescriptorAdded": "2013-04-24T01:03:31.48+00:00",
         "DescriptorEdited": "2013-04-24T01:03:31.48+00:00"
       },
@@ -8498,7 +8582,7 @@
         "DescriptorShortRU": "Альтовый к",
         "DescriptorNameZH": "中音谱号",
         "DescriptorShortZH": "中音谱号",
-        "DescriptorOrder": "611",
+        "DescriptorOrder": "619",
         "DescriptorAdded": "2013-04-24T01:04:52.82+00:00",
         "DescriptorEdited": "2013-04-24T01:04:52.82+00:00"
       },
@@ -8526,7 +8610,7 @@
         "DescriptorShortRU": "Теноровый ",
         "DescriptorNameZH": "中音谱号",
         "DescriptorShortZH": "中音谱号",
-        "DescriptorOrder": "612",
+        "DescriptorOrder": "620",
         "DescriptorAdded": "2013-04-24T01:06:03.99+00:00",
         "DescriptorEdited": "2013-04-24T01:06:03.99+00:00"
       },
@@ -8554,7 +8638,7 @@
         "DescriptorShortRU": "Басовый кл",
         "DescriptorNameZH": "F 谱号",
         "DescriptorShortZH": "F 谱号",
-        "DescriptorOrder": "613",
+        "DescriptorOrder": "621",
         "DescriptorAdded": "2013-04-24T01:06:28.757+00:00",
         "DescriptorEdited": "2013-04-24T01:06:28.757+00:00"
       },
@@ -8582,7 +8666,7 @@
         "DescriptorShortRU": "Камертон",
         "DescriptorNameZH": "音乐会场地",
         "DescriptorShortZH": "音乐会场地",
-        "DescriptorOrder": "614",
+        "DescriptorOrder": "622",
         "DescriptorAdded": "2015-11-13T21:32:40.32+00:00",
         "DescriptorEdited": "2015-11-13T21:32:40.32+00:00"
       },
@@ -8610,7 +8694,7 @@
         "DescriptorShortRU": "3Octv",
         "DescriptorNameZH": "(3 Octaves)",
         "DescriptorShortZH": "3Octv",
-        "DescriptorOrder": "615",
+        "DescriptorOrder": "623",
         "DescriptorAdded": "2019-06-27T19:17:01.853+00:00",
         "DescriptorEdited": "2019-06-27T19:17:33.837+00:00"
       },
@@ -8638,7 +8722,7 @@
         "DescriptorShortRU": "4Octv",
         "DescriptorNameZH": "(4 Octaves)",
         "DescriptorShortZH": "4Octv",
-        "DescriptorOrder": "616",
+        "DescriptorOrder": "624",
         "DescriptorAdded": "2019-06-27T19:18:18.22+00:00",
         "DescriptorEdited": "2019-06-27T19:18:18.22+00:00"
       },
@@ -8666,7 +8750,7 @@
         "DescriptorShortRU": "5Octv",
         "DescriptorNameZH": "(5 Octaves)",
         "DescriptorShortZH": "5Octv",
-        "DescriptorOrder": "617",
+        "DescriptorOrder": "625",
         "DescriptorAdded": "2019-06-27T19:18:56.42+00:00",
         "DescriptorEdited": "2019-06-27T19:18:56.42+00:00"
       },
@@ -8694,7 +8778,7 @@
         "DescriptorShortRU": "1A",
         "DescriptorNameZH": "1A",
         "DescriptorShortZH": "1A",
-        "DescriptorOrder": "624",
+        "DescriptorOrder": "632",
         "DescriptorAdded": "2013-10-03T08:13:10.047+00:00",
         "DescriptorEdited": "2013-10-03T08:13:10.047+00:00"
       },
@@ -8722,7 +8806,7 @@
         "DescriptorShortRU": "1B",
         "DescriptorNameZH": "1B",
         "DescriptorShortZH": "1B",
-        "DescriptorOrder": "625",
+        "DescriptorOrder": "633",
         "DescriptorAdded": "2013-10-03T08:13:27.633+00:00",
         "DescriptorEdited": "2013-10-03T08:13:27.633+00:00"
       },
@@ -8750,7 +8834,7 @@
         "DescriptorShortRU": "1C",
         "DescriptorNameZH": "1C",
         "DescriptorShortZH": "1C",
-        "DescriptorOrder": "626",
+        "DescriptorOrder": "634",
         "DescriptorAdded": "2016-10-07T18:42:14.407+00:00",
         "DescriptorEdited": "2016-10-07T18:42:14.407+00:00"
       },
@@ -8778,7 +8862,7 @@
         "DescriptorShortRU": "1D",
         "DescriptorNameZH": "1D",
         "DescriptorShortZH": "1D",
-        "DescriptorOrder": "627",
+        "DescriptorOrder": "635",
         "DescriptorAdded": "2016-10-07T18:43:18.93+00:00",
         "DescriptorEdited": "2016-10-07T18:43:18.93+00:00"
       },
@@ -8806,7 +8890,7 @@
         "DescriptorShortRU": "2A",
         "DescriptorNameZH": "2A",
         "DescriptorShortZH": "2A",
-        "DescriptorOrder": "630",
+        "DescriptorOrder": "638",
         "DescriptorAdded": "2013-10-03T08:13:40.123+00:00",
         "DescriptorEdited": "2013-10-03T08:13:40.123+00:00"
       },
@@ -8834,7 +8918,7 @@
         "DescriptorShortRU": "2B",
         "DescriptorNameZH": "2B",
         "DescriptorShortZH": "2B",
-        "DescriptorOrder": "631",
+        "DescriptorOrder": "639",
         "DescriptorAdded": "2013-10-03T08:13:54.67+00:00",
         "DescriptorEdited": "2013-10-03T08:13:54.67+00:00"
       },
@@ -8862,7 +8946,7 @@
         "DescriptorShortRU": "2C",
         "DescriptorNameZH": "2C",
         "DescriptorShortZH": "2C",
-        "DescriptorOrder": "632",
+        "DescriptorOrder": "640",
         "DescriptorAdded": "2016-10-07T18:44:39.49+00:00",
         "DescriptorEdited": "2016-10-07T18:44:39.49+00:00"
       },
@@ -8890,7 +8974,7 @@
         "DescriptorShortRU": "2D",
         "DescriptorNameZH": "2D",
         "DescriptorShortZH": "2D",
-        "DescriptorOrder": "633",
+        "DescriptorOrder": "641",
         "DescriptorAdded": "2016-10-07T18:45:27.927+00:00",
         "DescriptorEdited": "2016-10-07T18:45:27.927+00:00"
       },
@@ -8918,7 +9002,7 @@
         "DescriptorShortRU": "3A",
         "DescriptorNameZH": "3A",
         "DescriptorShortZH": "3A",
-        "DescriptorOrder": "634",
+        "DescriptorOrder": "642",
         "DescriptorAdded": "2017-09-18T20:23:02.217+00:00",
         "DescriptorEdited": "2017-09-18T20:23:02.217+00:00"
       },
@@ -8946,7 +9030,7 @@
         "DescriptorShortRU": "3B",
         "DescriptorNameZH": "3B",
         "DescriptorShortZH": "3B",
-        "DescriptorOrder": "635",
+        "DescriptorOrder": "643",
         "DescriptorAdded": "2017-09-18T20:23:29.92+00:00",
         "DescriptorEdited": "2017-09-18T20:23:29.92+00:00"
       },
@@ -8974,7 +9058,7 @@
         "DescriptorShortRU": "3C",
         "DescriptorNameZH": "3C",
         "DescriptorShortZH": "3C",
-        "DescriptorOrder": "636",
+        "DescriptorOrder": "644",
         "DescriptorAdded": "2017-09-18T20:23:54.653+00:00",
         "DescriptorEdited": "2017-09-18T20:23:54.653+00:00"
       },
@@ -9002,7 +9086,7 @@
         "DescriptorShortRU": "3D",
         "DescriptorNameZH": "3D",
         "DescriptorShortZH": "3D",
-        "DescriptorOrder": "637",
+        "DescriptorOrder": "645",
         "DescriptorAdded": "2017-09-18T20:24:19.497+00:00",
         "DescriptorEdited": "2017-09-18T20:24:19.497+00:00"
       },
@@ -9030,7 +9114,7 @@
         "DescriptorShortRU": "4A",
         "DescriptorNameZH": "4A",
         "DescriptorShortZH": "4A",
-        "DescriptorOrder": "638",
+        "DescriptorOrder": "646",
         "DescriptorAdded": "2017-09-18T20:24:38.463+00:00",
         "DescriptorEdited": "2017-09-18T20:24:38.463+00:00"
       },
@@ -9058,7 +9142,7 @@
         "DescriptorShortRU": "4B",
         "DescriptorNameZH": "4B",
         "DescriptorShortZH": "4B",
-        "DescriptorOrder": "639",
+        "DescriptorOrder": "647",
         "DescriptorAdded": "2017-09-18T20:24:56.15+00:00",
         "DescriptorEdited": "2017-09-18T20:24:56.15+00:00"
       },
@@ -9086,7 +9170,7 @@
         "DescriptorShortRU": "4C",
         "DescriptorNameZH": "4C",
         "DescriptorShortZH": "4C",
-        "DescriptorOrder": "640",
+        "DescriptorOrder": "648",
         "DescriptorAdded": "2017-09-18T20:25:10.043+00:00",
         "DescriptorEdited": "2017-09-18T20:25:10.043+00:00"
       },
@@ -9114,7 +9198,7 @@
         "DescriptorShortRU": "4D",
         "DescriptorNameZH": "4D",
         "DescriptorShortZH": "4D",
-        "DescriptorOrder": "641",
+        "DescriptorOrder": "649",
         "DescriptorAdded": "2017-09-18T20:25:24.15+00:00",
         "DescriptorEdited": "2017-09-18T20:25:24.15+00:00"
       },
@@ -9142,7 +9226,7 @@
         "DescriptorShortRU": "Фанфары",
         "DescriptorNameZH": "开场",
         "DescriptorShortZH": "开场",
-        "DescriptorOrder": "652",
+        "DescriptorOrder": "660",
         "DescriptorAdded": "2013-12-06T04:02:55.257+00:00",
         "DescriptorEdited": "2013-12-06T04:02:55.257+00:00"
       },
@@ -9170,7 +9254,7 @@
         "DescriptorShortRU": "Слева",
         "DescriptorNameZH": "左边",
         "DescriptorShortZH": "左边",
-        "DescriptorOrder": "653",
+        "DescriptorOrder": "661",
         "DescriptorAdded": "2014-04-15T05:34:47.727+00:00",
         "DescriptorEdited": "2014-04-15T05:34:47.727+00:00"
       },
@@ -9198,7 +9282,7 @@
         "DescriptorShortRU": "Посередине",
         "DescriptorNameZH": "中间",
         "DescriptorShortZH": "中间",
-        "DescriptorOrder": "654",
+        "DescriptorOrder": "662",
         "DescriptorAdded": "2014-04-15T05:35:16.467+00:00",
         "DescriptorEdited": "2014-04-15T05:35:58.85+00:00"
       },
@@ -9226,7 +9310,7 @@
         "DescriptorShortRU": "Справа",
         "DescriptorNameZH": "右边",
         "DescriptorShortZH": "右边",
-        "DescriptorOrder": "657",
+        "DescriptorOrder": "665",
         "DescriptorAdded": "2014-04-15T05:35:37.7+00:00",
         "DescriptorEdited": "2014-04-15T05:35:37.7+00:00"
       },
@@ -9254,7 +9338,7 @@
         "DescriptorShortRU": "Инструкции",
         "DescriptorNameZH": "指示",
         "DescriptorShortZH": "指示",
-        "DescriptorOrder": "658",
+        "DescriptorOrder": "666",
         "DescriptorAdded": "2014-04-16T23:57:19.027+00:00",
         "DescriptorEdited": "2014-04-16T23:57:19.027+00:00"
       },
@@ -9282,7 +9366,7 @@
         "DescriptorShortRU": "Репетиция",
         "DescriptorNameZH": "排练",
         "DescriptorShortZH": "排练",
-        "DescriptorOrder": "659",
+        "DescriptorOrder": "667",
         "DescriptorAdded": "2014-05-11T04:47:09.577+00:00",
         "DescriptorEdited": "2014-05-11T04:47:09.577+00:00"
       },
@@ -9310,7 +9394,7 @@
         "DescriptorShortRU": "Case",
         "DescriptorNameZH": "案件",
         "DescriptorShortZH": "案件",
-        "DescriptorOrder": "661",
+        "DescriptorOrder": "669",
         "DescriptorAdded": "2014-04-17T00:12:49.783+00:00",
         "DescriptorEdited": "2014-04-17T00:12:49.783+00:00"
       },
@@ -9338,7 +9422,7 @@
         "DescriptorShortRU": "Педаль",
         "DescriptorNameZH": "踏板",
         "DescriptorShortZH": "踏板",
-        "DescriptorOrder": "662",
+        "DescriptorOrder": "670",
         "DescriptorAdded": "2016-12-09T00:26:26.673+00:00",
         "DescriptorEdited": "2016-12-09T00:26:26.673+00:00"
       },
@@ -9366,7 +9450,7 @@
         "DescriptorShortRU": "Ассистент",
         "DescriptorNameZH": "助理",
         "DescriptorShortZH": "助理",
-        "DescriptorOrder": "664",
+        "DescriptorOrder": "672",
         "DescriptorAdded": "2014-04-17T00:14:31.893+00:00",
         "DescriptorEdited": "2014-04-17T00:14:31.893+00:00"
       },
@@ -9394,7 +9478,7 @@
         "DescriptorShortRU": "Полностью",
         "DescriptorNameZH": "全面的",
         "DescriptorShortZH": "全面的",
-        "DescriptorOrder": "665",
+        "DescriptorOrder": "673",
         "DescriptorAdded": "2014-04-17T06:05:47.31+00:00",
         "DescriptorEdited": "2014-04-17T06:05:47.31+00:00"
       },
@@ -9422,7 +9506,7 @@
         "DescriptorShortRU": "Отрывок",
         "DescriptorNameZH": "摘抄",
         "DescriptorShortZH": "摘抄",
-        "DescriptorOrder": "666",
+        "DescriptorOrder": "674",
         "DescriptorAdded": "2014-04-17T06:08:39.76+00:00",
         "DescriptorEdited": "2014-04-17T06:08:39.76+00:00"
       },
@@ -9450,7 +9534,7 @@
         "DescriptorShortRU": "Сокращенны",
         "DescriptorNameZH": "缩减的",
         "DescriptorShortZH": "缩减的",
-        "DescriptorOrder": "667",
+        "DescriptorOrder": "675",
         "DescriptorAdded": "2015-09-02T23:05:21.823+00:00",
         "DescriptorEdited": "2015-09-02T23:05:21.823+00:00"
       },
@@ -9478,7 +9562,7 @@
         "DescriptorShortRU": "Промо",
         "DescriptorNameZH": "参选的",
         "DescriptorShortZH": "参选的",
-        "DescriptorOrder": "669",
+        "DescriptorOrder": "677",
         "DescriptorAdded": "2014-04-17T06:16:52.333+00:00",
         "DescriptorEdited": "2014-04-17T06:16:52.333+00:00"
       },
@@ -9506,7 +9590,7 @@
         "DescriptorShortRU": "Легкий",
         "DescriptorNameZH": "轻松",
         "DescriptorShortZH": "轻松",
-        "DescriptorOrder": "670",
+        "DescriptorOrder": "678",
         "DescriptorAdded": "2017-11-25T14:42:57.937+00:00",
         "DescriptorEdited": "2017-11-25T14:42:57.937+00:00"
       },
@@ -9534,7 +9618,7 @@
         "DescriptorShortRU": "[cy]",
         "DescriptorNameZH": "[cy]",
         "DescriptorShortZH": "[cy]",
-        "DescriptorOrder": "671",
+        "DescriptorOrder": "679",
         "DescriptorAdded": "2018-06-14T09:29:05.473+00:00",
         "DescriptorEdited": "2021-04-05T00:16:59.603+00:00"
       },
@@ -9562,7 +9646,7 @@
         "DescriptorShortRU": "[cz]",
         "DescriptorNameZH": "[cz]",
         "DescriptorShortZH": "[cz]",
-        "DescriptorOrder": "672",
+        "DescriptorOrder": "680",
         "DescriptorAdded": "2021-03-24T02:27:39.29+00:00",
         "DescriptorEdited": "2021-04-05T00:16:59.847+00:00"
       },
@@ -9590,7 +9674,7 @@
         "DescriptorShortRU": "[da]",
         "DescriptorNameZH": "[da]",
         "DescriptorShortZH": "[da]",
-        "DescriptorOrder": "674",
+        "DescriptorOrder": "682",
         "DescriptorAdded": "2018-11-27T10:11:54.163+00:00",
         "DescriptorEdited": "2021-04-05T00:17:00.08+00:00"
       },
@@ -9618,7 +9702,7 @@
         "DescriptorShortRU": "[da/de]",
         "DescriptorNameZH": "[da/de]",
         "DescriptorShortZH": "[da/de]",
-        "DescriptorOrder": "675",
+        "DescriptorOrder": "683",
         "DescriptorAdded": "2021-03-24T00:38:32.193+00:00",
         "DescriptorEdited": "2021-04-05T00:17:00.31+00:00"
       },
@@ -9646,7 +9730,7 @@
         "DescriptorShortRU": "[da/en]",
         "DescriptorNameZH": "[da/en]",
         "DescriptorShortZH": "[da/en]",
-        "DescriptorOrder": "678",
+        "DescriptorOrder": "686",
         "DescriptorAdded": "2018-08-14T07:05:07.64+00:00",
         "DescriptorEdited": "2021-04-05T00:17:00.557+00:00"
       },
@@ -9674,7 +9758,7 @@
         "DescriptorShortRU": "[da/fr]",
         "DescriptorNameZH": "[da/fr]",
         "DescriptorShortZH": "[da/fr]",
-        "DescriptorOrder": "679",
+        "DescriptorOrder": "687",
         "DescriptorAdded": "2021-03-24T02:20:29.213+00:00",
         "DescriptorEdited": "2021-04-05T00:17:00.79+00:00"
       },
@@ -9702,7 +9786,7 @@
         "DescriptorShortRU": "[de]",
         "DescriptorNameZH": "[de]",
         "DescriptorShortZH": "[de]",
-        "DescriptorOrder": "682",
+        "DescriptorOrder": "690",
         "DescriptorAdded": "2014-04-17T00:24:31+00:00",
         "DescriptorEdited": "2021-04-05T00:17:01.027+00:00"
       },
@@ -9730,7 +9814,7 @@
         "DescriptorShortRU": "[de/en]",
         "DescriptorNameZH": "[de/en]",
         "DescriptorShortZH": "[de/en]",
-        "DescriptorOrder": "683",
+        "DescriptorOrder": "691",
         "DescriptorAdded": "2018-05-04T06:42:35.067+00:00",
         "DescriptorEdited": "2021-04-05T00:17:01.26+00:00"
       },
@@ -9758,7 +9842,7 @@
         "DescriptorShortRU": "[de/en/fr]",
         "DescriptorNameZH": "[de/en/fr]",
         "DescriptorShortZH": "[de/en/fr]",
-        "DescriptorOrder": "684",
+        "DescriptorOrder": "692",
         "DescriptorAdded": "2018-05-22T07:07:27.227+00:00",
         "DescriptorEdited": "2021-04-05T00:17:01.497+00:00"
       },
@@ -9786,7 +9870,7 @@
         "DescriptorShortRU": "[de/en/ru]",
         "DescriptorNameZH": "[de/en/ru]",
         "DescriptorShortZH": "[de/en/ru]",
-        "DescriptorOrder": "685",
+        "DescriptorOrder": "693",
         "DescriptorAdded": "2021-03-23T05:45:20.5+00:00",
         "DescriptorEdited": "2021-04-05T00:17:01.727+00:00"
       },
@@ -9814,7 +9898,7 @@
         "DescriptorShortRU": "[de/fi]",
         "DescriptorNameZH": "[de/fi]",
         "DescriptorShortZH": "[de/fi]",
-        "DescriptorOrder": "687",
+        "DescriptorOrder": "695",
         "DescriptorAdded": "2018-06-12T17:26:13.03+00:00",
         "DescriptorEdited": "2021-04-05T00:17:01.96+00:00"
       },
@@ -9842,7 +9926,7 @@
         "DescriptorShortRU": "[de/fr]",
         "DescriptorNameZH": "[de/fr]",
         "DescriptorShortZH": "[de/fr]",
-        "DescriptorOrder": "688",
+        "DescriptorOrder": "696",
         "DescriptorAdded": "2019-03-13T12:32:20.383+00:00",
         "DescriptorEdited": "2021-04-05T00:17:02.207+00:00"
       },
@@ -9870,7 +9954,7 @@
         "DescriptorShortRU": "[de/fr/ru]",
         "DescriptorNameZH": "[de/fr/ru]",
         "DescriptorShortZH": "[de/fr/ru]",
-        "DescriptorOrder": "691",
+        "DescriptorOrder": "699",
         "DescriptorAdded": "2018-06-07T07:43:05.76+00:00",
         "DescriptorEdited": "2021-04-05T00:17:02.44+00:00"
       },
@@ -9898,7 +9982,7 @@
         "DescriptorShortRU": "[de/it]",
         "DescriptorNameZH": "[de/it]",
         "DescriptorShortZH": "[de/it]",
-        "DescriptorOrder": "694",
+        "DescriptorOrder": "702",
         "DescriptorAdded": "2018-05-09T16:11:33.263+00:00",
         "DescriptorEdited": "2021-04-05T00:17:02.67+00:00"
       },
@@ -9926,7 +10010,7 @@
         "DescriptorShortRU": "[de/ru]",
         "DescriptorNameZH": "[de/ru]",
         "DescriptorShortZH": "[de/ru]",
-        "DescriptorOrder": "695",
+        "DescriptorOrder": "703",
         "DescriptorAdded": "2021-03-23T23:54:21.707+00:00",
         "DescriptorEdited": "2021-04-05T00:17:02.9+00:00"
       },
@@ -9954,7 +10038,7 @@
         "DescriptorShortRU": "[de/sv]",
         "DescriptorNameZH": "[de/sv]",
         "DescriptorShortZH": "[de/sv]",
-        "DescriptorOrder": "700",
+        "DescriptorOrder": "708",
         "DescriptorAdded": "2018-04-18T07:00:37.277+00:00",
         "DescriptorEdited": "2021-04-05T00:17:03.13+00:00"
       },
@@ -9982,7 +10066,7 @@
         "DescriptorShortRU": "[en]",
         "DescriptorNameZH": "[en]",
         "DescriptorShortZH": "[en]",
-        "DescriptorOrder": "710",
+        "DescriptorOrder": "718",
         "DescriptorAdded": "2014-04-17T00:24:05.26+00:00",
         "DescriptorEdited": "2021-04-05T00:17:03.36+00:00"
       },
@@ -10010,7 +10094,7 @@
         "DescriptorShortRU": "[en/fi]",
         "DescriptorNameZH": "[en/fi]",
         "DescriptorShortZH": "[en/fi]",
-        "DescriptorOrder": "711",
+        "DescriptorOrder": "719",
         "DescriptorAdded": "2018-06-12T17:22:57.287+00:00",
         "DescriptorEdited": "2021-04-05T00:17:03.597+00:00"
       },
@@ -10038,7 +10122,7 @@
         "DescriptorShortRU": "[en/fr]",
         "DescriptorNameZH": "[en/fr]",
         "DescriptorShortZH": "[en/fr]",
-        "DescriptorOrder": "713",
+        "DescriptorOrder": "721",
         "DescriptorAdded": "2018-04-04T14:50:43.94+00:00",
         "DescriptorEdited": "2021-04-05T00:17:03.83+00:00"
       },
@@ -10066,7 +10150,7 @@
         "DescriptorShortRU": "[en/fr/ru]",
         "DescriptorNameZH": "[en/fr/ru]",
         "DescriptorShortZH": "[en/fr/ru]",
-        "DescriptorOrder": "714",
+        "DescriptorOrder": "722",
         "DescriptorAdded": "2018-05-22T07:08:17.35+00:00",
         "DescriptorEdited": "2021-04-05T00:17:04.057+00:00"
       },
@@ -10094,7 +10178,7 @@
         "DescriptorShortRU": "[en/gr]",
         "DescriptorNameZH": "[en/gr]",
         "DescriptorShortZH": "[en/gr]",
-        "DescriptorOrder": "715",
+        "DescriptorOrder": "723",
         "DescriptorAdded": "2021-03-24T02:22:15.113+00:00",
         "DescriptorEdited": "2021-04-05T00:17:04.287+00:00"
       },
@@ -10122,7 +10206,7 @@
         "DescriptorShortRU": "[en/it]",
         "DescriptorNameZH": "[en/it]",
         "DescriptorShortZH": "[en/it]",
-        "DescriptorOrder": "718",
+        "DescriptorOrder": "726",
         "DescriptorAdded": "2018-04-04T14:51:17.09+00:00",
         "DescriptorEdited": "2021-04-05T00:17:04.52+00:00"
       },
@@ -10150,7 +10234,7 @@
         "DescriptorShortRU": "[en/la]",
         "DescriptorNameZH": "[en/la]",
         "DescriptorShortZH": "[en/la]",
-        "DescriptorOrder": "719",
+        "DescriptorOrder": "727",
         "DescriptorAdded": "2018-05-09T16:14:48.17+00:00",
         "DescriptorEdited": "2021-04-05T00:17:04.757+00:00"
       },
@@ -10178,7 +10262,7 @@
         "DescriptorShortRU": "[en/ru]",
         "DescriptorNameZH": "[en/ru]",
         "DescriptorShortZH": "[en/ru]",
-        "DescriptorOrder": "720",
+        "DescriptorOrder": "728",
         "DescriptorAdded": "2018-06-07T07:43:42.447+00:00",
         "DescriptorEdited": "2021-04-05T00:17:04.99+00:00"
       },
@@ -10206,7 +10290,7 @@
         "DescriptorShortRU": "[en/sv]",
         "DescriptorNameZH": "[en/sv]",
         "DescriptorShortZH": "[en/sv]",
-        "DescriptorOrder": "721",
+        "DescriptorOrder": "729",
         "DescriptorAdded": "2021-03-24T04:13:02.817+00:00",
         "DescriptorEdited": "2021-04-05T00:17:05.337+00:00"
       },
@@ -10234,7 +10318,7 @@
         "DescriptorShortRU": "[es]",
         "DescriptorNameZH": "[es]",
         "DescriptorShortZH": "[es]",
-        "DescriptorOrder": "728",
+        "DescriptorOrder": "736",
         "DescriptorAdded": "2016-10-17T22:39:32.17+00:00",
         "DescriptorEdited": "2021-04-05T00:17:05.57+00:00"
       },
@@ -10262,7 +10346,7 @@
         "DescriptorShortRU": "[es/ru]",
         "DescriptorNameZH": "[es/ru]",
         "DescriptorShortZH": "[es/ru]",
-        "DescriptorOrder": "729",
+        "DescriptorOrder": "737",
         "DescriptorAdded": "2021-03-24T02:26:16.78+00:00",
         "DescriptorEdited": "2021-04-05T00:17:05.807+00:00"
       },
@@ -10290,7 +10374,7 @@
         "DescriptorShortRU": "[fi]",
         "DescriptorNameZH": "[fi]",
         "DescriptorShortZH": "[fi]",
-        "DescriptorOrder": "731",
+        "DescriptorOrder": "739",
         "DescriptorAdded": "2017-03-04T04:48:07.247+00:00",
         "DescriptorEdited": "2021-04-05T00:17:06.04+00:00"
       },
@@ -10318,7 +10402,7 @@
         "DescriptorShortRU": "[fr]",
         "DescriptorNameZH": "[fr]",
         "DescriptorShortZH": "[fr]",
-        "DescriptorOrder": "734",
+        "DescriptorOrder": "742",
         "DescriptorAdded": "2014-04-17T00:25:03.98+00:00",
         "DescriptorEdited": "2021-04-05T00:17:06.367+00:00"
       },
@@ -10346,7 +10430,7 @@
         "DescriptorShortRU": "[fr/la]",
         "DescriptorNameZH": "[fr/la]",
         "DescriptorShortZH": "[fr/la]",
-        "DescriptorOrder": "735",
+        "DescriptorOrder": "743",
         "DescriptorAdded": "2018-05-09T16:13:48.56+00:00",
         "DescriptorEdited": "2021-04-05T00:17:06.603+00:00"
       },
@@ -10374,7 +10458,7 @@
         "DescriptorShortRU": "[fr/ru]",
         "DescriptorNameZH": "[fr/ru]",
         "DescriptorShortZH": "[fr/ru]",
-        "DescriptorOrder": "737",
+        "DescriptorOrder": "745",
         "DescriptorAdded": "2016-03-14T02:38:09.27+00:00",
         "DescriptorEdited": "2021-04-05T00:17:06.837+00:00"
       },
@@ -10402,7 +10486,7 @@
         "DescriptorShortRU": "[hr]",
         "DescriptorNameZH": "[hr]",
         "DescriptorShortZH": "[hr]",
-        "DescriptorOrder": "738",
+        "DescriptorOrder": "746",
         "DescriptorAdded": "2021-03-24T06:19:00.707+00:00",
         "DescriptorEdited": "2021-04-05T00:17:07.07+00:00"
       },
@@ -10430,7 +10514,7 @@
         "DescriptorShortRU": "[it]",
         "DescriptorNameZH": "[it]",
         "DescriptorShortZH": "[it]",
-        "DescriptorOrder": "741",
+        "DescriptorOrder": "749",
         "DescriptorAdded": "2014-04-17T00:25:24.313+00:00",
         "DescriptorEdited": "2021-04-05T00:17:07.3+00:00"
       },
@@ -10458,7 +10542,7 @@
         "DescriptorShortRU": "[ja/it]",
         "DescriptorNameZH": "[ja/it]",
         "DescriptorShortZH": "[ja/it]",
-        "DescriptorOrder": "742",
+        "DescriptorOrder": "750",
         "DescriptorAdded": "2019-07-18T20:14:41.047+00:00",
         "DescriptorEdited": "2021-04-05T00:17:07.547+00:00"
       },
@@ -10486,7 +10570,7 @@
         "DescriptorShortRU": "[nl]",
         "DescriptorNameZH": "[nl]",
         "DescriptorShortZH": "[nl]",
-        "DescriptorOrder": "744",
+        "DescriptorOrder": "752",
         "DescriptorAdded": "2019-03-08T13:18:38.71+00:00",
         "DescriptorEdited": "2021-04-05T00:17:07.82+00:00"
       },
@@ -10514,7 +10598,7 @@
         "DescriptorShortRU": "[no]",
         "DescriptorNameZH": "[no]",
         "DescriptorShortZH": "[no]",
-        "DescriptorOrder": "745",
+        "DescriptorOrder": "753",
         "DescriptorAdded": "2019-03-29T16:07:59.543+00:00",
         "DescriptorEdited": "2021-04-05T00:17:08.06+00:00"
       },
@@ -10542,7 +10626,7 @@
         "DescriptorShortRU": "[pl]",
         "DescriptorNameZH": "[pl]",
         "DescriptorShortZH": "[pl]",
-        "DescriptorOrder": "748",
+        "DescriptorOrder": "756",
         "DescriptorAdded": "2018-06-14T09:29:58.473+00:00",
         "DescriptorEdited": "2021-04-05T00:17:08.293+00:00"
       },
@@ -10570,7 +10654,7 @@
         "DescriptorShortRU": "[ru]",
         "DescriptorNameZH": "[ru]",
         "DescriptorShortZH": "[ru]",
-        "DescriptorOrder": "750",
+        "DescriptorOrder": "758",
         "DescriptorAdded": "2018-04-20T15:27:47.52+00:00",
         "DescriptorEdited": "2021-04-05T00:17:08.523+00:00"
       },
@@ -10598,7 +10682,7 @@
         "DescriptorShortRU": "[se]",
         "DescriptorNameZH": "[se]",
         "DescriptorShortZH": "[se]",
-        "DescriptorOrder": "752",
+        "DescriptorOrder": "760",
         "DescriptorAdded": "2017-05-05T15:03:20.823+00:00",
         "DescriptorEdited": "2021-04-05T00:17:08.757+00:00"
       },
@@ -10626,7 +10710,7 @@
         "DescriptorShortRU": "[sv]",
         "DescriptorNameZH": "[sv]",
         "DescriptorShortZH": "[sv]",
-        "DescriptorOrder": "753",
+        "DescriptorOrder": "761",
         "DescriptorAdded": "2019-04-24T13:38:51.537+00:00",
         "DescriptorEdited": "2021-04-05T00:17:08.99+00:00"
       },
@@ -10654,7 +10738,7 @@
         "DescriptorShortRU": "Индийский",
         "DescriptorNameZH": "印度的",
         "DescriptorShortZH": "印度的",
-        "DescriptorOrder": "755",
+        "DescriptorOrder": "763",
         "DescriptorAdded": "2017-07-19T22:56:05.657+00:00",
         "DescriptorEdited": "2017-07-19T22:56:05.657+00:00"
       },
@@ -10682,7 +10766,7 @@
         "DescriptorShortRU": "Транслитер",
         "DescriptorNameZH": "转调的",
         "DescriptorShortZH": "转调的",
-        "DescriptorOrder": "758",
+        "DescriptorOrder": "766",
         "DescriptorAdded": "2014-04-17T06:09:45.957+00:00",
         "DescriptorEdited": "2014-04-17T06:09:45.957+00:00"
       },
@@ -10710,7 +10794,7 @@
         "DescriptorShortRU": "Masters",
         "DescriptorNameZH": "大师",
         "DescriptorShortZH": "大师",
-        "DescriptorOrder": "759",
+        "DescriptorOrder": "767",
         "DescriptorAdded": "2015-09-19T07:14:15.18+00:00",
         "DescriptorEdited": "2015-09-19T07:15:00.677+00:00"
       },
@@ -10738,7 +10822,7 @@
         "DescriptorShortRU": "Уртекст",
         "DescriptorNameZH": "原版",
         "DescriptorShortZH": "原版",
-        "DescriptorOrder": "760",
+        "DescriptorOrder": "768",
         "DescriptorAdded": "2018-03-23T09:27:54.76+00:00",
         "DescriptorEdited": "2018-03-23T09:27:54.76+00:00"
       },
@@ -10766,7 +10850,7 @@
         "DescriptorShortRU": "Неисправле",
         "DescriptorNameZH": "没有校对",
         "DescriptorShortZH": "没有校对",
-        "DescriptorOrder": "762",
+        "DescriptorOrder": "770",
         "DescriptorAdded": "2014-05-12T04:11:10.5+00:00",
         "DescriptorEdited": "2014-05-12T04:11:10.5+00:00"
       },
@@ -10794,7 +10878,7 @@
         "DescriptorShortRU": "Временное",
         "DescriptorNameZH": "临时的",
         "DescriptorShortZH": "临时的",
-        "DescriptorOrder": "763",
+        "DescriptorOrder": "771",
         "DescriptorAdded": "2015-10-18T22:02:17.243+00:00",
         "DescriptorEdited": "2015-10-18T22:02:17.243+00:00"
       },
@@ -10822,7 +10906,7 @@
         "DescriptorShortRU": "Манускрипт",
         "DescriptorNameZH": "手稿",
         "DescriptorShortZH": "手稿",
-        "DescriptorOrder": "764",
+        "DescriptorOrder": "772",
         "DescriptorAdded": "2018-01-20T07:52:50.39+00:00",
         "DescriptorEdited": "2018-01-20T07:52:50.39+00:00"
       },
@@ -10850,7 +10934,7 @@
         "DescriptorShortRU": "Несвязанно",
         "DescriptorNameZH": "未装订",
         "DescriptorShortZH": "未装订",
-        "DescriptorOrder": "766",
+        "DescriptorOrder": "774",
         "DescriptorAdded": "2015-10-23T05:11:25.637+00:00",
         "DescriptorEdited": "2015-10-23T05:11:25.637+00:00"
       },
@@ -10878,7 +10962,7 @@
         "DescriptorShortRU": "Приложение",
         "DescriptorNameZH": "附录",
         "DescriptorShortZH": "附录",
-        "DescriptorOrder": "771",
+        "DescriptorOrder": "779",
         "DescriptorAdded": "2015-09-19T06:58:37.423+00:00",
         "DescriptorEdited": "2015-09-19T06:58:58.303+00:00"
       },
@@ -10906,7 +10990,7 @@
         "DescriptorShortRU": "Диск",
         "DescriptorNameZH": "软盘",
         "DescriptorShortZH": "软盘",
-        "DescriptorOrder": "772",
+        "DescriptorOrder": "780",
         "DescriptorAdded": "2016-03-14T02:29:23.87+00:00",
         "DescriptorEdited": "2016-03-14T02:29:23.87+00:00"
       },
@@ -10934,7 +11018,7 @@
         "DescriptorShortRU": "Том 1",
         "DescriptorNameZH": "第一卷／套",
         "DescriptorShortZH": "第一卷／套",
-        "DescriptorOrder": "773",
+        "DescriptorOrder": "781",
         "DescriptorAdded": "2016-12-01T08:48:21.003+00:00",
         "DescriptorEdited": "2016-12-01T08:48:21.003+00:00"
       },
@@ -10962,7 +11046,7 @@
         "DescriptorShortRU": "Том1-2",
         "DescriptorNameZH": "一 － 二 卷／套",
         "DescriptorShortZH": "一－二卷／套",
-        "DescriptorOrder": "774",
+        "DescriptorOrder": "782",
         "DescriptorAdded": "2020-04-22T23:35:57.637+00:00",
         "DescriptorEdited": "2020-04-22T23:35:57.637+00:00"
       },
@@ -10990,7 +11074,7 @@
         "DescriptorShortRU": "Том 1-3",
         "DescriptorNameZH": "一 － 三 卷／套",
         "DescriptorShortZH": "一 － 三 卷／套",
-        "DescriptorOrder": "776",
+        "DescriptorOrder": "784",
         "DescriptorAdded": "2018-04-05T14:50:32.45+00:00",
         "DescriptorEdited": "2018-04-05T14:50:32.45+00:00"
       },
@@ -11018,7 +11102,7 @@
         "DescriptorShortRU": "Том 2",
         "DescriptorNameZH": "第二卷／套",
         "DescriptorShortZH": "第二卷／套",
-        "DescriptorOrder": "778",
+        "DescriptorOrder": "786",
         "DescriptorAdded": "2016-12-01T08:48:37.27+00:00",
         "DescriptorEdited": "2016-12-01T08:48:37.27+00:00"
       },
@@ -11046,7 +11130,7 @@
         "DescriptorShortRU": "Том 3",
         "DescriptorNameZH": "第三卷／套",
         "DescriptorShortZH": "第三卷／套",
-        "DescriptorOrder": "779",
+        "DescriptorOrder": "787",
         "DescriptorAdded": "2016-12-01T08:49:00.347+00:00",
         "DescriptorEdited": "2016-12-01T08:49:00.347+00:00"
       },
@@ -11074,7 +11158,7 @@
         "DescriptorShortRU": "Том 4",
         "DescriptorNameZH": "第四卷／套",
         "DescriptorShortZH": "第四卷／套",
-        "DescriptorOrder": "780",
+        "DescriptorOrder": "788",
         "DescriptorAdded": "2016-12-01T08:49:15.49+00:00",
         "DescriptorEdited": "2016-12-01T08:49:15.49+00:00"
       },
@@ -11102,7 +11186,7 @@
         "DescriptorShortRU": "Том 4-5",
         "DescriptorNameZH": "四－五卷／套",
         "DescriptorShortZH": "四－五卷／套",
-        "DescriptorOrder": "781",
+        "DescriptorOrder": "789",
         "DescriptorAdded": "2018-04-05T14:51:10.373+00:00",
         "DescriptorEdited": "2018-04-05T14:51:10.373+00:00"
       },
@@ -11130,7 +11214,7 @@
         "DescriptorShortRU": "Том 5",
         "DescriptorNameZH": "第五卷／套",
         "DescriptorShortZH": "第五卷／套",
-        "DescriptorOrder": "783",
+        "DescriptorOrder": "791",
         "DescriptorAdded": "2016-12-01T08:49:27.94+00:00",
         "DescriptorEdited": "2016-12-01T08:49:27.94+00:00"
       },
@@ -11158,7 +11242,7 @@
         "DescriptorShortRU": "Балет",
         "DescriptorNameZH": "芭蕾",
         "DescriptorShortZH": "芭蕾",
-        "DescriptorOrder": "784",
+        "DescriptorOrder": "792",
         "DescriptorAdded": "2016-12-01T22:39:43.117+00:00",
         "DescriptorEdited": "2016-12-01T22:39:43.117+00:00"
       },
@@ -11186,7 +11270,7 @@
         "DescriptorShortRU": "(Металл)",
         "DescriptorNameZH": "重金属",
         "DescriptorShortZH": "重金属",
-        "DescriptorOrder": "785",
+        "DescriptorOrder": "793",
         "DescriptorAdded": "2017-01-12T13:56:57+00:00",
         "DescriptorEdited": "2017-01-12T13:56:57+00:00"
       },
@@ -11214,7 +11298,7 @@
         "DescriptorShortRU": "(Ceramic)",
         "DescriptorNameZH": "(Ceramic)",
         "DescriptorShortZH": "(Ceramic)",
-        "DescriptorOrder": "786",
+        "DescriptorOrder": "794",
         "DescriptorAdded": "2021-03-24T02:11:45.58+00:00",
         "DescriptorEdited": "2021-03-24T02:11:45.58+00:00"
       },
@@ -11242,7 +11326,7 @@
         "DescriptorShortRU": "(Plastic)",
         "DescriptorNameZH": "(Plastic)",
         "DescriptorShortZH": "(Plastic)",
-        "DescriptorOrder": "788",
+        "DescriptorOrder": "796",
         "DescriptorAdded": "2018-05-23T06:49:36.537+00:00",
         "DescriptorEdited": "2018-05-23T06:49:36.537+00:00"
       }

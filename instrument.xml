@@ -8561,6 +8561,48 @@
     <InstEdited>2021-03-24T07:03:31.853+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1071</InstID>
+    <InstUIC>1179666</InstUIC>
+    <InstFamily>2.Vocal</InstFamily>
+    <InstGenus>Vocal Parts</InstGenus>
+    <InstName>Vocal Ensemble</InstName>
+    <InstNameShort>VclEnsmbl</InstNameShort>
+    <InstNamePlural>Vocal Ensembles</InstNamePlural>
+    <InstNameDE>Vocal Ensemble</InstNameDE>
+    <InstNameShortDE>VclEnsmbl</InstNameShortDE>
+    <InstNamePluralDE>Vocal Ensembles</InstNamePluralDE>
+    <InstNameFR>Vocal Ensemble</InstNameFR>
+    <InstNameShortFR>VclEnsmbl</InstNameShortFR>
+    <InstNamePluralFR>Vocal Ensembles</InstNamePluralFR>
+    <InstNameIT>Vocal Ensemble</InstNameIT>
+    <InstNameShortIT>VclEnsmbl</InstNameShortIT>
+    <InstNamePluralIT>Vocal Ensembles</InstNamePluralIT>
+    <InstNameES>Vocal Ensemble</InstNameES>
+    <InstNameShortES>VclEnsmbl</InstNameShortES>
+    <InstNamePluralES>Vocal Ensembles</InstNamePluralES>
+    <InstNameJA>Vocal Ensemble</InstNameJA>
+    <InstNameShortJA>VclEnsmbl</InstNameShortJA>
+    <InstNamePluralJA>Vocal Ensembles</InstNamePluralJA>
+    <InstNameKO>Vocal Ensemble</InstNameKO>
+    <InstNameShortKO>VclEnsmbl</InstNameShortKO>
+    <InstNamePluralKO>Vocal Ensembles</InstNamePluralKO>
+    <InstNamePL>Vocal Ensemble</InstNamePL>
+    <InstNameShortPL>VclEnsmbl</InstNameShortPL>
+    <InstNamePluralPL>Vocal Ensembles</InstNamePluralPL>
+    <InstNamePT>Vocal Ensemble</InstNamePT>
+    <InstNameShortPT>VclEnsmbl</InstNameShortPT>
+    <InstNamePluralPT>Vocal Ensembles</InstNamePluralPT>
+    <InstNameRU>Vocal Ensemble</InstNameRU>
+    <InstNameShortRU>VclEnsmbl</InstNameShortRU>
+    <InstNamePluralRU>Vocal Ensembles</InstNamePluralRU>
+    <InstNameZH>Vocal Ensemble</InstNameZH>
+    <InstNameShortZH>VclEnsmbl</InstNameShortZH>
+    <InstNamePluralZH>Vocal Ensembles</InstNamePluralZH>
+    <InstOrder>536952844</InstOrder>
+    <InstAdded>2022-11-23T22:23:38.93+00:00</InstAdded>
+    <InstEdited>2022-11-23T22:23:38.93+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>344</InstID>
     <InstUIC>131106</InstUIC>
     <InstFamily>2.Vocal</InstFamily>
@@ -19665,6 +19707,48 @@
     <InstOrder>1074020393</InstOrder>
     <InstAdded>2014-07-26T06:18:03.97+00:00</InstAdded>
     <InstEdited>2014-07-26T06:18:03.97+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1070</InstID>
+    <InstUIC>1835052</InstUIC>
+    <InstFamily>4.Brass</InstFamily>
+    <InstGenus>Saxhorns</InstGenus>
+    <InstName>Saxotromba</InstName>
+    <InstNameShort>Saxtrmba</InstNameShort>
+    <InstNamePlural>Saxotrombas</InstNamePlural>
+    <InstNameDE>Saxtromba</InstNameDE>
+    <InstNameShortDE>Saxtrmba</InstNameShortDE>
+    <InstNamePluralDE>Saxtromben</InstNamePluralDE>
+    <InstNameFR>Saxotromba</InstNameFR>
+    <InstNameShortFR>Saxtrmba</InstNameShortFR>
+    <InstNamePluralFR>Saxotrombas</InstNamePluralFR>
+    <InstNameIT>Saxotromba</InstNameIT>
+    <InstNameShortIT>Saxtrmba</InstNameShortIT>
+    <InstNamePluralIT>Saxotrombas</InstNamePluralIT>
+    <InstNameES>Saxotromba</InstNameES>
+    <InstNameShortES>Saxtrmba</InstNameShortES>
+    <InstNamePluralES>Saxotrombas</InstNamePluralES>
+    <InstNameJA>Saxotromba</InstNameJA>
+    <InstNameShortJA>Saxtrmba</InstNameShortJA>
+    <InstNamePluralJA>Saxotrombas</InstNamePluralJA>
+    <InstNameKO>Saxotromba</InstNameKO>
+    <InstNameShortKO>Saxtrmba</InstNameShortKO>
+    <InstNamePluralKO>Saxotrombas</InstNamePluralKO>
+    <InstNamePL>Saxotromba</InstNamePL>
+    <InstNameShortPL>Saxtrmba</InstNameShortPL>
+    <InstNamePluralPL>Saxotrombas</InstNamePluralPL>
+    <InstNamePT>Saxotromba</InstNamePT>
+    <InstNameShortPT>Saxtrmba</InstNameShortPT>
+    <InstNamePluralPT>Saxotrombas</InstNamePluralPT>
+    <InstNameRU>Saxotromba</InstNameRU>
+    <InstNameShortRU>Saxtrmba</InstNameShortRU>
+    <InstNamePluralRU>Saxotrombas</InstNamePluralRU>
+    <InstNameZH>Saxotromba</InstNameZH>
+    <InstNameShortZH>Saxtrmba</InstNameShortZH>
+    <InstNamePluralZH>Saxotrombas</InstNamePluralZH>
+    <InstOrder>1074020394</InstOrder>
+    <InstAdded>2022-11-23T22:20:27.057+00:00</InstAdded>
+    <InstEdited>2022-11-23T22:21:07.067+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>887</InstID>
