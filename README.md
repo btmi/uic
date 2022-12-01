@@ -74,7 +74,7 @@ would be calculated like this:
 
 For your convenience we have included a C# Class [https://uic.btmi.au/UIC.cs](https://uic.btmi.au/UIC.cs) with many operations designed to assist in the creation and manipulation of UICs
 
-Due to the limitiations of some environments which are unable to manage large integers, an alternative syntax for the storage of UICs is sometimes used where the high and low 32-bit values are separated by a semicolon.  For example the UIC above would be represented as **140A01:2000B**
+Due to the limitiations of some environments which are unable to manage large integers, an alternative syntax for the storage of UICs is sometimes used where the high and low 32-bit values are converted to hexidecimal and separated by a semicolon.  For example the UIC above would be represented as **140A01:2000B**
 
 In the situation where more than one instrument is required for a part, each UIC can have up to 9 additional sub UIC values for each instrument. The Doubling flag is used to indicate if the same player plays all instruments
 
