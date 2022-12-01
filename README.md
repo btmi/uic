@@ -2,7 +2,7 @@
 
 # Universal Instrumentation Code
 
-The Universal Instrumentation Code or [UIC] was created by Peter Grimshaw of BTM Innovation Pty Ltd in 2014 to create a standard for the identification of instrumental parts that is not bound to any language or convention and can provide new ways to search and display the instrumental requirements of printed music.
+The Universal Instrumentation Code or **UIC** was created by Peter Grimshaw of BTM Innovation Pty Ltd in 2014 to create a standard for the identification of instrumental parts that is not bound to any language or convention and can provide new ways to search and display the instrumental requirements of printed music.
 
 The UIC is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/) so that it can be freely used  by any sort of system that catalogues instrumental parts creating data sets that can be easily shared with different systems.
 
@@ -46,7 +46,58 @@ A technical description of the UIC by Mark Carroll, James Koehne and Peter Grims
 
 [https://uic.btmi.au/errata.json](https://uic.btmi.au/errata.json) - a complete collection of UIC Errata items
 
+## UIC Creation
+
+UIC Values are 64-bit unsigned integers created by combining these values using the following algorithm:
+
+* InstrumentID + (# << 32) + (DescriptorID << 37) + (DomainID << 51)
+
+*# is the number of the instrument between 1 and 31, ie Violin 2*
+
+Additional flags can also be added to the value to indicate: 
+
+* Doubling: 80000000H (2147483648)
+* Descriptor on left side 4000000000000H (1125899906842624)
+* No physical part 8000000000000000H (-9223372036854775808)
+
+For example, the following values for *[Solo] (Optional) Flute 1*:
+
+* Instrument ID: 131083 Flute
+* Domain ID: 2 Solo
+* Descriptor ID: 80 (Optional)
+* #: 1
+* Left Align
+
+would be calculated like this:
+
+131083 + (1 << 32) + (80 << 37) + (2 << 51) + (1125899906842624) = **5640498945589259**
+
+For your convenience we have included a C# Class [https://uic.btmi.au/UIC.cs](https://uic.btmi.au/UIC.cs) with many operations designed to assist in the creation and manipulation of UICs
+
+Due to the limitiations of some environments which are unable to manage large integers, an alternative syntax for the storage of UICs is sometimes used where the high and low 32-bit values are separated by a semicolon.  For example the UIC above would be represented as **140A01:2000B**
+
+In the situation where more than one instrument is required for a part, each UIC can have up to 9 additional sub UIC values for each instrument. The Doubling flag is used to indicate if the same player plays all instruments
+
+The UIC specification requires that the first UIC **must be unique** in any list and this UIC is also used to establish the order of the list
+
+UICs are usually saved and shared as strings with each instrument on a separate line, and additional instruments or doubling instruments included on the same line separated by a space. The end of each line can also indicate a quantity of the same instrument with an equals sign
+
+The following example is for a standard string quartet where each player doubles on kazoos
+
+* 1:2000E 0:80040075=1
+* 2:2000E 0:80040075=1
+* 0:20016 0:80040075=1
+* 0:2001E 0:80040075=1
+
+which would translate as
+
+* 1 x Violin 1/Kazoo
+* 1 x Violin 2/Kazoo
+* 1 x Viola/Kazoo
+* 1 x Cello/Kazoo
+
+This list was created using the UIC playground available here: [https://www.incopyright.com/#/uic](https://www.incopyright.com/#/uic) which you can use to test your implementation
+
 ### for more information
 
 [https://www.btmi.au](https://www.btmi.au)
-
