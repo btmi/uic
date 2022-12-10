@@ -458,48 +458,71 @@ public class UIC
         StringBuilder sbInst = new StringBuilder();
         if (nInst > 0)
         {
-            string sFieldExt = "";
-            string sDomainName = "";
-            string sInstName = "";
-            string sDescName = "";
-            if (sCurrentLang != "en") sFieldExt = sCurrentLang.ToUpper();
-
-            var inst = UICInst.Descendants("UIC").FirstOrDefault(x => (int)x.Element("InstUIC") == nInst);
-            if (inst != null)
+            if ((nInst & 7) == 7) //FOOTNOTES
             {
-                if (inst.Element("InstName" + ((lPlural) ? "Plural" : "") + sFieldExt) != null)
-                    sInstName = inst.Element("InstName" + ((lPlural) ? "Plural" : "") + sFieldExt).Value;
-                else sInstName = inst.Element("InstName" + ((lPlural) ? "Plural" : "")).Value;
+                int nGenus = (int)((nInst >> 3) & MASK_GENUS);
+                int nRepeat = (int)((nInst >> 17) & MASK_GENUS);
+                char mark;
+                if (nGenus == 1000) mark = 'º';
+                else if (nGenus == 1001) mark = '¹';
+                else if (nGenus == 1002) mark = '²';
+                else if (nGenus == 2001) mark = '†';
+                else if (nGenus == 2002) mark = '‡';
+                else if (nGenus == 3001) mark = '+';
+                else if (nGenus == 3002) mark = '-';
+                else if (nGenus == 3003) mark = '#';
+                else if (nGenus == 3004) mark = '¤';
+                else if (nGenus == 3005) mark = '§';
+                else if (nGenus == 3006) mark = '¶';
+                else mark = '*';
+                for (int i = 0; i < Math.Max(nRepeat, 1); i++)
+                    sbInst.Append(mark);
             }
-            if ((sInstName != null) && (sInstName != ""))
+            else
             {
-                //Locate Domain ID
-                if (nDomain > 0)
+                string sFieldExt = "";
+                string sDomainName = "";
+                string sInstName = "";
+                string sDescName = "";
+                if (sCurrentLang != "en") sFieldExt = sCurrentLang.ToUpper();
+
+                var inst = UICInst.Descendants("UIC").FirstOrDefault(x => (int)x.Element("InstUIC") == nInst);
+                if (inst != null)
                 {
-                    var domain = UICDomain.Descendants("UIC").FirstOrDefault(x => (int)x.Element("DomainID") == nDomain);
-                    if (domain != null)
-                    {
-                        if (domain.Element("DomainName" + sFieldExt) != null)
-                            sDomainName = domain.Element("DomainName" + sFieldExt).Value;
-                        else sDomainName = domain.Element("DomainName").Value;
-                    }
+                    if (inst.Element("InstName" + ((lPlural) ? "Plural" : "") + sFieldExt) != null)
+                        sInstName = inst.Element("InstName" + ((lPlural) ? "Plural" : "") + sFieldExt).Value;
+                    else sInstName = inst.Element("InstName" + ((lPlural) ? "Plural" : "")).Value;
                 }
-                //Locate Desc
-                if (nDescriptor > 0)
+                if ((sInstName != null) && (sInstName != ""))
                 {
-                    var descript = UICDescript.Descendants("UIC").FirstOrDefault(x => (int)x.Element("DescriptorID") == nDescriptor);
-                    if (descript != null)
+                    //Locate Domain ID
+                    if (nDomain > 0)
                     {
-                        if (descript.Element("DescriptorName" + sFieldExt) != null)
-                          sDescName = descript.Element("DescriptorName" + sFieldExt).Value;
-                        else sDescName = descript.Element("DescriptorName").Value;
+                        var domain = UICDomain.Descendants("UIC").FirstOrDefault(x => (int)x.Element("DomainID") == nDomain);
+                        if (domain != null)
+                        {
+                            if (domain.Element("DomainName" + sFieldExt) != null)
+                                sDomainName = domain.Element("DomainName" + sFieldExt).Value;
+                            else sDomainName = domain.Element("DomainName").Value;
+                        }
                     }
+                    //Locate Desc
+                    if (nDescriptor > 0)
+                    {
+                        var descript = UICDescript.Descendants("UIC").FirstOrDefault(x => (int)x.Element("DescriptorID") == nDescriptor);
+                        if (descript != null)
+                        {
+                            if (descript.Element("DescriptorName" + sFieldExt) != null)
+                                sDescName = descript.Element("DescriptorName" + sFieldExt).Value;
+                            else sDescName = descript.Element("DescriptorName").Value;
+                        }
+                    }
+                    if ((sDomainName != null) && (sDomainName != "")) sbInst.Append("[" + sDomainName + "] ");
+                    if ((lLeft) && (sDescName != null) && (sDescName != "")) sbInst.Append(sDescName + " ");
+                    sbInst.Append(sInstName);
+                    if (nNumber > 0) sbInst.Append(" " + nNumber.ToString());
+                    if ((!lLeft) && (sDescName != null) && (sDescName != "")) sbInst.Append(" " + sDescName);
                 }
-                if ((sDomainName != null) && (sDomainName != "")) sbInst.Append("[" + sDomainName + "] ");
-                if ((lLeft) && (sDescName != null) && (sDescName != "")) sbInst.Append(sDescName + " ");
-                sbInst.Append(sInstName);
-                if (nNumber > 0) sbInst.Append(" " + nNumber.ToString());
-                if ((!lLeft) && (sDescName != null) && (sDescName != "")) sbInst.Append(" "+sDescName);
             }
         }
         return sbInst.ToString();
@@ -533,17 +556,16 @@ public class UIC
             for (sbyte i = 0; i < 10; i++)
             {
                 if (UICVal[i] == 0) break;
-
-                int nDomain = 0;
                 int nInst = 0;
-                int nNumber = 0;
+                int nDomain = 0;
                 int nDescriptor = 0;
-                if ((i == 0) && (lUseDomain)) nDomain = (int)((UICVal[i] >> 51) & MASK_DOMAIN);
-                bool lLeft = (UICVal[i] & MASK_LEFT) > 0;
-                bool lIsDouble = (UICVal[i] & MASK_DOUBLE) > 0;
-                nDescriptor = (int)((UICVal[i] >> 37) & MASK_DESCRIPT);
-                nNumber = (int)((UICVal[i] >> 32) & MASK_NUMBER);
-                nInst = (int)(UICVal[i] & MASK_INST);
+                int nNumber = 0;
+                bool lIsDouble = false;
+                bool lLeft = false;
+                bool lNoPart = false;
+                UICToValues(UICVal[i], out int nInst, out int nDomain, out int nDescriptor, out int nNumber, out bool lIsDouble, out bool lLeft, out bool lNoPart);
+                //Note DOMAIN only on first value
+                if (i > 0) || (!lUseDomain)) nDomain = 0;
                 string sInstName = GetInstNameFromUICValues(nDomain, nInst, nNumber, nDescriptor, lLeft);
                 if (sInstName != "")
                 {
@@ -555,6 +577,11 @@ public class UIC
                             else sbRes.Append(GetAmpersand(sLang));
                         }
                         sbRes.Append(sInstName);
+                    }
+                    else if ((UICVal[i] & 7) == 7)
+                    {
+                        if (lLeft) sbRes.Append(sInstName);
+                        else sbRes.Insert(0, sInstName);
                     }
                 }
             }
