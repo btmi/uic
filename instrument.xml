@@ -3670,6 +3670,48 @@
     <InstEdited>2017-02-28T22:28:57+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1073</InstID>
+    <InstUIC>3670073</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Generic</InstGenus>
+    <InstName>Excercises</InstName>
+    <InstNameShort>Excercises</InstNameShort>
+    <InstNamePlural>Excercises</InstNamePlural>
+    <InstNameDE>Übungen</InstNameDE>
+    <InstNameShortDE>Übungen</InstNameShortDE>
+    <InstNamePluralDE>Übungen</InstNamePluralDE>
+    <InstNameFR>Excercises</InstNameFR>
+    <InstNameShortFR>Excercises</InstNameShortFR>
+    <InstNamePluralFR>Excercises</InstNamePluralFR>
+    <InstNameIT>Excercises</InstNameIT>
+    <InstNameShortIT>Excercises</InstNameShortIT>
+    <InstNamePluralIT>Excercises</InstNamePluralIT>
+    <InstNameES>Excercises</InstNameES>
+    <InstNameShortES>Excercises</InstNameShortES>
+    <InstNamePluralES>Excercises</InstNamePluralES>
+    <InstNameJA>Excercises</InstNameJA>
+    <InstNameShortJA>Excercises</InstNameShortJA>
+    <InstNamePluralJA>Excercises</InstNamePluralJA>
+    <InstNameKO>Excercises</InstNameKO>
+    <InstNameShortKO>Excercises</InstNameShortKO>
+    <InstNamePluralKO>Excercises</InstNamePluralKO>
+    <InstNamePL>Excercises</InstNamePL>
+    <InstNameShortPL>Excercises</InstNameShortPL>
+    <InstNamePluralPL>Excercises</InstNamePluralPL>
+    <InstNamePT>Excercises</InstNamePT>
+    <InstNameShortPT>Excercises</InstNameShortPT>
+    <InstNamePluralPT>Excercises</InstNamePluralPT>
+    <InstNameRU>Excercises</InstNameRU>
+    <InstNameShortRU>Excercises</InstNameShortRU>
+    <InstNamePluralRU>Excercises</InstNamePluralRU>
+    <InstNameZH>Excercises</InstNameZH>
+    <InstNameShortZH>Excercises</InstNameShortZH>
+    <InstNamePluralZH>Excercises</InstNamePluralZH>
+    <InstOrder>268550192</InstOrder>
+    <InstAdded>2023-07-19T23:26:49.063+00:00</InstAdded>
+    <InstEdited>2023-07-19T23:26:49.063+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>983</InstID>
     <InstUIC>3407929</InstUIC>
     <InstFamily>1.General</InstFamily>
@@ -3707,7 +3749,7 @@
     <InstNameZH>Errata</InstNameZH>
     <InstNameShortZH>Errata</InstNameShortZH>
     <InstNamePluralZH>Erratum</InstNamePluralZH>
-    <InstOrder>268550192</InstOrder>
+    <InstOrder>268550194</InstOrder>
     <InstAdded>2021-03-23T05:26:16.057+00:00</InstAdded>
     <InstEdited>2021-03-23T05:26:16.057+00:00</InstEdited>
   </UIC>
@@ -3749,7 +3791,7 @@
     <InstNameZH>CD 部分</InstNameZH>
     <InstNameShortZH>CD 部分</InstNameShortZH>
     <InstNamePluralZH>CD 部分</InstNamePluralZH>
-    <InstOrder>268550198</InstOrder>
+    <InstOrder>268550200</InstOrder>
     <InstAdded>2013-04-24T00:50:13.58+00:00</InstAdded>
     <InstEdited>2013-06-13T00:29:53.183+00:00</InstEdited>
   </UIC>
