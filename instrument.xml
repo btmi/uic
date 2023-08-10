@@ -39843,6 +39843,48 @@
     <InstEdited>2018-04-09T17:01:11.18+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1074</InstID>
+    <InstUIC>524477</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Other Sounds</InstGenus>
+    <InstName>Noise Generator</InstName>
+    <InstNameShort>NsGnrtr</InstNameShort>
+    <InstNamePlural>Noise Generators</InstNamePlural>
+    <InstNameDE>Rauschgenerator</InstNameDE>
+    <InstNameShortDE>Rschgnrtr</InstNameShortDE>
+    <InstNamePluralDE>Rauschgene</InstNamePluralDE>
+    <InstNameFR>Générateur de bruit</InstNameFR>
+    <InstNameShortFR>Génértrdbr</InstNameShortFR>
+    <InstNamePluralFR>Générateur</InstNamePluralFR>
+    <InstNameIT>Generatore di rumore</InstNameIT>
+    <InstNameShortIT>Gnrtrdrmr</InstNameShortIT>
+    <InstNamePluralIT>Generatori</InstNamePluralIT>
+    <InstNameES>Generador/a de ruido</InstNameES>
+    <InstNameShortES>Gnrdrdrd</InstNameShortES>
+    <InstNamePluralES>Generadore</InstNamePluralES>
+    <InstNameJA>Noise Generator</InstNameJA>
+    <InstNameShortJA>NsGnrtr</InstNameShortJA>
+    <InstNamePluralJA>Noise Generators</InstNamePluralJA>
+    <InstNameKO>Noise Generator</InstNameKO>
+    <InstNameShortKO>NsGnrtr</InstNameShortKO>
+    <InstNamePluralKO>Noise Generators</InstNamePluralKO>
+    <InstNamePL>Noise Generator</InstNamePL>
+    <InstNameShortPL>NsGnrtr</InstNameShortPL>
+    <InstNamePluralPL>Noise Generators</InstNamePluralPL>
+    <InstNamePT>Noise Generator</InstNamePT>
+    <InstNameShortPT>NsGnrtr</InstNameShortPT>
+    <InstNamePluralPT>Noise Generators</InstNamePluralPT>
+    <InstNameRU>Noise Generator</InstNameRU>
+    <InstNameShortRU>NsGnrtr</InstNameShortRU>
+    <InstNamePluralRU>Noise Generators</InstNamePluralRU>
+    <InstNameZH>Noise Generator</InstNameZH>
+    <InstNameShortZH>NsGnrtr</InstNameShortZH>
+    <InstNamePluralZH>Noise Generators</InstNamePluralZH>
+    <InstOrder>1342816259</InstOrder>
+    <InstAdded>2023-08-09T23:30:54.76+00:00</InstAdded>
+    <InstEdited>2023-08-09T23:30:54.76+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>498</InstID>
     <InstUIC>262333</InstUIC>
     <InstFamily>5.Other</InstFamily>
@@ -39880,7 +39922,7 @@
     <InstNameZH>Voce Celeste</InstNameZH>
     <InstNameShortZH>VoceCel</InstNameShortZH>
     <InstNamePluralZH>Voce Celestes</InstNamePluralZH>
-    <InstOrder>1342816260</InstOrder>
+    <InstOrder>1342816262</InstOrder>
     <InstAdded>2015-10-26T07:17:04.3+00:00</InstAdded>
     <InstEdited>2015-10-26T07:17:04.3+00:00</InstEdited>
   </UIC>
