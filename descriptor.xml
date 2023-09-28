@@ -10963,6 +10963,34 @@
     <DescriptorEdited>2021-04-05T00:17:08.99+00:00</DescriptorEdited>
   </UIC>
   <UIC>
+    <DescriptorID>422</DescriptorID>
+    <DescriptorName>Chinese</DescriptorName>
+    <DescriptorShort>Chinese</DescriptorShort>
+    <DescriptorNameDE>Chinese</DescriptorNameDE>
+    <DescriptorShortDE>Chinese</DescriptorShortDE>
+    <DescriptorNameFR>Chinese</DescriptorNameFR>
+    <DescriptorShortFR>Chinese</DescriptorShortFR>
+    <DescriptorNameIT>Chinese</DescriptorNameIT>
+    <DescriptorShortIT>Chinese</DescriptorShortIT>
+    <DescriptorNameES>Chinese</DescriptorNameES>
+    <DescriptorShortES>Chinese</DescriptorShortES>
+    <DescriptorNameJA>Chinese</DescriptorNameJA>
+    <DescriptorShortJA>Chinese</DescriptorShortJA>
+    <DescriptorNameKO>Chinese</DescriptorNameKO>
+    <DescriptorShortKO>Chinese</DescriptorShortKO>
+    <DescriptorNamePL>Chinese</DescriptorNamePL>
+    <DescriptorShortPL>Chinese</DescriptorShortPL>
+    <DescriptorNamePT>Chinese</DescriptorNamePT>
+    <DescriptorShortPT>Chinese</DescriptorShortPT>
+    <DescriptorNameRU>Chinese</DescriptorNameRU>
+    <DescriptorShortRU>Chinese</DescriptorShortRU>
+    <DescriptorNameZH>Chinese</DescriptorNameZH>
+    <DescriptorShortZH>Chinese</DescriptorShortZH>
+    <DescriptorOrder>781</DescriptorOrder>
+    <DescriptorAdded>2023-09-28T00:11:00.86+00:00</DescriptorAdded>
+    <DescriptorEdited>2023-09-28T00:11:00.86+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
     <DescriptorID>265</DescriptorID>
     <DescriptorName>Indian</DescriptorName>
     <DescriptorShort>Indn</DescriptorShort>
@@ -10986,7 +11014,7 @@
     <DescriptorShortRU>Индийский</DescriptorShortRU>
     <DescriptorNameZH>印度的</DescriptorNameZH>
     <DescriptorShortZH>印度的</DescriptorShortZH>
-    <DescriptorOrder>781</DescriptorOrder>
+    <DescriptorOrder>782</DescriptorOrder>
     <DescriptorAdded>2017-07-19T22:56:05.657+00:00</DescriptorAdded>
     <DescriptorEdited>2017-07-19T22:56:05.657+00:00</DescriptorEdited>
   </UIC>
@@ -11014,7 +11042,7 @@
     <DescriptorShortRU>Транслитер</DescriptorShortRU>
     <DescriptorNameZH>转调的</DescriptorNameZH>
     <DescriptorShortZH>转调的</DescriptorShortZH>
-    <DescriptorOrder>784</DescriptorOrder>
+    <DescriptorOrder>785</DescriptorOrder>
     <DescriptorAdded>2014-04-17T06:09:45.957+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-17T06:09:45.957+00:00</DescriptorEdited>
   </UIC>
@@ -11042,7 +11070,7 @@
     <DescriptorShortRU>Masters</DescriptorShortRU>
     <DescriptorNameZH>大师</DescriptorNameZH>
     <DescriptorShortZH>大师</DescriptorShortZH>
-    <DescriptorOrder>785</DescriptorOrder>
+    <DescriptorOrder>786</DescriptorOrder>
     <DescriptorAdded>2015-09-19T07:14:15.18+00:00</DescriptorAdded>
     <DescriptorEdited>2015-09-19T07:15:00.677+00:00</DescriptorEdited>
   </UIC>
@@ -11070,7 +11098,7 @@
     <DescriptorShortRU>Уртекст</DescriptorShortRU>
     <DescriptorNameZH>原版</DescriptorNameZH>
     <DescriptorShortZH>原版</DescriptorShortZH>
-    <DescriptorOrder>786</DescriptorOrder>
+    <DescriptorOrder>787</DescriptorOrder>
     <DescriptorAdded>2018-03-23T09:27:54.76+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-23T09:27:54.76+00:00</DescriptorEdited>
   </UIC>
@@ -11098,7 +11126,7 @@
     <DescriptorShortRU>Неисправле</DescriptorShortRU>
     <DescriptorNameZH>没有校对</DescriptorNameZH>
     <DescriptorShortZH>没有校对</DescriptorShortZH>
-    <DescriptorOrder>788</DescriptorOrder>
+    <DescriptorOrder>789</DescriptorOrder>
     <DescriptorAdded>2014-05-12T04:11:10.5+00:00</DescriptorAdded>
     <DescriptorEdited>2014-05-12T04:11:10.5+00:00</DescriptorEdited>
   </UIC>
@@ -11126,7 +11154,7 @@
     <DescriptorShortRU>Временное</DescriptorShortRU>
     <DescriptorNameZH>临时的</DescriptorNameZH>
     <DescriptorShortZH>临时的</DescriptorShortZH>
-    <DescriptorOrder>789</DescriptorOrder>
+    <DescriptorOrder>790</DescriptorOrder>
     <DescriptorAdded>2015-10-18T22:02:17.243+00:00</DescriptorAdded>
     <DescriptorEdited>2015-10-18T22:02:17.243+00:00</DescriptorEdited>
   </UIC>
@@ -11154,7 +11182,7 @@
     <DescriptorShortRU>Манускрипт</DescriptorShortRU>
     <DescriptorNameZH>手稿</DescriptorNameZH>
     <DescriptorShortZH>手稿</DescriptorShortZH>
-    <DescriptorOrder>790</DescriptorOrder>
+    <DescriptorOrder>791</DescriptorOrder>
     <DescriptorAdded>2018-01-20T07:52:50.39+00:00</DescriptorAdded>
     <DescriptorEdited>2018-01-20T07:52:50.39+00:00</DescriptorEdited>
   </UIC>
@@ -11182,7 +11210,7 @@
     <DescriptorShortRU>Несвязанно</DescriptorShortRU>
     <DescriptorNameZH>未装订</DescriptorNameZH>
     <DescriptorShortZH>未装订</DescriptorShortZH>
-    <DescriptorOrder>792</DescriptorOrder>
+    <DescriptorOrder>793</DescriptorOrder>
     <DescriptorAdded>2015-10-23T05:11:25.637+00:00</DescriptorAdded>
     <DescriptorEdited>2015-10-23T05:11:25.637+00:00</DescriptorEdited>
   </UIC>
@@ -11210,7 +11238,7 @@
     <DescriptorShortRU>Приложение</DescriptorShortRU>
     <DescriptorNameZH>附录</DescriptorNameZH>
     <DescriptorShortZH>附录</DescriptorShortZH>
-    <DescriptorOrder>797</DescriptorOrder>
+    <DescriptorOrder>798</DescriptorOrder>
     <DescriptorAdded>2015-09-19T06:58:37.423+00:00</DescriptorAdded>
     <DescriptorEdited>2015-09-19T06:58:58.303+00:00</DescriptorEdited>
   </UIC>
@@ -11238,7 +11266,7 @@
     <DescriptorShortRU>Диск</DescriptorShortRU>
     <DescriptorNameZH>软盘</DescriptorNameZH>
     <DescriptorShortZH>软盘</DescriptorShortZH>
-    <DescriptorOrder>798</DescriptorOrder>
+    <DescriptorOrder>799</DescriptorOrder>
     <DescriptorAdded>2016-03-14T02:29:23.87+00:00</DescriptorAdded>
     <DescriptorEdited>2016-03-14T02:29:23.87+00:00</DescriptorEdited>
   </UIC>
@@ -11266,7 +11294,7 @@
     <DescriptorShortRU>Том 1</DescriptorShortRU>
     <DescriptorNameZH>第一卷／套</DescriptorNameZH>
     <DescriptorShortZH>第一卷／套</DescriptorShortZH>
-    <DescriptorOrder>799</DescriptorOrder>
+    <DescriptorOrder>800</DescriptorOrder>
     <DescriptorAdded>2016-12-01T08:48:21.003+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T08:48:21.003+00:00</DescriptorEdited>
   </UIC>
@@ -11294,7 +11322,7 @@
     <DescriptorShortRU>Том1-2</DescriptorShortRU>
     <DescriptorNameZH>一 － 二 卷／套</DescriptorNameZH>
     <DescriptorShortZH>一－二卷／套</DescriptorShortZH>
-    <DescriptorOrder>800</DescriptorOrder>
+    <DescriptorOrder>801</DescriptorOrder>
     <DescriptorAdded>2020-04-22T23:35:57.637+00:00</DescriptorAdded>
     <DescriptorEdited>2020-04-22T23:35:57.637+00:00</DescriptorEdited>
   </UIC>
@@ -11322,7 +11350,7 @@
     <DescriptorShortRU>Том 1-3</DescriptorShortRU>
     <DescriptorNameZH>一 － 三 卷／套</DescriptorNameZH>
     <DescriptorShortZH>一 － 三 卷／套</DescriptorShortZH>
-    <DescriptorOrder>802</DescriptorOrder>
+    <DescriptorOrder>803</DescriptorOrder>
     <DescriptorAdded>2018-04-05T14:50:32.45+00:00</DescriptorAdded>
     <DescriptorEdited>2018-04-05T14:50:32.45+00:00</DescriptorEdited>
   </UIC>
@@ -11350,7 +11378,7 @@
     <DescriptorShortRU>Том 2</DescriptorShortRU>
     <DescriptorNameZH>第二卷／套</DescriptorNameZH>
     <DescriptorShortZH>第二卷／套</DescriptorShortZH>
-    <DescriptorOrder>804</DescriptorOrder>
+    <DescriptorOrder>805</DescriptorOrder>
     <DescriptorAdded>2016-12-01T08:48:37.27+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T08:48:37.27+00:00</DescriptorEdited>
   </UIC>
@@ -11378,7 +11406,7 @@
     <DescriptorShortRU>Том 3</DescriptorShortRU>
     <DescriptorNameZH>第三卷／套</DescriptorNameZH>
     <DescriptorShortZH>第三卷／套</DescriptorShortZH>
-    <DescriptorOrder>805</DescriptorOrder>
+    <DescriptorOrder>806</DescriptorOrder>
     <DescriptorAdded>2016-12-01T08:49:00.347+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T08:49:00.347+00:00</DescriptorEdited>
   </UIC>
@@ -11406,7 +11434,7 @@
     <DescriptorShortRU>Том 4</DescriptorShortRU>
     <DescriptorNameZH>第四卷／套</DescriptorNameZH>
     <DescriptorShortZH>第四卷／套</DescriptorShortZH>
-    <DescriptorOrder>806</DescriptorOrder>
+    <DescriptorOrder>807</DescriptorOrder>
     <DescriptorAdded>2016-12-01T08:49:15.49+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T08:49:15.49+00:00</DescriptorEdited>
   </UIC>
@@ -11434,7 +11462,7 @@
     <DescriptorShortRU>Том 4-5</DescriptorShortRU>
     <DescriptorNameZH>四－五卷／套</DescriptorNameZH>
     <DescriptorShortZH>四－五卷／套</DescriptorShortZH>
-    <DescriptorOrder>807</DescriptorOrder>
+    <DescriptorOrder>808</DescriptorOrder>
     <DescriptorAdded>2018-04-05T14:51:10.373+00:00</DescriptorAdded>
     <DescriptorEdited>2018-04-05T14:51:10.373+00:00</DescriptorEdited>
   </UIC>
@@ -11462,7 +11490,7 @@
     <DescriptorShortRU>Том 5</DescriptorShortRU>
     <DescriptorNameZH>第五卷／套</DescriptorNameZH>
     <DescriptorShortZH>第五卷／套</DescriptorShortZH>
-    <DescriptorOrder>809</DescriptorOrder>
+    <DescriptorOrder>810</DescriptorOrder>
     <DescriptorAdded>2016-12-01T08:49:27.94+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T08:49:27.94+00:00</DescriptorEdited>
   </UIC>
@@ -11490,7 +11518,7 @@
     <DescriptorShortRU>Балет</DescriptorShortRU>
     <DescriptorNameZH>芭蕾</DescriptorNameZH>
     <DescriptorShortZH>芭蕾</DescriptorShortZH>
-    <DescriptorOrder>810</DescriptorOrder>
+    <DescriptorOrder>811</DescriptorOrder>
     <DescriptorAdded>2016-12-01T22:39:43.117+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T22:39:43.117+00:00</DescriptorEdited>
   </UIC>
@@ -11518,7 +11546,7 @@
     <DescriptorShortRU>(Металл)</DescriptorShortRU>
     <DescriptorNameZH>重金属</DescriptorNameZH>
     <DescriptorShortZH>重金属</DescriptorShortZH>
-    <DescriptorOrder>811</DescriptorOrder>
+    <DescriptorOrder>812</DescriptorOrder>
     <DescriptorAdded>2017-01-12T13:56:57+00:00</DescriptorAdded>
     <DescriptorEdited>2017-01-12T13:56:57+00:00</DescriptorEdited>
   </UIC>
@@ -11546,7 +11574,7 @@
     <DescriptorShortRU>(Ceramic)</DescriptorShortRU>
     <DescriptorNameZH>(Ceramic)</DescriptorNameZH>
     <DescriptorShortZH>(Ceramic)</DescriptorShortZH>
-    <DescriptorOrder>812</DescriptorOrder>
+    <DescriptorOrder>813</DescriptorOrder>
     <DescriptorAdded>2021-03-24T02:11:45.58+00:00</DescriptorAdded>
     <DescriptorEdited>2021-03-24T02:11:45.58+00:00</DescriptorEdited>
   </UIC>
@@ -11574,7 +11602,7 @@
     <DescriptorShortRU>(Plastic)</DescriptorShortRU>
     <DescriptorNameZH>(Plastic)</DescriptorNameZH>
     <DescriptorShortZH>(Plastic)</DescriptorShortZH>
-    <DescriptorOrder>814</DescriptorOrder>
+    <DescriptorOrder>815</DescriptorOrder>
     <DescriptorAdded>2018-05-23T06:49:36.537+00:00</DescriptorAdded>
     <DescriptorEdited>2018-05-23T06:49:36.537+00:00</DescriptorEdited>
   </UIC>

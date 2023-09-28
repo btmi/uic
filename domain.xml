@@ -1821,6 +1821,23 @@
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
   <UIC>
+    <DomainID>136</DomainID>
+    <DomainName>Choir</DomainName>
+    <DomainNameDE>Chor</DomainNameDE>
+    <DomainNameFR>Chœur</DomainNameFR>
+    <DomainNameIT>Coro</DomainNameIT>
+    <DomainNameES>Coro</DomainNameES>
+    <DomainNameJA>合唱</DomainNameJA>
+    <DomainNameKO>합창</DomainNameKO>
+    <DomainNamePL>chór</DomainNamePL>
+    <DomainNamePT>Coro</DomainNamePT>
+    <DomainNameRU>Хор</DomainNameRU>
+    <DomainNameZH>合唱团</DomainNameZH>
+    <DomainOrder>194</DomainOrder>
+    <DomainAdded>2023-09-28T00:04:44.483+00:00</DomainAdded>
+    <DomainEdited>2023-09-28T00:04:44.483+00:00</DomainEdited>
+  </UIC>
+  <UIC>
     <DomainID>44</DomainID>
     <DomainName>Choir 1</DomainName>
     <DomainNameDE>Chor 1</DomainNameDE>
@@ -1829,11 +1846,11 @@
     <DomainNameES>Coro 1</DomainNameES>
     <DomainNameJA>合唱１</DomainNameJA>
     <DomainNameKO>합창1</DomainNameKO>
-    <DomainNamePL>chór I</DomainNamePL>
+    <DomainNamePL>chór 1</DomainNamePL>
     <DomainNamePT>Coro 1</DomainNamePT>
     <DomainNameRU>Хор 1</DomainNameRU>
     <DomainNameZH>合唱团 1</DomainNameZH>
-    <DomainOrder>194</DomainOrder>
+    <DomainOrder>195</DomainOrder>
     <DomainAdded>2013-10-03T06:02:24.74+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -1846,11 +1863,11 @@
     <DomainNameES>Coro 2</DomainNameES>
     <DomainNameJA>合唱２</DomainNameJA>
     <DomainNameKO>합창2</DomainNameKO>
-    <DomainNamePL>chór II</DomainNamePL>
+    <DomainNamePL>chór 2</DomainNamePL>
     <DomainNamePT>Coro 2</DomainNamePT>
     <DomainNameRU>Хор 2</DomainNameRU>
     <DomainNameZH>合唱团 2</DomainNameZH>
-    <DomainOrder>195</DomainOrder>
+    <DomainOrder>196</DomainOrder>
     <DomainAdded>2013-10-03T06:02:41.943+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -1863,11 +1880,11 @@
     <DomainNameES>Coro 3</DomainNameES>
     <DomainNameJA>合唱３</DomainNameJA>
     <DomainNameKO>합창3</DomainNameKO>
-    <DomainNamePL>chór III</DomainNamePL>
+    <DomainNamePL>chór 3</DomainNamePL>
     <DomainNamePT>Coro 3</DomainNamePT>
     <DomainNameRU>Хор 3</DomainNameRU>
     <DomainNameZH>合唱团 3</DomainNameZH>
-    <DomainOrder>196</DomainOrder>
+    <DomainOrder>197</DomainOrder>
     <DomainAdded>2013-10-03T06:02:53.433+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -1880,11 +1897,11 @@
     <DomainNameES>Coro 4</DomainNameES>
     <DomainNameJA>合唱４</DomainNameJA>
     <DomainNameKO>합창4</DomainNameKO>
-    <DomainNamePL>chór IV</DomainNamePL>
+    <DomainNamePL>chór 4</DomainNamePL>
     <DomainNamePT>Coro 4</DomainNamePT>
     <DomainNameRU>Хор 4</DomainNameRU>
     <DomainNameZH>合唱团 4</DomainNameZH>
-    <DomainOrder>197</DomainOrder>
+    <DomainOrder>198</DomainOrder>
     <DomainAdded>2013-10-03T06:03:09.637+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -1901,7 +1918,7 @@
     <DomainNamePT>Adulto</DomainNamePT>
     <DomainNameRU>Взрослые</DomainNameRU>
     <DomainNameZH>成人</DomainNameZH>
-    <DomainOrder>198</DomainOrder>
+    <DomainOrder>199</DomainOrder>
     <DomainAdded>2014-04-16T07:17:44.803+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -1918,7 +1935,7 @@
     <DomainNamePT>Crianças</DomainNamePT>
     <DomainNameRU>Дети</DomainNameRU>
     <DomainNameZH>儿童</DomainNameZH>
-    <DomainOrder>199</DomainOrder>
+    <DomainOrder>200</DomainOrder>
     <DomainAdded>2014-04-16T07:18:08.607+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -1935,7 +1952,7 @@
     <DomainNamePT>Sopros</DomainNamePT>
     <DomainNameRU>Деревянные духовые</DomainNameRU>
     <DomainNameZH>木管乐器</DomainNameZH>
-    <DomainOrder>200</DomainOrder>
+    <DomainOrder>201</DomainOrder>
     <DomainAdded>2016-03-26T00:32:32.31+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -1952,7 +1969,7 @@
     <DomainNamePT>Versão para sopros</DomainNamePT>
     <DomainNameRU>Версия для духовых</DomainNameRU>
     <DomainNameZH>木管乐器版本</DomainNameZH>
-    <DomainOrder>201</DomainOrder>
+    <DomainOrder>202</DomainOrder>
     <DomainAdded>2014-05-12T04:16:05.377+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -1969,7 +1986,7 @@
     <DomainNamePT>Clarinet Quintet</DomainNamePT>
     <DomainNameRU>Clarinet Quintet</DomainNameRU>
     <DomainNameZH>Clarinet Quintet</DomainNameZH>
-    <DomainOrder>202</DomainOrder>
+    <DomainOrder>203</DomainOrder>
     <DomainAdded>2018-09-28T08:18:31.947+00:00</DomainAdded>
     <DomainEdited>2018-09-28T08:18:31.947+00:00</DomainEdited>
   </UIC>
@@ -1986,7 +2003,7 @@
     <DomainNamePT>Saxophone Quintet</DomainNamePT>
     <DomainNameRU>Saxophone Quintet</DomainNameRU>
     <DomainNameZH>Saxophone Quintet</DomainNameZH>
-    <DomainOrder>203</DomainOrder>
+    <DomainOrder>204</DomainOrder>
     <DomainAdded>2018-09-28T08:19:14.963+00:00</DomainAdded>
     <DomainEdited>2018-09-28T08:19:14.963+00:00</DomainEdited>
   </UIC>
@@ -2003,7 +2020,7 @@
     <DomainNamePT>Wind Quintet</DomainNamePT>
     <DomainNameRU>Wind Quintet</DomainNameRU>
     <DomainNameZH>Wind Quintet</DomainNameZH>
-    <DomainOrder>204</DomainOrder>
+    <DomainOrder>205</DomainOrder>
     <DomainAdded>2018-09-28T08:19:37.87+00:00</DomainAdded>
     <DomainEdited>2018-09-28T08:19:37.87+00:00</DomainEdited>
   </UIC>
@@ -2020,7 +2037,7 @@
     <DomainNamePT>Metais</DomainNamePT>
     <DomainNameRU>Медные духовые</DomainNameRU>
     <DomainNameZH>铜管乐器</DomainNameZH>
-    <DomainOrder>214</DomainOrder>
+    <DomainOrder>215</DomainOrder>
     <DomainAdded>2016-03-26T00:33:20.153+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2037,7 +2054,7 @@
     <DomainNamePT>Versão para metais</DomainNamePT>
     <DomainNameRU>Версия для медных духовых</DomainNameRU>
     <DomainNameZH>铜管乐器版本</DomainNameZH>
-    <DomainOrder>215</DomainOrder>
+    <DomainOrder>216</DomainOrder>
     <DomainAdded>2014-05-12T04:16:43.557+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2054,7 +2071,7 @@
     <DomainNamePT>Brass Quintet</DomainNamePT>
     <DomainNameRU>Brass Quintet</DomainNameRU>
     <DomainNameZH>Brass Quintet</DomainNameZH>
-    <DomainOrder>216</DomainOrder>
+    <DomainOrder>217</DomainOrder>
     <DomainAdded>2018-09-28T08:20:08.697+00:00</DomainAdded>
     <DomainEdited>2018-09-28T08:20:08.697+00:00</DomainEdited>
   </UIC>
@@ -2071,7 +2088,7 @@
     <DomainNamePT>Cordas</DomainNamePT>
     <DomainNameRU>Струнные</DomainNameRU>
     <DomainNameZH>弦乐</DomainNameZH>
-    <DomainOrder>218</DomainOrder>
+    <DomainOrder>219</DomainOrder>
     <DomainAdded>2016-03-26T00:33:52.003+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2088,7 +2105,7 @@
     <DomainNamePT>Versão para cordas</DomainNamePT>
     <DomainNameRU>Версия для струнных</DomainNameRU>
     <DomainNameZH>版本</DomainNameZH>
-    <DomainOrder>219</DomainOrder>
+    <DomainOrder>220</DomainOrder>
     <DomainAdded>2014-05-12T04:16:58.16+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2105,7 +2122,7 @@
     <DomainNamePT>Norte</DomainNamePT>
     <DomainNameRU>Север</DomainNameRU>
     <DomainNameZH>北方</DomainNameZH>
-    <DomainOrder>220</DomainOrder>
+    <DomainOrder>221</DomainOrder>
     <DomainAdded>2016-03-10T07:48:15.87+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2122,7 +2139,7 @@
     <DomainNamePT>Leste</DomainNamePT>
     <DomainNameRU>Восток</DomainNameRU>
     <DomainNameZH>东方</DomainNameZH>
-    <DomainOrder>221</DomainOrder>
+    <DomainOrder>222</DomainOrder>
     <DomainAdded>2016-03-10T07:48:44.283+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2139,7 +2156,7 @@
     <DomainNamePT>Sul</DomainNamePT>
     <DomainNameRU>Юг</DomainNameRU>
     <DomainNameZH>南方</DomainNameZH>
-    <DomainOrder>222</DomainOrder>
+    <DomainOrder>223</DomainOrder>
     <DomainAdded>2016-03-10T07:49:00.61+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2156,7 +2173,7 @@
     <DomainNamePT>Oeste</DomainNamePT>
     <DomainNameRU>Запад</DomainNameRU>
     <DomainNameZH>西方</DomainNameZH>
-    <DomainOrder>223</DomainOrder>
+    <DomainOrder>224</DomainOrder>
     <DomainAdded>2016-03-10T07:49:13.843+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2173,7 +2190,7 @@
     <DomainNamePT>Música de taverna</DomainNamePT>
     <DomainNameRU>Tavern Music</DomainNameRU>
     <DomainNameZH>酒馆音乐</DomainNameZH>
-    <DomainOrder>224</DomainOrder>
+    <DomainOrder>225</DomainOrder>
     <DomainAdded>2016-10-07T18:46:50.237+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2190,7 +2207,7 @@
     <DomainNamePT>Alugar</DomainNamePT>
     <DomainNameRU>Аренда</DomainNameRU>
     <DomainNameZH>聘请</DomainNameZH>
-    <DomainOrder>225</DomainOrder>
+    <DomainOrder>226</DomainOrder>
     <DomainAdded>2016-11-10T23:00:02.14+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2207,7 +2224,7 @@
     <DomainNamePT>Venda</DomainNamePT>
     <DomainNameRU>Продажа</DomainNameRU>
     <DomainNameZH>销售</DomainNameZH>
-    <DomainOrder>226</DomainOrder>
+    <DomainOrder>227</DomainOrder>
     <DomainAdded>2016-11-10T22:59:35.86+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2224,7 +2241,7 @@
     <DomainNamePT>POD</DomainNamePT>
     <DomainNameRU>Печать по требованию</DomainNameRU>
     <DomainNameZH>POD</DomainNameZH>
-    <DomainOrder>227</DomainOrder>
+    <DomainOrder>228</DomainOrder>
     <DomainAdded>2016-11-10T23:00:13.83+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2241,7 +2258,7 @@
     <DomainNamePT>Gravação</DomainNamePT>
     <DomainNameRU>Запись</DomainNameRU>
     <DomainNameZH>录制</DomainNameZH>
-    <DomainOrder>228</DomainOrder>
+    <DomainOrder>229</DomainOrder>
     <DomainAdded>2018-04-04T14:48:25.943+00:00</DomainAdded>
     <DomainEdited>2018-04-23T07:36:30.937+00:00</DomainEdited>
   </UIC>
@@ -2258,7 +2275,7 @@
     <DomainNamePT>Digital</DomainNamePT>
     <DomainNameRU>Digital</DomainNameRU>
     <DomainNameZH>数码</DomainNameZH>
-    <DomainOrder>230</DomainOrder>
+    <DomainOrder>231</DomainOrder>
     <DomainAdded>2016-11-10T23:00:26.547+00:00</DomainAdded>
     <DomainEdited>2018-01-10T11:15:17.91+00:00</DomainEdited>
   </UIC>
@@ -2275,7 +2292,7 @@
     <DomainNamePT>Teacher</DomainNamePT>
     <DomainNameRU>Teacher</DomainNameRU>
     <DomainNameZH>Teacher</DomainNameZH>
-    <DomainOrder>231</DomainOrder>
+    <DomainOrder>232</DomainOrder>
     <DomainAdded>2019-05-31T13:44:59.75+00:00</DomainAdded>
     <DomainEdited>2019-05-31T13:44:59.75+00:00</DomainEdited>
   </UIC>
@@ -2292,7 +2309,7 @@
     <DomainNamePT>Student</DomainNamePT>
     <DomainNameRU>Student</DomainNameRU>
     <DomainNameZH>Student</DomainNameZH>
-    <DomainOrder>232</DomainOrder>
+    <DomainOrder>233</DomainOrder>
     <DomainAdded>2019-05-31T13:45:23.407+00:00</DomainAdded>
     <DomainEdited>2019-05-31T13:45:23.407+00:00</DomainEdited>
   </UIC>

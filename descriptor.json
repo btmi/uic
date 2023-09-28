@@ -11174,6 +11174,34 @@
       "DescriptorEdited": "2021-04-05T00:17:08.99+00:00"
     },
     {
+      "DescriptorID": 422,
+      "DescriptorName": "Chinese",
+      "DescriptorShort": "Chinese",
+      "DescriptorNameDE": "Chinese",
+      "DescriptorShortDE": "Chinese",
+      "DescriptorNameFR": "Chinese",
+      "DescriptorShortFR": "Chinese",
+      "DescriptorNameIT": "Chinese",
+      "DescriptorShortIT": "Chinese",
+      "DescriptorNameES": "Chinese",
+      "DescriptorShortES": "Chinese",
+      "DescriptorNameJA": "Chinese",
+      "DescriptorShortJA": "Chinese",
+      "DescriptorNameKO": "Chinese",
+      "DescriptorShortKO": "Chinese",
+      "DescriptorNamePL": "Chinese",
+      "DescriptorShortPL": "Chinese",
+      "DescriptorNamePT": "Chinese",
+      "DescriptorShortPT": "Chinese",
+      "DescriptorNameRU": "Chinese",
+      "DescriptorShortRU": "Chinese",
+      "DescriptorNameZH": "Chinese",
+      "DescriptorShortZH": "Chinese",
+      "DescriptorOrder": 781,
+      "DescriptorAdded": "2023-09-28T00:11:00.86+00:00",
+      "DescriptorEdited": "2023-09-28T00:11:00.86+00:00"
+    },
+    {
       "DescriptorID": 265,
       "DescriptorName": "Indian",
       "DescriptorShort": "Indn",
@@ -11197,7 +11225,7 @@
       "DescriptorShortRU": "Индийский",
       "DescriptorNameZH": "印度的",
       "DescriptorShortZH": "印度的",
-      "DescriptorOrder": 781,
+      "DescriptorOrder": 782,
       "DescriptorAdded": "2017-07-19T22:56:05.657+00:00",
       "DescriptorEdited": "2017-07-19T22:56:05.657+00:00"
     },
@@ -11225,7 +11253,7 @@
       "DescriptorShortRU": "Транслитер",
       "DescriptorNameZH": "转调的",
       "DescriptorShortZH": "转调的",
-      "DescriptorOrder": 784,
+      "DescriptorOrder": 785,
       "DescriptorAdded": "2014-04-17T06:09:45.957+00:00",
       "DescriptorEdited": "2014-04-17T06:09:45.957+00:00"
     },
@@ -11253,7 +11281,7 @@
       "DescriptorShortRU": "Masters",
       "DescriptorNameZH": "大师",
       "DescriptorShortZH": "大师",
-      "DescriptorOrder": 785,
+      "DescriptorOrder": 786,
       "DescriptorAdded": "2015-09-19T07:14:15.18+00:00",
       "DescriptorEdited": "2015-09-19T07:15:00.677+00:00"
     },
@@ -11281,7 +11309,7 @@
       "DescriptorShortRU": "Уртекст",
       "DescriptorNameZH": "原版",
       "DescriptorShortZH": "原版",
-      "DescriptorOrder": 786,
+      "DescriptorOrder": 787,
       "DescriptorAdded": "2018-03-23T09:27:54.76+00:00",
       "DescriptorEdited": "2018-03-23T09:27:54.76+00:00"
     },
@@ -11309,7 +11337,7 @@
       "DescriptorShortRU": "Неисправле",
       "DescriptorNameZH": "没有校对",
       "DescriptorShortZH": "没有校对",
-      "DescriptorOrder": 788,
+      "DescriptorOrder": 789,
       "DescriptorAdded": "2014-05-12T04:11:10.5+00:00",
       "DescriptorEdited": "2014-05-12T04:11:10.5+00:00"
     },
@@ -11337,7 +11365,7 @@
       "DescriptorShortRU": "Временное",
       "DescriptorNameZH": "临时的",
       "DescriptorShortZH": "临时的",
-      "DescriptorOrder": 789,
+      "DescriptorOrder": 790,
       "DescriptorAdded": "2015-10-18T22:02:17.243+00:00",
       "DescriptorEdited": "2015-10-18T22:02:17.243+00:00"
     },
@@ -11365,7 +11393,7 @@
       "DescriptorShortRU": "Манускрипт",
       "DescriptorNameZH": "手稿",
       "DescriptorShortZH": "手稿",
-      "DescriptorOrder": 790,
+      "DescriptorOrder": 791,
       "DescriptorAdded": "2018-01-20T07:52:50.39+00:00",
       "DescriptorEdited": "2018-01-20T07:52:50.39+00:00"
     },
@@ -11393,7 +11421,7 @@
       "DescriptorShortRU": "Несвязанно",
       "DescriptorNameZH": "未装订",
       "DescriptorShortZH": "未装订",
-      "DescriptorOrder": 792,
+      "DescriptorOrder": 793,
       "DescriptorAdded": "2015-10-23T05:11:25.637+00:00",
       "DescriptorEdited": "2015-10-23T05:11:25.637+00:00"
     },
@@ -11421,7 +11449,7 @@
       "DescriptorShortRU": "Приложение",
       "DescriptorNameZH": "附录",
       "DescriptorShortZH": "附录",
-      "DescriptorOrder": 797,
+      "DescriptorOrder": 798,
       "DescriptorAdded": "2015-09-19T06:58:37.423+00:00",
       "DescriptorEdited": "2015-09-19T06:58:58.303+00:00"
     },
@@ -11449,7 +11477,7 @@
       "DescriptorShortRU": "Диск",
       "DescriptorNameZH": "软盘",
       "DescriptorShortZH": "软盘",
-      "DescriptorOrder": 798,
+      "DescriptorOrder": 799,
       "DescriptorAdded": "2016-03-14T02:29:23.87+00:00",
       "DescriptorEdited": "2016-03-14T02:29:23.87+00:00"
     },
@@ -11477,7 +11505,7 @@
       "DescriptorShortRU": "Том 1",
       "DescriptorNameZH": "第一卷／套",
       "DescriptorShortZH": "第一卷／套",
-      "DescriptorOrder": 799,
+      "DescriptorOrder": 800,
       "DescriptorAdded": "2016-12-01T08:48:21.003+00:00",
       "DescriptorEdited": "2016-12-01T08:48:21.003+00:00"
     },
@@ -11505,7 +11533,7 @@
       "DescriptorShortRU": "Том1-2",
       "DescriptorNameZH": "一 － 二 卷／套",
       "DescriptorShortZH": "一－二卷／套",
-      "DescriptorOrder": 800,
+      "DescriptorOrder": 801,
       "DescriptorAdded": "2020-04-22T23:35:57.637+00:00",
       "DescriptorEdited": "2020-04-22T23:35:57.637+00:00"
     },
@@ -11533,7 +11561,7 @@
       "DescriptorShortRU": "Том 1-3",
       "DescriptorNameZH": "一 － 三 卷／套",
       "DescriptorShortZH": "一 － 三 卷／套",
-      "DescriptorOrder": 802,
+      "DescriptorOrder": 803,
       "DescriptorAdded": "2018-04-05T14:50:32.45+00:00",
       "DescriptorEdited": "2018-04-05T14:50:32.45+00:00"
     },
@@ -11561,7 +11589,7 @@
       "DescriptorShortRU": "Том 2",
       "DescriptorNameZH": "第二卷／套",
       "DescriptorShortZH": "第二卷／套",
-      "DescriptorOrder": 804,
+      "DescriptorOrder": 805,
       "DescriptorAdded": "2016-12-01T08:48:37.27+00:00",
       "DescriptorEdited": "2016-12-01T08:48:37.27+00:00"
     },
@@ -11589,7 +11617,7 @@
       "DescriptorShortRU": "Том 3",
       "DescriptorNameZH": "第三卷／套",
       "DescriptorShortZH": "第三卷／套",
-      "DescriptorOrder": 805,
+      "DescriptorOrder": 806,
       "DescriptorAdded": "2016-12-01T08:49:00.347+00:00",
       "DescriptorEdited": "2016-12-01T08:49:00.347+00:00"
     },
@@ -11617,7 +11645,7 @@
       "DescriptorShortRU": "Том 4",
       "DescriptorNameZH": "第四卷／套",
       "DescriptorShortZH": "第四卷／套",
-      "DescriptorOrder": 806,
+      "DescriptorOrder": 807,
       "DescriptorAdded": "2016-12-01T08:49:15.49+00:00",
       "DescriptorEdited": "2016-12-01T08:49:15.49+00:00"
     },
@@ -11645,7 +11673,7 @@
       "DescriptorShortRU": "Том 4-5",
       "DescriptorNameZH": "四－五卷／套",
       "DescriptorShortZH": "四－五卷／套",
-      "DescriptorOrder": 807,
+      "DescriptorOrder": 808,
       "DescriptorAdded": "2018-04-05T14:51:10.373+00:00",
       "DescriptorEdited": "2018-04-05T14:51:10.373+00:00"
     },
@@ -11673,7 +11701,7 @@
       "DescriptorShortRU": "Том 5",
       "DescriptorNameZH": "第五卷／套",
       "DescriptorShortZH": "第五卷／套",
-      "DescriptorOrder": 809,
+      "DescriptorOrder": 810,
       "DescriptorAdded": "2016-12-01T08:49:27.94+00:00",
       "DescriptorEdited": "2016-12-01T08:49:27.94+00:00"
     },
@@ -11701,7 +11729,7 @@
       "DescriptorShortRU": "Балет",
       "DescriptorNameZH": "芭蕾",
       "DescriptorShortZH": "芭蕾",
-      "DescriptorOrder": 810,
+      "DescriptorOrder": 811,
       "DescriptorAdded": "2016-12-01T22:39:43.117+00:00",
       "DescriptorEdited": "2016-12-01T22:39:43.117+00:00"
     },
@@ -11729,7 +11757,7 @@
       "DescriptorShortRU": "(Металл)",
       "DescriptorNameZH": "重金属",
       "DescriptorShortZH": "重金属",
-      "DescriptorOrder": 811,
+      "DescriptorOrder": 812,
       "DescriptorAdded": "2017-01-12T13:56:57+00:00",
       "DescriptorEdited": "2017-01-12T13:56:57+00:00"
     },
@@ -11757,7 +11785,7 @@
       "DescriptorShortRU": "(Ceramic)",
       "DescriptorNameZH": "(Ceramic)",
       "DescriptorShortZH": "(Ceramic)",
-      "DescriptorOrder": 812,
+      "DescriptorOrder": 813,
       "DescriptorAdded": "2021-03-24T02:11:45.58+00:00",
       "DescriptorEdited": "2021-03-24T02:11:45.58+00:00"
     },
@@ -11785,7 +11813,7 @@
       "DescriptorShortRU": "(Plastic)",
       "DescriptorNameZH": "(Plastic)",
       "DescriptorShortZH": "(Plastic)",
-      "DescriptorOrder": 814,
+      "DescriptorOrder": 815,
       "DescriptorAdded": "2018-05-23T06:49:36.537+00:00",
       "DescriptorEdited": "2018-05-23T06:49:36.537+00:00"
     }
