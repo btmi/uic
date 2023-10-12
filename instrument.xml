@@ -4599,6 +4599,49 @@
     <InstEdited>2016-03-14T03:17:28.343+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1093</InstID>
+    <InstUIC>4718641</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Groups</InstGenus>
+    <InstIcon>Orchestra</InstIcon>
+    <InstName>Chinese Orchestra</InstName>
+    <InstNameShort>ChOrc</InstNameShort>
+    <InstNamePlural>Orchestras</InstNamePlural>
+    <InstNameDE>Chinese Orchestra</InstNameDE>
+    <InstNameShortDE>ChOrc</InstNameShortDE>
+    <InstNamePluralDE>Orchestras</InstNamePluralDE>
+    <InstNameFR>Chinese Orchestra</InstNameFR>
+    <InstNameShortFR>ChOrc</InstNameShortFR>
+    <InstNamePluralFR>Orchestras</InstNamePluralFR>
+    <InstNameIT>Chinese Orchestra</InstNameIT>
+    <InstNameShortIT>ChOrc</InstNameShortIT>
+    <InstNamePluralIT>Orchestras</InstNamePluralIT>
+    <InstNameES>Chinese Orchestra</InstNameES>
+    <InstNameShortES>ChOrc</InstNameShortES>
+    <InstNamePluralES>Orchestras</InstNamePluralES>
+    <InstNameJA>Chinese Orchestra</InstNameJA>
+    <InstNameShortJA>ChOrc</InstNameShortJA>
+    <InstNamePluralJA>Orchestras</InstNamePluralJA>
+    <InstNameKO>Chinese Orchestra</InstNameKO>
+    <InstNameShortKO>ChOrc</InstNameShortKO>
+    <InstNamePluralKO>Orchestras</InstNamePluralKO>
+    <InstNamePL>Chinese Orchestra</InstNamePL>
+    <InstNameShortPL>ChOrc</InstNameShortPL>
+    <InstNamePluralPL>Orchestras</InstNamePluralPL>
+    <InstNamePT>Chinese Orchestra</InstNamePT>
+    <InstNameShortPT>ChOrc</InstNameShortPT>
+    <InstNamePluralPT>Orchestras</InstNamePluralPT>
+    <InstNameRU>Chinese Orchestra</InstNameRU>
+    <InstNameShortRU>ChOrc</InstNameShortRU>
+    <InstNamePluralRU>Orchestras</InstNamePluralRU>
+    <InstNameZH>Chinese Orchestra</InstNameZH>
+    <InstNameShortZH>ChOrc</InstNameShortZH>
+    <InstNamePluralZH>Orchestras</InstNamePluralZH>
+    <InstOrder>268582945</InstOrder>
+    <InstAdded>2023-10-11T04:51:26.56+00:00</InstAdded>
+    <InstEdited>2023-10-11T04:51:26.56+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>685</InstID>
     <InstUIC>3276849</InstUIC>
     <InstFamily>1.General</InstFamily>
@@ -4637,7 +4680,7 @@
     <InstNameZH>吹管乐器组合</InstNameZH>
     <InstNameShortZH>吹管乐器组合</InstNameShortZH>
     <InstNamePluralZH>吹管乐器组合</InstNamePluralZH>
-    <InstOrder>268582945</InstOrder>
+    <InstOrder>268582947</InstOrder>
     <InstAdded>2017-11-25T14:17:32.067+00:00</InstAdded>
     <InstEdited>2017-11-25T14:17:32.067+00:00</InstEdited>
   </UIC>
@@ -4680,7 +4723,7 @@
     <InstNameZH>吹管乐队</InstNameZH>
     <InstNameShortZH>吹管乐队</InstNameShortZH>
     <InstNamePluralZH>吹管乐队</InstNamePluralZH>
-    <InstOrder>268582946</InstOrder>
+    <InstOrder>268582948</InstOrder>
     <InstAdded>2017-11-25T14:16:22.837+00:00</InstAdded>
     <InstEdited>2017-11-25T14:17:49.377+00:00</InstEdited>
   </UIC>
@@ -4722,7 +4765,7 @@
     <InstNameZH>管乐器交响乐团</InstNameZH>
     <InstNameShortZH>管乐器交响乐团</InstNameShortZH>
     <InstNamePluralZH>管乐器交响乐团</InstNamePluralZH>
-    <InstOrder>268582949</InstOrder>
+    <InstOrder>268582951</InstOrder>
     <InstAdded>2016-03-14T07:13:39.61+00:00</InstAdded>
     <InstEdited>2016-03-14T07:13:39.61+00:00</InstEdited>
   </UIC>
@@ -4764,7 +4807,7 @@
     <InstNameZH>Flute Choir</InstNameZH>
     <InstNameShortZH>FlChoir</InstNameShortZH>
     <InstNamePluralZH>Flute Choirs</InstNamePluralZH>
-    <InstOrder>268582950</InstOrder>
+    <InstOrder>268582952</InstOrder>
     <InstAdded>2019-05-03T07:43:53.213+00:00</InstAdded>
     <InstEdited>2019-05-03T07:43:53.213+00:00</InstEdited>
   </UIC>
@@ -4807,7 +4850,7 @@
     <InstNameZH>打击乐组合</InstNameZH>
     <InstNameShortZH>打击乐组合</InstNameShortZH>
     <InstNamePluralZH>打击乐组合</InstNamePluralZH>
-    <InstOrder>268582954</InstOrder>
+    <InstOrder>268582956</InstOrder>
     <InstAdded>2017-11-25T13:32:11.877+00:00</InstAdded>
     <InstEdited>2017-11-25T13:32:11.877+00:00</InstEdited>
   </UIC>
@@ -4849,7 +4892,7 @@
     <InstNameZH>C 乐器</InstNameZH>
     <InstNameShortZH>C 乐器</InstNameShortZH>
     <InstNamePluralZH>C 乐器</InstNamePluralZH>
-    <InstOrder>268582958</InstOrder>
+    <InstOrder>268582960</InstOrder>
     <InstAdded>2017-11-25T13:06:12.307+00:00</InstAdded>
     <InstEdited>2017-11-25T13:06:12.307+00:00</InstEdited>
   </UIC>
@@ -4891,7 +4934,7 @@
     <InstNameZH>节奏</InstNameZH>
     <InstNameShortZH>节奏</InstNameShortZH>
     <InstNamePluralZH>节奏</InstNamePluralZH>
-    <InstOrder>268582966</InstOrder>
+    <InstOrder>268582968</InstOrder>
     <InstAdded>2014-05-11T04:57:27.597+00:00</InstAdded>
     <InstEdited>2014-05-11T04:57:27.597+00:00</InstEdited>
   </UIC>
@@ -4933,7 +4976,7 @@
     <InstNameZH>民族乐器</InstNameZH>
     <InstNameShortZH>民族乐器</InstNameShortZH>
     <InstNamePluralZH>民族乐器</InstNamePluralZH>
-    <InstOrder>268582968</InstOrder>
+    <InstOrder>268582970</InstOrder>
     <InstAdded>2013-04-24T00:10:48.46+00:00</InstAdded>
     <InstEdited>2013-05-16T10:04:04.617+00:00</InstEdited>
   </UIC>
@@ -4976,7 +5019,7 @@
     <InstNameZH>噪音交响乐队</InstNameZH>
     <InstNameShortZH>噪音交响乐队</InstNameShortZH>
     <InstNamePluralZH>噪音交响乐队</InstNamePluralZH>
-    <InstOrder>268582969</InstOrder>
+    <InstOrder>268582971</InstOrder>
     <InstAdded>2014-05-11T04:36:25.167+00:00</InstAdded>
     <InstEdited>2014-05-11T04:36:25.167+00:00</InstEdited>
   </UIC>
@@ -5019,7 +5062,7 @@
     <InstNameZH>手风琴组合</InstNameZH>
     <InstNameShortZH>手风琴组合</InstNameShortZH>
     <InstNamePluralZH>手风琴组合</InstNamePluralZH>
-    <InstOrder>268582970</InstOrder>
+    <InstOrder>268582972</InstOrder>
     <InstAdded>2016-03-14T02:33:40.75+00:00</InstAdded>
     <InstEdited>2016-03-14T02:33:40.75+00:00</InstEdited>
   </UIC>
@@ -5061,7 +5104,7 @@
     <InstNameZH>Trombone Ensemble</InstNameZH>
     <InstNameShortZH>TrbnEnsmbl</InstNameShortZH>
     <InstNamePluralZH>Trombone Ensembles</InstNamePluralZH>
-    <InstOrder>268582971</InstOrder>
+    <InstOrder>268582973</InstOrder>
     <InstAdded>2021-03-24T04:44:10.753+00:00</InstAdded>
     <InstEdited>2021-03-24T04:44:10.753+00:00</InstEdited>
   </UIC>
@@ -5103,7 +5146,7 @@
     <InstNameZH>Quartet</InstNameZH>
     <InstNameShortZH>Quartet</InstNameShortZH>
     <InstNamePluralZH>Quartets</InstNamePluralZH>
-    <InstOrder>268582973</InstOrder>
+    <InstOrder>268582975</InstOrder>
     <InstAdded>2021-01-24T04:23:30.003+00:00</InstAdded>
     <InstEdited>2021-01-24T04:23:30.003+00:00</InstEdited>
   </UIC>
@@ -5145,7 +5188,7 @@
     <InstNameZH>Quintet</InstNameZH>
     <InstNameShortZH>Quintet</InstNameShortZH>
     <InstNamePluralZH>Quintets</InstNamePluralZH>
-    <InstOrder>268582974</InstOrder>
+    <InstOrder>268582976</InstOrder>
     <InstAdded>2021-01-24T04:23:43.187+00:00</InstAdded>
     <InstEdited>2021-01-24T04:23:43.187+00:00</InstEdited>
   </UIC>
@@ -5165,7 +5208,7 @@
     <InstNamePT>Marches</InstNamePT>
     <InstNameRU>Marches</InstNameRU>
     <InstNameZH>Marches</InstNameZH>
-    <InstOrder>268582975</InstOrder>
+    <InstOrder>268582977</InstOrder>
     <InstAdded>2023-09-29T07:12:12.56+00:00</InstAdded>
     <InstEdited>2023-09-29T07:12:12.56+00:00</InstEdited>
   </UIC>
@@ -5207,7 +5250,7 @@
     <InstNameZH>Imitations</InstNameZH>
     <InstNameShortZH>Imitations</InstNameShortZH>
     <InstNamePluralZH>Imitations</InstNamePluralZH>
-    <InstOrder>268582976</InstOrder>
+    <InstOrder>268582978</InstOrder>
     <InstAdded>2023-09-29T07:12:26.157+00:00</InstAdded>
     <InstEdited>2023-09-29T07:12:26.157+00:00</InstEdited>
   </UIC>
@@ -5249,7 +5292,7 @@
     <InstNameZH>Harmonies</InstNameZH>
     <InstNameShortZH>Harmonies</InstNameShortZH>
     <InstNamePluralZH>Harmonies</InstNamePluralZH>
-    <InstOrder>268582977</InstOrder>
+    <InstOrder>268582979</InstOrder>
     <InstAdded>2023-09-29T07:12:45.4+00:00</InstAdded>
     <InstEdited>2023-09-29T07:12:45.4+00:00</InstEdited>
   </UIC>
@@ -5291,7 +5334,7 @@
     <InstNameZH>Tunes</InstNameZH>
     <InstNameShortZH>Tunes</InstNameShortZH>
     <InstNamePluralZH>Tunes</InstNamePluralZH>
-    <InstOrder>268582978</InstOrder>
+    <InstOrder>268582980</InstOrder>
     <InstAdded>2023-09-29T07:12:59.13+00:00</InstAdded>
     <InstEdited>2023-09-29T07:12:59.13+00:00</InstEdited>
   </UIC>
