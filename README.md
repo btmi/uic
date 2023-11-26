@@ -2,9 +2,9 @@
 
 # Universal Instrumentation Code
 
-The Universal Instrumentation Code or **UIC** was created by Peter Grimshaw of BTM Innovation Pty Ltd in 2014 to create a standard for the identification of instrumental parts that is not bound to any language or convention and can provide new ways to search and display the instrumental requirements of printed music.
+The Universal Instrumentation Code or **UIC** was created by Peter Grimshaw of Zinfonia Holdings Pty Ltd in 2014 to create a standard for the identification of instrumental parts that is not bound to any language or convention and can provide new ways to search and display the instrumental requirements of printed music.
 
-The UIC is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/) so that it can be freely used  by any sort of system that catalogues instrumental parts creating data sets that can be easily shared with different systems.
+The UIC is the copyright of Zinfonia Holdings Pty Ltd and is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/) so that it can be freely used  by any sort of system that catalogues instrumental parts creating data sets that can be easily shared with different systems.
 
 The files are updated every day at 01:00am (all dates and times are in UTC) and the status.xml/json file can be used to trigger any download updates.
 
