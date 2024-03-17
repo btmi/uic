@@ -15329,7 +15329,9 @@
     <InstUIC>917587</InstUIC>
     <InstFamily>3.Wind</InstFamily>
     <InstGenus>Non-Western Reeds</InstGenus>
-    <InstAlternate>高音笙</InstAlternate>
+    <InstIcon>Wind</InstIcon>
+    <InstAlternate>Soprano Sheng
+High Sheng</InstAlternate>
     <InstName>Gaoyin Sheng</InstName>
     <InstNameShort>GaoyinShen</InstNameShort>
     <InstNamePlural>Gaoyin Sheng</InstNamePlural>
@@ -15363,17 +15365,19 @@
     <InstNameZH>高音笙</InstNameZH>
     <InstNameShortZH>GaoyinShen</InstNameShortZH>
     <InstNamePluralZH>高音笙</InstNamePluralZH>
-    <InstNameAlt>高音笙</InstNameAlt>
+    <InstNameAlt>Soprano Sheng
+High Sheng</InstNameAlt>
     <InstOrder>805765180</InstOrder>
     <InstAdded>2014-04-16T00:39:03.54+00:00</InstAdded>
-    <InstEdited>2014-04-16T00:39:03.54+00:00</InstEdited>
+    <InstEdited>2024-03-17T02:53:20.21+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>414</InstID>
     <InstUIC>1048659</InstUIC>
     <InstFamily>3.Wind</InstFamily>
     <InstGenus>Non-Western Reeds</InstGenus>
-    <InstAlternate>中音笙</InstAlternate>
+    <InstIcon>Wind</InstIcon>
+    <InstAlternate>Alto Sheng</InstAlternate>
     <InstName>Zhongyin Sheng</InstName>
     <InstNameShort>ZhongyinSh</InstNameShort>
     <InstNamePlural>Zhongyin Sheng</InstNamePlural>
@@ -15407,17 +15411,18 @@
     <InstNameZH>中音笙</InstNameZH>
     <InstNameShortZH>ZhongyinSh</InstNameShortZH>
     <InstNamePluralZH>中音笙</InstNamePluralZH>
-    <InstNameAlt>中音笙</InstNameAlt>
+    <InstNameAlt>Alto Sheng</InstNameAlt>
     <InstOrder>805765181</InstOrder>
     <InstAdded>2014-04-16T00:39:33.72+00:00</InstAdded>
-    <InstEdited>2014-04-16T00:39:33.72+00:00</InstEdited>
+    <InstEdited>2024-03-17T02:57:35.753+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>415</InstID>
     <InstUIC>1179731</InstUIC>
     <InstFamily>3.Wind</InstFamily>
     <InstGenus>Non-Western Reeds</InstGenus>
-    <InstAlternate>次中音笙</InstAlternate>
+    <InstIcon>Wind</InstIcon>
+    <InstAlternate>Tenor Sheng</InstAlternate>
     <InstName>Cizhongyin Sheng</InstName>
     <InstNameShort>Cizhongyin</InstNameShort>
     <InstNamePlural>Cizhongyin Sheng</InstNamePlural>
@@ -15451,17 +15456,18 @@
     <InstNameZH>次中音笙</InstNameZH>
     <InstNameShortZH>Cizhongyin</InstNameShortZH>
     <InstNamePluralZH>次中音笙</InstNamePluralZH>
-    <InstNameAlt>次中音笙</InstNameAlt>
+    <InstNameAlt>Tenor Sheng</InstNameAlt>
     <InstOrder>805765182</InstOrder>
     <InstAdded>2014-04-16T00:40:10.717+00:00</InstAdded>
-    <InstEdited>2014-04-16T00:40:10.717+00:00</InstEdited>
+    <InstEdited>2024-03-17T02:59:21.55+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>416</InstID>
     <InstUIC>1310803</InstUIC>
     <InstFamily>3.Wind</InstFamily>
     <InstGenus>Non-Western Reeds</InstGenus>
-    <InstAlternate>低音笙</InstAlternate>
+    <InstIcon>Wind</InstIcon>
+    <InstAlternate>Bass Sheng</InstAlternate>
     <InstName>Diyin Sheng</InstName>
     <InstNameShort>DiyinSheng</InstNameShort>
     <InstNamePlural>Diyin Sheng</InstNamePlural>
@@ -15495,10 +15501,10 @@
     <InstNameZH>低音笙</InstNameZH>
     <InstNameShortZH>DiyinSheng</InstNameShortZH>
     <InstNamePluralZH>低音笙</InstNamePluralZH>
-    <InstNameAlt>低音笙</InstNameAlt>
+    <InstNameAlt>Bass Sheng</InstNameAlt>
     <InstOrder>805765183</InstOrder>
     <InstAdded>2014-04-16T00:40:40.693+00:00</InstAdded>
-    <InstEdited>2014-04-16T00:40:40.693+00:00</InstEdited>
+    <InstEdited>2024-03-17T02:59:47.537+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>329</InstID>
@@ -24215,7 +24221,8 @@
     <InstUIC>7340053</InstUIC>
     <InstFamily>5.Other</InstFamily>
     <InstGenus>Percussion</InstGenus>
-    <InstAlternate>Schlittengeläut</InstAlternate>
+    <InstIcon>Percussion</InstIcon>
+    <InstAlternate>Jingle Bells</InstAlternate>
     <InstName>Sleigh Bells</InstName>
     <InstNameShort>SlghBlls</InstNameShort>
     <InstNamePlural>Sleigh Bells</InstNamePlural>
@@ -24249,10 +24256,10 @@
     <InstNameZH>Sleigh Bells</InstNameZH>
     <InstNameShortZH>SlghBlls</InstNameShortZH>
     <InstNamePluralZH>Sleigh Bells</InstNamePluralZH>
-    <InstNameAlt>Schlittengeläut</InstNameAlt>
-    <InstOrder>1342210217</InstOrder>
+    <InstNameAlt>Jingle Bells</InstNameAlt>
+    <InstOrder>1342210216</InstOrder>
     <InstAdded>2014-04-16T09:01:59.077+00:00</InstAdded>
-    <InstEdited>2016-12-16T02:37:55.957+00:00</InstEdited>
+    <InstEdited>2024-03-17T01:36:06.397+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>563</InstID>
@@ -24337,6 +24344,92 @@
     <InstOrder>1342210221</InstOrder>
     <InstAdded>2018-06-14T13:28:50.17+00:00</InstAdded>
     <InstEdited>2018-06-14T13:28:50.17+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1097</InstID>
+    <InstUIC>19660821</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Percussion</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstName>Temple Bells</InstName>
+    <InstNameShort>TmplBells</InstNameShort>
+    <InstNamePlural>Temple Bells</InstNamePlural>
+    <InstNameDE>Tempelglocken</InstNameDE>
+    <InstNameShortDE>Tmplglckn</InstNameShortDE>
+    <InstNamePluralDE>Tempelglocken</InstNamePluralDE>
+    <InstNameFR>Cloches des temples</InstNameFR>
+    <InstNameShortFR>Cl.dstmpls</InstNameShortFR>
+    <InstNamePluralFR>Cloches des temples</InstNamePluralFR>
+    <InstNameIT>Campane del tempio</InstNameIT>
+    <InstNameShortIT>Cmpedltmp</InstNameShortIT>
+    <InstNamePluralIT>Campane del tempio</InstNamePluralIT>
+    <InstNameES>Campanas del templo</InstNameES>
+    <InstNameShortES>Campdltmpl</InstNameShortES>
+    <InstNamePluralES>Campanas del templo</InstNamePluralES>
+    <InstNameJA>梵鐘</InstNameJA>
+    <InstNameShortJA>梵鐘</InstNameShortJA>
+    <InstNamePluralJA>梵鐘</InstNamePluralJA>
+    <InstNameKO>템플 벨</InstNameKO>
+    <InstNameShortKO>템플벨</InstNameShortKO>
+    <InstNamePluralKO>템플 벨</InstNamePluralKO>
+    <InstNamePL>Dzwony Świątynne</InstNamePL>
+    <InstNameShortPL>BellsŚwąty</InstNameShortPL>
+    <InstNamePluralPL>Dzwony Świątynne</InstNamePluralPL>
+    <InstNamePT>Sinos do Templo</InstNamePT>
+    <InstNameShortPT>SinosdoTmp</InstNameShortPT>
+    <InstNamePluralPT>Sinos do Templo</InstNamePluralPT>
+    <InstNameRU>Храмовые колокола</InstNameRU>
+    <InstNameShortRU>Храмовыеко</InstNameShortRU>
+    <InstNamePluralRU>Храмовые колокола</InstNamePluralRU>
+    <InstNameZH>寺庙钟声</InstNameZH>
+    <InstNameShortZH>寺庙钟声</InstNameShortZH>
+    <InstNamePluralZH>寺庙钟声</InstNamePluralZH>
+    <InstOrder>1342210222</InstOrder>
+    <InstAdded>2024-03-17T02:21:40.707+00:00</InstAdded>
+    <InstEdited>2024-03-17T02:21:40.707+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1098</InstID>
+    <InstUIC>19791893</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Percussion</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstName>French Bells</InstName>
+    <InstNameShort>FrnchBells</InstNameShort>
+    <InstNamePlural>French Bells</InstNamePlural>
+    <InstNameDE>Französische Glocken</InstNameDE>
+    <InstNameShortDE>FrnzösschG</InstNameShortDE>
+    <InstNamePluralDE>Französische Glocken</InstNamePluralDE>
+    <InstNameFR>Cloches françaises</InstNameFR>
+    <InstNameShortFR>Cl.frnçss</InstNameShortFR>
+    <InstNamePluralFR>Cloches françaises</InstNamePluralFR>
+    <InstNameIT>Campane francesi</InstNameIT>
+    <InstNameShortIT>Cmpefrncs</InstNameShortIT>
+    <InstNamePluralIT>Campane francesi</InstNamePluralIT>
+    <InstNameES>campanas francesas</InstNameES>
+    <InstNameShortES>Campfrncss</InstNameShortES>
+    <InstNamePluralES>campanas francesas</InstNamePluralES>
+    <InstNameJA>フレンチベル</InstNameJA>
+    <InstNameShortJA>フレンチベル</InstNameShortJA>
+    <InstNamePluralJA>フレンチベル</InstNamePluralJA>
+    <InstNameKO>프렌치 벨</InstNameKO>
+    <InstNameShortKO>프렌치벨</InstNameShortKO>
+    <InstNamePluralKO>프렌치 벨</InstNamePluralKO>
+    <InstNamePL>Francuskie dzwony</InstNamePL>
+    <InstNameShortPL>FrncskBell</InstNameShortPL>
+    <InstNamePluralPL>Francuskie dzwony</InstNamePluralPL>
+    <InstNamePT>Sinos Franceses</InstNamePT>
+    <InstNameShortPT>SinosFrncs</InstNameShortPT>
+    <InstNamePluralPT>Sinos Franceses</InstNamePluralPT>
+    <InstNameRU>Французские колокола</InstNameRU>
+    <InstNameShortRU>Французски</InstNameShortRU>
+    <InstNamePluralRU>Французские колокола</InstNamePluralRU>
+    <InstNameZH>法国钟声</InstNameZH>
+    <InstNameShortZH>法国钟声</InstNameShortZH>
+    <InstNamePluralZH>法国钟声</InstNamePluralZH>
+    <InstOrder>1342210223</InstOrder>
+    <InstAdded>2024-03-17T02:27:50.75+00:00</InstAdded>
+    <InstEdited>2024-03-17T02:27:50.75+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>151</InstID>
@@ -26467,6 +26560,49 @@
     <InstOrder>1342210335</InstOrder>
   </UIC>
   <UIC>
+    <InstID>1096</InstID>
+    <InstUIC>19529749</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Percussion</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstName>Slap Stick</InstName>
+    <InstNameShort>SlpStck</InstNameShort>
+    <InstNamePlural>Slap Sticks</InstNamePlural>
+    <InstNameDE>Slap-Stick</InstNameDE>
+    <InstNameShortDE>Slp-Stck</InstNameShortDE>
+    <InstNamePluralDE>Slapsticks</InstNamePluralDE>
+    <InstNameFR>Bâton de claque</InstNameFR>
+    <InstNameShortFR>Bâtndeclq</InstNameShortFR>
+    <InstNamePluralFR>Bâtons de claque</InstNamePluralFR>
+    <InstNameIT>Bastone da schiaffo</InstNameIT>
+    <InstNameShortIT>Bstndaschf</InstNameShortIT>
+    <InstNamePluralIT>Bastoncini di schiaffo</InstNamePluralIT>
+    <InstNameES>Palo de bofetada</InstNameES>
+    <InstNameShortES>Pldebftd</InstNameShortES>
+    <InstNamePluralES>Palos de bofetada</InstNamePluralES>
+    <InstNameJA>スラップスティック</InstNameJA>
+    <InstNameShortJA>スラップスティック</InstNameShortJA>
+    <InstNamePluralJA>スラップスティック</InstNamePluralJA>
+    <InstNameKO>슬랩 스틱</InstNameKO>
+    <InstNameShortKO>슬랩스틱</InstNameShortKO>
+    <InstNamePluralKO>슬랩 스틱</InstNamePluralKO>
+    <InstNamePL>Slap Stick</InstNamePL>
+    <InstNameShortPL>SlpStck</InstNameShortPL>
+    <InstNamePluralPL>Slap Sticks</InstNamePluralPL>
+    <InstNamePT>Slap Stick</InstNamePT>
+    <InstNameShortPT>SlpStck</InstNameShortPT>
+    <InstNamePluralPT>Slap Sticks</InstNamePluralPT>
+    <InstNameRU>Slap Stick</InstNameRU>
+    <InstNameShortRU>SlpStck</InstNameShortRU>
+    <InstNamePluralRU>Slap Sticks</InstNamePluralRU>
+    <InstNameZH>Slap Stick</InstNameZH>
+    <InstNameShortZH>SlpStck</InstNameShortZH>
+    <InstNamePluralZH>Slap Sticks</InstNamePluralZH>
+    <InstOrder>1342210336</InstOrder>
+    <InstAdded>2024-03-17T02:09:52.757+00:00</InstAdded>
+    <InstEdited>2024-03-17T02:09:52.757+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>196</InstID>
     <InstUIC>3670037</InstUIC>
     <InstFamily>5.Other</InstFamily>
@@ -26504,7 +26640,7 @@
     <InstNameZH>Whip</InstNameZH>
     <InstNameShortZH>Whip</InstNameShortZH>
     <InstNamePluralZH>Whips</InstNamePluralZH>
-    <InstOrder>1342210336</InstOrder>
+    <InstOrder>1342210337</InstOrder>
   </UIC>
   <UIC>
     <InstID>580</InstID>
@@ -26546,7 +26682,7 @@
     <InstNameShortZH>LnsRr</InstNameShortZH>
     <InstNamePluralZH>Lion's Roar</InstNamePluralZH>
     <InstNameAlt>String Drum</InstNameAlt>
-    <InstOrder>1342210337</InstOrder>
+    <InstOrder>1342210338</InstOrder>
     <InstAdded>2016-12-09T00:12:16.137+00:00</InstAdded>
     <InstEdited>2016-12-22T23:19:02.01+00:00</InstEdited>
   </UIC>
@@ -26588,7 +26724,7 @@
     <InstNameZH>Bones</InstNameZH>
     <InstNameShortZH>Bones</InstNameShortZH>
     <InstNamePluralZH>Bones</InstNamePluralZH>
-    <InstOrder>1342210338</InstOrder>
+    <InstOrder>1342210339</InstOrder>
     <InstAdded>2018-07-10T16:03:04.72+00:00</InstAdded>
     <InstEdited>2018-07-10T16:03:04.72+00:00</InstEdited>
   </UIC>
@@ -26630,7 +26766,7 @@
     <InstNameZH>Metal</InstNameZH>
     <InstNameShortZH>Metal</InstNameShortZH>
     <InstNamePluralZH>Metals</InstNamePluralZH>
-    <InstOrder>1342210343</InstOrder>
+    <InstOrder>1342210344</InstOrder>
     <InstAdded>2013-04-24T01:17:27.447+00:00</InstAdded>
     <InstEdited>2013-04-24T01:17:27.447+00:00</InstEdited>
   </UIC>
@@ -26672,7 +26808,7 @@
     <InstNameZH>Piece of Lead</InstNameZH>
     <InstNameShortZH>PceOfLead</InstNameShortZH>
     <InstNamePluralZH>Piece of leads</InstNamePluralZH>
-    <InstOrder>1342210344</InstOrder>
+    <InstOrder>1342210345</InstOrder>
   </UIC>
   <UIC>
     <InstID>481</InstID>
@@ -26712,7 +26848,7 @@
     <InstNameZH>Chain</InstNameZH>
     <InstNameShortZH>Chain</InstNameShortZH>
     <InstNamePluralZH>Chains</InstNamePluralZH>
-    <InstOrder>1342210345</InstOrder>
+    <InstOrder>1342210346</InstOrder>
     <InstAdded>2014-07-29T03:03:07.64+00:00</InstAdded>
     <InstEdited>2016-01-21T06:56:05.857+00:00</InstEdited>
   </UIC>
@@ -26754,7 +26890,7 @@
     <InstNameZH>Axe Blow</InstNameZH>
     <InstNameShortZH>AxeBlow</InstNameShortZH>
     <InstNamePluralZH>Axe Blows</InstNamePluralZH>
-    <InstOrder>1342210346</InstOrder>
+    <InstOrder>1342210347</InstOrder>
     <InstAdded>2016-11-17T22:25:26.9+00:00</InstAdded>
     <InstEdited>2016-11-17T22:25:26.9+00:00</InstEdited>
   </UIC>
@@ -26796,7 +26932,7 @@
     <InstNameZH>Boobam</InstNameZH>
     <InstNameShortZH>Boobam</InstNameShortZH>
     <InstNamePluralZH>Boobams</InstNamePluralZH>
-    <InstOrder>1342210347</InstOrder>
+    <InstOrder>1342210348</InstOrder>
     <InstAdded>2018-03-08T17:31:28.417+00:00</InstAdded>
     <InstEdited>2018-03-08T17:31:28.417+00:00</InstEdited>
   </UIC>
@@ -26839,7 +26975,7 @@
     <InstNameZH>Whistle</InstNameZH>
     <InstNameShortZH>Whistle</InstNameShortZH>
     <InstNamePluralZH>Whistles</InstNamePluralZH>
-    <InstOrder>1342210352</InstOrder>
+    <InstOrder>1342210353</InstOrder>
     <InstAdded>2013-04-24T01:18:58.297+00:00</InstAdded>
     <InstEdited>2018-06-14T09:28:03.287+00:00</InstEdited>
   </UIC>
@@ -26882,7 +27018,7 @@
     <InstNameZH>Penny Whistle</InstNameZH>
     <InstNameShortZH>PnnyWhstl</InstNameShortZH>
     <InstNamePluralZH>Penny Whistles</InstNamePluralZH>
-    <InstOrder>1342210353</InstOrder>
+    <InstOrder>1342210354</InstOrder>
     <InstAdded>2018-04-20T07:43:09.71+00:00</InstAdded>
     <InstEdited>2018-06-14T09:28:32.007+00:00</InstEdited>
   </UIC>
@@ -26927,7 +27063,7 @@
     <InstNameShortZH>SlWhistle</InstNameShortZH>
     <InstNamePluralZH>Slide Whistles</InstNamePluralZH>
     <InstNameAlt>SwaneeSwannee WhistlePiston flute Jazz flute</InstNameAlt>
-    <InstOrder>1342210358</InstOrder>
+    <InstOrder>1342210359</InstOrder>
     <InstAdded>2013-04-24T01:27:38.93+00:00</InstAdded>
     <InstEdited>2018-06-14T09:28:52.083+00:00</InstEdited>
   </UIC>
@@ -26969,7 +27105,7 @@
     <InstNameZH>Swanee Whistle</InstNameZH>
     <InstNameShortZH>SwWhistle</InstNameShortZH>
     <InstNamePluralZH>Swanee Whistles</InstNamePluralZH>
-    <InstOrder>1342210359</InstOrder>
+    <InstOrder>1342210360</InstOrder>
     <InstAdded>2016-05-25T22:11:11.667+00:00</InstAdded>
     <InstEdited>2016-05-25T22:11:11.667+00:00</InstEdited>
   </UIC>
@@ -27011,7 +27147,7 @@
     <InstNameZH>Police Whistle</InstNameZH>
     <InstNameShortZH>PoliceWhis</InstNameShortZH>
     <InstNamePluralZH>Police Whistles</InstNamePluralZH>
-    <InstOrder>1342210360</InstOrder>
+    <InstOrder>1342210361</InstOrder>
     <InstAdded>2017-01-10T11:07:35.523+00:00</InstAdded>
     <InstEdited>2017-01-10T11:07:35.523+00:00</InstEdited>
   </UIC>
@@ -27053,7 +27189,7 @@
     <InstNameZH>Bitonal Whistle</InstNameZH>
     <InstNameShortZH>BtnlWhstle</InstNameShortZH>
     <InstNamePluralZH>Bitonal Whistles</InstNamePluralZH>
-    <InstOrder>1342210361</InstOrder>
+    <InstOrder>1342210362</InstOrder>
     <InstAdded>2018-03-20T14:56:24.257+00:00</InstAdded>
     <InstEdited>2018-03-20T14:56:24.257+00:00</InstEdited>
   </UIC>
@@ -27097,7 +27233,7 @@
     <InstNameShortZH>JewsHarp</InstNameShortZH>
     <InstNamePluralZH>Jew's Harps</InstNamePluralZH>
     <InstNameAlt>Jaw HarpMouth harp</InstNameAlt>
-    <InstOrder>1342210362</InstOrder>
+    <InstOrder>1342210363</InstOrder>
     <InstAdded>2019-04-16T14:50:56.117+00:00</InstAdded>
     <InstEdited>2019-04-16T14:50:56.117+00:00</InstEdited>
   </UIC>
@@ -27139,7 +27275,7 @@
     <InstNameZH>Mallets</InstNameZH>
     <InstNameShortZH>Mallets</InstNameShortZH>
     <InstNamePluralZH>Mallets</InstNamePluralZH>
-    <InstOrder>1342210367</InstOrder>
+    <InstOrder>1342210368</InstOrder>
     <InstAdded>2014-04-17T06:19:06.71+00:00</InstAdded>
     <InstEdited>2014-04-17T06:19:06.71+00:00</InstEdited>
   </UIC>
@@ -27181,7 +27317,7 @@
     <InstNameZH>Mallet MIDI Controller</InstNameZH>
     <InstNameShortZH>MlltMdCn</InstNameShortZH>
     <InstNamePluralZH>Mallet MIDI Controllers</InstNamePluralZH>
-    <InstOrder>1342210368</InstOrder>
+    <InstOrder>1342210369</InstOrder>
     <InstAdded>2019-03-25T14:26:03.803+00:00</InstAdded>
     <InstEdited>2019-03-26T08:17:52.293+00:00</InstEdited>
   </UIC>
@@ -27223,7 +27359,7 @@
     <InstNameZH>Octapad</InstNameZH>
     <InstNameShortZH>Octapad</InstNameShortZH>
     <InstNamePluralZH>Octapads</InstNamePluralZH>
-    <InstOrder>1342210373</InstOrder>
+    <InstOrder>1342210374</InstOrder>
     <InstAdded>2013-10-03T06:10:06.63+00:00</InstAdded>
     <InstEdited>2013-10-03T06:10:06.63+00:00</InstEdited>
   </UIC>
@@ -27265,7 +27401,7 @@
     <InstNameZH>Tuned Percussion</InstNameZH>
     <InstNameShortZH>TunedPerc</InstNameShortZH>
     <InstNamePluralZH>Tuned Percussion</InstNamePluralZH>
-    <InstOrder>1342210374</InstOrder>
+    <InstOrder>1342210375</InstOrder>
     <InstAdded>2014-05-11T04:44:05.47+00:00</InstAdded>
     <InstEdited>2017-11-25T14:10:29.833+00:00</InstEdited>
   </UIC>
@@ -27307,7 +27443,7 @@
     <InstNameZH>Unpitched Percussion</InstNameZH>
     <InstNameShortZH>UnPtchPerc</InstNameShortZH>
     <InstNamePluralZH>Unpitched Percussion</InstNamePluralZH>
-    <InstOrder>1342210381</InstOrder>
+    <InstOrder>1342210382</InstOrder>
     <InstAdded>2014-05-11T04:45:09.397+00:00</InstAdded>
     <InstEdited>2014-05-11T04:45:09.397+00:00</InstEdited>
   </UIC>
@@ -27350,7 +27486,7 @@
     <InstNameZH>Keyboard Percussion</InstNameZH>
     <InstNameShortZH>KbdPerc</InstNameShortZH>
     <InstNamePluralZH>Keyboard Percussion</InstNamePluralZH>
-    <InstOrder>1342210382</InstOrder>
+    <InstOrder>1342210383</InstOrder>
     <InstAdded>2016-03-14T07:05:50.11+00:00</InstAdded>
     <InstEdited>2016-03-14T07:05:50.11+00:00</InstEdited>
   </UIC>
@@ -27392,7 +27528,7 @@
     <InstNameZH>Tap Dance</InstNameZH>
     <InstNameShortZH>TapDance</InstNameShortZH>
     <InstNamePluralZH>Tap Dances</InstNamePluralZH>
-    <InstOrder>1342210383</InstOrder>
+    <InstOrder>1342210384</InstOrder>
     <InstAdded>2016-09-09T01:36:50.647+00:00</InstAdded>
     <InstEdited>2016-09-09T01:36:50.647+00:00</InstEdited>
   </UIC>
@@ -27434,7 +27570,7 @@
     <InstNameZH>Body Percussion</InstNameZH>
     <InstNameShortZH>BdyPerc</InstNameShortZH>
     <InstNamePluralZH>Body Percussion</InstNamePluralZH>
-    <InstOrder>1342210384</InstOrder>
+    <InstOrder>1342210385</InstOrder>
     <InstAdded>2018-11-27T10:08:20.19+00:00</InstAdded>
     <InstEdited>2018-11-27T10:08:20.19+00:00</InstEdited>
   </UIC>
@@ -28035,6 +28171,51 @@
     <InstEdited>2016-12-16T02:53:21.677+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1101</InstID>
+    <InstUIC>5505173</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Non-Western Percussion</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstAlternate>Dâyere</InstAlternate>
+    <InstName>Daf</InstName>
+    <InstNameShort>Daf</InstNameShort>
+    <InstNamePlural>Dafs</InstNamePlural>
+    <InstNameDE>Daf</InstNameDE>
+    <InstNameShortDE>Daf</InstNameShortDE>
+    <InstNamePluralDE>Dafs</InstNamePluralDE>
+    <InstNameFR>Daf</InstNameFR>
+    <InstNameShortFR>Daf</InstNameShortFR>
+    <InstNamePluralFR>Dafs</InstNamePluralFR>
+    <InstNameIT>Daf</InstNameIT>
+    <InstNameShortIT>Daf</InstNameShortIT>
+    <InstNamePluralIT>Dafs</InstNamePluralIT>
+    <InstNameES>Daf</InstNameES>
+    <InstNameShortES>Daf</InstNameShortES>
+    <InstNamePluralES>Dafs</InstNamePluralES>
+    <InstNameJA>Daf</InstNameJA>
+    <InstNameShortJA>Daf</InstNameShortJA>
+    <InstNamePluralJA>Dafs</InstNamePluralJA>
+    <InstNameKO>Daf</InstNameKO>
+    <InstNameShortKO>Daf</InstNameShortKO>
+    <InstNamePluralKO>Dafs</InstNamePluralKO>
+    <InstNamePL>Daf</InstNamePL>
+    <InstNameShortPL>Daf</InstNameShortPL>
+    <InstNamePluralPL>Dafs</InstNamePluralPL>
+    <InstNamePT>Daf</InstNamePT>
+    <InstNameShortPT>Daf</InstNameShortPT>
+    <InstNamePluralPT>Dafs</InstNamePluralPT>
+    <InstNameRU>Daf</InstNameRU>
+    <InstNameShortRU>Daf</InstNameShortRU>
+    <InstNamePluralRU>Dafs</InstNamePluralRU>
+    <InstNameZH>Daf</InstNameZH>
+    <InstNameShortZH>Daf</InstNameShortZH>
+    <InstNamePluralZH>Dafs</InstNamePluralZH>
+    <InstNameAlt>Dâyere</InstNameAlt>
+    <InstOrder>1342242836</InstOrder>
+    <InstAdded>2024-03-17T02:43:18.39+00:00</InstAdded>
+    <InstEdited>2024-03-17T02:43:18.39+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>588</InstID>
     <InstUIC>1441941</InstUIC>
     <InstFamily>5.Other</InstFamily>
@@ -28623,6 +28804,51 @@
     <InstOrder>1342242860</InstOrder>
     <InstAdded>2022-10-05T06:19:07.863+00:00</InstAdded>
     <InstEdited>2022-10-05T06:19:07.863+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1102</InstID>
+    <InstUIC>5636245</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Non-Western Percussion</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstAlternate>Bangban</InstAlternate>
+    <InstName>Bangzi</InstName>
+    <InstNameShort>Bangzi</InstNameShort>
+    <InstNamePlural>Bangzis</InstNamePlural>
+    <InstNameDE>Bangzi</InstNameDE>
+    <InstNameShortDE>Bangzi</InstNameShortDE>
+    <InstNamePluralDE>Bangzis</InstNamePluralDE>
+    <InstNameFR>Bangzi</InstNameFR>
+    <InstNameShortFR>Bangzi</InstNameShortFR>
+    <InstNamePluralFR>Bangzis</InstNamePluralFR>
+    <InstNameIT>Bangzi</InstNameIT>
+    <InstNameShortIT>Bangzi</InstNameShortIT>
+    <InstNamePluralIT>Bangzis</InstNamePluralIT>
+    <InstNameES>bangzi</InstNameES>
+    <InstNameShortES>bangzi</InstNameShortES>
+    <InstNamePluralES>bangzis</InstNamePluralES>
+    <InstNameJA>バンジー</InstNameJA>
+    <InstNameShortJA>バンジー</InstNameShortJA>
+    <InstNamePluralJA>バンジス</InstNamePluralJA>
+    <InstNameKO>방지</InstNameKO>
+    <InstNameShortKO>방지</InstNameShortKO>
+    <InstNamePluralKO>방지스</InstNamePluralKO>
+    <InstNamePL>Bangzi</InstNamePL>
+    <InstNameShortPL>Bangzi</InstNameShortPL>
+    <InstNamePluralPL>Bangzi</InstNamePluralPL>
+    <InstNamePT>Bangzi</InstNamePT>
+    <InstNameShortPT>Bangzi</InstNameShortPT>
+    <InstNamePluralPT>Bangzis</InstNamePluralPT>
+    <InstNameRU>Бангзи</InstNameRU>
+    <InstNameShortRU>Бангзи</InstNameShortRU>
+    <InstNamePluralRU>Бангзис</InstNamePluralRU>
+    <InstNameZH>梆子</InstNameZH>
+    <InstNameShortZH>梆子</InstNameShortZH>
+    <InstNamePluralZH>班吉斯</InstNamePluralZH>
+    <InstNameAlt>Bangban</InstNameAlt>
+    <InstOrder>1342242861</InstOrder>
+    <InstAdded>2024-03-17T03:06:24.38+00:00</InstAdded>
+    <InstEdited>2024-03-17T03:06:24.38+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>438</InstID>
@@ -29958,6 +30184,49 @@
     <InstOrder>1342341124</InstOrder>
     <InstAdded>2022-10-05T05:39:58.347+00:00</InstAdded>
     <InstEdited>2022-10-05T05:39:58.347+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1099</InstID>
+    <InstUIC>3276941</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Other</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstName>Paint Bucket</InstName>
+    <InstNameShort>PntBucket</InstNameShort>
+    <InstNamePlural>Paint Buckets</InstNamePlural>
+    <InstNameDE>Farbeimer</InstNameDE>
+    <InstNameShortDE>Frbmr</InstNameShortDE>
+    <InstNamePluralDE>Farbeimer</InstNamePluralDE>
+    <InstNameFR>Seau de peinture</InstNameFR>
+    <InstNameShortFR>Sdepntr</InstNameShortFR>
+    <InstNamePluralFR>Seaux de peinture</InstNamePluralFR>
+    <InstNameIT>Secchio di vernice</InstNameIT>
+    <InstNameShortIT>Scchdivrnc</InstNameShortIT>
+    <InstNamePluralIT>Secchi di vernice</InstNamePluralIT>
+    <InstNameES>Bote de pintura</InstNameES>
+    <InstNameShortES>Btdepntr</InstNameShortES>
+    <InstNamePluralES>cubos de pintura</InstNamePluralES>
+    <InstNameJA>ペイントバケツ</InstNameJA>
+    <InstNameShortJA>ペイントバケツ</InstNameShortJA>
+    <InstNamePluralJA>ペイントバケツ</InstNamePluralJA>
+    <InstNameKO>페인트 통</InstNameKO>
+    <InstNameShortKO>페인트통</InstNameShortKO>
+    <InstNamePluralKO>페인트통</InstNamePluralKO>
+    <InstNamePL>Wiadro farby</InstNamePL>
+    <InstNameShortPL>Wdrfrby</InstNameShortPL>
+    <InstNamePluralPL>Wiadra z farbą</InstNamePluralPL>
+    <InstNamePT>Balde de tinta</InstNamePT>
+    <InstNameShortPT>Blddetnt</InstNameShortPT>
+    <InstNamePluralPT>Baldes de tinta</InstNamePluralPT>
+    <InstNameRU>Ведро краски</InstNameRU>
+    <InstNameShortRU>Ведрокраск</InstNameShortRU>
+    <InstNamePluralRU>Ведра с краской</InstNamePluralRU>
+    <InstNameZH>油漆桶</InstNameZH>
+    <InstNameShortZH>油漆桶</InstNameShortZH>
+    <InstNamePluralZH>油漆桶</InstNamePluralZH>
+    <InstOrder>1342341125</InstOrder>
+    <InstAdded>2024-03-17T02:32:40.307+00:00</InstAdded>
+    <InstEdited>2024-03-17T02:32:40.307+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>738</InstID>
@@ -34195,6 +34464,51 @@
     <InstOrder>1342390291</InstOrder>
     <InstAdded>2022-10-05T06:08:43.69+00:00</InstAdded>
     <InstEdited>2022-10-05T06:08:43.69+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1100</InstID>
+    <InstUIC>3014789</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Electronics</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstAlternate>Mobile Phone</InstAlternate>
+    <InstName>Cell Phone</InstName>
+    <InstNameShort>CllPhone</InstNameShort>
+    <InstNamePlural>Cell Phones</InstNamePlural>
+    <InstNameDE>Handy</InstNameDE>
+    <InstNameShortDE>Hndy</InstNameShortDE>
+    <InstNamePluralDE>Handys</InstNamePluralDE>
+    <InstNameFR>Téléphone portable</InstNameFR>
+    <InstNameShortFR>Téléphnprt</InstNameShortFR>
+    <InstNamePluralFR>Téléphones portables</InstNamePluralFR>
+    <InstNameIT>Cellulare</InstNameIT>
+    <InstNameShortIT>Clllr</InstNameShortIT>
+    <InstNamePluralIT>Telefono cellulare</InstNamePluralIT>
+    <InstNameES>Teléfono móvil</InstNameES>
+    <InstNameShortES>Tléfnmóvl</InstNameShortES>
+    <InstNamePluralES>Celulares</InstNamePluralES>
+    <InstNameJA>携帯電話</InstNameJA>
+    <InstNameShortJA>携帯電話</InstNameShortJA>
+    <InstNamePluralJA>携帯電話</InstNamePluralJA>
+    <InstNameKO>휴대폰</InstNameKO>
+    <InstNameShortKO>휴대폰</InstNameShortKO>
+    <InstNamePluralKO>휴대폰</InstNamePluralKO>
+    <InstNamePL>Komórka</InstNamePL>
+    <InstNameShortPL>Kmórk</InstNameShortPL>
+    <InstNamePluralPL>Telefony komórkowe</InstNamePluralPL>
+    <InstNamePT>Celular</InstNamePT>
+    <InstNameShortPT>Cllr</InstNameShortPT>
+    <InstNamePluralPT>Celulares</InstNamePluralPT>
+    <InstNameRU>Сотовый телефон</InstNameRU>
+    <InstNameShortRU>Сотовыйтел</InstNameShortRU>
+    <InstNamePluralRU>Сотовые телефоны</InstNamePluralRU>
+    <InstNameZH>手机</InstNameZH>
+    <InstNameShortZH>手机</InstNameShortZH>
+    <InstNamePluralZH>手机</InstNamePluralZH>
+    <InstNameAlt>Mobile Phone</InstNameAlt>
+    <InstOrder>1342390292</InstOrder>
+    <InstAdded>2024-03-17T02:35:48.137+00:00</InstAdded>
+    <InstEdited>2024-03-17T02:35:48.137+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>716</InstID>
@@ -44720,6 +45034,8 @@
     <InstUIC>3014726</InstUIC>
     <InstFamily>6.Strings</InstFamily>
     <InstGenus>Non-Western Strings</InstGenus>
+    <InstIcon>Strings</InstIcon>
+    <InstAlternate>Bass Gehu</InstAlternate>
     <InstName>Diyingehu</InstName>
     <InstNameShort>Diyingehu</InstNameShort>
     <InstNamePlural>Diyingehus</InstNamePlural>
@@ -44753,9 +45069,10 @@
     <InstNameZH>Diyingehu</InstNameZH>
     <InstNameShortZH>Diyingehu</InstNameShortZH>
     <InstNamePluralZH>Diyingehus</InstNamePluralZH>
+    <InstNameAlt>Bass Gehu</InstNameAlt>
     <InstOrder>1610907659</InstOrder>
     <InstAdded>2022-10-05T06:23:26.203+00:00</InstAdded>
-    <InstEdited>2022-10-05T06:23:26.203+00:00</InstEdited>
+    <InstEdited>2024-03-17T03:08:35.05+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>378</InstID>
