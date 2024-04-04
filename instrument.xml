@@ -8756,12 +8756,13 @@
     <InstUIC>131090</InstUIC>
     <InstFamily>2.Vocal</InstFamily>
     <InstGenus>Vocal Parts</InstGenus>
+    <InstIcon>Voice</InstIcon>
     <InstName>Vocal Score</InstName>
     <InstNameShort>VS</InstNameShort>
     <InstNamePlural>Vocal Scores</InstNamePlural>
-    <InstNameDE>Klavierauszug</InstNameDE>
-    <InstNameShortDE>KA</InstNameShortDE>
-    <InstNamePluralDE>Klavierauszüge</InstNamePluralDE>
+    <InstNameDE>Vokalpartitur</InstNameDE>
+    <InstNameShortDE>Vkpt</InstNameShortDE>
+    <InstNamePluralDE>Vokalpartituren</InstNamePluralDE>
     <InstNameFR>Piano-chant</InstNameFR>
     <InstNameShortFR>PC</InstNameShortFR>
     <InstNamePluralFR>Piano-chant</InstNamePluralFR>
@@ -8790,20 +8791,21 @@
     <InstNameShortZH>声乐谱</InstNameShortZH>
     <InstNamePluralZH>声乐谱</InstNamePluralZH>
     <InstOrder>536952834</InstOrder>
-    <InstAdded>2016-03-14T03:52:48.633+00:00</InstAdded>
-    <InstEdited>2016-03-14T03:52:48.633+00:00</InstEdited>
+    <InstAdded>2024-04-03T07:55:20.547+00:00</InstAdded>
+    <InstEdited>2024-04-03T07:55:20.547+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>325</InstID>
     <InstUIC>262162</InstUIC>
     <InstFamily>2.Vocal</InstFamily>
     <InstGenus>Vocal Parts</InstGenus>
+    <InstIcon>Voice</InstIcon>
     <InstName>Vocal Score (Tonic Sol-Fa)</InstName>
     <InstNameShort>VS(Sol-Fa)</InstNameShort>
     <InstNamePlural>Vocal Scores (Tonic Sol-Fa)</InstNamePlural>
-    <InstNameDE>Klavierauszug (Tonic Sol-Fa)</InstNameDE>
-    <InstNameShortDE>KA(Sol-Fa)</InstNameShortDE>
-    <InstNamePluralDE>Klavierauszüge (Tonic Sol-Fa)</InstNamePluralDE>
+    <InstNameDE>Vokalpartitur (Tonic Sol-Fa)</InstNameDE>
+    <InstNameShortDE>Vkp(Sol-Fa</InstNameShortDE>
+    <InstNamePluralDE>Vokalpartituren (Tonic Sol-Fa)</InstNamePluralDE>
     <InstNameFR>Piano-chant (Tonique Sol-Fa)</InstNameFR>
     <InstNameShortFR>PC(Sol+Fa)</InstNameShortFR>
     <InstNamePluralFR>Piano-chant (Tonique Sol-Fa)</InstNamePluralFR>
@@ -8833,7 +8835,7 @@
     <InstNamePluralZH>声乐总谱－So－Fa 调</InstNamePluralZH>
     <InstOrder>536952835</InstOrder>
     <InstAdded>2013-04-24T01:20:38.243+00:00</InstAdded>
-    <InstEdited>2013-04-24T01:20:38.243+00:00</InstEdited>
+    <InstEdited>2024-04-03T07:58:43.42+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>721</InstID>
