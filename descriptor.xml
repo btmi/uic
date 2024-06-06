@@ -11803,6 +11803,62 @@
     <DescriptorEdited>2016-12-01T08:49:27.94+00:00</DescriptorEdited>
   </UIC>
   <UIC>
+    <DescriptorID>434</DescriptorID>
+    <DescriptorName>Volume 6</DescriptorName>
+    <DescriptorShort>Vol6</DescriptorShort>
+    <DescriptorNameDE>Band 6</DescriptorNameDE>
+    <DescriptorShortDE>Bd6</DescriptorShortDE>
+    <DescriptorNameFR>Volume 6</DescriptorNameFR>
+    <DescriptorShortFR>Volume6</DescriptorShortFR>
+    <DescriptorNameIT>Volum 6</DescriptorNameIT>
+    <DescriptorShortIT>Vol.6</DescriptorShortIT>
+    <DescriptorNameES>Volumen 6</DescriptorNameES>
+    <DescriptorShortES>Vol6</DescriptorShortES>
+    <DescriptorNameJA>6巻</DescriptorNameJA>
+    <DescriptorShortJA>6巻</DescriptorShortJA>
+    <DescriptorNameKO>소리 6</DescriptorNameKO>
+    <DescriptorShortKO>소리 6</DescriptorShortKO>
+    <DescriptorNamePL>Volume 6</DescriptorNamePL>
+    <DescriptorShortPL>Vol6</DescriptorShortPL>
+    <DescriptorNamePT>Volume 6</DescriptorNamePT>
+    <DescriptorShortPT>Volume 6</DescriptorShortPT>
+    <DescriptorNameRU>Том 6</DescriptorNameRU>
+    <DescriptorShortRU>Том 6</DescriptorShortRU>
+    <DescriptorNameZH>第 6 卷</DescriptorNameZH>
+    <DescriptorShortZH>第6卷</DescriptorShortZH>
+    <DescriptorOrder>833</DescriptorOrder>
+    <DescriptorAdded>2024-06-05T03:06:03.407+00:00</DescriptorAdded>
+    <DescriptorEdited>2024-06-05T03:06:03.407+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
+    <DescriptorID>435</DescriptorID>
+    <DescriptorName>Volume 7</DescriptorName>
+    <DescriptorShort>Vol7</DescriptorShort>
+    <DescriptorNameDE>Band 7</DescriptorNameDE>
+    <DescriptorShortDE>Bd7</DescriptorShortDE>
+    <DescriptorNameFR>Volume 7</DescriptorNameFR>
+    <DescriptorShortFR>Vol7</DescriptorShortFR>
+    <DescriptorNameIT>Volum 7</DescriptorNameIT>
+    <DescriptorShortIT>Vol.7</DescriptorShortIT>
+    <DescriptorNameES>Volumen 7</DescriptorNameES>
+    <DescriptorShortES>Vol7</DescriptorShortES>
+    <DescriptorNameJA>7巻</DescriptorNameJA>
+    <DescriptorShortJA>7巻</DescriptorShortJA>
+    <DescriptorNameKO>소리 7</DescriptorNameKO>
+    <DescriptorShortKO>소리7</DescriptorShortKO>
+    <DescriptorNamePL>Volume 7</DescriptorNamePL>
+    <DescriptorShortPL>Vol7</DescriptorShortPL>
+    <DescriptorNamePT>Volume 7</DescriptorNamePT>
+    <DescriptorShortPT>Vol7</DescriptorShortPT>
+    <DescriptorNameRU>Том 7</DescriptorNameRU>
+    <DescriptorShortRU>Том7</DescriptorShortRU>
+    <DescriptorNameZH>第 7 卷</DescriptorNameZH>
+    <DescriptorShortZH>第7卷</DescriptorShortZH>
+    <DescriptorOrder>834</DescriptorOrder>
+    <DescriptorAdded>2024-06-05T03:08:31.833+00:00</DescriptorAdded>
+    <DescriptorEdited>2024-06-05T03:08:31.833+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
     <DescriptorID>223</DescriptorID>
     <DescriptorName>Ballet</DescriptorName>
     <DescriptorShort>Ballet</DescriptorShort>
@@ -11826,7 +11882,7 @@
     <DescriptorShortRU>Балет</DescriptorShortRU>
     <DescriptorNameZH>芭蕾</DescriptorNameZH>
     <DescriptorShortZH>芭蕾</DescriptorShortZH>
-    <DescriptorOrder>833</DescriptorOrder>
+    <DescriptorOrder>835</DescriptorOrder>
     <DescriptorAdded>2016-12-01T22:39:43.117+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T22:39:43.117+00:00</DescriptorEdited>
   </UIC>
@@ -11854,7 +11910,7 @@
     <DescriptorShortRU>(Металл)</DescriptorShortRU>
     <DescriptorNameZH>重金属</DescriptorNameZH>
     <DescriptorShortZH>重金属</DescriptorShortZH>
-    <DescriptorOrder>834</DescriptorOrder>
+    <DescriptorOrder>836</DescriptorOrder>
     <DescriptorAdded>2017-01-12T13:56:57+00:00</DescriptorAdded>
     <DescriptorEdited>2017-01-12T13:56:57+00:00</DescriptorEdited>
   </UIC>
@@ -11882,7 +11938,7 @@
     <DescriptorShortRU>(Ceramic)</DescriptorShortRU>
     <DescriptorNameZH>(Ceramic)</DescriptorNameZH>
     <DescriptorShortZH>(Ceramic)</DescriptorShortZH>
-    <DescriptorOrder>835</DescriptorOrder>
+    <DescriptorOrder>837</DescriptorOrder>
     <DescriptorAdded>2021-03-24T02:11:45.58+00:00</DescriptorAdded>
     <DescriptorEdited>2021-03-24T02:11:45.58+00:00</DescriptorEdited>
   </UIC>
@@ -11910,7 +11966,7 @@
     <DescriptorShortRU>(Plastic)</DescriptorShortRU>
     <DescriptorNameZH>(Plastic)</DescriptorNameZH>
     <DescriptorShortZH>(Plastic)</DescriptorShortZH>
-    <DescriptorOrder>837</DescriptorOrder>
+    <DescriptorOrder>839</DescriptorOrder>
     <DescriptorAdded>2018-05-23T06:49:36.537+00:00</DescriptorAdded>
     <DescriptorEdited>2018-05-23T06:49:36.537+00:00</DescriptorEdited>
   </UIC>
