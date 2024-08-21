@@ -34601,6 +34601,49 @@ High Sheng</InstNameAlt>
     <InstEdited>2022-08-29T08:15:46.447+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1109</InstID>
+    <InstUIC>3145861</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Electronics</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstName>Drum Machine</InstName>
+    <InstNameShort>DrMchn</InstNameShort>
+    <InstNamePlural>Drum Machines</InstNamePlural>
+    <InstNameDE>Drumcomputer</InstNameDE>
+    <InstNameShortDE>DrComp</InstNameShortDE>
+    <InstNamePluralDE>Drumcomputer</InstNamePluralDE>
+    <InstNameFR>Boîte à rythmes</InstNameFR>
+    <InstNameShortFR>Btrythms</InstNameShortFR>
+    <InstNamePluralFR>Boîtes à rythmes</InstNamePluralFR>
+    <InstNameIT>Macchina a tamburo</InstNameIT>
+    <InstNameShortIT>MccnTamb</InstNameShortIT>
+    <InstNamePluralIT>Macchine a tamburo</InstNamePluralIT>
+    <InstNameES>Caja de ritmos</InstNameES>
+    <InstNameShortES>CajaRtms</InstNameShortES>
+    <InstNamePluralES>Cajas de ritmos</InstNamePluralES>
+    <InstNameJA>ドラムマシン</InstNameJA>
+    <InstNameShortJA>ドラムマシン</InstNameShortJA>
+    <InstNamePluralJA>ドラムマシン</InstNamePluralJA>
+    <InstNameKO>드럼 머신</InstNameKO>
+    <InstNameShortKO>드럼머신</InstNameShortKO>
+    <InstNamePluralKO>드럼 머신</InstNamePluralKO>
+    <InstNamePL>Automat perkusyjny</InstNamePL>
+    <InstNameShortPL>Atmtprksyj</InstNameShortPL>
+    <InstNamePluralPL>Automaty perkusyjne</InstNamePluralPL>
+    <InstNamePT>Máquina de tambor</InstNamePT>
+    <InstNameShortPT>MáqTamb</InstNameShortPT>
+    <InstNamePluralPT>Máquinas de ritmos</InstNamePluralPT>
+    <InstNameRU>Драм-машина</InstNameRU>
+    <InstNameShortRU>Драм-машин</InstNameShortRU>
+    <InstNamePluralRU>Драм-машины</InstNamePluralRU>
+    <InstNameZH>鼓机</InstNameZH>
+    <InstNameShortZH>鼓机</InstNameShortZH>
+    <InstNamePluralZH>鼓机</InstNamePluralZH>
+    <InstOrder>1342390287</InstOrder>
+    <InstAdded>2024-08-20T09:09:24.603+00:00</InstAdded>
+    <InstEdited>2024-08-20T09:45:53.657+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>992</InstID>
     <InstUIC>2359429</InstUIC>
     <InstFamily>5.Other</InstFamily>
