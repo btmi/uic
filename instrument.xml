@@ -10707,6 +10707,49 @@
     <InstEdited>2019-07-12T10:39:15.263+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1110</InstID>
+    <InstUIC>2228235</InstUIC>
+    <InstFamily>3.Wind</InstFamily>
+    <InstGenus>Flutes</InstGenus>
+    <InstIcon>Flute</InstIcon>
+    <InstName>Flabiol</InstName>
+    <InstNameShort>Flbl</InstNameShort>
+    <InstNamePlural>Flabiols</InstNamePlural>
+    <InstNameDE>Flabiol</InstNameDE>
+    <InstNameShortDE>Flbl</InstNameShortDE>
+    <InstNamePluralDE>Flabiols</InstNamePluralDE>
+    <InstNameFR>Flabiol</InstNameFR>
+    <InstNameShortFR>Flbl</InstNameShortFR>
+    <InstNamePluralFR>Flabiols</InstNamePluralFR>
+    <InstNameIT>Flabiolo</InstNameIT>
+    <InstNameShortIT>Flbl</InstNameShortIT>
+    <InstNamePluralIT>Flabioli</InstNamePluralIT>
+    <InstNameES>Flabiol</InstNameES>
+    <InstNameShortES>Flbl</InstNameShortES>
+    <InstNamePluralES>Flabioles</InstNamePluralES>
+    <InstNameJA>フラビオール</InstNameJA>
+    <InstNameShortJA>フラビオール</InstNameShortJA>
+    <InstNamePluralJA>フラビオール</InstNamePluralJA>
+    <InstNameKO>플라비올</InstNameKO>
+    <InstNameShortKO>플라비올</InstNameShortKO>
+    <InstNamePluralKO>플라비올</InstNamePluralKO>
+    <InstNamePL>Flabiol</InstNamePL>
+    <InstNameShortPL>Flbl</InstNameShortPL>
+    <InstNamePluralPL>Flabiole</InstNamePluralPL>
+    <InstNamePT>Flabiol</InstNamePT>
+    <InstNameShortPT>Flbl</InstNameShortPT>
+    <InstNamePluralPT>Flabiol</InstNamePluralPT>
+    <InstNameRU>Флабиол</InstNameRU>
+    <InstNameShortRU>Флабиол</InstNameShortRU>
+    <InstNamePluralRU>Флабиолы</InstNamePluralRU>
+    <InstNameZH>弗拉比奥</InstNameZH>
+    <InstNameShortZH>弗拉比奥</InstNameShortZH>
+    <InstNamePluralZH>弗拉比奥醇</InstNamePluralZH>
+    <InstOrder>805339159</InstOrder>
+    <InstAdded>2024-08-21T23:22:50.853+00:00</InstAdded>
+    <InstEdited>2024-08-21T23:22:50.853+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>535</InstID>
     <InstUIC>1179659</InstUIC>
     <InstFamily>3.Wind</InstFamily>
