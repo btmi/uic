@@ -26490,6 +26490,50 @@
       "InstEdited": "0001-01-01T00:00:00"
     },
     {
+      "InstID": 1113,
+      "InstUIC": 20054037,
+      "InstIcon": "Percussion",
+      "InstFamily": "5.Other",
+      "InstGenus": "Percussion",
+      "InstName": "Marimbaphone",
+      "InstNameShort": "Mrmbphn",
+      "InstNamePlural": "Marimbaphones",
+      "InstNameDE": "Marimbaphon",
+      "InstNameShortDE": "Mrmbphn",
+      "InstNamePluralDE": "Marimbaphone",
+      "InstNameFR": "Marimbaphone",
+      "InstNameShortFR": "Mrmbphn",
+      "InstNamePluralFR": "Marimbaphones",
+      "InstNameIT": "Marimbafono",
+      "InstNameShortIT": "Mrmbfn",
+      "InstNamePluralIT": "Marimbafoni",
+      "InstNameES": "Marimbafón",
+      "InstNameShortES": "Mrmbfón",
+      "InstNamePluralES": "Marimbafones",
+      "InstNameJA": "マリンバフォン",
+      "InstNameShortJA": "マリンバフォン",
+      "InstNamePluralJA": "マリンバフォン",
+      "InstNameKO": "마림바폰",
+      "InstNameShortKO": "마림바폰",
+      "InstNamePluralKO": "마림바폰",
+      "InstNamePL": "Marimbafon",
+      "InstNameShortPL": "Mrmbfn",
+      "InstNamePluralPL": "Marimbofony",
+      "InstNamePT": "Marimbafone",
+      "InstNameShortPT": "Mrmbfn",
+      "InstNamePluralPT": "Marimbafones",
+      "InstNameRU": "Маримбафон",
+      "InstNameShortRU": "Маримбафон",
+      "InstNamePluralRU": "Маримбафоны",
+      "InstNameZH": "马林巴琴",
+      "InstNameShortZH": "马林巴琴",
+      "InstNamePluralZH": "马林巴琴",
+      "InstAlternate": null,
+      "InstOrder": 1342210256,
+      "InstAdded": "2024-11-24T23:51:43.923+00:00",
+      "InstEdited": "2024-11-24T23:51:43.923+00:00"
+    },
+    {
       "InstID": 769,
       "InstUIC": 15335445,
       "InstIcon": null,
@@ -26529,7 +26573,7 @@
       "InstNameShortZH": "BMrmba",
       "InstNamePluralZH": "Bass Marimbas",
       "InstAlternate": null,
-      "InstOrder": 1342210256,
+      "InstOrder": 1342210257,
       "InstAdded": "2018-03-29T14:44:07.257+00:00",
       "InstEdited": "2018-03-29T14:44:07.257+00:00"
     },
@@ -26573,7 +26617,7 @@
       "InstNameShortZH": "Vib",
       "InstNamePluralZH": "Vibraphones",
       "InstAlternate": "Vibes",
-      "InstOrder": 1342210258,
+      "InstOrder": 1342210259,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -26617,7 +26661,7 @@
       "InstNameShortZH": "Xyl",
       "InstNamePluralZH": "Xylophones",
       "InstAlternate": null,
-      "InstOrder": 1342210261,
+      "InstOrder": 1342210262,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -26661,7 +26705,7 @@
       "InstNameShortZH": "AXyl",
       "InstNamePluralZH": "Alto Xylophones",
       "InstAlternate": null,
-      "InstOrder": 1342210262,
+      "InstOrder": 1342210263,
       "InstAdded": "2016-03-14T07:04:20.157+00:00",
       "InstEdited": "2016-03-14T07:04:20.157+00:00"
     },
@@ -26705,7 +26749,7 @@
       "InstNameShortZH": "BXyl",
       "InstNamePluralZH": "Bass Xylophones",
       "InstAlternate": null,
-      "InstOrder": 1342210263,
+      "InstOrder": 1342210264,
       "InstAdded": "2016-03-14T07:02:29.12+00:00",
       "InstEdited": "2016-03-14T07:03:08.803+00:00"
     },
@@ -26749,7 +26793,7 @@
       "InstNameShortZH": "Xylor",
       "InstNamePluralZH": "Xylorimbas",
       "InstAlternate": null,
-      "InstOrder": 1342210267,
+      "InstOrder": 1342210268,
       "InstAdded": "2013-04-09T15:57:03.393+00:00",
       "InstEdited": "2013-04-09T15:57:03.393+00:00"
     },
@@ -26793,7 +26837,7 @@
       "InstNameShortZH": "WdBlck",
       "InstNamePluralZH": "Wood Blocks",
       "InstAlternate": null,
-      "InstOrder": 1342210268,
+      "InstOrder": 1342210269,
       "InstAdded": "2014-04-15T07:03:32.02+00:00",
       "InstEdited": "2014-04-15T07:03:32.02+00:00"
     },
@@ -26837,7 +26881,7 @@
       "InstNameShortZH": "Anv",
       "InstNamePluralZH": "Anvils",
       "InstAlternate": null,
-      "InstOrder": 1342210274,
+      "InstOrder": 1342210275,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -26881,7 +26925,7 @@
       "InstNameShortZH": "Cast",
       "InstNamePluralZH": "Castanets",
       "InstAlternate": null,
-      "InstOrder": 1342210275,
+      "InstOrder": 1342210276,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -26925,7 +26969,7 @@
       "InstNameShortZH": "Mar",
       "InstNamePluralZH": "Maracas",
       "InstAlternate": "Rumba Shakers\rRumbakugeln\rRumba-Rasseln",
-      "InstOrder": 1342210279,
+      "InstOrder": 1342210280,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -26969,7 +27013,7 @@
       "InstNameShortZH": "Shaker",
       "InstNamePluralZH": "Shakers",
       "InstAlternate": null,
-      "InstOrder": 1342210280,
+      "InstOrder": 1342210281,
       "InstAdded": "2016-12-09T00:19:23.25+00:00",
       "InstEdited": "2016-12-09T00:19:23.25+00:00"
     },
@@ -27013,7 +27057,7 @@
       "InstNameShortZH": "Clapper",
       "InstNamePluralZH": "Clappers",
       "InstAlternate": "Slapper",
-      "InstOrder": 1342210281,
+      "InstOrder": 1342210282,
       "InstAdded": "2021-03-24T02:16:51.667+00:00",
       "InstEdited": "2021-03-24T02:16:51.667+00:00"
     },
@@ -27057,7 +27101,7 @@
       "InstNameShortZH": "Vbrslp",
       "InstNamePluralZH": "Vibraslaps",
       "InstAlternate": null,
-      "InstOrder": 1342210283,
+      "InstOrder": 1342210284,
       "InstAdded": "2017-06-15T22:03:29.453+00:00",
       "InstEdited": "2017-06-15T22:03:29.453+00:00"
     },
@@ -27101,7 +27145,7 @@
       "InstNameShortZH": "SprkShkr",
       "InstNamePluralZH": "Spark Shakers",
       "InstAlternate": null,
-      "InstOrder": 1342210285,
+      "InstOrder": 1342210286,
       "InstAdded": "2016-12-16T02:49:30.573+00:00",
       "InstEdited": "2016-12-16T02:49:30.573+00:00"
     },
@@ -27145,7 +27189,7 @@
       "InstNameShortZH": "Cabasa",
       "InstNamePluralZH": "Cabasas",
       "InstAlternate": null,
-      "InstOrder": 1342210286,
+      "InstOrder": 1342210287,
       "InstAdded": "2017-01-10T11:01:08.523+00:00",
       "InstEdited": "2017-01-10T11:01:08.523+00:00"
     },
@@ -27189,7 +27233,7 @@
       "InstNameShortZH": "Washboard",
       "InstNamePluralZH": "Washboards",
       "InstAlternate": null,
-      "InstOrder": 1342210287,
+      "InstOrder": 1342210288,
       "InstAdded": "2017-01-10T11:02:38.743+00:00",
       "InstEdited": "2017-01-10T11:02:38.743+00:00"
     },
@@ -27233,7 +27277,7 @@
       "InstNameShortZH": "Clav",
       "InstNamePluralZH": "Claves",
       "InstAlternate": null,
-      "InstOrder": 1342210292,
+      "InstOrder": 1342210293,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -27277,7 +27321,7 @@
       "InstNameShortZH": "Rttl",
       "InstNamePluralZH": "Rattles",
       "InstAlternate": null,
-      "InstOrder": 1342210293,
+      "InstOrder": 1342210294,
       "InstAdded": "2014-03-07T10:30:34.653+00:00",
       "InstEdited": "2014-03-07T10:30:34.653+00:00"
     },
@@ -27321,7 +27365,7 @@
       "InstNameShortZH": "Rute",
       "InstNamePluralZH": "Rutes",
       "InstAlternate": null,
-      "InstOrder": 1342210294,
+      "InstOrder": 1342210295,
       "InstAdded": "2017-06-05T23:34:16.18+00:00",
       "InstEdited": "2017-06-05T23:34:16.18+00:00"
     },
@@ -27365,7 +27409,7 @@
       "InstNameShortZH": "RnStck",
       "InstNamePluralZH": "Rain Sticks",
       "InstAlternate": null,
-      "InstOrder": 1342210296,
+      "InstOrder": 1342210297,
       "InstAdded": "2016-12-16T02:41:57.443+00:00",
       "InstEdited": "2016-12-16T02:41:57.443+00:00"
     },
@@ -27409,7 +27453,7 @@
       "InstNameShortZH": "FtblRtl",
       "InstNamePluralZH": "Football Rattles",
       "InstAlternate": null,
-      "InstOrder": 1342210298,
+      "InstOrder": 1342210299,
       "InstAdded": "2016-12-09T00:16:18.77+00:00",
       "InstEdited": "2016-12-09T00:16:18.77+00:00"
     },
@@ -27453,7 +27497,7 @@
       "InstNameShortZH": "TempleBloc",
       "InstNamePluralZH": "Temple Blocks",
       "InstAlternate": "Tempelblock",
-      "InstOrder": 1342210301,
+      "InstOrder": 1342210302,
       "InstAdded": "2013-04-08T09:22:09.743+00:00",
       "InstEdited": "2013-04-08T09:22:09.743+00:00"
     },
@@ -27497,7 +27541,7 @@
       "InstNameShortZH": "Tavolette",
       "InstNamePluralZH": "Tavolettes",
       "InstAlternate": null,
-      "InstOrder": 1342210302,
+      "InstOrder": 1342210303,
       "InstAdded": "2018-04-10T12:46:18.97+00:00",
       "InstEdited": "2018-04-10T12:46:18.97+00:00"
     },
@@ -27541,7 +27585,7 @@
       "InstNameShortZH": "Güiro",
       "InstNamePluralZH": "Güiros",
       "InstAlternate": "Guiro Scraper",
-      "InstOrder": 1342210307,
+      "InstOrder": 1342210308,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -27585,7 +27629,7 @@
       "InstNameShortZH": "FrgGuiro",
       "InstNamePluralZH": "Frog Guiros",
       "InstAlternate": null,
-      "InstOrder": 1342210308,
+      "InstOrder": 1342210309,
       "InstAdded": "2016-12-09T00:18:40.09+00:00",
       "InstEdited": "2016-12-09T00:18:40.09+00:00"
     },
@@ -27629,7 +27673,7 @@
       "InstNameShortZH": "Reco-reco",
       "InstNamePluralZH": "Reco-recos",
       "InstAlternate": null,
-      "InstOrder": 1342210309,
+      "InstOrder": 1342210310,
       "InstAdded": "2017-08-04T23:24:54.22+00:00",
       "InstEdited": "2017-08-04T23:33:26.32+00:00"
     },
@@ -27673,7 +27717,7 @@
       "InstNameShortZH": "Ratchet",
       "InstNamePluralZH": "Ratchets",
       "InstAlternate": "Rätsche\rRaetsche",
-      "InstOrder": 1342210312,
+      "InstOrder": 1342210313,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -27717,7 +27761,7 @@
       "InstNameShortZH": "Sandpaper",
       "InstNamePluralZH": "Sandpapers",
       "InstAlternate": null,
-      "InstOrder": 1342210315,
+      "InstOrder": 1342210316,
       "InstAdded": "2016-06-22T01:49:24.863+00:00",
       "InstEdited": "2016-06-22T01:53:23.86+00:00"
     },
@@ -27761,7 +27805,7 @@
       "InstNameShortZH": "SndBlck",
       "InstNamePluralZH": "Sand Blocks",
       "InstAlternate": null,
-      "InstOrder": 1342210316,
+      "InstOrder": 1342210317,
       "InstAdded": "2018-06-01T07:11:16.72+00:00",
       "InstEdited": "2018-06-01T07:11:16.72+00:00"
     },
@@ -27805,7 +27849,7 @@
       "InstNameShortZH": "Bongo",
       "InstNamePluralZH": "Bongos",
       "InstAlternate": null,
-      "InstOrder": 1342210322,
+      "InstOrder": 1342210323,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -27849,7 +27893,7 @@
       "InstNameShortZH": "Congas",
       "InstNamePluralZH": "Congas",
       "InstAlternate": null,
-      "InstOrder": 1342210323,
+      "InstOrder": 1342210324,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -27893,7 +27937,7 @@
       "InstNameShortZH": "Tumba",
       "InstNamePluralZH": "Tumbas",
       "InstAlternate": null,
-      "InstOrder": 1342210324,
+      "InstOrder": 1342210325,
       "InstAdded": "2018-04-20T07:40:05.097+00:00",
       "InstEdited": "2018-04-20T07:40:05.097+00:00"
     },
@@ -27937,7 +27981,7 @@
       "InstNameShortZH": "SteelDr",
       "InstNamePluralZH": "Steel Drums",
       "InstAlternate": "Steel Pan",
-      "InstOrder": 1342210326,
+      "InstOrder": 1342210327,
       "InstAdded": "2013-07-16T11:11:24.48+00:00",
       "InstEdited": "2013-07-16T11:11:24.48+00:00"
     },
@@ -27981,7 +28025,7 @@
       "InstNameShortZH": "Surdo",
       "InstNamePluralZH": "Surdos",
       "InstAlternate": null,
-      "InstOrder": 1342210327,
+      "InstOrder": 1342210328,
       "InstAdded": "2016-10-03T09:42:54.703+00:00",
       "InstEdited": "2016-10-03T09:42:54.703+00:00"
     },
@@ -28025,7 +28069,7 @@
       "InstNameShortZH": "Cuíca",
       "InstNamePluralZH": "Cuícas",
       "InstAlternate": null,
-      "InstOrder": 1342210328,
+      "InstOrder": 1342210329,
       "InstAdded": "2016-12-16T02:52:46.887+00:00",
       "InstEdited": "2016-12-16T02:52:46.887+00:00"
     },
@@ -28069,7 +28113,7 @@
       "InstNameShortZH": "Cajón",
       "InstNamePluralZH": "Cajóns",
       "InstAlternate": null,
-      "InstOrder": 1342210329,
+      "InstOrder": 1342210330,
       "InstAdded": "2019-07-16T12:38:59.023+00:00",
       "InstEdited": "2019-07-16T12:38:59.023+00:00"
     },
@@ -28113,7 +28157,7 @@
       "InstNameShortZH": "Flex",
       "InstNamePluralZH": "Flexatones",
       "InstAlternate": null,
-      "InstOrder": 1342210336,
+      "InstOrder": 1342210337,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -28157,7 +28201,7 @@
       "InstNameShortZH": "SlpStck",
       "InstNamePluralZH": "Slap Sticks",
       "InstAlternate": null,
-      "InstOrder": 1342210337,
+      "InstOrder": 1342210338,
       "InstAdded": "2024-03-17T02:09:52.757+00:00",
       "InstEdited": "2024-03-17T02:09:52.757+00:00"
     },
@@ -28201,7 +28245,7 @@
       "InstNameShortZH": "Whip",
       "InstNamePluralZH": "Whips",
       "InstAlternate": null,
-      "InstOrder": 1342210338,
+      "InstOrder": 1342210339,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -28245,7 +28289,7 @@
       "InstNameShortZH": "LnsRr",
       "InstNamePluralZH": "Lion's Roar",
       "InstAlternate": "String Drum",
-      "InstOrder": 1342210339,
+      "InstOrder": 1342210340,
       "InstAdded": "2016-12-09T00:12:16.137+00:00",
       "InstEdited": "2016-12-22T23:19:02.01+00:00"
     },
@@ -28289,7 +28333,7 @@
       "InstNameShortZH": "Bones",
       "InstNamePluralZH": "Bones",
       "InstAlternate": null,
-      "InstOrder": 1342210340,
+      "InstOrder": 1342210341,
       "InstAdded": "2018-07-10T16:03:04.72+00:00",
       "InstEdited": "2018-07-10T16:03:04.72+00:00"
     },
@@ -28333,7 +28377,7 @@
       "InstNameShortZH": "Metal",
       "InstNamePluralZH": "Metals",
       "InstAlternate": null,
-      "InstOrder": 1342210345,
+      "InstOrder": 1342210346,
       "InstAdded": "2013-04-24T01:17:27.447+00:00",
       "InstEdited": "2013-04-24T01:17:27.447+00:00"
     },
@@ -28377,7 +28421,7 @@
       "InstNameShortZH": "PceOfLead",
       "InstNamePluralZH": "Piece of leads",
       "InstAlternate": null,
-      "InstOrder": 1342210346,
+      "InstOrder": 1342210347,
       "InstAdded": "0001-01-01T00:00:00",
       "InstEdited": "0001-01-01T00:00:00"
     },
@@ -28421,7 +28465,7 @@
       "InstNameShortZH": "Chain",
       "InstNamePluralZH": "Chains",
       "InstAlternate": null,
-      "InstOrder": 1342210347,
+      "InstOrder": 1342210348,
       "InstAdded": "2014-07-29T03:03:07.64+00:00",
       "InstEdited": "2016-01-21T06:56:05.857+00:00"
     },
@@ -28465,7 +28509,7 @@
       "InstNameShortZH": "AxeBlow",
       "InstNamePluralZH": "Axe Blows",
       "InstAlternate": null,
-      "InstOrder": 1342210348,
+      "InstOrder": 1342210349,
       "InstAdded": "2016-11-17T22:25:26.9+00:00",
       "InstEdited": "2016-11-17T22:25:26.9+00:00"
     },
@@ -28509,7 +28553,7 @@
       "InstNameShortZH": "Boobam",
       "InstNamePluralZH": "Boobams",
       "InstAlternate": null,
-      "InstOrder": 1342210349,
+      "InstOrder": 1342210350,
       "InstAdded": "2018-03-08T17:31:28.417+00:00",
       "InstEdited": "2018-03-08T17:31:28.417+00:00"
     },
@@ -28553,7 +28597,7 @@
       "InstNameShortZH": "Whistle",
       "InstNamePluralZH": "Whistles",
       "InstAlternate": null,
-      "InstOrder": 1342210354,
+      "InstOrder": 1342210355,
       "InstAdded": "2013-04-24T01:18:58.297+00:00",
       "InstEdited": "2018-06-14T09:28:03.287+00:00"
     },
@@ -28597,7 +28641,7 @@
       "InstNameShortZH": "PnnyWhstl",
       "InstNamePluralZH": "Penny Whistles",
       "InstAlternate": null,
-      "InstOrder": 1342210355,
+      "InstOrder": 1342210356,
       "InstAdded": "2018-04-20T07:43:09.71+00:00",
       "InstEdited": "2018-06-14T09:28:32.007+00:00"
     },
@@ -28641,7 +28685,7 @@
       "InstNameShortZH": "SlWhistle",
       "InstNamePluralZH": "Slide Whistles",
       "InstAlternate": "Swanee\rSwannee Whistle\rPiston flute \rJazz flute",
-      "InstOrder": 1342210360,
+      "InstOrder": 1342210361,
       "InstAdded": "2013-04-24T01:27:38.93+00:00",
       "InstEdited": "2018-06-14T09:28:52.083+00:00"
     },
@@ -28685,7 +28729,7 @@
       "InstNameShortZH": "SwWhistle",
       "InstNamePluralZH": "Swanee Whistles",
       "InstAlternate": null,
-      "InstOrder": 1342210361,
+      "InstOrder": 1342210362,
       "InstAdded": "2016-05-25T22:11:11.667+00:00",
       "InstEdited": "2016-05-25T22:11:11.667+00:00"
     },
@@ -28729,7 +28773,7 @@
       "InstNameShortZH": "PoliceWhis",
       "InstNamePluralZH": "Police Whistles",
       "InstAlternate": null,
-      "InstOrder": 1342210362,
+      "InstOrder": 1342210363,
       "InstAdded": "2017-01-10T11:07:35.523+00:00",
       "InstEdited": "2017-01-10T11:07:35.523+00:00"
     },
@@ -28773,7 +28817,7 @@
       "InstNameShortZH": "BtnlWhstle",
       "InstNamePluralZH": "Bitonal Whistles",
       "InstAlternate": null,
-      "InstOrder": 1342210363,
+      "InstOrder": 1342210364,
       "InstAdded": "2018-03-20T14:56:24.257+00:00",
       "InstEdited": "2018-03-20T14:56:24.257+00:00"
     },
@@ -28817,7 +28861,7 @@
       "InstNameShortZH": "JewsHarp",
       "InstNamePluralZH": "Jew's Harps",
       "InstAlternate": "Jaw Harp\rMouth harp",
-      "InstOrder": 1342210364,
+      "InstOrder": 1342210365,
       "InstAdded": "2019-04-16T14:50:56.117+00:00",
       "InstEdited": "2019-04-16T14:50:56.117+00:00"
     },
@@ -28861,7 +28905,7 @@
       "InstNameShortZH": "Mallets",
       "InstNamePluralZH": "Mallets",
       "InstAlternate": null,
-      "InstOrder": 1342210369,
+      "InstOrder": 1342210370,
       "InstAdded": "2014-04-17T06:19:06.71+00:00",
       "InstEdited": "2014-04-17T06:19:06.71+00:00"
     },
@@ -28905,7 +28949,7 @@
       "InstNameShortZH": "MlltMdCn",
       "InstNamePluralZH": "Mallet MIDI Controllers",
       "InstAlternate": null,
-      "InstOrder": 1342210370,
+      "InstOrder": 1342210371,
       "InstAdded": "2019-03-25T14:26:03.803+00:00",
       "InstEdited": "2019-03-26T08:17:52.293+00:00"
     },
@@ -28949,7 +28993,7 @@
       "InstNameShortZH": "Octapad",
       "InstNamePluralZH": "Octapads",
       "InstAlternate": null,
-      "InstOrder": 1342210375,
+      "InstOrder": 1342210376,
       "InstAdded": "2013-10-03T06:10:06.63+00:00",
       "InstEdited": "2013-10-03T06:10:06.63+00:00"
     },
@@ -28993,7 +29037,7 @@
       "InstNameShortZH": "TunedPerc",
       "InstNamePluralZH": "Tuned Percussion",
       "InstAlternate": null,
-      "InstOrder": 1342210376,
+      "InstOrder": 1342210377,
       "InstAdded": "2014-05-11T04:44:05.47+00:00",
       "InstEdited": "2017-11-25T14:10:29.833+00:00"
     },
@@ -29037,7 +29081,7 @@
       "InstNameShortZH": "UnPtchPerc",
       "InstNamePluralZH": "Unpitched Percussion",
       "InstAlternate": null,
-      "InstOrder": 1342210383,
+      "InstOrder": 1342210384,
       "InstAdded": "2014-05-11T04:45:09.397+00:00",
       "InstEdited": "2014-05-11T04:45:09.397+00:00"
     },
@@ -29081,7 +29125,7 @@
       "InstNameShortZH": "KbdPerc",
       "InstNamePluralZH": "Keyboard Percussion",
       "InstAlternate": null,
-      "InstOrder": 1342210384,
+      "InstOrder": 1342210385,
       "InstAdded": "2016-03-14T07:05:50.11+00:00",
       "InstEdited": "2016-03-14T07:05:50.11+00:00"
     },
@@ -29125,7 +29169,7 @@
       "InstNameShortZH": "TapDance",
       "InstNamePluralZH": "Tap Dances",
       "InstAlternate": null,
-      "InstOrder": 1342210385,
+      "InstOrder": 1342210386,
       "InstAdded": "2016-09-09T01:36:50.647+00:00",
       "InstEdited": "2016-09-09T01:36:50.647+00:00"
     },
@@ -29169,7 +29213,7 @@
       "InstNameShortZH": "BdyPerc",
       "InstNamePluralZH": "Body Percussion",
       "InstAlternate": null,
-      "InstOrder": 1342210386,
+      "InstOrder": 1342210387,
       "InstAdded": "2018-11-27T10:08:20.19+00:00",
       "InstEdited": "2018-11-27T10:08:20.19+00:00"
     },
@@ -35994,6 +36038,50 @@
       "InstEdited": "2013-04-23T23:58:20.767+00:00"
     },
     {
+      "InstID": 1114,
+      "InstUIC": 3276933,
+      "InstIcon": "Percussion",
+      "InstFamily": "5.Other",
+      "InstGenus": "Electronics",
+      "InstName": "Sampler Disk",
+      "InstNameShort": "SamplerDsk",
+      "InstNamePlural": "Sampler Disks",
+      "InstNameDE": "Sampler-Disk",
+      "InstNameShortDE": "Smplr-Dsk",
+      "InstNamePluralDE": "Sampler-Disks",
+      "InstNameFR": "Disque d'échantillon",
+      "InstNameShortFR": "Disqued'éc",
+      "InstNamePluralFR": "Disques d'échantillons",
+      "InstNameIT": "Disco campionatore",
+      "InstNameShortIT": "DiscoCampi",
+      "InstNamePluralIT": "Dischi campionatori",
+      "InstNameES": "Disco de muestra",
+      "InstNameShortES": "Discodemst",
+      "InstNamePluralES": "Discos de muestra",
+      "InstNameJA": "サンプラーディスク",
+      "InstNameShortJA": "サンプラーディスク",
+      "InstNamePluralJA": "サンプラーディスク",
+      "InstNameKO": "샘플러 디스크",
+      "InstNameShortKO": "샘플러디스크",
+      "InstNamePluralKO": "샘플러 디스크",
+      "InstNamePL": "Dysk próbny",
+      "InstNameShortPL": "Diskpróbny",
+      "InstNamePluralPL": "Dyski próbne",
+      "InstNamePT": "Disco de amostragem",
+      "InstNameShortPT": "Discodemst",
+      "InstNamePluralPT": "Discos de amostragem",
+      "InstNameRU": "Диск сэмплера",
+      "InstNameShortRU": "Дисксэмпле",
+      "InstNamePluralRU": "Диски сэмплера",
+      "InstNameZH": "采样盘",
+      "InstNameShortZH": "采样盘",
+      "InstNamePluralZH": "采样盘",
+      "InstAlternate": null,
+      "InstOrder": 1342390280,
+      "InstAdded": "2024-11-25T00:04:54.397+00:00",
+      "InstEdited": "2024-11-25T00:04:54.397+00:00"
+    },
+    {
       "InstID": 1007,
       "InstUIC": 2490501,
       "InstIcon": null,
@@ -36033,7 +36121,7 @@
       "InstNameShortZH": "USBDrive",
       "InstNamePluralZH": "USB Drives",
       "InstAlternate": null,
-      "InstOrder": 1342390280,
+      "InstOrder": 1342390281,
       "InstAdded": "2021-03-24T06:35:20.56+00:00",
       "InstEdited": "2021-03-24T06:35:20.56+00:00"
     },
@@ -36077,7 +36165,7 @@
       "InstNameShortZH": "SynthDisk",
       "InstNamePluralZH": "Synthesizer Disks",
       "InstAlternate": null,
-      "InstOrder": 1342390282,
+      "InstOrder": 1342390283,
       "InstAdded": "2013-10-16T10:07:02.257+00:00",
       "InstEdited": "2013-10-16T10:07:02.257+00:00"
     },
@@ -36121,7 +36209,7 @@
       "InstNameShortZH": "Laptop",
       "InstNamePluralZH": "Laptops",
       "InstAlternate": null,
-      "InstOrder": 1342390284,
+      "InstOrder": 1342390285,
       "InstAdded": "2013-04-24T01:13:02.727+00:00",
       "InstEdited": "2013-04-24T01:13:02.727+00:00"
     },
@@ -36165,7 +36253,7 @@
       "InstNameShortZH": "Computer",
       "InstNamePluralZH": "Computers",
       "InstAlternate": null,
-      "InstOrder": 1342390285,
+      "InstOrder": 1342390286,
       "InstAdded": "2019-03-11T15:24:10.87+00:00",
       "InstEdited": "2019-03-11T15:24:10.87+00:00"
     },
@@ -36209,7 +36297,7 @@
       "InstNameShortZH": "Tablet",
       "InstNamePluralZH": "Tablets",
       "InstAlternate": null,
-      "InstOrder": 1342390286,
+      "InstOrder": 1342390287,
       "InstAdded": "2022-08-24T16:00:47.35+00:00",
       "InstEdited": "2022-08-29T08:15:46.447+00:00"
     },
@@ -36253,7 +36341,7 @@
       "InstNameShortZH": "鼓机",
       "InstNamePluralZH": "鼓机",
       "InstAlternate": null,
-      "InstOrder": 1342390287,
+      "InstOrder": 1342390288,
       "InstAdded": "2024-08-20T09:09:24.603+00:00",
       "InstEdited": "2024-08-20T09:45:53.657+00:00"
     },
@@ -36297,7 +36385,7 @@
       "InstNameShortZH": "TV",
       "InstNamePluralZH": "TVs",
       "InstAlternate": null,
-      "InstOrder": 1342390288,
+      "InstOrder": 1342390289,
       "InstAdded": "2021-03-24T01:49:01.7+00:00",
       "InstEdited": "2021-03-24T01:49:01.7+00:00"
     },
@@ -36341,7 +36429,7 @@
       "InstNameShortZH": "Radio",
       "InstNamePluralZH": "Radios",
       "InstAlternate": null,
-      "InstOrder": 1342390289,
+      "InstOrder": 1342390290,
       "InstAdded": "2023-09-29T06:59:45.18+00:00",
       "InstEdited": "2023-09-29T06:59:45.18+00:00"
     },
@@ -36385,7 +36473,7 @@
       "InstNameShortZH": "Phone",
       "InstNamePluralZH": "Phones",
       "InstAlternate": null,
-      "InstOrder": 1342390291,
+      "InstOrder": 1342390292,
       "InstAdded": "2022-10-05T06:08:43.69+00:00",
       "InstEdited": "2022-10-05T06:08:43.69+00:00"
     },
@@ -36429,7 +36517,7 @@
       "InstNameShortZH": "手机",
       "InstNamePluralZH": "手机",
       "InstAlternate": "Mobile Phone",
-      "InstOrder": 1342390292,
+      "InstOrder": 1342390293,
       "InstAdded": "2024-03-17T02:35:48.137+00:00",
       "InstEdited": "2024-03-17T02:35:48.137+00:00"
     },
@@ -36473,7 +36561,7 @@
       "InstNameShortZH": "File",
       "InstNamePluralZH": "Files",
       "InstAlternate": null,
-      "InstOrder": 1342390295,
+      "InstOrder": 1342390296,
       "InstAdded": "2018-02-01T19:53:40.43+00:00",
       "InstEdited": "2018-02-01T19:53:40.43+00:00"
     },
@@ -36517,7 +36605,7 @@
       "InstNameShortZH": "CssttRec",
       "InstNamePluralZH": "Cassette Recorders",
       "InstAlternate": null,
-      "InstOrder": 1342390296,
+      "InstOrder": 1342390297,
       "InstAdded": "2018-03-23T17:45:17.243+00:00",
       "InstEdited": "2018-03-23T17:45:17.243+00:00"
     },
@@ -36561,7 +36649,7 @@
       "InstNameShortZH": "B&WFilm",
       "InstNamePluralZH": "B&W Films",
       "InstAlternate": null,
-      "InstOrder": 1342390297,
+      "InstOrder": 1342390298,
       "InstAdded": "2021-03-24T01:46:27.693+00:00",
       "InstEdited": "2021-03-24T01:46:27.693+00:00"
     },
@@ -36605,7 +36693,7 @@
       "InstNameShortZH": "ClrFlm",
       "InstNamePluralZH": "Colour Films",
       "InstAlternate": null,
-      "InstOrder": 1342390299,
+      "InstOrder": 1342390300,
       "InstAdded": "2021-03-24T01:46:03.1+00:00",
       "InstEdited": "2021-03-24T01:46:03.1+00:00"
     },
@@ -36649,7 +36737,7 @@
       "InstNameShortZH": "35mmFlmPrn",
       "InstNamePluralZH": "35mm Film Prints",
       "InstAlternate": null,
-      "InstOrder": 1342390301,
+      "InstOrder": 1342390302,
       "InstAdded": "2018-10-09T10:42:56.78+00:00",
       "InstEdited": "2018-10-09T10:42:56.78+00:00"
     },
@@ -36693,7 +36781,7 @@
       "InstNameShortZH": "DgBtFlmPrn",
       "InstNamePluralZH": "DigiBeta Film Prints",
       "InstAlternate": null,
-      "InstOrder": 1342390302,
+      "InstOrder": 1342390303,
       "InstAdded": "2018-10-09T10:44:37.89+00:00",
       "InstEdited": "2018-10-09T10:44:37.89+00:00"
     },
@@ -36737,7 +36825,7 @@
       "InstNameShortZH": "Ldspkr",
       "InstNamePluralZH": "Loudspeakers",
       "InstAlternate": null,
-      "InstOrder": 1342390306,
+      "InstOrder": 1342390307,
       "InstAdded": "2018-03-20T14:49:10.537+00:00",
       "InstEdited": "2018-03-20T14:49:10.537+00:00"
     },
@@ -36781,7 +36869,7 @@
       "InstNameShortZH": "EffctsPdl",
       "InstNamePluralZH": "Effects Pedals",
       "InstAlternate": null,
-      "InstOrder": 1342390307,
+      "InstOrder": 1342390308,
       "InstAdded": "2019-05-01T12:56:29.603+00:00",
       "InstEdited": "2019-05-01T12:56:29.603+00:00"
     },
@@ -36825,7 +36913,7 @@
       "InstNameShortZH": "DelayPdl",
       "InstNamePluralZH": "Delay Pedals",
       "InstAlternate": null,
-      "InstOrder": 1342390308,
+      "InstOrder": 1342390309,
       "InstAdded": "2019-05-01T12:56:51.347+00:00",
       "InstEdited": "2019-05-01T12:56:51.347+00:00"
     },
