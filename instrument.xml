@@ -19001,42 +19001,86 @@ High Sheng</InstNameAlt>
     <InstUIC>1179732</InstUIC>
     <InstFamily>4.Brass</InstFamily>
     <InstGenus>Cornets</InstGenus>
+    <InstIcon>Cornet</InstIcon>
     <InstName>Repiano Cornet</InstName>
     <InstNameShort>RepCrt</InstNameShort>
     <InstNamePlural>Repiano Cornets</InstNamePlural>
-    <InstNameDE>Repiano Cornet</InstNameDE>
-    <InstNameShortDE>RepCrt</InstNameShortDE>
-    <InstNamePluralDE>Repiano Cornets</InstNamePluralDE>
-    <InstNameFR>Repiano Cornet</InstNameFR>
-    <InstNameShortFR>RepCrt</InstNameShortFR>
-    <InstNamePluralFR>Repiano Cornets</InstNamePluralFR>
-    <InstNameIT>Repiano Cornet</InstNameIT>
-    <InstNameShortIT>RepCrt</InstNameShortIT>
-    <InstNamePluralIT>Repiano Cornets</InstNamePluralIT>
-    <InstNameES>Repiano Cornet</InstNameES>
-    <InstNameShortES>RepCrt</InstNameShortES>
-    <InstNamePluralES>Repiano Cornets</InstNamePluralES>
-    <InstNameJA>Repiano Cornet</InstNameJA>
-    <InstNameShortJA>RepCrt</InstNameShortJA>
-    <InstNamePluralJA>Repiano Cornets</InstNamePluralJA>
-    <InstNameKO>Repiano Cornet</InstNameKO>
-    <InstNameShortKO>RepCrt</InstNameShortKO>
-    <InstNamePluralKO>Repiano Cornets</InstNamePluralKO>
-    <InstNamePL>Repiano Cornet</InstNamePL>
-    <InstNameShortPL>RepCrt</InstNameShortPL>
-    <InstNamePluralPL>Repiano Cornets</InstNamePluralPL>
-    <InstNamePT>Repiano Cornet</InstNamePT>
-    <InstNameShortPT>RepCrt</InstNameShortPT>
-    <InstNamePluralPT>Repiano Cornets</InstNamePluralPT>
-    <InstNameRU>Repiano Cornet</InstNameRU>
-    <InstNameShortRU>RepCrt</InstNameShortRU>
-    <InstNamePluralRU>Repiano Cornets</InstNamePluralRU>
-    <InstNameZH>Repiano Cornet</InstNameZH>
-    <InstNameShortZH>RepCrt</InstNameShortZH>
-    <InstNamePluralZH>Repiano Cornets</InstNamePluralZH>
+    <InstNameDE>Repiano-Kornett</InstNameDE>
+    <InstNameShortDE>RpnKrntt</InstNameShortDE>
+    <InstNamePluralDE>Repiano-Kornette</InstNamePluralDE>
+    <InstNameFR>Cornet Repiano</InstNameFR>
+    <InstNameShortFR>CrntRpn</InstNameShortFR>
+    <InstNamePluralFR>Cornets Repiano</InstNamePluralFR>
+    <InstNameIT>Cornetta Repiano</InstNameIT>
+    <InstNameShortIT>CornettaRp</InstNameShortIT>
+    <InstNamePluralIT>Cornette Repiano</InstNamePluralIT>
+    <InstNameES>Corneta Repiano</InstNameES>
+    <InstNameShortES>CrtRpn</InstNameShortES>
+    <InstNamePluralES>Cornetas Repiano</InstNamePluralES>
+    <InstNameJA>レピアノコルネット</InstNameJA>
+    <InstNameShortJA>レピアノコルネット</InstNameShortJA>
+    <InstNamePluralJA>レピアノコルネット</InstNamePluralJA>
+    <InstNameKO>레피아노 코넷</InstNameKO>
+    <InstNameShortKO>레피아노코넷</InstNameShortKO>
+    <InstNamePluralKO>레피아노 코넷</InstNamePluralKO>
+    <InstNamePL>Kornet Repiano</InstNamePL>
+    <InstNameShortPL>CrtRpn</InstNameShortPL>
+    <InstNamePluralPL>Kornety Repiano</InstNamePluralPL>
+    <InstNamePT>Cornet Repiano</InstNamePT>
+    <InstNameShortPT>CrntRpn</InstNameShortPT>
+    <InstNamePluralPT>Cornetas Repiano</InstNamePluralPT>
+    <InstNameRU>Корнет для фортепиано</InstNameRU>
+    <InstNameShortRU>КорнетдляФ</InstNameShortRU>
+    <InstNamePluralRU>Корнеты для фортепиано</InstNamePluralRU>
+    <InstNameZH>钢琴短号</InstNameZH>
+    <InstNameShortZH>钢琴短号</InstNameShortZH>
+    <InstNamePluralZH>钢琴短号</InstNamePluralZH>
     <InstOrder>1073807389</InstOrder>
     <InstAdded>2018-10-03T07:23:50.477+00:00</InstAdded>
-    <InstEdited>2018-10-03T07:25:41.49+00:00</InstEdited>
+    <InstEdited>2024-11-26T00:10:59.04+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1115</InstID>
+    <InstUIC>1704020</InstUIC>
+    <InstFamily>4.Brass</InstFamily>
+    <InstGenus>Cornets</InstGenus>
+    <InstIcon>Cornet</InstIcon>
+    <InstName>Antiphonal Cornet</InstName>
+    <InstNameShort>AntphnlCrt</InstNameShort>
+    <InstNamePlural>Antiphonal Cornets</InstNamePlural>
+    <InstNameDE>Antiphonisches Kornett</InstNameDE>
+    <InstNameShortDE>Antphnschs</InstNameShortDE>
+    <InstNamePluralDE>Antiphonische Kornette</InstNamePluralDE>
+    <InstNameFR>Cornet antiphonal</InstNameFR>
+    <InstNameShortFR>Crntntphnl</InstNameShortFR>
+    <InstNamePluralFR>Cornets antiphonaux</InstNamePluralFR>
+    <InstNameIT>Cornetta antifonale</InstNameIT>
+    <InstNameShortIT>Cornettant</InstNameShortIT>
+    <InstNamePluralIT>Cornetti antifonali</InstNamePluralIT>
+    <InstNameES>Corneta antifonal</InstNameES>
+    <InstNameShortES>Crtntfnl</InstNameShortES>
+    <InstNamePluralES>Cornetas antifonales</InstNamePluralES>
+    <InstNameJA>アンティフォナルコルネット</InstNameJA>
+    <InstNameShortJA>アンティフォナルコル</InstNameShortJA>
+    <InstNamePluralJA>アンティフォナルコルネット</InstNamePluralJA>
+    <InstNameKO>대위법 코넷</InstNameKO>
+    <InstNameShortKO>대위법코넷</InstNameShortKO>
+    <InstNamePluralKO>대위법 코넷</InstNamePluralKO>
+    <InstNamePL>Kornet antyfonalny</InstNamePL>
+    <InstNameShortPL>Crtntyfnln</InstNameShortPL>
+    <InstNamePluralPL>Kornety antyfonalne</InstNamePluralPL>
+    <InstNamePT>Cornetim Antifonal</InstNamePT>
+    <InstNameShortPT>CrntmAntfn</InstNameShortPT>
+    <InstNamePluralPT>Cornetas Antifonais</InstNamePluralPT>
+    <InstNameRU>Антифонный корнет</InstNameRU>
+    <InstNameShortRU>Антифонный</InstNameShortRU>
+    <InstNamePluralRU>Антифонные корнеты</InstNamePluralRU>
+    <InstNameZH>对唱短号</InstNameZH>
+    <InstNameShortZH>对唱短号</InstNameShortZH>
+    <InstNamePluralZH>对唱短号</InstNamePluralZH>
+    <InstOrder>1073807390</InstOrder>
+    <InstAdded>2024-11-26T00:09:28.407+00:00</InstAdded>
+    <InstEdited>2024-11-26T00:11:26.84+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>370</InstID>
