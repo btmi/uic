@@ -10162,6 +10162,49 @@
     <InstEdited>2017-11-25T13:11:30.373+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1124</InstID>
+    <InstUIC>2359322</InstUIC>
+    <InstFamily>2.Vocal</InstFamily>
+    <InstGenus>Chorus Parts</InstGenus>
+    <InstIcon>Voice</InstIcon>
+    <InstName>Choir and Piano</InstName>
+    <InstNameShort>Ch&amp;Pno</InstNameShort>
+    <InstNamePlural>Choir and Pianos</InstNamePlural>
+    <InstNameDE>Chorauszug</InstNameDE>
+    <InstNameShortDE>Chrszg</InstNameShortDE>
+    <InstNamePluralDE>Chorauszug</InstNamePluralDE>
+    <InstNameFR>Chorale et Piano</InstNameFR>
+    <InstNameShortFR>Chrl&amp;Pno</InstNameShortFR>
+    <InstNamePluralFR>Choeur et Pianos</InstNamePluralFR>
+    <InstNameIT>Coro e pianoforte</InstNameIT>
+    <InstNameShortIT>Coro&amp;Piano</InstNameShortIT>
+    <InstNamePluralIT>Coro e Pianoforti</InstNamePluralIT>
+    <InstNameES>Coro y piano</InstNameES>
+    <InstNameShortES>Coro&amp;Pno</InstNameShortES>
+    <InstNamePluralES>Coro y pianos</InstNamePluralES>
+    <InstNameJA>合唱とピアノ</InstNameJA>
+    <InstNameShortJA>合唱とピアノ</InstNameShortJA>
+    <InstNamePluralJA>合唱とピアノ</InstNamePluralJA>
+    <InstNameKO>합창과 피아노</InstNameKO>
+    <InstNameShortKO>합창과피아노</InstNameShortKO>
+    <InstNamePluralKO>합창단과 피아노</InstNamePluralKO>
+    <InstNamePL>Chór i fortepian</InstNamePL>
+    <InstNameShortPL>Chi&amp;Pno</InstNameShortPL>
+    <InstNamePluralPL>Chór i fortepiany</InstNamePluralPL>
+    <InstNamePT>Coro e Piano</InstNamePT>
+    <InstNameShortPT>Coro&amp;Piano</InstNameShortPT>
+    <InstNamePluralPT>Coro e Pianos</InstNamePluralPT>
+    <InstNameRU>Хор и фортепиано</InstNameRU>
+    <InstNameShortRU>ХориФортеп</InstNameShortRU>
+    <InstNamePluralRU>Хор и фортепиано</InstNamePluralRU>
+    <InstNameZH>合唱团和钢琴</InstNameZH>
+    <InstNameShortZH>合唱团和钢琴</InstNameShortZH>
+    <InstNamePluralZH>合唱团和钢琴</InstNamePluralZH>
+    <InstOrder>537018398</InstOrder>
+    <InstAdded>2024-12-10T21:50:09.06+00:00</InstAdded>
+    <InstEdited>2024-12-10T21:50:09.06+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>309</InstID>
     <InstUIC>1179674</InstUIC>
     <InstFamily>2.Vocal</InstFamily>
