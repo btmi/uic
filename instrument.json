@@ -10616,7 +10616,7 @@
       "InstNamePlural": "Choir and Pianos",
       "InstNameDE": "Chorauszug",
       "InstNameShortDE": "Chrszg",
-      "InstNamePluralDE": "Chorauszug",
+      "InstNamePluralDE": "Chorauszüge",
       "InstNameFR": "Chorale et Piano",
       "InstNameShortFR": "Chrl&Pno",
       "InstNamePluralFR": "Choeur et Pianos",
@@ -10647,7 +10647,7 @@
       "InstAlternate": null,
       "InstOrder": 537018398,
       "InstAdded": "2024-12-10T21:50:09.06+00:00",
-      "InstEdited": "2024-12-10T21:50:09.06+00:00"
+      "InstEdited": "2024-12-13T00:40:35.86+00:00"
     },
     {
       "InstID": 309,
