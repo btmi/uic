@@ -450,9 +450,9 @@
     <InstNameKO>관악기 악보</InstNameKO>
     <InstNameShortKO>관악기 악보</InstNameShortKO>
     <InstNamePluralKO>관악기 악보들</InstNamePluralKO>
-    <InstNamePL>Wind Score</InstNamePL>
-    <InstNameShortPL>WindSc</InstNameShortPL>
-    <InstNamePluralPL>Wind Scores</InstNamePluralPL>
+    <InstNamePL>Partytura dętych drewnianych</InstNamePL>
+    <InstNameShortPL>PartDętDre</InstNameShortPL>
+    <InstNamePluralPL>Partytury dętych drewnianych</InstNamePluralPL>
     <InstNamePT>Partitura para instrumentos de sopro</InstNamePT>
     <InstNameShortPT>Partitura </InstNameShortPT>
     <InstNamePluralPT>Partitura para instrumentos de sopro</InstNamePluralPT>
@@ -462,15 +462,16 @@
     <InstNameZH>木管乐谱</InstNameZH>
     <InstNameShortZH>木管乐谱</InstNameShortZH>
     <InstNamePluralZH>木管乐谱</InstNamePluralZH>
-    <InstOrder>268451867</InstOrder>
+    <InstOrder>268451865</InstOrder>
     <InstAdded>2017-01-10T23:31:16.95+00:00</InstAdded>
-    <InstEdited>2017-01-10T23:31:16.95+00:00</InstEdited>
+    <InstEdited>2025-01-14T09:59:22.603+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>616</InstID>
     <InstUIC>3276809</InstUIC>
     <InstFamily>1.General</InstFamily>
     <InstGenus>Scores</InstGenus>
+    <InstIcon>FullScore</InstIcon>
     <InstName>Brass Score</InstName>
     <InstNameShort>BrassSc</InstNameShort>
     <InstNamePlural>Brass Scores</InstNamePlural>
@@ -492,9 +493,9 @@
     <InstNameKO>금관악기 악보</InstNameKO>
     <InstNameShortKO>금관악기 악보</InstNameShortKO>
     <InstNamePluralKO>금관악기 악보들</InstNamePluralKO>
-    <InstNamePL>Brass Score</InstNamePL>
-    <InstNameShortPL>BrassSc</InstNameShortPL>
-    <InstNamePluralPL>Brass Scores</InstNamePluralPL>
+    <InstNamePL>Partytura dętych blaszanych</InstNamePL>
+    <InstNameShortPL>PartDęBlas</InstNameShortPL>
+    <InstNamePluralPL>Partytury dętych blaszanych</InstNamePluralPL>
     <InstNamePT>Partitura para metais</InstNamePT>
     <InstNameShortPT>Partitura </InstNameShortPT>
     <InstNamePluralPT>Partituras para metais</InstNamePluralPT>
@@ -504,9 +505,9 @@
     <InstNameZH>铜管乐谱</InstNameZH>
     <InstNameShortZH>铜管乐谱</InstNameShortZH>
     <InstNamePluralZH>铜管乐谱</InstNamePluralZH>
-    <InstOrder>268451868</InstOrder>
+    <InstOrder>268451866</InstOrder>
     <InstAdded>2017-01-10T23:29:56.823+00:00</InstAdded>
-    <InstEdited>2017-01-10T23:30:53.84+00:00</InstEdited>
+    <InstEdited>2025-01-14T09:57:16.907+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>199</InstID>
@@ -556,6 +557,7 @@
     <InstUIC>3538953</InstUIC>
     <InstFamily>1.General</InstFamily>
     <InstGenus>Scores</InstGenus>
+    <InstIcon>FullScore</InstIcon>
     <InstName>String Score</InstName>
     <InstNameShort>StringSc</InstNameShort>
     <InstNamePlural>String Scores</InstNamePlural>
@@ -577,9 +579,9 @@
     <InstNameKO>현악기 악보</InstNameKO>
     <InstNameShortKO>현악기 악보</InstNameShortKO>
     <InstNamePluralKO>현악기 악보들</InstNamePluralKO>
-    <InstNamePL>String Score</InstNamePL>
-    <InstNameShortPL>StringSc</InstNameShortPL>
-    <InstNamePluralPL>String Scores</InstNamePluralPL>
+    <InstNamePL>Partytura instrumentów smyczkowych</InstNamePL>
+    <InstNameShortPL>PartSmyczk</InstNameShortPL>
+    <InstNamePluralPL>Partytury instrumentów smyczkowych</InstNamePluralPL>
     <InstNamePT>Partitura de cordas</InstNamePT>
     <InstNameShortPT>Partitura </InstNameShortPT>
     <InstNamePluralPT>Partituras de cordas</InstNamePluralPT>
@@ -591,7 +593,7 @@
     <InstNamePluralZH>弦乐谱</InstNamePluralZH>
     <InstOrder>268451870</InstOrder>
     <InstAdded>2017-01-10T23:31:54.26+00:00</InstAdded>
-    <InstEdited>2017-01-10T23:31:54.26+00:00</InstEdited>
+    <InstEdited>2025-01-14T10:03:23.363+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>353</InstID>
@@ -972,6 +974,7 @@
     <InstUIC>4063241</InstUIC>
     <InstFamily>1.General</InstFamily>
     <InstGenus>Scores</InstGenus>
+    <InstIcon>FullScore</InstIcon>
     <InstName>Opera Score</InstName>
     <InstNameShort>OperaSc</InstNameShort>
     <InstNamePlural>Opera Scores</InstNamePlural>
@@ -993,9 +996,9 @@
     <InstNameKO>오페라 악보</InstNameKO>
     <InstNameShortKO>오페라 악보</InstNameShortKO>
     <InstNamePluralKO>오페라 악보들</InstNamePluralKO>
-    <InstNamePL>Opera Score</InstNamePL>
-    <InstNameShortPL>OperaSc</InstNameShortPL>
-    <InstNamePluralPL>Opera Scores</InstNamePluralPL>
+    <InstNamePL>Partytura operowa</InstNamePL>
+    <InstNameShortPL>PartOper</InstNameShortPL>
+    <InstNamePluralPL>Partytury operowe</InstNamePluralPL>
     <InstNamePT>Partitura de ópera</InstNamePT>
     <InstNameShortPT>Partitura </InstNameShortPT>
     <InstNamePluralPT>Partituras de ópera</InstNamePluralPT>
@@ -1007,7 +1010,7 @@
     <InstNamePluralZH>歌剧总谱</InstNamePluralZH>
     <InstOrder>268451882</InstOrder>
     <InstAdded>2018-02-06T05:59:05.62+00:00</InstAdded>
-    <InstEdited>2018-02-06T06:16:56.24+00:00</InstEdited>
+    <InstEdited>2025-01-14T10:05:05.287+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>718</InstID>
@@ -5095,9 +5098,9 @@
     <InstNameKO>타악 앙살블</InstNameKO>
     <InstNameShortKO>타악 앙살블</InstNameShortKO>
     <InstNamePluralKO>타악 앙살블들</InstNamePluralKO>
-    <InstNamePL>Percussion Ensemble</InstNamePL>
+    <InstNamePL>Zespół perkusyjny</InstNamePL>
     <InstNameShortPL>PercEns</InstNameShortPL>
-    <InstNamePluralPL>Percussion Ensembles</InstNamePluralPL>
+    <InstNamePluralPL>Zespoły perkusyjne</InstNamePluralPL>
     <InstNamePT>Conjunto de percussão</InstNamePT>
     <InstNameShortPT>Conjunto d</InstNameShortPT>
     <InstNamePluralPT>Conjuntos de percussão</InstNamePluralPT>
@@ -5107,9 +5110,9 @@
     <InstNameZH>打击乐组合</InstNameZH>
     <InstNameShortZH>打击乐组合</InstNameShortZH>
     <InstNamePluralZH>打击乐组合</InstNamePluralZH>
-    <InstOrder>268582958</InstOrder>
+    <InstOrder>268582955</InstOrder>
     <InstAdded>2017-11-25T13:32:11.877+00:00</InstAdded>
-    <InstEdited>2017-11-25T13:32:11.877+00:00</InstEdited>
+    <InstEdited>2025-01-14T09:45:44.767+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>670</InstID>
@@ -5328,6 +5331,7 @@
     <InstUIC>4063281</InstUIC>
     <InstFamily>1.General</InstFamily>
     <InstGenus>Groups</InstGenus>
+    <InstIcon>Ensemble</InstIcon>
     <InstName>Trombone Ensemble</InstName>
     <InstNameShort>TrbnEnsmbl</InstNameShort>
     <InstNamePlural>Trombone Ensembles</InstNamePlural>
@@ -5349,9 +5353,9 @@
     <InstNameKO>Trombone Ensemble</InstNameKO>
     <InstNameShortKO>TrbnEnsmbl</InstNameShortKO>
     <InstNamePluralKO>Trombone Ensembles</InstNamePluralKO>
-    <InstNamePL>Trombone Ensemble</InstNamePL>
+    <InstNamePL>Zespół puzonowy</InstNamePL>
     <InstNameShortPL>TrbnEnsmbl</InstNameShortPL>
-    <InstNamePluralPL>Trombone Ensembles</InstNamePluralPL>
+    <InstNamePluralPL>Zespoły puzonowe</InstNamePluralPL>
     <InstNamePT>Trombone Ensemble</InstNamePT>
     <InstNameShortPT>TrbnEnsmbl</InstNameShortPT>
     <InstNamePluralPT>Trombone Ensembles</InstNamePluralPT>
@@ -5363,7 +5367,7 @@
     <InstNamePluralZH>Trombone Ensembles</InstNamePluralZH>
     <InstOrder>268582975</InstOrder>
     <InstAdded>2021-03-24T04:44:10.753+00:00</InstAdded>
-    <InstEdited>2021-03-24T04:44:10.753+00:00</InstEdited>
+    <InstEdited>2025-01-14T09:46:36.257+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>978</InstID>
@@ -5496,6 +5500,7 @@
     <InstUIC>4194353</InstUIC>
     <InstFamily>1.General</InstFamily>
     <InstGenus>Groups</InstGenus>
+    <InstIcon>Ensemble</InstIcon>
     <InstName>Marches</InstName>
     <InstNameDE>Marches</InstNameDE>
     <InstNameFR>Marches</InstNameFR>
@@ -5503,13 +5508,13 @@
     <InstNameES>Marches</InstNameES>
     <InstNameJA>Marches</InstNameJA>
     <InstNameKO>Marches</InstNameKO>
-    <InstNamePL>Marches</InstNamePL>
+    <InstNamePL>Marsze</InstNamePL>
     <InstNamePT>Marches</InstNamePT>
     <InstNameRU>Marches</InstNameRU>
     <InstNameZH>Marches</InstNameZH>
     <InstOrder>268582981</InstOrder>
     <InstAdded>2023-09-29T07:12:12.56+00:00</InstAdded>
-    <InstEdited>2023-09-29T07:12:12.56+00:00</InstEdited>
+    <InstEdited>2025-01-14T09:44:13.34+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>1085</InstID>

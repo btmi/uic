@@ -468,9 +468,9 @@
       "InstNameKO": "관악기 악보",
       "InstNameShortKO": "관악기 악보",
       "InstNamePluralKO": "관악기 악보들",
-      "InstNamePL": "Wind Score",
-      "InstNameShortPL": "WindSc",
-      "InstNamePluralPL": "Wind Scores",
+      "InstNamePL": "Partytura dętych drewnianych",
+      "InstNameShortPL": "PartDętDre",
+      "InstNamePluralPL": "Partytury dętych drewnianych",
       "InstNamePT": "Partitura para instrumentos de sopro",
       "InstNameShortPT": "Partitura ",
       "InstNamePluralPT": "Partitura para instrumentos de sopro",
@@ -481,14 +481,14 @@
       "InstNameShortZH": "木管乐谱",
       "InstNamePluralZH": "木管乐谱",
       "InstAlternate": null,
-      "InstOrder": 268451867,
+      "InstOrder": 268451865,
       "InstAdded": "2017-01-10T23:31:16.95+00:00",
-      "InstEdited": "2017-01-10T23:31:16.95+00:00"
+      "InstEdited": "2025-01-14T09:59:22.603+00:00"
     },
     {
       "InstID": 616,
       "InstUIC": 3276809,
-      "InstIcon": null,
+      "InstIcon": "FullScore",
       "InstFamily": "1.General",
       "InstGenus": "Scores",
       "InstName": "Brass Score",
@@ -512,9 +512,9 @@
       "InstNameKO": "금관악기 악보",
       "InstNameShortKO": "금관악기 악보",
       "InstNamePluralKO": "금관악기 악보들",
-      "InstNamePL": "Brass Score",
-      "InstNameShortPL": "BrassSc",
-      "InstNamePluralPL": "Brass Scores",
+      "InstNamePL": "Partytura dętych blaszanych",
+      "InstNameShortPL": "PartDęBlas",
+      "InstNamePluralPL": "Partytury dętych blaszanych",
       "InstNamePT": "Partitura para metais",
       "InstNameShortPT": "Partitura ",
       "InstNamePluralPT": "Partituras para metais",
@@ -525,9 +525,9 @@
       "InstNameShortZH": "铜管乐谱",
       "InstNamePluralZH": "铜管乐谱",
       "InstAlternate": null,
-      "InstOrder": 268451868,
+      "InstOrder": 268451866,
       "InstAdded": "2017-01-10T23:29:56.823+00:00",
-      "InstEdited": "2017-01-10T23:30:53.84+00:00"
+      "InstEdited": "2025-01-14T09:57:16.907+00:00"
     },
     {
       "InstID": 199,
@@ -576,7 +576,7 @@
     {
       "InstID": 618,
       "InstUIC": 3538953,
-      "InstIcon": null,
+      "InstIcon": "FullScore",
       "InstFamily": "1.General",
       "InstGenus": "Scores",
       "InstName": "String Score",
@@ -600,9 +600,9 @@
       "InstNameKO": "현악기 악보",
       "InstNameShortKO": "현악기 악보",
       "InstNamePluralKO": "현악기 악보들",
-      "InstNamePL": "String Score",
-      "InstNameShortPL": "StringSc",
-      "InstNamePluralPL": "String Scores",
+      "InstNamePL": "Partytura instrumentów smyczkowych",
+      "InstNameShortPL": "PartSmyczk",
+      "InstNamePluralPL": "Partytury instrumentów smyczkowych",
       "InstNamePT": "Partitura de cordas",
       "InstNameShortPT": "Partitura ",
       "InstNamePluralPT": "Partituras de cordas",
@@ -615,7 +615,7 @@
       "InstAlternate": null,
       "InstOrder": 268451870,
       "InstAdded": "2017-01-10T23:31:54.26+00:00",
-      "InstEdited": "2017-01-10T23:31:54.26+00:00"
+      "InstEdited": "2025-01-14T10:03:23.363+00:00"
     },
     {
       "InstID": 353,
@@ -1016,7 +1016,7 @@
     {
       "InstID": 717,
       "InstUIC": 4063241,
-      "InstIcon": null,
+      "InstIcon": "FullScore",
       "InstFamily": "1.General",
       "InstGenus": "Scores",
       "InstName": "Opera Score",
@@ -1040,9 +1040,9 @@
       "InstNameKO": "오페라 악보",
       "InstNameShortKO": "오페라 악보",
       "InstNamePluralKO": "오페라 악보들",
-      "InstNamePL": "Opera Score",
-      "InstNameShortPL": "OperaSc",
-      "InstNamePluralPL": "Opera Scores",
+      "InstNamePL": "Partytura operowa",
+      "InstNameShortPL": "PartOper",
+      "InstNamePluralPL": "Partytury operowe",
       "InstNamePT": "Partitura de ópera",
       "InstNameShortPT": "Partitura ",
       "InstNamePluralPT": "Partituras de ópera",
@@ -1055,7 +1055,7 @@
       "InstAlternate": null,
       "InstOrder": 268451882,
       "InstAdded": "2018-02-06T05:59:05.62+00:00",
-      "InstEdited": "2018-02-06T06:16:56.24+00:00"
+      "InstEdited": "2025-01-14T10:05:05.287+00:00"
     },
     {
       "InstID": 718,
@@ -5308,9 +5308,9 @@
       "InstNameKO": "타악 앙살블",
       "InstNameShortKO": "타악 앙살블",
       "InstNamePluralKO": "타악 앙살블들",
-      "InstNamePL": "Percussion Ensemble",
+      "InstNamePL": "Zespół perkusyjny",
       "InstNameShortPL": "PercEns",
-      "InstNamePluralPL": "Percussion Ensembles",
+      "InstNamePluralPL": "Zespoły perkusyjne",
       "InstNamePT": "Conjunto de percussão",
       "InstNameShortPT": "Conjunto d",
       "InstNamePluralPT": "Conjuntos de percussão",
@@ -5321,9 +5321,9 @@
       "InstNameShortZH": "打击乐组合",
       "InstNamePluralZH": "打击乐组合",
       "InstAlternate": null,
-      "InstOrder": 268582958,
+      "InstOrder": 268582955,
       "InstAdded": "2017-11-25T13:32:11.877+00:00",
-      "InstEdited": "2017-11-25T13:32:11.877+00:00"
+      "InstEdited": "2025-01-14T09:45:44.767+00:00"
     },
     {
       "InstID": 670,
@@ -5548,7 +5548,7 @@
     {
       "InstID": 1000,
       "InstUIC": 4063281,
-      "InstIcon": null,
+      "InstIcon": "Ensemble",
       "InstFamily": "1.General",
       "InstGenus": "Groups",
       "InstName": "Trombone Ensemble",
@@ -5572,9 +5572,9 @@
       "InstNameKO": "Trombone Ensemble",
       "InstNameShortKO": "TrbnEnsmbl",
       "InstNamePluralKO": "Trombone Ensembles",
-      "InstNamePL": "Trombone Ensemble",
+      "InstNamePL": "Zespół puzonowy",
       "InstNameShortPL": "TrbnEnsmbl",
-      "InstNamePluralPL": "Trombone Ensembles",
+      "InstNamePluralPL": "Zespoły puzonowe",
       "InstNamePT": "Trombone Ensemble",
       "InstNameShortPT": "TrbnEnsmbl",
       "InstNamePluralPT": "Trombone Ensembles",
@@ -5587,7 +5587,7 @@
       "InstAlternate": null,
       "InstOrder": 268582975,
       "InstAdded": "2021-03-24T04:44:10.753+00:00",
-      "InstEdited": "2021-03-24T04:44:10.753+00:00"
+      "InstEdited": "2025-01-14T09:46:36.257+00:00"
     },
     {
       "InstID": 978,
@@ -5724,7 +5724,7 @@
     {
       "InstID": 1084,
       "InstUIC": 4194353,
-      "InstIcon": null,
+      "InstIcon": "Ensemble",
       "InstFamily": "1.General",
       "InstGenus": "Groups",
       "InstName": "Marches",
@@ -5748,7 +5748,7 @@
       "InstNameKO": "Marches",
       "InstNameShortKO": null,
       "InstNamePluralKO": null,
-      "InstNamePL": "Marches",
+      "InstNamePL": "Marsze",
       "InstNameShortPL": null,
       "InstNamePluralPL": null,
       "InstNamePT": "Marches",
@@ -5763,7 +5763,7 @@
       "InstAlternate": null,
       "InstOrder": 268582981,
       "InstAdded": "2023-09-29T07:12:12.56+00:00",
-      "InstEdited": "2023-09-29T07:12:12.56+00:00"
+      "InstEdited": "2025-01-14T09:44:13.34+00:00"
     },
     {
       "InstID": 1085,
