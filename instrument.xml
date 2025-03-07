@@ -34406,6 +34406,49 @@ High Sheng</InstNameAlt>
     <InstEdited>2017-04-03T13:04:57.88+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1125</InstID>
+    <InstUIC>9044085</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Effects</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstName>Dinner Bell</InstName>
+    <InstNameShort>DnnrBell</InstNameShort>
+    <InstNamePlural>Dinner Bells</InstNamePlural>
+    <InstNameDE>Abendessen Glocke</InstNameDE>
+    <InstNameShortDE>AbndssnGl</InstNameShortDE>
+    <InstNamePluralDE>Abendessen Glocke</InstNamePluralDE>
+    <InstNameFR>Cloche du dîner</InstNameFR>
+    <InstNameShortFR>Cl.dudînr</InstNameShortFR>
+    <InstNamePluralFR>Cloches du dîner</InstNamePluralFR>
+    <InstNameIT>Campanello della cena</InstNameIT>
+    <InstNameShortIT>Cmpnlldllc</InstNameShortIT>
+    <InstNamePluralIT>Campanelli per la cena</InstNamePluralIT>
+    <InstNameES>Sonido para la comida</InstNameES>
+    <InstNameShortES>Sndprlacmd</InstNameShortES>
+    <InstNamePluralES>Campanas de cena</InstNamePluralES>
+    <InstNameJA>ディナーベル</InstNameJA>
+    <InstNameShortJA>ディナーベル</InstNameShortJA>
+    <InstNamePluralJA>ディナーベル</InstNamePluralJA>
+    <InstNameKO>저녁 종</InstNameKO>
+    <InstNameShortKO>저녁종</InstNameShortKO>
+    <InstNamePluralKO>저녁 종</InstNamePluralKO>
+    <InstNamePL>Dzwonek na obiad</InstNamePL>
+    <InstNameShortPL>Dzwnknabd</InstNameShortPL>
+    <InstNamePluralPL>Dzwonki obiadowe</InstNamePluralPL>
+    <InstNamePT>Sino do jantar</InstNamePT>
+    <InstNameShortPT>Sinodojntr</InstNameShortPT>
+    <InstNamePluralPT>Sinos de jantar</InstNamePluralPT>
+    <InstNameRU>Колокол к ужину</InstNameRU>
+    <InstNameShortRU>Колоколкуж</InstNameShortRU>
+    <InstNamePluralRU>Обеденные колокола</InstNamePluralRU>
+    <InstNameZH>晚餐铃</InstNameZH>
+    <InstNameShortZH>晚餐铃</InstNameShortZH>
+    <InstNamePluralZH>晚餐铃声</InstNamePluralZH>
+    <InstOrder>1342374000</InstOrder>
+    <InstAdded>2025-03-06T05:02:15.783+00:00</InstAdded>
+    <InstEdited>2025-03-06T05:02:15.783+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>1016</InstID>
     <InstUIC>8257653</InstUIC>
     <InstFamily>5.Other</InstFamily>
