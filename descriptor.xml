@@ -7341,6 +7341,90 @@
     <DescriptorEdited>2022-11-23T22:26:47.237+00:00</DescriptorEdited>
   </UIC>
   <UIC>
+    <DescriptorID>447</DescriptorID>
+    <DescriptorName>Beginner</DescriptorName>
+    <DescriptorShort>Bgnnr</DescriptorShort>
+    <DescriptorNameDE>Anfänger</DescriptorNameDE>
+    <DescriptorShortDE>Anfängr</DescriptorShortDE>
+    <DescriptorNameFR>Débutant</DescriptorNameFR>
+    <DescriptorShortFR>Débtnt</DescriptorShortFR>
+    <DescriptorNameIT>Principiante</DescriptorNameIT>
+    <DescriptorShortIT>Prncpnt</DescriptorShortIT>
+    <DescriptorNameES>Principiante</DescriptorNameES>
+    <DescriptorShortES>Prncpnt</DescriptorShortES>
+    <DescriptorNameJA>初心者</DescriptorNameJA>
+    <DescriptorShortJA>初心者</DescriptorShortJA>
+    <DescriptorNameKO>초보자</DescriptorNameKO>
+    <DescriptorShortKO>초보자</DescriptorShortKO>
+    <DescriptorNamePL>Początkujący</DescriptorNamePL>
+    <DescriptorShortPL>Pczątkjący</DescriptorShortPL>
+    <DescriptorNamePT>Novato</DescriptorNamePT>
+    <DescriptorShortPT>Nvt</DescriptorShortPT>
+    <DescriptorNameRU>Начинающий</DescriptorNameRU>
+    <DescriptorShortRU>Начинающий</DescriptorShortRU>
+    <DescriptorNameZH>初学者</DescriptorNameZH>
+    <DescriptorShortZH>初学者</DescriptorShortZH>
+    <DescriptorOrder>532</DescriptorOrder>
+    <DescriptorAdded>2025-03-07T06:32:38.127+00:00</DescriptorAdded>
+    <DescriptorEdited>2025-03-07T06:32:38.127+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
+    <DescriptorID>448</DescriptorID>
+    <DescriptorName>Intermediate</DescriptorName>
+    <DescriptorShort>Intrmdt</DescriptorShort>
+    <DescriptorNameDE>Dazwischenliegend</DescriptorNameDE>
+    <DescriptorShortDE>Dzwschnlgn</DescriptorShortDE>
+    <DescriptorNameFR>Intermédiaire</DescriptorNameFR>
+    <DescriptorShortFR>Intrmédr</DescriptorShortFR>
+    <DescriptorNameIT>Intermedio</DescriptorNameIT>
+    <DescriptorShortIT>Intrmd</DescriptorShortIT>
+    <DescriptorNameES>Intermedio</DescriptorNameES>
+    <DescriptorShortES>Intrmd</DescriptorShortES>
+    <DescriptorNameJA>中級</DescriptorNameJA>
+    <DescriptorShortJA>中級</DescriptorShortJA>
+    <DescriptorNameKO>중급</DescriptorNameKO>
+    <DescriptorShortKO>중급</DescriptorShortKO>
+    <DescriptorNamePL>Mediator</DescriptorNamePL>
+    <DescriptorShortPL>Mdtr</DescriptorShortPL>
+    <DescriptorNamePT>Intermediário</DescriptorNamePT>
+    <DescriptorShortPT>Intrmdár</DescriptorShortPT>
+    <DescriptorNameRU>Средний</DescriptorNameRU>
+    <DescriptorShortRU>Средний</DescriptorShortRU>
+    <DescriptorNameZH>中间的</DescriptorNameZH>
+    <DescriptorShortZH>中间的</DescriptorShortZH>
+    <DescriptorOrder>533</DescriptorOrder>
+    <DescriptorAdded>2025-03-07T06:33:41.867+00:00</DescriptorAdded>
+    <DescriptorEdited>2025-03-07T06:33:41.867+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
+    <DescriptorID>449</DescriptorID>
+    <DescriptorName>Advanced</DescriptorName>
+    <DescriptorShort>Advncd</DescriptorShort>
+    <DescriptorNameDE>Fortschrittlich</DescriptorNameDE>
+    <DescriptorShortDE>Frtschrttl</DescriptorShortDE>
+    <DescriptorNameFR>Avancé</DescriptorNameFR>
+    <DescriptorShortFR>Avncé</DescriptorShortFR>
+    <DescriptorNameIT>Avanzato</DescriptorNameIT>
+    <DescriptorShortIT>Avnzt</DescriptorShortIT>
+    <DescriptorNameES>Avanzado</DescriptorNameES>
+    <DescriptorShortES>Avnzd</DescriptorShortES>
+    <DescriptorNameJA>高度な</DescriptorNameJA>
+    <DescriptorShortJA>高度な</DescriptorShortJA>
+    <DescriptorNameKO>고급의</DescriptorNameKO>
+    <DescriptorShortKO>고급의</DescriptorShortKO>
+    <DescriptorNamePL>Zaawansowany</DescriptorNamePL>
+    <DescriptorShortPL>Zwnswny</DescriptorShortPL>
+    <DescriptorNamePT>Avançado</DescriptorNamePT>
+    <DescriptorShortPT>Avnçd</DescriptorShortPT>
+    <DescriptorNameRU>Передовой</DescriptorNameRU>
+    <DescriptorShortRU>Передовой</DescriptorShortRU>
+    <DescriptorNameZH>先进的</DescriptorNameZH>
+    <DescriptorShortZH>先进的</DescriptorShortZH>
+    <DescriptorOrder>534</DescriptorOrder>
+    <DescriptorAdded>2025-03-07T06:34:26.663+00:00</DescriptorAdded>
+    <DescriptorEdited>2025-03-07T06:34:26.663+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
     <DescriptorID>94</DescriptorID>
     <DescriptorName>Score</DescriptorName>
     <DescriptorShort>Sc</DescriptorShort>
@@ -12139,6 +12223,34 @@
     <DescriptorEdited>2016-12-01T22:39:43.117+00:00</DescriptorEdited>
   </UIC>
   <UIC>
+    <DescriptorID>446</DescriptorID>
+    <DescriptorName>(Wood)</DescriptorName>
+    <DescriptorShort>(Wd)</DescriptorShort>
+    <DescriptorNameDE>(Holz)</DescriptorNameDE>
+    <DescriptorShortDE>(Hlz)</DescriptorShortDE>
+    <DescriptorNameFR>(Bois)</DescriptorNameFR>
+    <DescriptorShortFR>(Bs)</DescriptorShortFR>
+    <DescriptorNameIT>(Legna)</DescriptorNameIT>
+    <DescriptorShortIT>(Lgn)</DescriptorShortIT>
+    <DescriptorNameES>(Madera)</DescriptorNameES>
+    <DescriptorShortES>(Mdr)</DescriptorShortES>
+    <DescriptorNameJA>（木材）</DescriptorNameJA>
+    <DescriptorShortJA>（木材）</DescriptorShortJA>
+    <DescriptorNameKO>(목재)</DescriptorNameKO>
+    <DescriptorShortKO>(목재)</DescriptorShortKO>
+    <DescriptorNamePL>(Drewno)</DescriptorNamePL>
+    <DescriptorShortPL>(Drwn)</DescriptorShortPL>
+    <DescriptorNamePT>(Madeira)</DescriptorNamePT>
+    <DescriptorShortPT>(Mdr)</DescriptorShortPT>
+    <DescriptorNameRU>(Древесина)</DescriptorNameRU>
+    <DescriptorShortRU>(Древесина</DescriptorShortRU>
+    <DescriptorNameZH>（木头）</DescriptorNameZH>
+    <DescriptorShortZH>（木头）</DescriptorShortZH>
+    <DescriptorOrder>843</DescriptorOrder>
+    <DescriptorAdded>2025-03-07T02:47:42.16+00:00</DescriptorAdded>
+    <DescriptorEdited>2025-03-07T02:47:42.16+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
     <DescriptorID>247</DescriptorID>
     <DescriptorName>(Metal)</DescriptorName>
     <DescriptorShort>(Metal)</DescriptorShort>
@@ -12162,7 +12274,7 @@
     <DescriptorShortRU>(Металл)</DescriptorShortRU>
     <DescriptorNameZH>重金属</DescriptorNameZH>
     <DescriptorShortZH>重金属</DescriptorShortZH>
-    <DescriptorOrder>843</DescriptorOrder>
+    <DescriptorOrder>844</DescriptorOrder>
     <DescriptorAdded>2017-01-12T13:56:57+00:00</DescriptorAdded>
     <DescriptorEdited>2017-01-12T13:56:57+00:00</DescriptorEdited>
   </UIC>
@@ -12190,9 +12302,37 @@
     <DescriptorShortRU>(Ceramic)</DescriptorShortRU>
     <DescriptorNameZH>(Ceramic)</DescriptorNameZH>
     <DescriptorShortZH>(Ceramic)</DescriptorShortZH>
-    <DescriptorOrder>844</DescriptorOrder>
+    <DescriptorOrder>845</DescriptorOrder>
     <DescriptorAdded>2021-03-24T02:11:45.58+00:00</DescriptorAdded>
     <DescriptorEdited>2021-03-24T02:11:45.58+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
+    <DescriptorID>445</DescriptorID>
+    <DescriptorName>(Glass)</DescriptorName>
+    <DescriptorShort>(Glss)</DescriptorShort>
+    <DescriptorNameDE>(Glas)</DescriptorNameDE>
+    <DescriptorShortDE>(Gls)</DescriptorShortDE>
+    <DescriptorNameFR>(Verre)</DescriptorNameFR>
+    <DescriptorShortFR>(Vrr)</DescriptorShortFR>
+    <DescriptorNameIT>(Bicchiere)</DescriptorNameIT>
+    <DescriptorShortIT>(Bcchr)</DescriptorShortIT>
+    <DescriptorNameES>(Vaso)</DescriptorNameES>
+    <DescriptorShortES>(Vs)</DescriptorShortES>
+    <DescriptorNameJA>（ガラス）</DescriptorNameJA>
+    <DescriptorShortJA>（ガラス）</DescriptorShortJA>
+    <DescriptorNameKO>(유리)</DescriptorNameKO>
+    <DescriptorShortKO>(유리)</DescriptorShortKO>
+    <DescriptorNamePL>(Szkło)</DescriptorNamePL>
+    <DescriptorShortPL>(Szkł)</DescriptorShortPL>
+    <DescriptorNamePT>(Vidro)</DescriptorNamePT>
+    <DescriptorShortPT>(Vdr)</DescriptorShortPT>
+    <DescriptorNameRU>(Стекло)</DescriptorNameRU>
+    <DescriptorShortRU>(Стекло)</DescriptorShortRU>
+    <DescriptorNameZH>（玻璃）</DescriptorNameZH>
+    <DescriptorShortZH>（玻璃）</DescriptorShortZH>
+    <DescriptorOrder>846</DescriptorOrder>
+    <DescriptorAdded>2025-03-07T02:46:56.13+00:00</DescriptorAdded>
+    <DescriptorEdited>2025-03-07T02:46:56.13+00:00</DescriptorEdited>
   </UIC>
   <UIC>
     <DescriptorID>325</DescriptorID>
@@ -12218,7 +12358,7 @@
     <DescriptorShortRU>(Plastic)</DescriptorShortRU>
     <DescriptorNameZH>(Plastic)</DescriptorNameZH>
     <DescriptorShortZH>(Plastic)</DescriptorShortZH>
-    <DescriptorOrder>846</DescriptorOrder>
+    <DescriptorOrder>847</DescriptorOrder>
     <DescriptorAdded>2018-05-23T06:49:36.537+00:00</DescriptorAdded>
     <DescriptorEdited>2018-05-23T06:49:36.537+00:00</DescriptorEdited>
   </UIC>
