@@ -2325,6 +2325,49 @@
     <InstEdited>2019-03-01T11:41:59.2+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1127</InstID>
+    <InstUIC>1835033</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Spoken Word and Action</InstGenus>
+    <InstIcon>FullScore</InstIcon>
+    <InstName>Rapper</InstName>
+    <InstNameShort>Rppr</InstNameShort>
+    <InstNamePlural>Rappers</InstNamePlural>
+    <InstNameDE>Rapper</InstNameDE>
+    <InstNameShortDE>Rppr</InstNameShortDE>
+    <InstNamePluralDE>Rapper</InstNamePluralDE>
+    <InstNameFR>Rappeur</InstNameFR>
+    <InstNameShortFR>Rppr</InstNameShortFR>
+    <InstNamePluralFR>Rappeurs</InstNamePluralFR>
+    <InstNameIT>Rapper</InstNameIT>
+    <InstNameShortIT>Rppr</InstNameShortIT>
+    <InstNamePluralIT>Rapper</InstNamePluralIT>
+    <InstNameES>Rapero</InstNameES>
+    <InstNameShortES>Rpr</InstNameShortES>
+    <InstNamePluralES>Raperos</InstNamePluralES>
+    <InstNameJA>ラッパー</InstNameJA>
+    <InstNameShortJA>ラッパー</InstNameShortJA>
+    <InstNamePluralJA>ラッパー</InstNamePluralJA>
+    <InstNameKO>래퍼</InstNameKO>
+    <InstNameShortKO>래퍼</InstNameShortKO>
+    <InstNamePluralKO>Rappers</InstNamePluralKO>
+    <InstNamePL>Kołatka</InstNamePL>
+    <InstNameShortPL>Kłtk</InstNameShortPL>
+    <InstNamePluralPL>Raperzy</InstNamePluralPL>
+    <InstNamePT>Rapper</InstNamePT>
+    <InstNameShortPT>Rppr</InstNameShortPT>
+    <InstNamePluralPT>Rappers</InstNamePluralPT>
+    <InstNameRU>Рэпер</InstNameRU>
+    <InstNameShortRU>Рэпер</InstNameShortRU>
+    <InstNamePluralRU>Рэперы</InstNamePluralRU>
+    <InstNameZH>说唱歌手</InstNameZH>
+    <InstNameShortZH>说唱歌手</InstNameShortZH>
+    <InstNamePluralZH>说唱歌手</InstNamePluralZH>
+    <InstOrder>268484622</InstOrder>
+    <InstAdded>2025-03-08T22:15:17.263+00:00</InstAdded>
+    <InstEdited>2025-03-08T22:15:17.263+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>537</InstID>
     <InstUIC>1310745</InstUIC>
     <InstFamily>1.General</InstFamily>
@@ -36256,6 +36299,49 @@ High Sheng</InstNameAlt>
     <InstEdited>2014-04-17T06:28:22.413+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1130</InstID>
+    <InstUIC>6946845</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Keyboard</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstName>Piano 5 Hands</InstName>
+    <InstNameShort>Pno5Hnds</InstNameShort>
+    <InstNamePlural>Piano 5 Hands</InstNamePlural>
+    <InstNameDE>Klavier zu fünf Händen</InstNameDE>
+    <InstNameShortDE>Klavz5h</InstNameShortDE>
+    <InstNamePluralDE>Klavier zu fünf Händen</InstNamePluralDE>
+    <InstNameFR>Piano 5 mains</InstNameFR>
+    <InstNameShortFR>Pno5mns</InstNameShortFR>
+    <InstNamePluralFR>Piano 5 mains</InstNamePluralFR>
+    <InstNameIT>Pianoforte a 5 mani</InstNameIT>
+    <InstNameShortIT>Pf5mn</InstNameShortIT>
+    <InstNamePluralIT>Pianoforte a 5 mani</InstNamePluralIT>
+    <InstNameES>Piano 5 manos</InstNameES>
+    <InstNameShortES>Pno5mns</InstNameShortES>
+    <InstNamePluralES>Piano 5 manos</InstNamePluralES>
+    <InstNameJA>ピアノ 5手</InstNameJA>
+    <InstNameShortJA>ピアノ5手</InstNameShortJA>
+    <InstNamePluralJA>ピアノ 5手</InstNamePluralJA>
+    <InstNameKO>피아노 5핸드</InstNameKO>
+    <InstNameShortKO>피아노5핸드</InstNameShortKO>
+    <InstNamePluralKO>피아노 5핸드</InstNamePluralKO>
+    <InstNamePL>Fortepian na 5 rąk</InstNamePL>
+    <InstNameShortPL>Pnona5rąk</InstNameShortPL>
+    <InstNamePluralPL>Fortepian na 5 rąk</InstNamePluralPL>
+    <InstNamePT>Piano 5 Mãos</InstNamePT>
+    <InstNameShortPT>Piano5Mãs</InstNameShortPT>
+    <InstNamePluralPT>Piano 5 Mãos</InstNamePluralPT>
+    <InstNameRU>Фортепиано в 5 рук</InstNameRU>
+    <InstNameShortRU>Фортепиан5</InstNameShortRU>
+    <InstNamePluralRU>Фортепиано в 5 рук</InstNamePluralRU>
+    <InstNameZH>钢琴五手联弹</InstNameZH>
+    <InstNameShortZH>钢琴五手联弹</InstNameShortZH>
+    <InstNamePluralZH>钢琴五手联弹</InstNamePluralZH>
+    <InstOrder>1342455818</InstOrder>
+    <InstAdded>2025-03-08T22:22:03.39+00:00</InstAdded>
+    <InstEdited>2025-03-08T22:22:50.907+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>762</InstID>
     <InstUIC>3932189</InstUIC>
     <InstFamily>5.Other</InstFamily>
@@ -36293,7 +36379,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>六手钢琴</InstNameZH>
     <InstNameShortZH>Pno6Hnd</InstNameShortZH>
     <InstNamePluralZH>六手钢琴</InstNamePluralZH>
-    <InstOrder>1342455818</InstOrder>
+    <InstOrder>1342455819</InstOrder>
     <InstAdded>2018-03-23T08:27:42.86+00:00</InstAdded>
     <InstEdited>2018-03-23T08:27:42.86+00:00</InstEdited>
   </UIC>
@@ -36335,7 +36421,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Piano 8 Hands</InstNameZH>
     <InstNameShortZH>Pno8Hnd</InstNameShortZH>
     <InstNamePluralZH>Piano 8 Hands</InstNamePluralZH>
-    <InstOrder>1342455819</InstOrder>
+    <InstOrder>1342455821</InstOrder>
     <InstAdded>2018-04-18T07:16:12.253+00:00</InstAdded>
     <InstEdited>2019-02-12T12:48:17.91+00:00</InstEdited>
   </UIC>
@@ -36377,7 +36463,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Harpsichord Duet</InstNameZH>
     <InstNameShortZH>HpsdDt</InstNameShortZH>
     <InstNamePluralZH>Harpsichord Duets</InstNamePluralZH>
-    <InstOrder>1342455820</InstOrder>
+    <InstOrder>1342455822</InstOrder>
     <InstAdded>2019-02-26T14:51:19.46+00:00</InstAdded>
     <InstEdited>2019-02-26T14:51:19.46+00:00</InstEdited>
   </UIC>
@@ -36421,7 +36507,7 @@ High Sheng</InstNameAlt>
     <InstNameShortZH>ElecPno</InstNameShortZH>
     <InstNamePluralZH>电钢琴</InstNamePluralZH>
     <InstNameAlt>E-Piano</InstNameAlt>
-    <InstOrder>1342455827</InstOrder>
+    <InstOrder>1342455829</InstOrder>
     <InstAdded>2015-08-17T02:04:04.357+00:00</InstAdded>
     <InstEdited>2015-08-17T02:04:04.357+00:00</InstEdited>
   </UIC>
@@ -36464,7 +36550,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>数码钢琴</InstNameZH>
     <InstNameShortZH>数码钢琴</InstNameShortZH>
     <InstNamePluralZH>数码钢琴</InstNamePluralZH>
-    <InstOrder>1342455828</InstOrder>
+    <InstOrder>1342455830</InstOrder>
     <InstAdded>2024-12-06T00:03:19.033+00:00</InstAdded>
     <InstEdited>2024-12-06T00:03:19.033+00:00</InstEdited>
   </UIC>
@@ -36508,7 +36594,7 @@ High Sheng</InstNameAlt>
     <InstNameShortZH>RhdsPno</InstNameShortZH>
     <InstNamePluralZH>Rhodes Pianos</InstNamePluralZH>
     <InstNameAlt>Fender Rhodes Piano</InstNameAlt>
-    <InstOrder>1342455829</InstOrder>
+    <InstOrder>1342455831</InstOrder>
     <InstAdded>2019-07-06T10:02:28.22+00:00</InstAdded>
     <InstEdited>2019-07-06T10:02:28.22+00:00</InstEdited>
   </UIC>
@@ -36550,7 +36636,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>DX7</InstNameZH>
     <InstNameShortZH>DX7</InstNameShortZH>
     <InstNamePluralZH>DX7s</InstNamePluralZH>
-    <InstOrder>1342455830</InstOrder>
+    <InstOrder>1342455832</InstOrder>
     <InstAdded>2021-03-23T05:21:54.283+00:00</InstAdded>
     <InstEdited>2021-03-23T05:21:54.283+00:00</InstEdited>
   </UIC>
@@ -36592,7 +36678,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Prepared Piano</InstNameZH>
     <InstNameShortZH>PrepPno</InstNameShortZH>
     <InstNamePluralZH>Prepared Pianos</InstNamePluralZH>
-    <InstOrder>1342455833</InstOrder>
+    <InstOrder>1342455835</InstOrder>
   </UIC>
   <UIC>
     <InstID>907</InstID>
@@ -36632,7 +36718,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Resonating Piano</InstNameZH>
     <InstNameShortZH>ResPno</InstNameShortZH>
     <InstNamePluralZH>Resonating Pianos</InstNamePluralZH>
-    <InstOrder>1342455834</InstOrder>
+    <InstOrder>1342455836</InstOrder>
     <InstAdded>2019-01-08T14:59:55.02+00:00</InstAdded>
     <InstEdited>2019-01-08T14:59:55.02+00:00</InstEdited>
   </UIC>
@@ -36674,7 +36760,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Luthéal</InstNameZH>
     <InstNameShortZH>Luthéal</InstNameShortZH>
     <InstNamePluralZH>Luthéals</InstNamePluralZH>
-    <InstOrder>1342455836</InstOrder>
+    <InstOrder>1342455838</InstOrder>
     <InstAdded>2018-04-17T07:39:10.097+00:00</InstAdded>
     <InstEdited>2018-12-03T16:28:06.953+00:00</InstEdited>
   </UIC>
@@ -36716,7 +36802,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Amplified Piano</InstNameZH>
     <InstNameShortZH>AmpPno</InstNameShortZH>
     <InstNamePluralZH>Amplified Pianos</InstNamePluralZH>
-    <InstOrder>1342455840</InstOrder>
+    <InstOrder>1342455842</InstOrder>
     <InstAdded>2018-03-23T08:28:54.96+00:00</InstAdded>
     <InstEdited>2018-03-23T08:28:54.96+00:00</InstEdited>
   </UIC>
@@ -36758,7 +36844,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Honky Tonk Piano</InstNameZH>
     <InstNameShortZH>HkTkPno</InstNameShortZH>
     <InstNamePluralZH>Honky Tonk Pianos</InstNamePluralZH>
-    <InstOrder>1342455842</InstOrder>
+    <InstOrder>1342455844</InstOrder>
     <InstAdded>2017-03-07T21:51:14.487+00:00</InstAdded>
     <InstEdited>2017-03-07T21:51:14.487+00:00</InstEdited>
   </UIC>
@@ -36802,7 +36888,7 @@ High Sheng</InstNameAlt>
     <InstNameShortZH>Pianola</InstNameShortZH>
     <InstNamePluralZH>Pianolas</InstNamePluralZH>
     <InstNameAlt>Player Piano</InstNameAlt>
-    <InstOrder>1342455844</InstOrder>
+    <InstOrder>1342455846</InstOrder>
     <InstAdded>2016-06-25T03:09:24.78+00:00</InstAdded>
     <InstEdited>2016-06-25T03:09:24.78+00:00</InstEdited>
   </UIC>
@@ -36844,7 +36930,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Pedal Piano</InstNameZH>
     <InstNameShortZH>PedalPno</InstNameShortZH>
     <InstNamePluralZH>Pedal Pianos</InstNamePluralZH>
-    <InstOrder>1342455845</InstOrder>
+    <InstOrder>1342455847</InstOrder>
     <InstAdded>2018-04-17T07:37:44.737+00:00</InstAdded>
     <InstEdited>2021-01-24T00:50:51.43+00:00</InstEdited>
   </UIC>
@@ -36886,7 +36972,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Pianino</InstNameZH>
     <InstNameShortZH>Pnno</InstNameShortZH>
     <InstNamePluralZH>Pianinos</InstNamePluralZH>
-    <InstOrder>1342455849</InstOrder>
+    <InstOrder>1342455851</InstOrder>
     <InstAdded>2016-11-25T22:56:46.17+00:00</InstAdded>
     <InstEdited>2016-11-25T22:56:46.17+00:00</InstEdited>
   </UIC>
@@ -36928,7 +37014,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Harpsichord</InstNameZH>
     <InstNameShortZH>Hpsd</InstNameShortZH>
     <InstNamePluralZH>Harpsichords</InstNamePluralZH>
-    <InstOrder>1342455854</InstOrder>
+    <InstOrder>1342455856</InstOrder>
   </UIC>
   <UIC>
     <InstID>1021</InstID>
@@ -36970,7 +37056,7 @@ High Sheng</InstNameAlt>
     <InstNameShortZH>ClavCym</InstNameShortZH>
     <InstNamePluralZH>Clavicymbalums</InstNamePluralZH>
     <InstNameAlt>clavisymbalumclavisimbalum</InstNameAlt>
-    <InstOrder>1342455855</InstOrder>
+    <InstOrder>1342455857</InstOrder>
     <InstAdded>2022-07-06T04:11:48.197+00:00</InstAdded>
     <InstEdited>2022-07-06T04:12:25.16+00:00</InstEdited>
   </UIC>
@@ -37012,7 +37098,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Prepared Harpsichord</InstNameZH>
     <InstNameShortZH>PrepHpsd</InstNameShortZH>
     <InstNamePluralZH>Prepared Harpsichords</InstNamePluralZH>
-    <InstOrder>1342455859</InstOrder>
+    <InstOrder>1342455861</InstOrder>
     <InstAdded>2018-05-17T07:31:19.09+00:00</InstAdded>
     <InstEdited>2018-05-17T07:31:19.09+00:00</InstEdited>
   </UIC>
@@ -37054,7 +37140,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Clavichord</InstNameZH>
     <InstNameShortZH>Clvchrd</InstNameShortZH>
     <InstNamePluralZH>Clavichords</InstNamePluralZH>
-    <InstOrder>1342455861</InstOrder>
+    <InstOrder>1342455863</InstOrder>
     <InstAdded>2016-12-13T01:48:26.13+00:00</InstAdded>
     <InstEdited>2016-12-13T01:48:26.13+00:00</InstEdited>
   </UIC>
@@ -37096,7 +37182,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Spinet</InstNameZH>
     <InstNameShortZH>Spnt</InstNameShortZH>
     <InstNamePluralZH>Spinets</InstNamePluralZH>
-    <InstOrder>1342455863</InstOrder>
+    <InstOrder>1342455865</InstOrder>
     <InstAdded>2014-04-16T09:10:24.407+00:00</InstAdded>
     <InstEdited>2014-04-16T09:10:24.407+00:00</InstEdited>
   </UIC>
@@ -37138,7 +37224,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Virginal</InstNameZH>
     <InstNameShortZH>Vrginl</InstNameShortZH>
     <InstNamePluralZH>Virginals</InstNamePluralZH>
-    <InstOrder>1342455864</InstOrder>
+    <InstOrder>1342455866</InstOrder>
     <InstAdded>2019-02-12T12:50:02.19+00:00</InstAdded>
     <InstEdited>2019-02-12T12:50:02.19+00:00</InstEdited>
   </UIC>
@@ -37180,7 +37266,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Continuo</InstNameZH>
     <InstNameShortZH>Cntno</InstNameShortZH>
     <InstNamePluralZH>Continuos</InstNamePluralZH>
-    <InstOrder>1342455867</InstOrder>
+    <InstOrder>1342455869</InstOrder>
   </UIC>
   <UIC>
     <InstID>85</InstID>
@@ -37222,7 +37308,7 @@ High Sheng</InstNameAlt>
     <InstNameShortZH>Cel</InstNameShortZH>
     <InstNamePluralZH>Celestas</InstNamePluralZH>
     <InstNameAlt>Celeste</InstNameAlt>
-    <InstOrder>1342455869</InstOrder>
+    <InstOrder>1342455871</InstOrder>
   </UIC>
   <UIC>
     <InstID>556</InstID>
@@ -37262,7 +37348,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Keyboard Glockenspiel</InstNameZH>
     <InstNameShortZH>KbdGlsp</InstNameShortZH>
     <InstNamePluralZH>Keyboard Glockenspiels</InstNamePluralZH>
-    <InstOrder>1342455870</InstOrder>
+    <InstOrder>1342455872</InstOrder>
     <InstAdded>2016-11-11T22:32:00.6+00:00</InstAdded>
     <InstEdited>2016-11-11T22:32:00.6+00:00</InstEdited>
   </UIC>
@@ -37305,7 +37391,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Organ</InstNameZH>
     <InstNameShortZH>Org</InstNameShortZH>
     <InstNamePluralZH>Organs</InstNamePluralZH>
-    <InstOrder>1342455872</InstOrder>
+    <InstOrder>1342455874</InstOrder>
   </UIC>
   <UIC>
     <InstID>751</InstID>
@@ -37346,7 +37432,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Organ 4 Hands</InstNameZH>
     <InstNameShortZH>Org4Hnd</InstNameShortZH>
     <InstNamePluralZH>Organ 4 Hands</InstNamePluralZH>
-    <InstOrder>1342455873</InstOrder>
+    <InstOrder>1342455875</InstOrder>
     <InstAdded>2018-03-21T12:38:21.497+00:00</InstAdded>
     <InstEdited>2019-01-10T10:28:36.753+00:00</InstEdited>
   </UIC>
@@ -37388,7 +37474,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Positive organ</InstNameZH>
     <InstNameShortZH>PstvOrg</InstNameShortZH>
     <InstNamePluralZH>Positive organs</InstNamePluralZH>
-    <InstOrder>1342455874</InstOrder>
+    <InstOrder>1342455876</InstOrder>
     <InstAdded>2021-03-24T04:08:48.567+00:00</InstAdded>
     <InstEdited>2021-03-24T04:08:48.567+00:00</InstEdited>
   </UIC>
@@ -37431,7 +37517,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Barrel Organ</InstNameZH>
     <InstNameShortZH>BrrlOrg</InstNameShortZH>
     <InstNamePluralZH>Barrel Organs</InstNamePluralZH>
-    <InstOrder>1342455878</InstOrder>
+    <InstOrder>1342455880</InstOrder>
     <InstAdded>2018-04-24T07:04:22.203+00:00</InstAdded>
     <InstEdited>2019-01-10T10:28:21.24+00:00</InstEdited>
   </UIC>
@@ -37473,7 +37559,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Baroque Organ</InstNameZH>
     <InstNameShortZH>BrqOrg</InstNameShortZH>
     <InstNamePluralZH>Baroque Organs</InstNamePluralZH>
-    <InstOrder>1342455879</InstOrder>
+    <InstOrder>1342455881</InstOrder>
     <InstAdded>2021-03-23T23:51:06.543+00:00</InstAdded>
     <InstEdited>2021-03-23T23:51:06.543+00:00</InstEdited>
   </UIC>
@@ -37517,7 +37603,7 @@ High Sheng</InstNameAlt>
     <InstNameShortZH>Calliope</InstNameShortZH>
     <InstNamePluralZH>Calliopes</InstNamePluralZH>
     <InstNameAlt>steam organsteam pianocalliaphone</InstNameAlt>
-    <InstOrder>1342455881</InstOrder>
+    <InstOrder>1342455883</InstOrder>
     <InstAdded>2021-01-24T02:00:00.807+00:00</InstAdded>
     <InstEdited>2021-01-24T02:00:00.807+00:00</InstEdited>
   </UIC>
@@ -37560,7 +37646,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Mechanical Organ</InstNameZH>
     <InstNameShortZH>MechOrg</InstNameShortZH>
     <InstNamePluralZH>Mechanical Organs</InstNamePluralZH>
-    <InstOrder>1342455885</InstOrder>
+    <InstOrder>1342455887</InstOrder>
     <InstAdded>2019-01-10T10:28:04.003+00:00</InstAdded>
     <InstEdited>2019-01-10T10:28:04.003+00:00</InstEdited>
   </UIC>
@@ -37605,7 +37691,7 @@ High Sheng</InstNameAlt>
     <InstNameShortZH>ChamberOrg</InstNameShortZH>
     <InstNamePluralZH>Chamber Organs</InstNamePluralZH>
     <InstNameAlt>Positive Organ</InstNameAlt>
-    <InstOrder>1342455891</InstOrder>
+    <InstOrder>1342455893</InstOrder>
   </UIC>
   <UIC>
     <InstID>204</InstID>
@@ -37648,7 +37734,7 @@ High Sheng</InstNameAlt>
     <InstNameShortZH>ElOrg</InstNameShortZH>
     <InstNamePluralZH>Electric Organs</InstNamePluralZH>
     <InstNameAlt>E-Orgel</InstNameAlt>
-    <InstOrder>1342455894</InstOrder>
+    <InstOrder>1342455896</InstOrder>
     <InstAdded>2016-06-04T01:11:22.24+00:00</InstAdded>
     <InstEdited>2016-06-04T01:11:22.24+00:00</InstEdited>
   </UIC>
@@ -37691,7 +37777,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Portative Organ</InstNameZH>
     <InstNameShortZH>PrttvOrg</InstNameShortZH>
     <InstNamePluralZH>Portative Organs</InstNamePluralZH>
-    <InstOrder>1342455895</InstOrder>
+    <InstOrder>1342455897</InstOrder>
     <InstAdded>2018-06-05T06:53:16.803+00:00</InstAdded>
     <InstEdited>2018-06-05T06:53:16.803+00:00</InstEdited>
   </UIC>
@@ -37733,7 +37819,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Organ Pedals</InstNameZH>
     <InstNameShortZH>OrgPdls</InstNameShortZH>
     <InstNamePluralZH>Organ Pedals</InstNamePluralZH>
-    <InstOrder>1342455897</InstOrder>
+    <InstOrder>1342455899</InstOrder>
     <InstAdded>2014-04-17T06:23:56.78+00:00</InstAdded>
     <InstEdited>2014-04-17T06:23:56.78+00:00</InstEdited>
   </UIC>
@@ -37776,7 +37862,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Hammond Organ</InstNameZH>
     <InstNameShortZH>HmndOrg</InstNameShortZH>
     <InstNamePluralZH>Hammond Organs</InstNamePluralZH>
-    <InstOrder>1342455898</InstOrder>
+    <InstOrder>1342455900</InstOrder>
     <InstAdded>2017-02-01T23:52:09.473+00:00</InstAdded>
     <InstEdited>2017-02-01T23:52:09.473+00:00</InstEdited>
   </UIC>
@@ -37820,7 +37906,7 @@ High Sheng</InstNameAlt>
     <InstNameShortZH>Harm</InstNameShortZH>
     <InstNamePluralZH>Harmoniums</InstNamePluralZH>
     <InstNameAlt>Reed Organ</InstNameAlt>
-    <InstOrder>1342455902</InstOrder>
+    <InstOrder>1342455904</InstOrder>
   </UIC>
   <UIC>
     <InstID>102</InstID>
@@ -37860,7 +37946,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Synthesizer</InstNameZH>
     <InstNameShortZH>Synth</InstNameShortZH>
     <InstNamePluralZH>Synthesizers</InstNamePluralZH>
-    <InstOrder>1342455904</InstOrder>
+    <InstOrder>1342455906</InstOrder>
   </UIC>
   <UIC>
     <InstID>996</InstID>
@@ -37900,7 +37986,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Clavioline</InstNameZH>
     <InstNameShortZH>Clavioline</InstNameShortZH>
     <InstNamePluralZH>Claviolines</InstNamePluralZH>
-    <InstOrder>1342455905</InstOrder>
+    <InstOrder>1342455907</InstOrder>
     <InstAdded>2021-03-24T02:37:29.893+00:00</InstAdded>
     <InstEdited>2021-03-24T02:37:29.893+00:00</InstEdited>
   </UIC>
@@ -37942,7 +38028,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Strings Synthesizer</InstNameZH>
     <InstNameShortZH>StrSynth</InstNameShortZH>
     <InstNamePluralZH>Strings Synthesizers</InstNamePluralZH>
-    <InstOrder>1342455907</InstOrder>
+    <InstOrder>1342455909</InstOrder>
     <InstAdded>2013-04-24T01:29:03.807+00:00</InstAdded>
     <InstEdited>2013-04-24T01:29:03.807+00:00</InstEdited>
   </UIC>
@@ -37984,7 +38070,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Clavinet</InstNameZH>
     <InstNameShortZH>Clavinet</InstNameShortZH>
     <InstNamePluralZH>Clavinets</InstNamePluralZH>
-    <InstOrder>1342455909</InstOrder>
+    <InstOrder>1342455911</InstOrder>
   </UIC>
   <UIC>
     <InstID>1025</InstID>
@@ -38024,7 +38110,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Wurlitzer</InstNameZH>
     <InstNameShortZH>Wurlitzer</InstNameShortZH>
     <InstNamePluralZH>Wurlitzers</InstNamePluralZH>
-    <InstOrder>1342455910</InstOrder>
+    <InstOrder>1342455912</InstOrder>
     <InstAdded>2022-10-04T06:32:42.743+00:00</InstAdded>
     <InstEdited>2022-10-04T06:32:42.743+00:00</InstEdited>
   </UIC>
@@ -38066,7 +38152,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Ondes Martenot</InstNameZH>
     <InstNameShortZH>OndMart</InstNameShortZH>
     <InstNamePluralZH>Ondes Martenots</InstNamePluralZH>
-    <InstOrder>1342455912</InstOrder>
+    <InstOrder>1342455914</InstOrder>
   </UIC>
   <UIC>
     <InstID>989</InstID>
@@ -38106,7 +38192,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Emiritone</InstNameZH>
     <InstNameShortZH>Emiritone</InstNameShortZH>
     <InstNamePluralZH>Emiritones</InstNamePluralZH>
-    <InstOrder>1342455913</InstOrder>
+    <InstOrder>1342455915</InstOrder>
     <InstAdded>2021-03-24T01:38:25.767+00:00</InstAdded>
     <InstEdited>2021-03-24T01:38:25.767+00:00</InstEdited>
   </UIC>
@@ -38148,7 +38234,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Toy Piano</InstNameZH>
     <InstNameShortZH>ToyPno</InstNameShortZH>
     <InstNamePluralZH>Toy Pianos</InstNamePluralZH>
-    <InstOrder>1342455915</InstOrder>
+    <InstOrder>1342455917</InstOrder>
     <InstAdded>2016-03-02T22:57:30.273+00:00</InstAdded>
     <InstEdited>2016-03-02T22:57:30.273+00:00</InstEdited>
   </UIC>
@@ -44381,6 +44467,49 @@ High Sheng</InstNameAlt>
     <InstEdited>2014-07-05T01:44:42.793+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1128</InstID>
+    <InstUIC>786454</InstUIC>
+    <InstFamily>6.Strings</InstFamily>
+    <InstGenus>Violas</InstGenus>
+    <InstIcon>Violin</InstIcon>
+    <InstName>Baroque Viola</InstName>
+    <InstNameShort>BrqVla</InstNameShort>
+    <InstNamePlural>Baroque Violas</InstNamePlural>
+    <InstNameDE>Barockviola</InstNameDE>
+    <InstNameShortDE>Brckvl</InstNameShortDE>
+    <InstNamePluralDE>Barockbratschen</InstNamePluralDE>
+    <InstNameFR>Alto baroque</InstNameFR>
+    <InstNameShortFR>Alt.brq</InstNameShortFR>
+    <InstNamePluralFR>Altos baroques</InstNamePluralFR>
+    <InstNameIT>Viola barocca</InstNameIT>
+    <InstNameShortIT>Vlabrcc</InstNameShortIT>
+    <InstNamePluralIT>Viole barocche</InstNamePluralIT>
+    <InstNameES>Viola barroca</InstNameES>
+    <InstNameShortES>Vlabrrc</InstNameShortES>
+    <InstNamePluralES>Violas barrocas</InstNamePluralES>
+    <InstNameJA>バロックビオラ</InstNameJA>
+    <InstNameShortJA>バロックビオラ</InstNameShortJA>
+    <InstNamePluralJA>バロックビオラ</InstNamePluralJA>
+    <InstNameKO>바로크 비올라</InstNameKO>
+    <InstNameShortKO>바로크비올라</InstNameShortKO>
+    <InstNamePluralKO>바로크 비올라</InstNamePluralKO>
+    <InstNamePL>Altówka barokowa</InstNamePL>
+    <InstNameShortPL>Vlabrkw</InstNameShortPL>
+    <InstNamePluralPL>Altówki barokowe</InstNamePluralPL>
+    <InstNamePT>Viola barroca</InstNamePT>
+    <InstNameShortPT>Violabrrc</InstNameShortPT>
+    <InstNamePluralPT>Violas Barrocas</InstNamePluralPT>
+    <InstNameRU>Барочный альт</InstNameRU>
+    <InstNameShortRU>БарочныйАл</InstNameShortRU>
+    <InstNamePluralRU>Барочные альты</InstNamePluralRU>
+    <InstNameZH>巴洛克中提琴</InstNameZH>
+    <InstNameShortZH>巴洛克中提琴</InstNameShortZH>
+    <InstNamePluralZH>巴洛克中提琴</InstNamePluralZH>
+    <InstOrder>1610694659</InstOrder>
+    <InstAdded>2025-03-08T22:16:27.09+00:00</InstAdded>
+    <InstEdited>2025-03-08T22:16:27.09+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>821</InstID>
     <InstUIC>393238</InstUIC>
     <InstFamily>6.Strings</InstFamily>
@@ -44418,9 +44547,52 @@ High Sheng</InstNameAlt>
     <InstNameZH>次低音中提取</InstNameZH>
     <InstNameShortZH>VlaAlta</InstNameShortZH>
     <InstNamePluralZH>次低音中提取</InstNamePluralZH>
-    <InstOrder>1610694659</InstOrder>
+    <InstOrder>1610694660</InstOrder>
     <InstAdded>2018-05-04T07:11:41.55+00:00</InstAdded>
     <InstEdited>2018-05-04T07:11:41.55+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1126</InstID>
+    <InstUIC>655382</InstUIC>
+    <InstFamily>6.Strings</InstFamily>
+    <InstGenus>Violas</InstGenus>
+    <InstIcon>Viola</InstIcon>
+    <InstName>Viola pomposa</InstName>
+    <InstNameShort>Vlapmps</InstNameShort>
+    <InstNamePlural>Viola pomposas</InstNamePlural>
+    <InstNameDE>Viola pomposa</InstNameDE>
+    <InstNameShortDE>Vapmps</InstNameShortDE>
+    <InstNamePluralDE>Viola pomposas</InstNamePluralDE>
+    <InstNameFR>Violette pomposa</InstNameFR>
+    <InstNameShortFR>Vlttpmps</InstNameShortFR>
+    <InstNamePluralFR>Viola pomposas</InstNamePluralFR>
+    <InstNameIT>Viola pomposa</InstNameIT>
+    <InstNameShortIT>Vlapmps</InstNameShortIT>
+    <InstNamePluralIT>Viola pomposa</InstNamePluralIT>
+    <InstNameES>Viola pomposa</InstNameES>
+    <InstNameShortES>Vlapmps</InstNameShortES>
+    <InstNamePluralES>Viola pomposa</InstNamePluralES>
+    <InstNameJA>スミレ</InstNameJA>
+    <InstNameShortJA>スミレ</InstNameShortJA>
+    <InstNamePluralJA>スミレ</InstNamePluralJA>
+    <InstNameKO>비올라 폼포사</InstNameKO>
+    <InstNameShortKO>비올라폼포사</InstNameShortKO>
+    <InstNamePluralKO>비올라 폼포사스</InstNamePluralKO>
+    <InstNamePL>Fiołek ogrodowy</InstNamePL>
+    <InstNameShortPL>Fłkgrdwy</InstNameShortPL>
+    <InstNamePluralPL>Fiołek ogrodowy</InstNamePluralPL>
+    <InstNamePT>Viola pomposa</InstNamePT>
+    <InstNameShortPT>Violapmps</InstNameShortPT>
+    <InstNamePluralPT>Viola pomposas</InstNamePluralPT>
+    <InstNameRU>Виола помпоза</InstNameRU>
+    <InstNameShortRU>Виолапомпо</InstNameShortRU>
+    <InstNamePluralRU>Виола помпозас</InstNamePluralRU>
+    <InstNameZH>紫花地丁</InstNameZH>
+    <InstNameShortZH>紫花地丁</InstNameShortZH>
+    <InstNamePluralZH>紫花地丁</InstNamePluralZH>
+    <InstOrder>1610694661</InstOrder>
+    <InstAdded>2025-03-08T22:09:13.497+00:00</InstAdded>
+    <InstEdited>2025-03-08T22:09:13.497+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>175</InstID>
@@ -44462,7 +44634,7 @@ High Sheng</InstNameAlt>
     <InstNameShortZH>Vlta</InstNameShortZH>
     <InstNamePluralZH>Violottas</InstNamePluralZH>
     <InstNameAlt>tenor violatenor violin</InstNameAlt>
-    <InstOrder>1610694661</InstOrder>
+    <InstOrder>1610694662</InstOrder>
     <InstAdded>2014-07-05T01:45:07.757+00:00</InstAdded>
     <InstEdited>2014-07-05T01:45:07.757+00:00</InstEdited>
   </UIC>
@@ -44504,7 +44676,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Hyperviola</InstNameZH>
     <InstNameShortZH>Hyprvla</InstNameShortZH>
     <InstNamePluralZH>Hyperviolas</InstNamePluralZH>
-    <InstOrder>1610694662</InstOrder>
+    <InstOrder>1610694663</InstOrder>
     <InstAdded>2018-05-22T07:01:35.527+00:00</InstAdded>
     <InstEdited>2018-05-22T07:01:35.527+00:00</InstEdited>
   </UIC>
@@ -44635,6 +44807,49 @@ High Sheng</InstNameAlt>
     <InstOrder>1610711045</InstOrder>
     <InstAdded>2020-04-23T21:43:16.647+00:00</InstAdded>
     <InstEdited>2020-04-23T21:43:16.647+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1129</InstID>
+    <InstUIC>786462</InstUIC>
+    <InstFamily>6.Strings</InstFamily>
+    <InstGenus>Cellos</InstGenus>
+    <InstIcon>Violin</InstIcon>
+    <InstName>Baroque Cello</InstName>
+    <InstNameShort>BrqVlc</InstNameShort>
+    <InstNamePlural>Baroque Cellos</InstNamePlural>
+    <InstNameDE>Barockcello</InstNameDE>
+    <InstNameShortDE>Brckcll</InstNameShortDE>
+    <InstNamePluralDE>Barockcelli</InstNamePluralDE>
+    <InstNameFR>Violoncelle baroque</InstNameFR>
+    <InstNameShortFR>Vlc.brq</InstNameShortFR>
+    <InstNamePluralFR>Violoncelles baroques</InstNamePluralFR>
+    <InstNameIT>Violoncello barocco</InstNameIT>
+    <InstNameShortIT>Vlcbrcc</InstNameShortIT>
+    <InstNamePluralIT>Violoncelli barocchi</InstNamePluralIT>
+    <InstNameES>Violonchelo barroco</InstNameES>
+    <InstNameShortES>Vlcbrrc</InstNameShortES>
+    <InstNamePluralES>Violonchelo barroco</InstNamePluralES>
+    <InstNameJA>バロックチェロ</InstNameJA>
+    <InstNameShortJA>バロックチェロ</InstNameShortJA>
+    <InstNamePluralJA>バロックチェロ</InstNamePluralJA>
+    <InstNameKO>바로크 첼로</InstNameKO>
+    <InstNameShortKO>바로크첼로</InstNameShortKO>
+    <InstNamePluralKO>바로크 첼로</InstNamePluralKO>
+    <InstNamePL>Wiolonczela barokowa</InstNamePL>
+    <InstNameShortPL>Vlcbrkw</InstNameShortPL>
+    <InstNamePluralPL>Wiolonczele barokowe</InstNamePluralPL>
+    <InstNamePT>Violoncelo barroco</InstNamePT>
+    <InstNameShortPT>VlncloBrc</InstNameShortPT>
+    <InstNamePluralPT>Violoncelos barrocos</InstNamePluralPT>
+    <InstNameRU>Барочная виолончель</InstNameRU>
+    <InstNameShortRU>БарочнаяВи</InstNameShortRU>
+    <InstNamePluralRU>Барочные виолончели</InstNamePluralRU>
+    <InstNameZH>巴洛克大提琴</InstNameZH>
+    <InstNameShortZH>巴洛克大提琴</InstNameShortZH>
+    <InstNamePluralZH>巴洛克大提琴</InstNamePluralZH>
+    <InstOrder>1610711046</InstOrder>
+    <InstAdded>2025-03-08T22:18:03.177+00:00</InstAdded>
+    <InstEdited>2025-03-08T22:18:03.177+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>223</InstID>
