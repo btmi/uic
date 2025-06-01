@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!--The Universal Instrumentation Code (UIC) by Peter Grimshaw of BTM Innovation Pty Ltd (https://uic.btmi.au) is licensed under a Creative Commons Attribution 3.0 Unported License. http://creativecommons.org/licenses/by/3.0/deed.en_US-->
+<!--The Universal Instrumentation Code (UIC) by Peter Grimshaw of Zinfonia Holdings Pty Ltd (https://uic.btmi.au) is licensed under a Creative Commons Attribution 3.0 Unported License. http://creativecommons.org/licenses/by/3.0/deed.en_US-->
 <result>
   <UIC>
     <NamedID>73</NamedID>
     <NamedGroupID>1039</NamedGroupID>
+    <NamedGroupIcon>Stage</NamedGroupIcon>
     <NamedGroup>Ballet</NamedGroup>
     <NamedGroupDE>Ballett</NamedGroupDE>
     <NamedGroupFR>Ballet</NamedGroupFR>
     <NamedGroupIT>Balletto</NamedGroupIT>
-    <NamedGroupIcon>Stage</NamedGroupIcon>
     <NamedGroupES>Ballet</NamedGroupES>
     <NamedGroupJA>バレエ</NamedGroupJA>
     <NamedGroupKO>발레</NamedGroupKO>
@@ -23,11 +23,11 @@
   <UIC>
     <NamedID>30</NamedID>
     <NamedGroupID>1017</NamedGroupID>
+    <NamedGroupIcon>Bassoon|Strings3</NamedGroupIcon>
     <NamedGroup>Bassoon and String Trio</NamedGroup>
     <NamedGroupDE>Fagott und Streichtrio</NamedGroupDE>
     <NamedGroupFR>Basson et trio à cordes</NamedGroupFR>
     <NamedGroupIT>Fagotto e trio d'archi</NamedGroupIT>
-    <NamedGroupIcon>Bassoon|Strings3</NamedGroupIcon>
     <NamedGroupES>Fagot y Trío de Cuerda</NamedGroupES>
     <NamedGroupJA>ファゴットと弦楽三重奏</NamedGroupJA>
     <NamedGroupKO>바순 그리고 현악 삼중주</NamedGroupKO>
@@ -42,11 +42,11 @@
   <UIC>
     <NamedID>63</NamedID>
     <NamedGroupID>1030</NamedGroupID>
+    <NamedGroupIcon>EnsembleLarge</NamedGroupIcon>
     <NamedGroup>Brass</NamedGroup>
     <NamedGroupDE>Blechbläser</NamedGroupDE>
     <NamedGroupFR>Cuivres</NamedGroupFR>
     <NamedGroupIT>Ottoni</NamedGroupIT>
-    <NamedGroupIcon>EnsembleLarge</NamedGroupIcon>
     <NamedGroupES>Metales</NamedGroupES>
     <NamedGroupJA>金管楽器</NamedGroupJA>
     <NamedGroupKO>금관악기</NamedGroupKO>
@@ -61,11 +61,11 @@
   <UIC>
     <NamedID>65</NamedID>
     <NamedGroupID>1032</NamedGroupID>
+    <NamedGroupIcon>BrassBand</NamedGroupIcon>
     <NamedGroup>Brass Ensemble/Band</NamedGroup>
     <NamedGroupDE>Blechkapelle</NamedGroupDE>
     <NamedGroupFR>Ensemble à vent de cuivre</NamedGroupFR>
     <NamedGroupIT>Gruppo di ottoni</NamedGroupIT>
-    <NamedGroupIcon>BrassBand</NamedGroupIcon>
     <NamedGroupES>Banda de Metales</NamedGroupES>
     <NamedGroupJA>金管アンサンブル</NamedGroupJA>
     <NamedGroupKO>금관앙상블/밴드</NamedGroupKO>
@@ -80,11 +80,11 @@
   <UIC>
     <NamedID>59</NamedID>
     <NamedGroupID>1027</NamedGroupID>
+    <NamedGroupIcon>Brass4</NamedGroupIcon>
     <NamedGroup>Brass Quartet</NamedGroup>
     <NamedGroupDE>Blechquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de cuivres</NamedGroupFR>
     <NamedGroupIT>Quartetto d'ottoni</NamedGroupIT>
-    <NamedGroupIcon>Brass4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Metales</NamedGroupES>
     <NamedGroupJA>金管四重奏</NamedGroupJA>
     <NamedGroupKO>금관 사중주</NamedGroupKO>
@@ -99,11 +99,11 @@
   <UIC>
     <NamedID>60</NamedID>
     <NamedGroupID>1027</NamedGroupID>
+    <NamedGroupIcon>Brass4</NamedGroupIcon>
     <NamedGroup>Brass Quartet</NamedGroup>
     <NamedGroupDE>Blechquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de cuivres</NamedGroupFR>
     <NamedGroupIT>Quartetto d'ottoni</NamedGroupIT>
-    <NamedGroupIcon>Brass4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Metales</NamedGroupES>
     <NamedGroupJA>金管四重奏</NamedGroupJA>
     <NamedGroupKO>금관 사중주</NamedGroupKO>
@@ -118,11 +118,11 @@
   <UIC>
     <NamedID>6</NamedID>
     <NamedGroupID>1004</NamedGroupID>
+    <NamedGroupIcon>Brass5</NamedGroupIcon>
     <NamedGroup>Brass Quintet</NamedGroup>
     <NamedGroupDE>Blechbläserquintett</NamedGroupDE>
     <NamedGroupFR>Quintette de cuivres</NamedGroupFR>
     <NamedGroupIT>Quintetto d'ottoni</NamedGroupIT>
-    <NamedGroupIcon>Brass5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Metales</NamedGroupES>
     <NamedGroupJA>金管五重奏</NamedGroupJA>
     <NamedGroupKO>금관 오중주</NamedGroupKO>
@@ -137,11 +137,11 @@
   <UIC>
     <NamedID>7</NamedID>
     <NamedGroupID>1004</NamedGroupID>
+    <NamedGroupIcon>Brass5</NamedGroupIcon>
     <NamedGroup>Brass Quintet</NamedGroup>
     <NamedGroupDE>Blechbläserquintett</NamedGroupDE>
     <NamedGroupFR>Quintette de cuivres</NamedGroupFR>
     <NamedGroupIT>Quintetto d'ottoni</NamedGroupIT>
-    <NamedGroupIcon>Brass5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Metales</NamedGroupES>
     <NamedGroupJA>金管五重奏</NamedGroupJA>
     <NamedGroupKO>금관 오중주</NamedGroupKO>
@@ -156,11 +156,11 @@
   <UIC>
     <NamedID>75</NamedID>
     <NamedGroupID>1041</NamedGroupID>
+    <NamedGroupIcon>Orchestra</NamedGroupIcon>
     <NamedGroup>Chamber Orchestra</NamedGroup>
     <NamedGroupDE>Kammerorchester</NamedGroupDE>
     <NamedGroupFR>Orchestre de chambre</NamedGroupFR>
     <NamedGroupIT>Orchestra da camera</NamedGroupIT>
-    <NamedGroupIcon>Orchestra</NamedGroupIcon>
     <NamedGroupES>Orquésta de cámara</NamedGroupES>
     <NamedGroupJA>室内オーケストラ</NamedGroupJA>
     <NamedGroupKO>체임버 오케스트라</NamedGroupKO>
@@ -175,11 +175,11 @@
   <UIC>
     <NamedID>67</NamedID>
     <NamedGroupID>1034</NamedGroupID>
+    <NamedGroupIcon>Chorus</NamedGroupIcon>
     <NamedGroup>Chorus</NamedGroup>
     <NamedGroupDE>Chor</NamedGroupDE>
     <NamedGroupFR>Chœur</NamedGroupFR>
     <NamedGroupIT>Coro</NamedGroupIT>
-    <NamedGroupIcon>Chorus</NamedGroupIcon>
     <NamedGroupES>Coro</NamedGroupES>
     <NamedGroupJA>合唱</NamedGroupJA>
     <NamedGroupKO>합창</NamedGroupKO>
@@ -194,11 +194,11 @@
   <UIC>
     <NamedID>29</NamedID>
     <NamedGroupID>1016</NamedGroupID>
+    <NamedGroupIcon>Clarinet|Strings3</NamedGroupIcon>
     <NamedGroup>Clarinet and String Trio</NamedGroup>
     <NamedGroupDE>Karinette und Streichtrio</NamedGroupDE>
     <NamedGroupFR>Clarinette et trio à cordes</NamedGroupFR>
     <NamedGroupIT>Clarinetto e trio d'archi</NamedGroupIT>
-    <NamedGroupIcon>Clarinet|Strings3</NamedGroupIcon>
     <NamedGroupES>Clarinete y Trío de Cuerda</NamedGroupES>
     <NamedGroupJA>クラリネットと弦楽三重奏</NamedGroupJA>
     <NamedGroupKO>클라리넷 그리고 현악 삼중주</NamedGroupKO>
@@ -213,11 +213,11 @@
   <UIC>
     <NamedID>17</NamedID>
     <NamedGroupID>1012</NamedGroupID>
+    <NamedGroupIcon>Clarinet4</NamedGroupIcon>
     <NamedGroup>Clarinet Quartet</NamedGroup>
     <NamedGroupDE>Klarinettenquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de clarinettes</NamedGroupFR>
     <NamedGroupIT>Quartetto di clarinetti</NamedGroupIT>
-    <NamedGroupIcon>Clarinet4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Clarinetes</NamedGroupES>
     <NamedGroupJA>クラリネット四重奏</NamedGroupJA>
     <NamedGroupKO>클라리넷 오중주</NamedGroupKO>
@@ -232,11 +232,11 @@
   <UIC>
     <NamedID>18</NamedID>
     <NamedGroupID>1012</NamedGroupID>
+    <NamedGroupIcon>Clarinet4</NamedGroupIcon>
     <NamedGroup>Clarinet Quartet</NamedGroup>
     <NamedGroupDE>Klarinettenquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de clarinettes</NamedGroupFR>
     <NamedGroupIT>Quartetto di clarinetti</NamedGroupIT>
-    <NamedGroupIcon>Clarinet4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Clarinetes</NamedGroupES>
     <NamedGroupJA>クラリネット四重奏</NamedGroupJA>
     <NamedGroupKO>클라리넷 오중주</NamedGroupKO>
@@ -251,11 +251,11 @@
   <UIC>
     <NamedID>54</NamedID>
     <NamedGroupID>1024</NamedGroupID>
+    <NamedGroupIcon>Clarinet|Strings4</NamedGroupIcon>
     <NamedGroup>Clarinet Quintet</NamedGroup>
     <NamedGroupDE>Klarinettenquintett</NamedGroupDE>
     <NamedGroupFR>Quintette de clarinettes</NamedGroupFR>
     <NamedGroupIT>Quintetto di clarinetti</NamedGroupIT>
-    <NamedGroupIcon>Clarinet|Strings4</NamedGroupIcon>
     <NamedGroupES>Quinteto de Clarinetes</NamedGroupES>
     <NamedGroupJA>クラリネット五重奏</NamedGroupJA>
     <NamedGroupKO>클라리넷 오중주</NamedGroupKO>
@@ -270,11 +270,11 @@
   <UIC>
     <NamedID>55</NamedID>
     <NamedGroupID>1024</NamedGroupID>
+    <NamedGroupIcon>Clarinet|Strings4</NamedGroupIcon>
     <NamedGroup>Clarinet Quintet</NamedGroup>
     <NamedGroupDE>Klarinettenquintett</NamedGroupDE>
     <NamedGroupFR>Quintette de clarinettes</NamedGroupFR>
     <NamedGroupIT>Quintetto di clarinetti</NamedGroupIT>
-    <NamedGroupIcon>Clarinet|Strings4</NamedGroupIcon>
     <NamedGroupES>Quinteto de Clarinetes</NamedGroupES>
     <NamedGroupJA>クラリネット五重奏</NamedGroupJA>
     <NamedGroupKO>클라리넷 오중주</NamedGroupKO>
@@ -289,11 +289,11 @@
   <UIC>
     <NamedID>61</NamedID>
     <NamedGroupID>1028</NamedGroupID>
+    <NamedGroupIcon>Ensemble</NamedGroupIcon>
     <NamedGroup>Ensemble</NamedGroup>
     <NamedGroupDE>Ensemble</NamedGroupDE>
     <NamedGroupFR>Ensemble</NamedGroupFR>
     <NamedGroupIT>Formazione</NamedGroupIT>
-    <NamedGroupIcon>Ensemble</NamedGroupIcon>
     <NamedGroupES>Ensemble</NamedGroupES>
     <NamedGroupJA>アンサンブル</NamedGroupJA>
     <NamedGroupKO>앙상블</NamedGroupKO>
@@ -308,11 +308,11 @@
   <UIC>
     <NamedID>43</NamedID>
     <NamedGroupID>1021</NamedGroupID>
+    <NamedGroupIcon>Euphonium4</NamedGroupIcon>
     <NamedGroup>Euphonium Quartet</NamedGroup>
     <NamedGroupDE>Euphoniumquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de euphoniums</NamedGroupFR>
     <NamedGroupIT>Quartetto di eufoni</NamedGroupIT>
-    <NamedGroupIcon>Euphonium4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Bombardinos</NamedGroupES>
     <NamedGroupJA>ユーフォニウム四重奏</NamedGroupJA>
     <NamedGroupKO>유포니움 사중주</NamedGroupKO>
@@ -327,11 +327,11 @@
   <UIC>
     <NamedID>44</NamedID>
     <NamedGroupID>1021</NamedGroupID>
+    <NamedGroupIcon>Euphonium4</NamedGroupIcon>
     <NamedGroup>Euphonium Quartet</NamedGroup>
     <NamedGroupDE>Euphoniumquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de euphoniums</NamedGroupFR>
     <NamedGroupIT>Quartetto di eufoni</NamedGroupIT>
-    <NamedGroupIcon>Euphonium4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Bombardinos</NamedGroupES>
     <NamedGroupJA>ユーフォニウム四重奏</NamedGroupJA>
     <NamedGroupKO>유포니움 사중주</NamedGroupKO>
@@ -346,11 +346,11 @@
   <UIC>
     <NamedID>74</NamedID>
     <NamedGroupID>1040</NamedGroupID>
+    <NamedGroupIcon>FilmMusic</NamedGroupIcon>
     <NamedGroup>Film</NamedGroup>
     <NamedGroupDE>Film</NamedGroupDE>
     <NamedGroupFR>Film</NamedGroupFR>
     <NamedGroupIT>Film</NamedGroupIT>
-    <NamedGroupIcon>FilmMusic</NamedGroupIcon>
     <NamedGroupES>Película</NamedGroupES>
     <NamedGroupJA>映画</NamedGroupJA>
     <NamedGroupKO>필름</NamedGroupKO>
@@ -365,11 +365,11 @@
   <UIC>
     <NamedID>27</NamedID>
     <NamedGroupID>1014</NamedGroupID>
+    <NamedGroupIcon>Flute|Strings3</NamedGroupIcon>
     <NamedGroup>Flute and String Trio</NamedGroup>
     <NamedGroupDE>Flöte und Streichtrio</NamedGroupDE>
     <NamedGroupFR>Flûte et trio à cordes</NamedGroupFR>
     <NamedGroupIT>Flauto e trio d'archi</NamedGroupIT>
-    <NamedGroupIcon>Flute|Strings3</NamedGroupIcon>
     <NamedGroupES>Flauta y Trío de Cuerda</NamedGroupES>
     <NamedGroupJA>フルートと弦楽三重奏</NamedGroupJA>
     <NamedGroupKO>플룻 그리고 현악 삼중주</NamedGroupKO>
@@ -384,11 +384,11 @@
   <UIC>
     <NamedID>23</NamedID>
     <NamedGroupID>1013</NamedGroupID>
+    <NamedGroupIcon>Flute4</NamedGroupIcon>
     <NamedGroup>Flute Quartet</NamedGroup>
     <NamedGroupDE>Flötenquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de flûtes</NamedGroupFR>
     <NamedGroupIT>Quartetto di flauti</NamedGroupIT>
-    <NamedGroupIcon>Flute4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Flautas</NamedGroupES>
     <NamedGroupJA>フルート四重奏</NamedGroupJA>
     <NamedGroupKO>플룻 사중주</NamedGroupKO>
@@ -403,11 +403,11 @@
   <UIC>
     <NamedID>24</NamedID>
     <NamedGroupID>1013</NamedGroupID>
+    <NamedGroupIcon>Flute4</NamedGroupIcon>
     <NamedGroup>Flute Quartet</NamedGroup>
     <NamedGroupDE>Flötenquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de flûtes</NamedGroupFR>
     <NamedGroupIT>Quartetto di flauti</NamedGroupIT>
-    <NamedGroupIcon>Flute4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Flautas</NamedGroupES>
     <NamedGroupJA>フルート四重奏</NamedGroupJA>
     <NamedGroupKO>플룻 사중주</NamedGroupKO>
@@ -422,11 +422,11 @@
   <UIC>
     <NamedID>25</NamedID>
     <NamedGroupID>1013</NamedGroupID>
+    <NamedGroupIcon>Flute4</NamedGroupIcon>
     <NamedGroup>Flute Quartet</NamedGroup>
     <NamedGroupDE>Flötenquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de flûtes</NamedGroupFR>
     <NamedGroupIT>Quartetto di flauti</NamedGroupIT>
-    <NamedGroupIcon>Flute4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Flautas</NamedGroupES>
     <NamedGroupJA>フルート四重奏</NamedGroupJA>
     <NamedGroupKO>플룻 사중주</NamedGroupKO>
@@ -441,11 +441,11 @@
   <UIC>
     <NamedID>26</NamedID>
     <NamedGroupID>1013</NamedGroupID>
+    <NamedGroupIcon>Flute4</NamedGroupIcon>
     <NamedGroup>Flute Quartet</NamedGroup>
     <NamedGroupDE>Flötenquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de flûtes</NamedGroupFR>
     <NamedGroupIT>Quartetto di flauti</NamedGroupIT>
-    <NamedGroupIcon>Flute4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Flautas</NamedGroupES>
     <NamedGroupJA>フルート四重奏</NamedGroupJA>
     <NamedGroupKO>플룻 사중주</NamedGroupKO>
@@ -460,11 +460,11 @@
   <UIC>
     <NamedID>15</NamedID>
     <NamedGroupID>1010</NamedGroupID>
+    <NamedGroupIcon>Horn3</NamedGroupIcon>
     <NamedGroup>Horn Trio</NamedGroup>
     <NamedGroupDE>Horntrio</NamedGroupDE>
     <NamedGroupFR>Trio de cors</NamedGroupFR>
     <NamedGroupIT>Trio di corni</NamedGroupIT>
-    <NamedGroupIcon>Horn3</NamedGroupIcon>
     <NamedGroupES>Trío de Trompas</NamedGroupES>
     <NamedGroupJA>ホルン三重奏</NamedGroupJA>
     <NamedGroupKO>호른 삼중주</NamedGroupKO>
@@ -479,11 +479,11 @@
   <UIC>
     <NamedID>72</NamedID>
     <NamedGroupID>1038</NamedGroupID>
+    <NamedGroupIcon>Opera</NamedGroupIcon>
     <NamedGroup>Musical</NamedGroup>
     <NamedGroupDE>Musical</NamedGroupDE>
     <NamedGroupFR>Musicale</NamedGroupFR>
     <NamedGroupIT>Musical</NamedGroupIT>
-    <NamedGroupIcon>Opera</NamedGroupIcon>
     <NamedGroupES>Musical</NamedGroupES>
     <NamedGroupJA>ミュージカル</NamedGroupJA>
     <NamedGroupKO>뮤지컬</NamedGroupKO>
@@ -498,11 +498,11 @@
   <UIC>
     <NamedID>28</NamedID>
     <NamedGroupID>1015</NamedGroupID>
+    <NamedGroupIcon>Oboe|Strings3</NamedGroupIcon>
     <NamedGroup>Oboe and String Trio</NamedGroup>
     <NamedGroupDE>Oboe und Streichquartett</NamedGroupDE>
     <NamedGroupFR>Hautbois et trio à cordes</NamedGroupFR>
     <NamedGroupIT>Oboe e trio d'archi</NamedGroupIT>
-    <NamedGroupIcon>Oboe|Strings3</NamedGroupIcon>
     <NamedGroupES>Oboe y Trío de Cuerda</NamedGroupES>
     <NamedGroupJA>オーボエと弦楽三重奏</NamedGroupJA>
     <NamedGroupKO>오보에그리고 현악 삼중주</NamedGroupKO>
@@ -517,11 +517,11 @@
   <UIC>
     <NamedID>70</NamedID>
     <NamedGroupID>1036</NamedGroupID>
+    <NamedGroupIcon>Opera</NamedGroupIcon>
     <NamedGroup>Opera</NamedGroup>
     <NamedGroupDE>Oper</NamedGroupDE>
     <NamedGroupFR>Opéra</NamedGroupFR>
     <NamedGroupIT>Opera</NamedGroupIT>
-    <NamedGroupIcon>Opera</NamedGroupIcon>
     <NamedGroupES>Ópera</NamedGroupES>
     <NamedGroupJA>オペラ</NamedGroupJA>
     <NamedGroupKO>오페라</NamedGroupKO>
@@ -536,11 +536,11 @@
   <UIC>
     <NamedID>71</NamedID>
     <NamedGroupID>1037</NamedGroupID>
+    <NamedGroupIcon>Opera</NamedGroupIcon>
     <NamedGroup>Operetta</NamedGroup>
     <NamedGroupDE>Operetta</NamedGroupDE>
     <NamedGroupFR>Opéretta</NamedGroupFR>
     <NamedGroupIT>Operetta</NamedGroupIT>
-    <NamedGroupIcon>Opera</NamedGroupIcon>
     <NamedGroupES>Opereta</NamedGroupES>
     <NamedGroupJA>オペレッタ</NamedGroupJA>
     <NamedGroupKO>소규모 오페라</NamedGroupKO>
@@ -555,11 +555,11 @@
   <UIC>
     <NamedID>64</NamedID>
     <NamedGroupID>1031</NamedGroupID>
+    <NamedGroupIcon>Orchestra</NamedGroupIcon>
     <NamedGroup>Orchestra</NamedGroup>
     <NamedGroupDE>Orchester</NamedGroupDE>
     <NamedGroupFR>Orchestre</NamedGroupFR>
     <NamedGroupIT>Orchestra</NamedGroupIT>
-    <NamedGroupIcon>Orchestra</NamedGroupIcon>
     <NamedGroupES>Orquesta</NamedGroupES>
     <NamedGroupJA>オーケストラ</NamedGroupJA>
     <NamedGroupKO>오케스트라</NamedGroupKO>
@@ -574,11 +574,11 @@
   <UIC>
     <NamedID>32</NamedID>
     <NamedGroupID>1019</NamedGroupID>
+    <NamedGroupIcon>Percussion4</NamedGroupIcon>
     <NamedGroup>Percussion Quartet</NamedGroup>
     <NamedGroupDE>Percussion-Quartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de percussions</NamedGroupFR>
     <NamedGroupIT>Quartetto di percussioni</NamedGroupIT>
-    <NamedGroupIcon>Percussion4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Percusión</NamedGroupES>
     <NamedGroupJA>パーカッション四重奏</NamedGroupJA>
     <NamedGroupKO>타악기 사중주</NamedGroupKO>
@@ -593,11 +593,11 @@
   <UIC>
     <NamedID>34</NamedID>
     <NamedGroupID>1019</NamedGroupID>
+    <NamedGroupIcon>Percussion4</NamedGroupIcon>
     <NamedGroup>Percussion Quartet</NamedGroup>
     <NamedGroupDE>Percussion-Quartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de percussions</NamedGroupFR>
     <NamedGroupIT>Quartetto di percussioni</NamedGroupIT>
-    <NamedGroupIcon>Percussion4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Percusión</NamedGroupES>
     <NamedGroupJA>パーカッション四重奏</NamedGroupJA>
     <NamedGroupKO>타악기 사중주</NamedGroupKO>
@@ -612,11 +612,11 @@
   <UIC>
     <NamedID>12</NamedID>
     <NamedGroupID>1008</NamedGroupID>
+    <NamedGroupIcon>Piano4Hands</NamedGroupIcon>
     <NamedGroup>Piano 4 Hands</NamedGroup>
     <NamedGroupDE>Klavier vierhändig</NamedGroupDE>
     <NamedGroupFR>Piano à quatre mains</NamedGroupFR>
     <NamedGroupIT>Pianoforte a 4 mani</NamedGroupIT>
-    <NamedGroupIcon>Piano4Hands</NamedGroupIcon>
     <NamedGroupES>Piano 4 Manos</NamedGroupES>
     <NamedGroupJA>ピアノ四手連弾</NamedGroupJA>
     <NamedGroupKO>네개의 손 피아노</NamedGroupKO>
@@ -631,11 +631,11 @@
   <UIC>
     <NamedID>13</NamedID>
     <NamedGroupID>1008</NamedGroupID>
+    <NamedGroupIcon>Piano4Hands</NamedGroupIcon>
     <NamedGroup>Piano 4 Hands</NamedGroup>
     <NamedGroupDE>Klavier vierhändig</NamedGroupDE>
     <NamedGroupFR>Piano à quatre mains</NamedGroupFR>
     <NamedGroupIT>Pianoforte a 4 mani</NamedGroupIT>
-    <NamedGroupIcon>Piano4Hands</NamedGroupIcon>
     <NamedGroupES>Piano 4 Manos</NamedGroupES>
     <NamedGroupJA>ピアノ四手連弾</NamedGroupJA>
     <NamedGroupKO>네개의 손 피아노</NamedGroupKO>
@@ -650,11 +650,11 @@
   <UIC>
     <NamedID>56</NamedID>
     <NamedGroupID>1025</NamedGroupID>
+    <NamedGroupIcon>Piano|Wind4</NamedGroupIcon>
     <NamedGroup>Piano and Wind Quartet</NamedGroup>
     <NamedGroupDE>Klavier und Holzbläserquartett</NamedGroupDE>
     <NamedGroupFR>Piano et quatuor à vent</NamedGroupFR>
     <NamedGroupIT>Pianoforte e quartetto di fiati</NamedGroupIT>
-    <NamedGroupIcon>Piano|Wind4</NamedGroupIcon>
     <NamedGroupES>Piano y Cuarteto de Viento</NamedGroupES>
     <NamedGroupJA>ピアノと木管四重奏</NamedGroupJA>
     <NamedGroupKO>피아노 그리고 목관 삼중주</NamedGroupKO>
@@ -669,11 +669,11 @@
   <UIC>
     <NamedID>31</NamedID>
     <NamedGroupID>1018</NamedGroupID>
+    <NamedGroupIcon>Piano|Wind3</NamedGroupIcon>
     <NamedGroup>Piano and Wind Trio</NamedGroup>
     <NamedGroupDE>Klavier und Holzbläsertrio</NamedGroupDE>
     <NamedGroupFR>Piano et trio à vent</NamedGroupFR>
     <NamedGroupIT>Pianoforte e trio di fiati</NamedGroupIT>
-    <NamedGroupIcon>Piano|Wind3</NamedGroupIcon>
     <NamedGroupES>Piano y Trío de Viento</NamedGroupES>
     <NamedGroupJA>ピアノと木管三重奏</NamedGroupJA>
     <NamedGroupKO>피아노 그리고 목관 삼중주</NamedGroupKO>
@@ -688,11 +688,11 @@
   <UIC>
     <NamedID>10</NamedID>
     <NamedGroupID>1007</NamedGroupID>
+    <NamedGroupIcon>Piano2</NamedGroupIcon>
     <NamedGroup>Piano Duet</NamedGroup>
     <NamedGroupDE>Klavierduett</NamedGroupDE>
     <NamedGroupFR>Duo de pianos</NamedGroupFR>
     <NamedGroupIT>Due pianoforti</NamedGroupIT>
-    <NamedGroupIcon>Piano2</NamedGroupIcon>
     <NamedGroupES>Dúo de Pianos</NamedGroupES>
     <NamedGroupJA>ピアノ　デュオ</NamedGroupJA>
     <NamedGroupKO>피아노 듀엣</NamedGroupKO>
@@ -707,11 +707,11 @@
   <UIC>
     <NamedID>11</NamedID>
     <NamedGroupID>1007</NamedGroupID>
+    <NamedGroupIcon>Piano2</NamedGroupIcon>
     <NamedGroup>Piano Duet</NamedGroup>
     <NamedGroupDE>Klavierduett</NamedGroupDE>
     <NamedGroupFR>Duo de pianos</NamedGroupFR>
     <NamedGroupIT>Due pianoforti</NamedGroupIT>
-    <NamedGroupIcon>Piano2</NamedGroupIcon>
     <NamedGroupES>Dúo de Pianos</NamedGroupES>
     <NamedGroupJA>ピアノ　デュオ</NamedGroupJA>
     <NamedGroupKO>피아노 듀엣</NamedGroupKO>
@@ -726,11 +726,11 @@
   <UIC>
     <NamedID>8</NamedID>
     <NamedGroupID>1005</NamedGroupID>
+    <NamedGroupIcon>Piano|Strings3</NamedGroupIcon>
     <NamedGroup>Piano Quartet</NamedGroup>
     <NamedGroupDE>Klavierquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor avec piano </NamedGroupFR>
     <NamedGroupIT>Quartetto con pianoforte</NamedGroupIT>
-    <NamedGroupIcon>Piano|Strings3</NamedGroupIcon>
     <NamedGroupES>Cuarteto para Piano</NamedGroupES>
     <NamedGroupJA>ピアノ四重奏</NamedGroupJA>
     <NamedGroupKO>피아노 사중주</NamedGroupKO>
@@ -745,11 +745,11 @@
   <UIC>
     <NamedID>45</NamedID>
     <NamedGroupID>1022</NamedGroupID>
+    <NamedGroupIcon>Piano|Strings4</NamedGroupIcon>
     <NamedGroup>Piano Quintet</NamedGroup>
     <NamedGroupDE>Klavierquintett</NamedGroupDE>
     <NamedGroupFR>Quintette avec piano</NamedGroupFR>
     <NamedGroupIT>Quintetto con pianoforte</NamedGroupIT>
-    <NamedGroupIcon>Piano|Strings4</NamedGroupIcon>
     <NamedGroupES>Quinteto para Piano</NamedGroupES>
     <NamedGroupJA>ピアノ五重奏</NamedGroupJA>
     <NamedGroupKO>피아노 사중주</NamedGroupKO>
@@ -764,11 +764,11 @@
   <UIC>
     <NamedID>46</NamedID>
     <NamedGroupID>1022</NamedGroupID>
+    <NamedGroupIcon>Piano|Strings4</NamedGroupIcon>
     <NamedGroup>Piano Quintet</NamedGroup>
     <NamedGroupDE>Klavierquintett</NamedGroupDE>
     <NamedGroupFR>Quintette avec piano</NamedGroupFR>
     <NamedGroupIT>Quintetto con pianoforte</NamedGroupIT>
-    <NamedGroupIcon>Piano|Strings4</NamedGroupIcon>
     <NamedGroupES>Quinteto para Piano</NamedGroupES>
     <NamedGroupJA>ピアノ五重奏</NamedGroupJA>
     <NamedGroupKO>피아노 사중주</NamedGroupKO>
@@ -783,11 +783,11 @@
   <UIC>
     <NamedID>47</NamedID>
     <NamedGroupID>1022</NamedGroupID>
+    <NamedGroupIcon>Piano|Strings4</NamedGroupIcon>
     <NamedGroup>Piano Quintet</NamedGroup>
     <NamedGroupDE>Klavierquintett</NamedGroupDE>
     <NamedGroupFR>Quintette avec piano</NamedGroupFR>
     <NamedGroupIT>Quintetto con pianoforte</NamedGroupIT>
-    <NamedGroupIcon>Piano|Strings4</NamedGroupIcon>
     <NamedGroupES>Quinteto para Piano</NamedGroupES>
     <NamedGroupJA>ピアノ五重奏</NamedGroupJA>
     <NamedGroupKO>피아노 사중주</NamedGroupKO>
@@ -802,11 +802,11 @@
   <UIC>
     <NamedID>4</NamedID>
     <NamedGroupID>1002</NamedGroupID>
+    <NamedGroupIcon>Piano|Violin|Cello</NamedGroupIcon>
     <NamedGroup>Piano Trio</NamedGroup>
     <NamedGroupDE>Klaviertrio</NamedGroupDE>
     <NamedGroupFR>Trio avec piano</NamedGroupFR>
     <NamedGroupIT>Trio con pianoforte</NamedGroupIT>
-    <NamedGroupIcon>Piano|Violin|Cello</NamedGroupIcon>
     <NamedGroupES>Trío para Piano</NamedGroupES>
     <NamedGroupJA>ピアノ三重奏</NamedGroupJA>
     <NamedGroupKO>피아노 삼중주</NamedGroupKO>
@@ -821,11 +821,11 @@
   <UIC>
     <NamedID>57</NamedID>
     <NamedGroupID>1026</NamedGroupID>
+    <NamedGroupIcon>Wind5</NamedGroupIcon>
     <NamedGroup>Reed Quintet</NamedGroup>
     <NamedGroupDE>Rohrblattinstrumentenquintett</NamedGroupDE>
     <NamedGroupFR>Quatuor d'anches</NamedGroupFR>
     <NamedGroupIT>Quintetto d'ance</NamedGroupIT>
-    <NamedGroupIcon>Wind5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Cañas</NamedGroupES>
     <NamedGroupJA>リード楽器五重奏</NamedGroupJA>
     <NamedGroupKO>리드 악기 오중주</NamedGroupKO>
@@ -840,11 +840,11 @@
   <UIC>
     <NamedID>58</NamedID>
     <NamedGroupID>1026</NamedGroupID>
+    <NamedGroupIcon>Wind5</NamedGroupIcon>
     <NamedGroup>Reed Quintet</NamedGroup>
     <NamedGroupDE>Rohrblattinstrumentenquintett</NamedGroupDE>
     <NamedGroupFR>Quatuor d'anches</NamedGroupFR>
     <NamedGroupIT>Quintetto d'ance</NamedGroupIT>
-    <NamedGroupIcon>Wind5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Cañas</NamedGroupES>
     <NamedGroupJA>リード楽器五重奏</NamedGroupJA>
     <NamedGroupKO>리드 악기 오중주</NamedGroupKO>
@@ -859,11 +859,11 @@
   <UIC>
     <NamedID>16</NamedID>
     <NamedGroupID>1011</NamedGroupID>
+    <NamedGroupIcon>Wind3</NamedGroupIcon>
     <NamedGroup>Reed Trio</NamedGroup>
     <NamedGroupDE>Rohrblattinstrumententrio</NamedGroupDE>
     <NamedGroupFR>Trio d'anches</NamedGroupFR>
     <NamedGroupIT>Trio d'ance</NamedGroupIT>
-    <NamedGroupIcon>Wind3</NamedGroupIcon>
     <NamedGroupES>Trío de Viento</NamedGroupES>
     <NamedGroupJA>リード楽器三重奏</NamedGroupJA>
     <NamedGroupKO>리드 악기 삼중주</NamedGroupKO>
@@ -878,11 +878,11 @@
   <UIC>
     <NamedID>9</NamedID>
     <NamedGroupID>1006</NamedGroupID>
+    <NamedGroupIcon>Saxophone4</NamedGroupIcon>
     <NamedGroup>Saxophone Quartet</NamedGroup>
     <NamedGroupDE>Saxofonquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de saxophones</NamedGroupFR>
     <NamedGroupIT>Quartetto di sassofoni</NamedGroupIT>
-    <NamedGroupIcon>Saxophone4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Saxofones</NamedGroupES>
     <NamedGroupJA>サクソフォーン四重奏</NamedGroupJA>
     <NamedGroupKO>색소폰 사중주</NamedGroupKO>
@@ -897,11 +897,11 @@
   <UIC>
     <NamedID>19</NamedID>
     <NamedGroupID>1006</NamedGroupID>
+    <NamedGroupIcon>Saxophone4</NamedGroupIcon>
     <NamedGroup>Saxophone Quartet</NamedGroup>
     <NamedGroupDE>Saxofonquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de saxophones</NamedGroupFR>
     <NamedGroupIT>Quartetto di sassofoni</NamedGroupIT>
-    <NamedGroupIcon>Saxophone4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Saxofones</NamedGroupES>
     <NamedGroupJA>サクソフォーン四重奏</NamedGroupJA>
     <NamedGroupKO>색소폰 사중주</NamedGroupKO>
@@ -916,11 +916,11 @@
   <UIC>
     <NamedID>20</NamedID>
     <NamedGroupID>1006</NamedGroupID>
+    <NamedGroupIcon>Saxophone4</NamedGroupIcon>
     <NamedGroup>Saxophone Quartet</NamedGroup>
     <NamedGroupDE>Saxofonquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de saxophones</NamedGroupFR>
     <NamedGroupIT>Quartetto di sassofoni</NamedGroupIT>
-    <NamedGroupIcon>Saxophone4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Saxofones</NamedGroupES>
     <NamedGroupJA>サクソフォーン四重奏</NamedGroupJA>
     <NamedGroupKO>색소폰 사중주</NamedGroupKO>
@@ -935,11 +935,11 @@
   <UIC>
     <NamedID>21</NamedID>
     <NamedGroupID>1006</NamedGroupID>
+    <NamedGroupIcon>Saxophone4</NamedGroupIcon>
     <NamedGroup>Saxophone Quartet</NamedGroup>
     <NamedGroupDE>Saxofonquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de saxophones</NamedGroupFR>
     <NamedGroupIT>Quartetto di sassofoni</NamedGroupIT>
-    <NamedGroupIcon>Saxophone4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Saxofones</NamedGroupES>
     <NamedGroupJA>サクソフォーン四重奏</NamedGroupJA>
     <NamedGroupKO>색소폰 사중주</NamedGroupKO>
@@ -954,11 +954,11 @@
   <UIC>
     <NamedID>22</NamedID>
     <NamedGroupID>1006</NamedGroupID>
+    <NamedGroupIcon>Saxophone4</NamedGroupIcon>
     <NamedGroup>Saxophone Quartet</NamedGroup>
     <NamedGroupDE>Saxofonquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de saxophones</NamedGroupFR>
     <NamedGroupIT>Quartetto di sassofoni</NamedGroupIT>
-    <NamedGroupIcon>Saxophone4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Saxofones</NamedGroupES>
     <NamedGroupJA>サクソフォーン四重奏</NamedGroupJA>
     <NamedGroupKO>색소폰 사중주</NamedGroupKO>
@@ -973,11 +973,11 @@
   <UIC>
     <NamedID>76</NamedID>
     <NamedGroupID>1001</NamedGroupID>
+    <NamedGroupIcon>Strings4</NamedGroupIcon>
     <NamedGroup>String Quartet</NamedGroup>
     <NamedGroupDE>Streichquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor à cordes</NamedGroupFR>
     <NamedGroupIT>Quartetto d'archi</NamedGroupIT>
-    <NamedGroupIcon>Strings4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Cuerda</NamedGroupES>
     <NamedGroupJA>弦楽四重奏</NamedGroupJA>
     <NamedGroupKO>현악 사중주</NamedGroupKO>
@@ -992,11 +992,11 @@
   <UIC>
     <NamedID>2</NamedID>
     <NamedGroupID>1001</NamedGroupID>
+    <NamedGroupIcon>Strings4</NamedGroupIcon>
     <NamedGroup>String Quartet</NamedGroup>
     <NamedGroupDE>Streichquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor à cordes</NamedGroupFR>
     <NamedGroupIT>Quartetto d'archi</NamedGroupIT>
-    <NamedGroupIcon>Strings4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Cuerda</NamedGroupES>
     <NamedGroupJA>弦楽四重奏</NamedGroupJA>
     <NamedGroupKO>현악 사중주</NamedGroupKO>
@@ -1011,11 +1011,11 @@
   <UIC>
     <NamedID>3</NamedID>
     <NamedGroupID>1001</NamedGroupID>
+    <NamedGroupIcon>Strings4</NamedGroupIcon>
     <NamedGroup>String Quartet</NamedGroup>
     <NamedGroupDE>Streichquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor à cordes</NamedGroupFR>
     <NamedGroupIT>Quartetto d'archi</NamedGroupIT>
-    <NamedGroupIcon>Strings4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Cuerda</NamedGroupES>
     <NamedGroupJA>弦楽四重奏</NamedGroupJA>
     <NamedGroupKO>현악 사중주</NamedGroupKO>
@@ -1030,11 +1030,11 @@
   <UIC>
     <NamedID>48</NamedID>
     <NamedGroupID>1023</NamedGroupID>
+    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroup>String Quintet</NamedGroup>
     <NamedGroupDE>Streichquintett</NamedGroupDE>
     <NamedGroupFR>Quintette à cordes</NamedGroupFR>
     <NamedGroupIT>Quintetto d'archi</NamedGroupIT>
-    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Cuerda</NamedGroupES>
     <NamedGroupJA>弦楽五重奏</NamedGroupJA>
     <NamedGroupKO>현악 오중주</NamedGroupKO>
@@ -1049,11 +1049,11 @@
   <UIC>
     <NamedID>49</NamedID>
     <NamedGroupID>1023</NamedGroupID>
+    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroup>String Quintet</NamedGroup>
     <NamedGroupDE>Streichquintett</NamedGroupDE>
     <NamedGroupFR>Quintette à cordes</NamedGroupFR>
     <NamedGroupIT>Quintetto d'archi</NamedGroupIT>
-    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Cuerda</NamedGroupES>
     <NamedGroupJA>弦楽五重奏</NamedGroupJA>
     <NamedGroupKO>현악 오중주</NamedGroupKO>
@@ -1068,11 +1068,11 @@
   <UIC>
     <NamedID>50</NamedID>
     <NamedGroupID>1023</NamedGroupID>
+    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroup>String Quintet</NamedGroup>
     <NamedGroupDE>Streichquintett</NamedGroupDE>
     <NamedGroupFR>Quintette à cordes</NamedGroupFR>
     <NamedGroupIT>Quintetto d'archi</NamedGroupIT>
-    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Cuerda</NamedGroupES>
     <NamedGroupJA>弦楽五重奏</NamedGroupJA>
     <NamedGroupKO>현악 오중주</NamedGroupKO>
@@ -1087,11 +1087,11 @@
   <UIC>
     <NamedID>51</NamedID>
     <NamedGroupID>1023</NamedGroupID>
+    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroup>String Quintet</NamedGroup>
     <NamedGroupDE>Streichquintett</NamedGroupDE>
     <NamedGroupFR>Quintette à cordes</NamedGroupFR>
     <NamedGroupIT>Quintetto d'archi</NamedGroupIT>
-    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Cuerda</NamedGroupES>
     <NamedGroupJA>弦楽五重奏</NamedGroupJA>
     <NamedGroupKO>현악 오중주</NamedGroupKO>
@@ -1106,11 +1106,11 @@
   <UIC>
     <NamedID>52</NamedID>
     <NamedGroupID>1023</NamedGroupID>
+    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroup>String Quintet</NamedGroup>
     <NamedGroupDE>Streichquintett</NamedGroupDE>
     <NamedGroupFR>Quintette à cordes</NamedGroupFR>
     <NamedGroupIT>Quintetto d'archi</NamedGroupIT>
-    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Cuerda</NamedGroupES>
     <NamedGroupJA>弦楽五重奏</NamedGroupJA>
     <NamedGroupKO>현악 오중주</NamedGroupKO>
@@ -1125,11 +1125,11 @@
   <UIC>
     <NamedID>53</NamedID>
     <NamedGroupID>1023</NamedGroupID>
+    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroup>String Quintet</NamedGroup>
     <NamedGroupDE>Streichquintett</NamedGroupDE>
     <NamedGroupFR>Quintette à cordes</NamedGroupFR>
     <NamedGroupIT>Quintetto d'archi</NamedGroupIT>
-    <NamedGroupIcon>Strings5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Cuerda</NamedGroupES>
     <NamedGroupJA>弦楽五重奏</NamedGroupJA>
     <NamedGroupKO>현악 오중주</NamedGroupKO>
@@ -1144,11 +1144,11 @@
   <UIC>
     <NamedID>14</NamedID>
     <NamedGroupID>1009</NamedGroupID>
+    <NamedGroupIcon>Strings3</NamedGroupIcon>
     <NamedGroup>String Trio</NamedGroup>
     <NamedGroupDE>Streichtrio</NamedGroupDE>
     <NamedGroupFR>Trio à cordes</NamedGroupFR>
     <NamedGroupIT>Trio d'archi</NamedGroupIT>
-    <NamedGroupIcon>Strings3</NamedGroupIcon>
     <NamedGroupES>Trío de Cuerda</NamedGroupES>
     <NamedGroupJA>弦楽三重奏</NamedGroupJA>
     <NamedGroupKO>현악 삼중주</NamedGroupKO>
@@ -1163,11 +1163,11 @@
   <UIC>
     <NamedID>1</NamedID>
     <NamedGroupID>1000</NamedGroupID>
+    <NamedGroupIcon>Strings</NamedGroupIcon>
     <NamedGroup>Strings</NamedGroup>
     <NamedGroupDE>Streicher</NamedGroupDE>
     <NamedGroupFR>Cordes</NamedGroupFR>
     <NamedGroupIT>Archi</NamedGroupIT>
-    <NamedGroupIcon>Strings</NamedGroupIcon>
     <NamedGroupES>Cuerdas</NamedGroupES>
     <NamedGroupJA>弦楽器</NamedGroupJA>
     <NamedGroupKO>현악기</NamedGroupKO>
@@ -1182,11 +1182,11 @@
   <UIC>
     <NamedID>69</NamedID>
     <NamedGroupID>1000</NamedGroupID>
+    <NamedGroupIcon>Strings</NamedGroupIcon>
     <NamedGroup>Strings</NamedGroup>
     <NamedGroupDE>Streicher</NamedGroupDE>
     <NamedGroupFR>Cordes</NamedGroupFR>
     <NamedGroupIT>Archi</NamedGroupIT>
-    <NamedGroupIcon>Strings</NamedGroupIcon>
     <NamedGroupES>Cuerdas</NamedGroupES>
     <NamedGroupJA>弦楽器</NamedGroupJA>
     <NamedGroupKO>현악기</NamedGroupKO>
@@ -1201,11 +1201,11 @@
   <UIC>
     <NamedID>35</NamedID>
     <NamedGroupID>1020</NamedGroupID>
+    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroup>Tuba Quartet</NamedGroup>
     <NamedGroupDE>Tubaquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de tubas</NamedGroupFR>
     <NamedGroupIT>Quartetto di tube</NamedGroupIT>
-    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Tubas</NamedGroupES>
     <NamedGroupJA>テューバ四重奏</NamedGroupJA>
     <NamedGroupKO>튜바 사중주</NamedGroupKO>
@@ -1220,11 +1220,11 @@
   <UIC>
     <NamedID>36</NamedID>
     <NamedGroupID>1020</NamedGroupID>
+    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroup>Tuba Quartet</NamedGroup>
     <NamedGroupDE>Tubaquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de tubas</NamedGroupFR>
     <NamedGroupIT>Quartetto di tube</NamedGroupIT>
-    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Tubas</NamedGroupES>
     <NamedGroupJA>テューバ四重奏</NamedGroupJA>
     <NamedGroupKO>튜바 사중주</NamedGroupKO>
@@ -1239,11 +1239,11 @@
   <UIC>
     <NamedID>37</NamedID>
     <NamedGroupID>1020</NamedGroupID>
+    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroup>Tuba Quartet</NamedGroup>
     <NamedGroupDE>Tubaquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de tubas</NamedGroupFR>
     <NamedGroupIT>Quartetto di tube</NamedGroupIT>
-    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Tubas</NamedGroupES>
     <NamedGroupJA>テューバ四重奏</NamedGroupJA>
     <NamedGroupKO>튜바 사중주</NamedGroupKO>
@@ -1258,11 +1258,11 @@
   <UIC>
     <NamedID>38</NamedID>
     <NamedGroupID>1020</NamedGroupID>
+    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroup>Tuba Quartet</NamedGroup>
     <NamedGroupDE>Tubaquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de tubas</NamedGroupFR>
     <NamedGroupIT>Quartetto di tube</NamedGroupIT>
-    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Tubas</NamedGroupES>
     <NamedGroupJA>テューバ四重奏</NamedGroupJA>
     <NamedGroupKO>튜바 사중주</NamedGroupKO>
@@ -1277,11 +1277,11 @@
   <UIC>
     <NamedID>39</NamedID>
     <NamedGroupID>1020</NamedGroupID>
+    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroup>Tuba Quartet</NamedGroup>
     <NamedGroupDE>Tubaquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de tubas</NamedGroupFR>
     <NamedGroupIT>Quartetto di tube</NamedGroupIT>
-    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Tubas</NamedGroupES>
     <NamedGroupJA>テューバ四重奏</NamedGroupJA>
     <NamedGroupKO>튜바 사중주</NamedGroupKO>
@@ -1296,11 +1296,11 @@
   <UIC>
     <NamedID>40</NamedID>
     <NamedGroupID>1020</NamedGroupID>
+    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroup>Tuba Quartet</NamedGroup>
     <NamedGroupDE>Tubaquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de tubas</NamedGroupFR>
     <NamedGroupIT>Quartetto di tube</NamedGroupIT>
-    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Tubas</NamedGroupES>
     <NamedGroupJA>テューバ四重奏</NamedGroupJA>
     <NamedGroupKO>튜바 사중주</NamedGroupKO>
@@ -1315,11 +1315,11 @@
   <UIC>
     <NamedID>41</NamedID>
     <NamedGroupID>1020</NamedGroupID>
+    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroup>Tuba Quartet</NamedGroup>
     <NamedGroupDE>Tubaquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de tubas</NamedGroupFR>
     <NamedGroupIT>Quartetto di tube</NamedGroupIT>
-    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Tubas</NamedGroupES>
     <NamedGroupJA>テューバ四重奏</NamedGroupJA>
     <NamedGroupKO>튜바 사중주</NamedGroupKO>
@@ -1334,11 +1334,11 @@
   <UIC>
     <NamedID>42</NamedID>
     <NamedGroupID>1020</NamedGroupID>
+    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroup>Tuba Quartet</NamedGroup>
     <NamedGroupDE>Tubaquartett</NamedGroupDE>
     <NamedGroupFR>Quatuor de tubas</NamedGroupFR>
     <NamedGroupIT>Quartetto di tube</NamedGroupIT>
-    <NamedGroupIcon>Tuba4</NamedGroupIcon>
     <NamedGroupES>Cuarteto de Tubas</NamedGroupES>
     <NamedGroupJA>テューバ四重奏</NamedGroupJA>
     <NamedGroupKO>튜바 사중주</NamedGroupKO>
@@ -1353,11 +1353,11 @@
   <UIC>
     <NamedID>68</NamedID>
     <NamedGroupID>1035</NamedGroupID>
+    <NamedGroupIcon>Voices</NamedGroupIcon>
     <NamedGroup>Voices</NamedGroup>
     <NamedGroupDE>Stimmen</NamedGroupDE>
     <NamedGroupFR>Voix</NamedGroupFR>
     <NamedGroupIT>Voci</NamedGroupIT>
-    <NamedGroupIcon>Voices</NamedGroupIcon>
     <NamedGroupES>Voces</NamedGroupES>
     <NamedGroupJA>声</NamedGroupJA>
     <NamedGroupKO>소리</NamedGroupKO>
@@ -1372,11 +1372,11 @@
   <UIC>
     <NamedID>62</NamedID>
     <NamedGroupID>1029</NamedGroupID>
+    <NamedGroupIcon>Wind</NamedGroupIcon>
     <NamedGroup>Wind</NamedGroup>
     <NamedGroupDE>Holzbläser</NamedGroupDE>
     <NamedGroupFR>Vents</NamedGroupFR>
     <NamedGroupIT>Legni</NamedGroupIT>
-    <NamedGroupIcon>Wind</NamedGroupIcon>
     <NamedGroupES>Viento</NamedGroupES>
     <NamedGroupJA>木管楽器</NamedGroupJA>
     <NamedGroupKO>목관악기</NamedGroupKO>
@@ -1391,11 +1391,11 @@
   <UIC>
     <NamedID>5</NamedID>
     <NamedGroupID>1003</NamedGroupID>
+    <NamedGroupIcon>Wind5</NamedGroupIcon>
     <NamedGroup>Wind Quintet</NamedGroup>
     <NamedGroupDE>Holzbläserquintett</NamedGroupDE>
     <NamedGroupFR>Quintette à vent</NamedGroupFR>
     <NamedGroupIT>Quintetto di fiati</NamedGroupIT>
-    <NamedGroupIcon>Wind5</NamedGroupIcon>
     <NamedGroupES>Quinteto de Viento</NamedGroupES>
     <NamedGroupJA>木管五重奏</NamedGroupJA>
     <NamedGroupKO>목관 오중주</NamedGroupKO>
@@ -1410,11 +1410,11 @@
   <UIC>
     <NamedID>66</NamedID>
     <NamedGroupID>1033</NamedGroupID>
+    <NamedGroupIcon>EnsembleLarge</NamedGroupIcon>
     <NamedGroup>Wind/Concert Band</NamedGroup>
     <NamedGroupDE>Konzertband</NamedGroupDE>
     <NamedGroupFR>Groupe à vent</NamedGroupFR>
     <NamedGroupIT>Formazione di fiati</NamedGroupIT>
-    <NamedGroupIcon>EnsembleLarge</NamedGroupIcon>
     <NamedGroupES>Banda de Viento</NamedGroupES>
     <NamedGroupJA>木管コンサートバンド</NamedGroupJA>
     <NamedGroupKO>목관 연주밴드</NamedGroupKO>

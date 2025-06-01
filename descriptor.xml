@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!--The Universal Instrumentation Code (UIC) by Peter Grimshaw of BTM Innovation Pty Ltd (https://uic.btmi.au) is licensed under a Creative Commons Attribution 3.0 Unported License. http://creativecommons.org/licenses/by/3.0/deed.en_US-->
+<!--The Universal Instrumentation Code (UIC) by Peter Grimshaw of Zinfonia Holdings Pty Ltd (https://uic.btmi.au) is licensed under a Creative Commons Attribution 3.0 Unported License. http://creativecommons.org/licenses/by/3.0/deed.en_US-->
 <result>
   <UIC>
     <DescriptorID>79</DescriptorID>
@@ -1230,7 +1230,8 @@
     <DescriptorNameKO>in Db</DescriptorNameKO>
     <DescriptorShortKO>in Db</DescriptorShortKO>
     <DescriptorNamePL>in Db</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>em RE bemol</DescriptorNamePT>
     <DescriptorShortPT>em RE bemo</DescriptorShortPT>
     <DescriptorNameRU>в ре-бемоле</DescriptorNameRU>
@@ -1726,7 +1727,8 @@
     <DescriptorNameKO>C # 장조</DescriptorNameKO>
     <DescriptorShortKO>C # 장조</DescriptorShortKO>
     <DescriptorNamePL>C# Major</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>DO sustenido maior</DescriptorNamePT>
     <DescriptorShortPT>DO susteni</DescriptorShortPT>
     <DescriptorNameRU>До-диез мажор</DescriptorNameRU>
@@ -1752,7 +1754,8 @@
     <DescriptorNameKO>C # 단조</DescriptorNameKO>
     <DescriptorShortKO>C # 단조</DescriptorShortKO>
     <DescriptorNamePL>C# Minor</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>DO sutenido menor</DescriptorNamePT>
     <DescriptorShortPT>DO sutenid</DescriptorShortPT>
     <DescriptorNameRU>До-диез минор</DescriptorNameRU>
@@ -1778,7 +1781,8 @@
     <DescriptorNameKO>Db 장조</DescriptorNameKO>
     <DescriptorShortKO>Db 장조</DescriptorShortKO>
     <DescriptorNamePL>Db Major</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>RE bemol maior</DescriptorNamePT>
     <DescriptorShortPT>RE bemol m</DescriptorShortPT>
     <DescriptorNameRU>Ре-бемоль мажор</DescriptorNameRU>
@@ -1804,7 +1808,8 @@
     <DescriptorNameKO>Db 단조</DescriptorNameKO>
     <DescriptorShortKO>Db 단조</DescriptorShortKO>
     <DescriptorNamePL>Db Minor</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>RE bemol menor</DescriptorNamePT>
     <DescriptorShortPT>RE bemol m</DescriptorShortPT>
     <DescriptorNameRU>Ре-бемоль минор</DescriptorNameRU>
@@ -1830,7 +1835,8 @@
     <DescriptorNameKO>D 장조</DescriptorNameKO>
     <DescriptorShortKO>D 장조</DescriptorShortKO>
     <DescriptorNamePL>D Major</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>RE maior</DescriptorNamePT>
     <DescriptorShortPT>RE maior</DescriptorShortPT>
     <DescriptorNameRU>Ре мажор</DescriptorNameRU>
@@ -1856,7 +1862,8 @@
     <DescriptorNameKO>D 단조</DescriptorNameKO>
     <DescriptorShortKO>D 단조</DescriptorShortKO>
     <DescriptorNamePL>D Minor</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>RE menor</DescriptorNamePT>
     <DescriptorShortPT>RE menor</DescriptorShortPT>
     <DescriptorNameRU>Ре минор</DescriptorNameRU>
@@ -1882,7 +1889,8 @@
     <DescriptorNameKO>D# 장조</DescriptorNameKO>
     <DescriptorShortKO>D# 장조</DescriptorShortKO>
     <DescriptorNamePL>D# Major</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>RE sustenido maior</DescriptorNamePT>
     <DescriptorShortPT>RE susteni</DescriptorShortPT>
     <DescriptorNameRU>Ре-диез мажор</DescriptorNameRU>
@@ -1908,7 +1916,8 @@
     <DescriptorNameKO>D# 단조</DescriptorNameKO>
     <DescriptorShortKO>D# 단조</DescriptorShortKO>
     <DescriptorNamePL>D# Minor</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>RE sustenido menor</DescriptorNamePT>
     <DescriptorShortPT>RE susteni</DescriptorShortPT>
     <DescriptorNameRU>Ре-диез минор</DescriptorNameRU>
@@ -2454,7 +2463,8 @@
     <DescriptorNameKO>Bb 장조</DescriptorNameKO>
     <DescriptorShortKO>Bb 장조</DescriptorShortKO>
     <DescriptorNamePL>Bb Major</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>SI bemol maior</DescriptorNamePT>
     <DescriptorShortPT>SI bemol m</DescriptorShortPT>
     <DescriptorNameRU>Си-бемоль мажор</DescriptorNameRU>
@@ -2480,7 +2490,8 @@
     <DescriptorNameKO>Bb 단조</DescriptorNameKO>
     <DescriptorShortKO>Bb 단조</DescriptorShortKO>
     <DescriptorNamePL>Bb Minor</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>SI bemol menor</DescriptorNamePT>
     <DescriptorShortPT>SI bemol m</DescriptorShortPT>
     <DescriptorNameRU>Си-бемоль минор</DescriptorNameRU>
@@ -2506,7 +2517,8 @@
     <DescriptorNameKO>B 장조</DescriptorNameKO>
     <DescriptorShortKO>B 장조</DescriptorShortKO>
     <DescriptorNamePL>B Major</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>SI maior</DescriptorNamePT>
     <DescriptorShortPT>SI maior</DescriptorShortPT>
     <DescriptorNameRU>Си мажор</DescriptorNameRU>
@@ -2532,7 +2544,8 @@
     <DescriptorNameKO>B 단조</DescriptorNameKO>
     <DescriptorShortKO>B 단조</DescriptorShortKO>
     <DescriptorNamePL>B Minor</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>SI menor</DescriptorNamePT>
     <DescriptorShortPT>SI menor</DescriptorShortPT>
     <DescriptorNameRU>Си минор</DescriptorNameRU>
@@ -2586,7 +2599,8 @@
     <DescriptorNameKO>첫번째</DescriptorNameKO>
     <DescriptorShortKO>첫번째</DescriptorShortKO>
     <DescriptorNamePL>First</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Primeiro/a</DescriptorNamePT>
     <DescriptorShortPT>Primeiro/a</DescriptorShortPT>
     <DescriptorNameRU>Первый</DescriptorNameRU>
@@ -2614,7 +2628,8 @@
     <DescriptorNameKO>두번째</DescriptorNameKO>
     <DescriptorShortKO>두번째</DescriptorShortKO>
     <DescriptorNamePL>Second</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Segundo/a</DescriptorNamePT>
     <DescriptorShortPT>Segundo/a</DescriptorShortPT>
     <DescriptorNameRU>Второй</DescriptorNameRU>
@@ -2642,7 +2657,8 @@
     <DescriptorNameKO>세번째</DescriptorNameKO>
     <DescriptorShortKO>세번째</DescriptorShortKO>
     <DescriptorNamePL>Third</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Terceiro/a</DescriptorNamePT>
     <DescriptorShortPT>Terceiro/a</DescriptorShortPT>
     <DescriptorNameRU>Третий</DescriptorNameRU>
@@ -2670,7 +2686,8 @@
     <DescriptorNameKO>네번째</DescriptorNameKO>
     <DescriptorShortKO>네번째</DescriptorShortKO>
     <DescriptorNamePL>Fourth</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Quarto/a</DescriptorNamePT>
     <DescriptorShortPT>Quarto/a</DescriptorShortPT>
     <DescriptorNameRU>Четвертый</DescriptorNameRU>
@@ -3736,7 +3753,8 @@
     <DescriptorNameKO>(즉흥적인)</DescriptorNameKO>
     <DescriptorShortKO>(즉흥적인)</DescriptorShortKO>
     <DescriptorNamePL>(improvised)</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>(improvisado)</DescriptorNamePT>
     <DescriptorShortPT>(improvisa</DescriptorShortPT>
     <DescriptorNameRU>(импровизация)</DescriptorNameRU>
@@ -3848,7 +3866,8 @@
     <DescriptorNameKO>레피아노</DescriptorNameKO>
     <DescriptorShortKO>레피아노</DescriptorShortKO>
     <DescriptorNamePL>Repiano</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Repiano</DescriptorNamePT>
     <DescriptorShortPT>Repiano</DescriptorShortPT>
     <DescriptorNameRU>Ripieno</DescriptorNameRU>
@@ -4408,7 +4427,8 @@
     <DescriptorNameKO>편곡</DescriptorNameKO>
     <DescriptorShortKO>편곡</DescriptorShortKO>
     <DescriptorNamePL>Transposed</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Transportado</DescriptorNamePT>
     <DescriptorShortPT>Transporta</DescriptorShortPT>
     <DescriptorNameRU>Транспонировано</DescriptorNameRU>
@@ -4464,7 +4484,8 @@
     <DescriptorNameKO>맞는소리</DescriptorNameKO>
     <DescriptorShortKO>맞는소리</DescriptorShortKO>
     <DescriptorNamePL>Tuned</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Afinado</DescriptorNamePT>
     <DescriptorShortPT>Afinado</DescriptorShortPT>
     <DescriptorNameRU>Настроено</DescriptorNameRU>
@@ -4574,7 +4595,8 @@
     <DescriptorNameKO>(Tacet)</DescriptorNameKO>
     <DescriptorShortKO>(Tacet)</DescriptorShortKO>
     <DescriptorNamePL>(Tacet)</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>(Tacet)</DescriptorNamePT>
     <DescriptorShortPT>(Tacet)</DescriptorShortPT>
     <DescriptorNameRU>(Tacet)</DescriptorNameRU>
@@ -4710,7 +4732,8 @@
     <DescriptorNameKO>무대</DescriptorNameKO>
     <DescriptorShortKO>무대</DescriptorShortKO>
     <DescriptorNamePL>(on stage)</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>(no palco)</DescriptorNamePT>
     <DescriptorShortPT>(no palco)</DescriptorShortPT>
     <DescriptorNameRU>(на сцене)</DescriptorNameRU>
@@ -4738,7 +4761,8 @@
     <DescriptorNameKO>무대 뒤</DescriptorNameKO>
     <DescriptorShortKO>무대 뒤</DescriptorShortKO>
     <DescriptorNamePL>(off stage)</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>(fora do palco)</DescriptorNamePT>
     <DescriptorShortPT>(fora do p</DescriptorShortPT>
     <DescriptorNameRU>(за сценой)</DescriptorNameRU>
@@ -4766,7 +4790,8 @@
     <DescriptorNameKO>삽입하다</DescriptorNameKO>
     <DescriptorShortKO>삽입하다</DescriptorShortKO>
     <DescriptorNamePL>Insert</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Inserção</DescriptorNamePT>
     <DescriptorShortPT>Inserção</DescriptorShortPT>
     <DescriptorNameRU>Вставить</DescriptorNameRU>
@@ -4822,7 +4847,8 @@
     <DescriptorNameKO>지휘자</DescriptorNameKO>
     <DescriptorShortKO>지휘자</DescriptorShortKO>
     <DescriptorNamePL>Conductor</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Maestro</DescriptorNamePT>
     <DescriptorShortPT>Maestro</DescriptorShortPT>
     <DescriptorNameRU>Дирижер</DescriptorNameRU>
@@ -4988,7 +5014,8 @@
     <DescriptorNameKO>A4 Wide</DescriptorNameKO>
     <DescriptorShortKO>A4 Wide</DescriptorShortKO>
     <DescriptorNamePL>A4 Wide</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>A4 Wide</DescriptorNamePT>
     <DescriptorShortPT>A4 Wide</DescriptorShortPT>
     <DescriptorNameRU>A4 Wide</DescriptorNameRU>
@@ -5156,7 +5183,8 @@
     <DescriptorNameKO>B4</DescriptorNameKO>
     <DescriptorShortKO>B4</DescriptorShortKO>
     <DescriptorNamePL>B4</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>B4</DescriptorNamePT>
     <DescriptorShortPT>B4</DescriptorShortPT>
     <DescriptorNameRU>B4</DescriptorNameRU>
@@ -5876,7 +5904,8 @@
     <DescriptorNameKO>합창 1</DescriptorNameKO>
     <DescriptorShortKO>합창 1</DescriptorShortKO>
     <DescriptorNamePL>Chorus 1</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Coro 1</DescriptorNamePT>
     <DescriptorShortPT>Coro 1</DescriptorShortPT>
     <DescriptorNameRU>Хор 1</DescriptorNameRU>
@@ -5932,7 +5961,8 @@
     <DescriptorNameKO>합창 3</DescriptorNameKO>
     <DescriptorShortKO>합창 3</DescriptorShortKO>
     <DescriptorNamePL>Chorus 3</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Coro 3</DescriptorNamePT>
     <DescriptorShortPT>Coro 3</DescriptorShortPT>
     <DescriptorNameRU>Хор 3</DescriptorNameRU>
@@ -5960,7 +5990,8 @@
     <DescriptorNameKO>합창 4</DescriptorNameKO>
     <DescriptorShortKO>합창 4</DescriptorShortKO>
     <DescriptorNamePL>Chorus 4</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Coro 4</DescriptorNamePT>
     <DescriptorShortPT>Coro 4</DescriptorShortPT>
     <DescriptorNameRU>Хор 4</DescriptorNameRU>
@@ -6030,6 +6061,8 @@
   <UIC>
     <DescriptorID>125</DescriptorID>
     <DescriptorName>I-I</DescriptorName>
+    <DescriptorShort>
+    </DescriptorShort>
     <DescriptorNameDE>I-I</DescriptorNameDE>
     <DescriptorShortDE>I-I</DescriptorShortDE>
     <DescriptorNameFR>I-I</DescriptorNameFR>
@@ -7063,7 +7096,8 @@
     <DescriptorNameKO>알토</DescriptorNameKO>
     <DescriptorShortKO>알토</DescriptorShortKO>
     <DescriptorNamePL>Alto</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Contralto</DescriptorNamePT>
     <DescriptorShortPT>Contralto</DescriptorShortPT>
     <DescriptorNameRU>Альт</DescriptorNameRU>
@@ -7143,7 +7177,8 @@
     <DescriptorNameKO>바리톤</DescriptorNameKO>
     <DescriptorShortKO>바리톤</DescriptorShortKO>
     <DescriptorNamePL>Baritone</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Barítono</DescriptorNamePT>
     <DescriptorShortPT>Barítono</DescriptorShortPT>
     <DescriptorNameRU>Баритон</DescriptorNameRU>
@@ -7171,7 +7206,8 @@
     <DescriptorNameKO>베이스</DescriptorNameKO>
     <DescriptorShortKO>베이스</DescriptorShortKO>
     <DescriptorNamePL>Bass</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Baixo</DescriptorNamePT>
     <DescriptorShortPT>Baixo</DescriptorShortPT>
     <DescriptorNameRU>Бас</DescriptorNameRU>
@@ -7223,7 +7259,8 @@
     <DescriptorNameKO>어린이</DescriptorNameKO>
     <DescriptorShortKO>어린이</DescriptorShortKO>
     <DescriptorNamePL>Children</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Crianças</DescriptorNamePT>
     <DescriptorShortPT>Crianças</DescriptorShortPT>
     <DescriptorNameRU>Дети</DescriptorNameRU>
@@ -8353,7 +8390,8 @@
     <DescriptorNameKO>리듬</DescriptorNameKO>
     <DescriptorShortKO>리듬</DescriptorShortKO>
     <DescriptorNamePL>Rhythm</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Ritmo</DescriptorNamePT>
     <DescriptorShortPT>Ritmo</DescriptorShortPT>
     <DescriptorNameRU>Ритм</DescriptorNameRU>
@@ -8631,7 +8669,8 @@
     <DescriptorNameKO>깊은</DescriptorNameKO>
     <DescriptorShortKO>깊은</DescriptorShortKO>
     <DescriptorNamePL>Deep</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Profundo</DescriptorNamePT>
     <DescriptorShortPT>Profundo</DescriptorShortPT>
     <DescriptorNameRU>Глубокий</DescriptorNameRU>
@@ -8795,7 +8834,8 @@
     <DescriptorNameKO>해설하다</DescriptorNameKO>
     <DescriptorShortKO>해설하다</DescriptorShortKO>
     <DescriptorNamePL>Annotated</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Anotado</DescriptorNamePT>
     <DescriptorShortPT>Anotado</DescriptorShortPT>
     <DescriptorNameRU>Аннотированно</DescriptorNameRU>
@@ -8963,7 +9003,8 @@
     <DescriptorNameKO>포크</DescriptorNameKO>
     <DescriptorShortKO>포크</DescriptorShortKO>
     <DescriptorNamePL>Folk</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Folk</DescriptorNamePT>
     <DescriptorShortPT>Folk</DescriptorShortPT>
     <DescriptorNameRU>Фолк</DescriptorNameRU>
@@ -9075,7 +9116,8 @@
     <DescriptorNameKO>낮은 음 자리표</DescriptorNameKO>
     <DescriptorShortKO>낮은 음 자리표</DescriptorShortKO>
     <DescriptorNamePL>Alto Clef</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Clave de dó (3ª linha)</DescriptorNamePT>
     <DescriptorShortPT>Clave de d</DescriptorShortPT>
     <DescriptorNameRU>Альтовый ключ</DescriptorNameRU>
@@ -9131,7 +9173,8 @@
     <DescriptorNameKO>베이스 음 자리표</DescriptorNameKO>
     <DescriptorShortKO>베이스 음 자리표</DescriptorShortKO>
     <DescriptorNamePL>Bass Clef</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Clave de fá</DescriptorNamePT>
     <DescriptorShortPT>Clave de f</DescriptorShortPT>
     <DescriptorNameRU>Басовый ключ</DescriptorNameRU>
@@ -9159,7 +9202,8 @@
     <DescriptorNameKO>표준 음정</DescriptorNameKO>
     <DescriptorShortKO>표준 음정</DescriptorShortKO>
     <DescriptorNamePL>Concert Pitch</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Afinação de concerto</DescriptorNamePT>
     <DescriptorShortPT>Afinação d</DescriptorShortPT>
     <DescriptorNameRU>Камертон</DescriptorNameRU>
@@ -9383,7 +9427,8 @@
     <DescriptorNameKO>1D</DescriptorNameKO>
     <DescriptorShortKO>1D</DescriptorShortKO>
     <DescriptorNamePL>1D</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>1D</DescriptorNamePT>
     <DescriptorShortPT>1D</DescriptorShortPT>
     <DescriptorNameRU>1D</DescriptorNameRU>
@@ -9467,7 +9512,8 @@
     <DescriptorNameKO>2C</DescriptorNameKO>
     <DescriptorShortKO>2C</DescriptorShortKO>
     <DescriptorNamePL>2C</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>2C</DescriptorNamePT>
     <DescriptorShortPT>2C</DescriptorShortPT>
     <DescriptorNameRU>2C</DescriptorNameRU>
@@ -9495,7 +9541,8 @@
     <DescriptorNameKO>2D</DescriptorNameKO>
     <DescriptorShortKO>2D</DescriptorShortKO>
     <DescriptorNamePL>2D</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>2D</DescriptorNamePT>
     <DescriptorShortPT>2D</DescriptorShortPT>
     <DescriptorNameRU>2D</DescriptorNameRU>
@@ -9551,7 +9598,8 @@
     <DescriptorNameKO>3B</DescriptorNameKO>
     <DescriptorShortKO>3B</DescriptorShortKO>
     <DescriptorNamePL>3B</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>3B</DescriptorNamePT>
     <DescriptorShortPT>3B</DescriptorShortPT>
     <DescriptorNameRU>3B</DescriptorNameRU>
@@ -9579,7 +9627,8 @@
     <DescriptorNameKO>3C</DescriptorNameKO>
     <DescriptorShortKO>3C</DescriptorShortKO>
     <DescriptorNamePL>3C</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>3C</DescriptorNamePT>
     <DescriptorShortPT>3C</DescriptorShortPT>
     <DescriptorNameRU>3C</DescriptorNameRU>
@@ -9607,7 +9656,8 @@
     <DescriptorNameKO>3D</DescriptorNameKO>
     <DescriptorShortKO>3D</DescriptorShortKO>
     <DescriptorNamePL>3D</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>3D</DescriptorNamePT>
     <DescriptorShortPT>3D</DescriptorShortPT>
     <DescriptorNameRU>3D</DescriptorNameRU>
@@ -9635,7 +9685,8 @@
     <DescriptorNameKO>4A</DescriptorNameKO>
     <DescriptorShortKO>4A</DescriptorShortKO>
     <DescriptorNamePL>4A</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>4A</DescriptorNamePT>
     <DescriptorShortPT>4A</DescriptorShortPT>
     <DescriptorNameRU>4A</DescriptorNameRU>
@@ -9663,7 +9714,8 @@
     <DescriptorNameKO>4B</DescriptorNameKO>
     <DescriptorShortKO>4B</DescriptorShortKO>
     <DescriptorNamePL>4B</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>4B</DescriptorNamePT>
     <DescriptorShortPT>4B</DescriptorShortPT>
     <DescriptorNameRU>4B</DescriptorNameRU>
@@ -9691,7 +9743,8 @@
     <DescriptorNameKO>4C</DescriptorNameKO>
     <DescriptorShortKO>4C</DescriptorShortKO>
     <DescriptorNamePL>4C</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>4C</DescriptorNamePT>
     <DescriptorShortPT>4C</DescriptorShortPT>
     <DescriptorNameRU>4C</DescriptorNameRU>
@@ -9719,7 +9772,8 @@
     <DescriptorNameKO>4D</DescriptorNameKO>
     <DescriptorShortKO>4D</DescriptorShortKO>
     <DescriptorNamePL>4D</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>4D</DescriptorNamePT>
     <DescriptorShortPT>4D</DescriptorShortPT>
     <DescriptorNameRU>4D</DescriptorNameRU>
@@ -9831,7 +9885,8 @@
     <DescriptorNameKO>가운데</DescriptorNameKO>
     <DescriptorShortKO>가운데</DescriptorShortKO>
     <DescriptorNamePL>Center</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Centro</DescriptorNamePT>
     <DescriptorShortPT>Centro</DescriptorShortPT>
     <DescriptorNameRU>Посередине</DescriptorNameRU>
@@ -10027,7 +10082,8 @@
     <DescriptorNameKO>페달</DescriptorNameKO>
     <DescriptorShortKO>페달</DescriptorShortKO>
     <DescriptorNamePL>Pedal</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Pedal</DescriptorNamePT>
     <DescriptorShortPT>Pedal</DescriptorShortPT>
     <DescriptorNameRU>Педаль</DescriptorNameRU>
@@ -10055,7 +10111,8 @@
     <DescriptorNameKO>어시스턴트</DescriptorNameKO>
     <DescriptorShortKO>어시스턴트</DescriptorShortKO>
     <DescriptorNamePL>Assistant</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Assistente</DescriptorNamePT>
     <DescriptorShortPT>Assistente</DescriptorShortPT>
     <DescriptorNameRU>Ассистент</DescriptorNameRU>
@@ -10399,7 +10456,7 @@
     <DescriptorNameZH>[de]</DescriptorNameZH>
     <DescriptorShortZH>[de]</DescriptorShortZH>
     <DescriptorOrder>721</DescriptorOrder>
-    <DescriptorAdded>2014-04-17T00:24:31+00:00</DescriptorAdded>
+    <DescriptorAdded>2014-04-17T00:24:31.00+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:01.027+00:00</DescriptorEdited>
   </UIC>
   <UIC>
@@ -11623,7 +11680,8 @@
     <DescriptorNameKO>인디언</DescriptorNameKO>
     <DescriptorShortKO>인디언</DescriptorShortKO>
     <DescriptorNamePL>Indian</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Indiano</DescriptorNamePT>
     <DescriptorShortPT>Indiano</DescriptorShortPT>
     <DescriptorNameRU>Индийский</DescriptorNameRU>
@@ -11707,7 +11765,8 @@
     <DescriptorNameKO>원본</DescriptorNameKO>
     <DescriptorShortKO>원본</DescriptorShortKO>
     <DescriptorNamePL>Masters</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Mestres</DescriptorNamePT>
     <DescriptorShortPT>Mestres</DescriptorShortPT>
     <DescriptorNameRU>Masters</DescriptorNameRU>
@@ -11875,7 +11934,8 @@
     <DescriptorNameKO>부록</DescriptorNameKO>
     <DescriptorShortKO>부록</DescriptorShortKO>
     <DescriptorNamePL>Appendix</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Apêndice</DescriptorNamePT>
     <DescriptorShortPT>Apêndice</DescriptorShortPT>
     <DescriptorNameRU>Приложение</DescriptorNameRU>
@@ -12015,7 +12075,8 @@
     <DescriptorNameKO>소리 2</DescriptorNameKO>
     <DescriptorShortKO>소리 2</DescriptorShortKO>
     <DescriptorNamePL>Volume 2</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Volume 2</DescriptorNamePT>
     <DescriptorShortPT>Volume 2</DescriptorShortPT>
     <DescriptorNameRU>Том 2</DescriptorNameRU>
@@ -12043,7 +12104,8 @@
     <DescriptorNameKO>소리 3</DescriptorNameKO>
     <DescriptorShortKO>소리 3</DescriptorShortKO>
     <DescriptorNamePL>Volume 3</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Volume 3</DescriptorNamePT>
     <DescriptorShortPT>Volume 3</DescriptorShortPT>
     <DescriptorNameRU>Том 3</DescriptorNameRU>
@@ -12071,7 +12133,8 @@
     <DescriptorNameKO>소리 4</DescriptorNameKO>
     <DescriptorShortKO>소리 4</DescriptorShortKO>
     <DescriptorNamePL>Volume 4</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Volume 4</DescriptorNamePT>
     <DescriptorShortPT>Volume 4</DescriptorShortPT>
     <DescriptorNameRU>Том 4</DescriptorNameRU>
@@ -12211,7 +12274,8 @@
     <DescriptorNameKO>발레</DescriptorNameKO>
     <DescriptorShortKO>발레</DescriptorShortKO>
     <DescriptorNamePL>Ballet</DescriptorNamePL>
-    <DescriptorShortPL />
+    <DescriptorShortPL>
+    </DescriptorShortPL>
     <DescriptorNamePT>Balé</DescriptorNamePT>
     <DescriptorShortPT>Balé</DescriptorShortPT>
     <DescriptorNameRU>Балет</DescriptorNameRU>
@@ -12275,8 +12339,8 @@
     <DescriptorNameZH>重金属</DescriptorNameZH>
     <DescriptorShortZH>重金属</DescriptorShortZH>
     <DescriptorOrder>844</DescriptorOrder>
-    <DescriptorAdded>2017-01-12T13:56:57+00:00</DescriptorAdded>
-    <DescriptorEdited>2017-01-12T13:56:57+00:00</DescriptorEdited>
+    <DescriptorAdded>2017-01-12T13:56:57.00+00:00</DescriptorAdded>
+    <DescriptorEdited>2017-01-12T13:56:57.00+00:00</DescriptorEdited>
   </UIC>
   <UIC>
     <DescriptorID>399</DescriptorID>
