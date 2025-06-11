@@ -5650,6 +5650,49 @@
     <InstEdited>2023-09-29T07:12:26.157+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1134</InstID>
+    <InstUIC>6029361</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Groups</InstGenus>
+    <InstIcon>Guitar</InstIcon>
+    <InstName>Armonía</InstName>
+    <InstNameShort>Armonía</InstNameShort>
+    <InstNamePlural>Armonía</InstNamePlural>
+    <InstNameDE>Armonía</InstNameDE>
+    <InstNameShortDE>Armonía</InstNameShortDE>
+    <InstNamePluralDE>Armonía</InstNamePluralDE>
+    <InstNameFR>Armonía</InstNameFR>
+    <InstNameShortFR>Armonía</InstNameShortFR>
+    <InstNamePluralFR>Armonía</InstNamePluralFR>
+    <InstNameIT>Armonía</InstNameIT>
+    <InstNameShortIT>Armonía</InstNameShortIT>
+    <InstNamePluralIT>Armonía</InstNamePluralIT>
+    <InstNameES>Armonía</InstNameES>
+    <InstNameShortES>Armonía</InstNameShortES>
+    <InstNamePluralES>Armonía</InstNamePluralES>
+    <InstNameJA>Armonía</InstNameJA>
+    <InstNameShortJA>Armonía</InstNameShortJA>
+    <InstNamePluralJA>Armonía</InstNamePluralJA>
+    <InstNameKO>Armonía</InstNameKO>
+    <InstNameShortKO>Armonía</InstNameShortKO>
+    <InstNamePluralKO>Armonía</InstNamePluralKO>
+    <InstNamePL>Armonía</InstNamePL>
+    <InstNameShortPL>Armonía</InstNameShortPL>
+    <InstNamePluralPL>Armonía</InstNamePluralPL>
+    <InstNamePT>Armonía</InstNamePT>
+    <InstNameShortPT>Armonía</InstNameShortPT>
+    <InstNamePluralPT>Armonía</InstNamePluralPT>
+    <InstNameRU>Armonía</InstNameRU>
+    <InstNameShortRU>Armonía</InstNameShortRU>
+    <InstNamePluralRU>Armonía</InstNamePluralRU>
+    <InstNameZH>Armonía</InstNameZH>
+    <InstNameShortZH>Armonía</InstNameShortZH>
+    <InstNamePluralZH>Armonía</InstNamePluralZH>
+    <InstOrder>268582983</InstOrder>
+    <InstAdded>2025-06-11T00:03:29.927+00:00</InstAdded>
+    <InstEdited>2025-06-11T00:03:29.927+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>1086</InstID>
     <InstUIC>4456497</InstUIC>
     <InstFamily>1.General</InstFamily>
@@ -5687,7 +5730,7 @@
     <InstNameZH>Harmonies</InstNameZH>
     <InstNameShortZH>Harmonies</InstNameShortZH>
     <InstNamePluralZH>Harmonies</InstNamePluralZH>
-    <InstOrder>268582983</InstOrder>
+    <InstOrder>268582984</InstOrder>
     <InstAdded>2023-09-29T07:12:45.4+00:00</InstAdded>
     <InstEdited>2023-09-29T07:12:45.4+00:00</InstEdited>
   </UIC>
@@ -5729,7 +5772,7 @@
     <InstNameZH>Tunes</InstNameZH>
     <InstNameShortZH>Tunes</InstNameShortZH>
     <InstNamePluralZH>Tunes</InstNamePluralZH>
-    <InstOrder>268582984</InstOrder>
+    <InstOrder>268582985</InstOrder>
     <InstAdded>2023-09-29T07:12:59.13+00:00</InstAdded>
     <InstEdited>2023-09-29T07:12:59.13+00:00</InstEdited>
   </UIC>
@@ -5772,7 +5815,7 @@
     <InstNameZH>Country Chorale</InstNameZH>
     <InstNameShortZH>CntryCh</InstNameShortZH>
     <InstNamePluralZH>Country Chorales</InstNamePluralZH>
-    <InstOrder>268582985</InstOrder>
+    <InstOrder>268582986</InstOrder>
     <InstAdded>2024-07-04T23:55:12.17+00:00</InstAdded>
     <InstEdited>2024-07-04T23:55:12.17+00:00</InstEdited>
   </UIC>
@@ -5815,7 +5858,7 @@
     <InstNameZH>Carolina Wren</InstNameZH>
     <InstNameShortZH>CrlnWrn</InstNameShortZH>
     <InstNamePluralZH>Carolina Wrens</InstNamePluralZH>
-    <InstOrder>268582986</InstOrder>
+    <InstOrder>268582987</InstOrder>
     <InstAdded>2024-07-04T23:55:56.813+00:00</InstAdded>
     <InstEdited>2024-07-04T23:55:56.813+00:00</InstEdited>
   </UIC>
@@ -5858,7 +5901,7 @@
     <InstNameZH>Frog Duo</InstNameZH>
     <InstNameShortZH>FrogDuo</InstNameShortZH>
     <InstNamePluralZH>Frog Duos</InstNamePluralZH>
-    <InstOrder>268582987</InstOrder>
+    <InstOrder>268582988</InstOrder>
     <InstAdded>2024-07-04T23:56:30.687+00:00</InstAdded>
     <InstEdited>2024-07-04T23:56:30.687+00:00</InstEdited>
   </UIC>
@@ -5901,7 +5944,7 @@
     <InstNameZH>Chicks Trio</InstNameZH>
     <InstNameShortZH>ChcksTro</InstNameShortZH>
     <InstNamePluralZH>Chicks Trios</InstNamePluralZH>
-    <InstOrder>268582988</InstOrder>
+    <InstOrder>268582989</InstOrder>
     <InstAdded>2024-07-04T23:57:12.53+00:00</InstAdded>
     <InstEdited>2024-07-04T23:57:12.53+00:00</InstEdited>
   </UIC>
@@ -5944,7 +5987,7 @@
     <InstNameZH>Radio Duo</InstNameZH>
     <InstNameShortZH>RadioDuo</InstNameShortZH>
     <InstNamePluralZH>Radio Duos</InstNamePluralZH>
-    <InstOrder>268582989</InstOrder>
+    <InstOrder>268582990</InstOrder>
     <InstAdded>2024-07-04T23:57:40.69+00:00</InstAdded>
     <InstEdited>2024-07-04T23:57:40.69+00:00</InstEdited>
   </UIC>
