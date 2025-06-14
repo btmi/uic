@@ -34631,6 +34631,49 @@ High Sheng</InstNameAlt>
     <InstEdited>2017-04-04T09:16:29.8+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1137</InstID>
+    <InstUIC>9175157</InstUIC>
+    <InstFamily>5.Other</InstFamily>
+    <InstGenus>Effects</InstGenus>
+    <InstIcon>Percussion</InstIcon>
+    <InstName>Tuning Bar</InstName>
+    <InstNameShort>TnngBr</InstNameShort>
+    <InstNamePlural>Tuning Bars</InstNamePlural>
+    <InstNameDE>Stimmhebel</InstNameDE>
+    <InstNameShortDE>Stmmhbl</InstNameShortDE>
+    <InstNamePluralDE>Stimmstäbe</InstNamePluralDE>
+    <InstNameFR>Barre d'accordage</InstNameFR>
+    <InstNameShortFR>Brrdccrdg</InstNameShortFR>
+    <InstNamePluralFR>Barres d'accordage</InstNamePluralFR>
+    <InstNameIT>Barra di messa a punto</InstNameIT>
+    <InstNameShortIT>Brrdimssap</InstNameShortIT>
+    <InstNamePluralIT>Barre di messa a punto</InstNamePluralIT>
+    <InstNameES>Barra de afinación</InstNameES>
+    <InstNameShortES>Brrdefncón</InstNameShortES>
+    <InstNamePluralES>Barras de afinación</InstNamePluralES>
+    <InstNameJA>チューニングバー</InstNameJA>
+    <InstNameShortJA>チューニングバー</InstNameShortJA>
+    <InstNamePluralJA>チューニングバー</InstNamePluralJA>
+    <InstNameKO>튜닝 바</InstNameKO>
+    <InstNameShortKO>튜닝바</InstNameShortKO>
+    <InstNamePluralKO>튜닝 바</InstNamePluralKO>
+    <InstNamePL>Pręt stroikowy</InstNamePL>
+    <InstNameShortPL>Prętstrkwy</InstNameShortPL>
+    <InstNamePluralPL>Pręty stroikowe</InstNamePluralPL>
+    <InstNamePT>Barra de afinação</InstNamePT>
+    <InstNameShortPT>Brrdefnçã</InstNameShortPT>
+    <InstNamePluralPT>Barras de afinação</InstNamePluralPT>
+    <InstNameRU>Тюнинг-бар</InstNameRU>
+    <InstNameShortRU>Тюнинг-бар</InstNameShortRU>
+    <InstNamePluralRU>Тюнинговые бары</InstNamePluralRU>
+    <InstNameZH>调音杆</InstNameZH>
+    <InstNameShortZH>调音杆</InstNameShortZH>
+    <InstNamePluralZH>调音杆</InstNamePluralZH>
+    <InstOrder>1342373993</InstOrder>
+    <InstAdded>2025-06-14T00:27:29.163+00:00</InstAdded>
+    <InstEdited>2025-06-14T00:27:29.163+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>569</InstID>
     <InstUIC>2097269</InstUIC>
     <InstFamily>5.Other</InstFamily>
