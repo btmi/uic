@@ -6222,6 +6222,34 @@
     <DescriptorEdited>2018-03-12T18:51:43.68+00:00</DescriptorEdited>
   </UIC>
   <UIC>
+    <DescriptorID>450</DescriptorID>
+    <DescriptorName>I-VII</DescriptorName>
+    <DescriptorShort>I-VII</DescriptorShort>
+    <DescriptorNameDE>I-VII</DescriptorNameDE>
+    <DescriptorShortDE>I-VII</DescriptorShortDE>
+    <DescriptorNameFR>I-VII</DescriptorNameFR>
+    <DescriptorShortFR>I-VII</DescriptorShortFR>
+    <DescriptorNameIT>I-VII</DescriptorNameIT>
+    <DescriptorShortIT>I-VII</DescriptorShortIT>
+    <DescriptorNameES>I-VII</DescriptorNameES>
+    <DescriptorShortES>I-VII</DescriptorShortES>
+    <DescriptorNameJA>I-VII</DescriptorNameJA>
+    <DescriptorShortJA>I-VII</DescriptorShortJA>
+    <DescriptorNameKO>I-VII</DescriptorNameKO>
+    <DescriptorShortKO>I-VII</DescriptorShortKO>
+    <DescriptorNamePL>I-VII</DescriptorNamePL>
+    <DescriptorShortPL>I-VII</DescriptorShortPL>
+    <DescriptorNamePT>I-VII</DescriptorNamePT>
+    <DescriptorShortPT>I-VII</DescriptorShortPT>
+    <DescriptorNameRU>I-VII</DescriptorNameRU>
+    <DescriptorShortRU>I-VII</DescriptorShortRU>
+    <DescriptorNameZH>I-VII</DescriptorNameZH>
+    <DescriptorShortZH>I-VII</DescriptorShortZH>
+    <DescriptorOrder>453</DescriptorOrder>
+    <DescriptorAdded>2025-08-18T22:58:47.053+00:00</DescriptorAdded>
+    <DescriptorEdited>2025-08-18T22:58:47.053+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
     <DescriptorID>407</DescriptorID>
     <DescriptorName>II-II</DescriptorName>
     <DescriptorShort>II-II</DescriptorShort>
@@ -6245,7 +6273,7 @@
     <DescriptorShortRU>II-II</DescriptorShortRU>
     <DescriptorNameZH>II-II</DescriptorNameZH>
     <DescriptorShortZH>II-II</DescriptorShortZH>
-    <DescriptorOrder>453</DescriptorOrder>
+    <DescriptorOrder>454</DescriptorOrder>
     <DescriptorAdded>2021-03-24T06:46:15.87+00:00</DescriptorAdded>
     <DescriptorEdited>2021-03-24T06:46:15.87+00:00</DescriptorEdited>
   </UIC>
@@ -6273,7 +6301,7 @@
     <DescriptorShortRU>II-III</DescriptorShortRU>
     <DescriptorNameZH>II-III</DescriptorNameZH>
     <DescriptorShortZH>II-III</DescriptorShortZH>
-    <DescriptorOrder>458</DescriptorOrder>
+    <DescriptorOrder>459</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>87</DescriptorID>
@@ -6299,7 +6327,7 @@
     <DescriptorShortRU>II-IV</DescriptorShortRU>
     <DescriptorNameZH>II-IV</DescriptorNameZH>
     <DescriptorShortZH>II-IV</DescriptorShortZH>
-    <DescriptorOrder>459</DescriptorOrder>
+    <DescriptorOrder>460</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>88</DescriptorID>
@@ -6325,7 +6353,7 @@
     <DescriptorShortRU>III-IV</DescriptorShortRU>
     <DescriptorNameZH>III-IV</DescriptorNameZH>
     <DescriptorShortZH>III-IV</DescriptorShortZH>
-    <DescriptorOrder>462</DescriptorOrder>
+    <DescriptorOrder>463</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>132</DescriptorID>
@@ -6351,7 +6379,7 @@
     <DescriptorShortRU>III-V</DescriptorShortRU>
     <DescriptorNameZH>III-V</DescriptorNameZH>
     <DescriptorShortZH>III-V</DescriptorShortZH>
-    <DescriptorOrder>463</DescriptorOrder>
+    <DescriptorOrder>464</DescriptorOrder>
     <DescriptorAdded>2013-12-06T03:24:29.497+00:00</DescriptorAdded>
     <DescriptorEdited>2013-12-06T03:24:29.497+00:00</DescriptorEdited>
   </UIC>
@@ -6379,7 +6407,7 @@
     <DescriptorShortRU>III-VI</DescriptorShortRU>
     <DescriptorNameZH>III-VI</DescriptorNameZH>
     <DescriptorShortZH>III-VI</DescriptorShortZH>
-    <DescriptorOrder>464</DescriptorOrder>
+    <DescriptorOrder>465</DescriptorOrder>
     <DescriptorAdded>2019-10-11T14:45:58.22+00:00</DescriptorAdded>
     <DescriptorEdited>2019-10-11T14:45:58.22+00:00</DescriptorEdited>
   </UIC>
@@ -6407,7 +6435,7 @@
     <DescriptorShortRU>IV-V</DescriptorShortRU>
     <DescriptorNameZH>IV-V</DescriptorNameZH>
     <DescriptorShortZH>IV-V</DescriptorShortZH>
-    <DescriptorOrder>466</DescriptorOrder>
+    <DescriptorOrder>467</DescriptorOrder>
     <DescriptorAdded>2015-09-01T06:33:37.063+00:00</DescriptorAdded>
     <DescriptorEdited>2015-09-01T06:33:37.063+00:00</DescriptorEdited>
   </UIC>
@@ -6435,7 +6463,7 @@
     <DescriptorShortRU>IV-VI</DescriptorShortRU>
     <DescriptorNameZH>IV-VI</DescriptorNameZH>
     <DescriptorShortZH>IV-VI</DescriptorShortZH>
-    <DescriptorOrder>467</DescriptorOrder>
+    <DescriptorOrder>468</DescriptorOrder>
     <DescriptorAdded>2015-09-02T22:57:55.577+00:00</DescriptorAdded>
     <DescriptorEdited>2015-09-02T22:57:55.577+00:00</DescriptorEdited>
   </UIC>
@@ -6463,7 +6491,7 @@
     <DescriptorShortRU>V</DescriptorShortRU>
     <DescriptorNameZH>V</DescriptorNameZH>
     <DescriptorShortZH>V</DescriptorShortZH>
-    <DescriptorOrder>468</DescriptorOrder>
+    <DescriptorOrder>469</DescriptorOrder>
     <DescriptorAdded>2017-03-08T21:41:25.463+00:00</DescriptorAdded>
     <DescriptorEdited>2017-03-08T21:41:25.463+00:00</DescriptorEdited>
   </UIC>
@@ -6491,7 +6519,7 @@
     <DescriptorShortRU>V-VI</DescriptorShortRU>
     <DescriptorNameZH>V-VI</DescriptorNameZH>
     <DescriptorShortZH>V-VI</DescriptorShortZH>
-    <DescriptorOrder>473</DescriptorOrder>
+    <DescriptorOrder>474</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>131</DescriptorID>
@@ -6517,7 +6545,7 @@
     <DescriptorShortRU>V-VII</DescriptorShortRU>
     <DescriptorNameZH>V-VII</DescriptorNameZH>
     <DescriptorShortZH>V-VII</DescriptorShortZH>
-    <DescriptorOrder>474</DescriptorOrder>
+    <DescriptorOrder>475</DescriptorOrder>
     <DescriptorAdded>2013-12-06T03:23:20.3+00:00</DescriptorAdded>
     <DescriptorEdited>2013-12-06T03:23:20.3+00:00</DescriptorEdited>
   </UIC>
@@ -6545,7 +6573,7 @@
     <DescriptorShortRU>V-IX</DescriptorShortRU>
     <DescriptorNameZH>V-IX</DescriptorNameZH>
     <DescriptorShortZH>V-IX</DescriptorShortZH>
-    <DescriptorOrder>475</DescriptorOrder>
+    <DescriptorOrder>476</DescriptorOrder>
     <DescriptorAdded>2018-03-21T17:45:15.963+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-21T17:45:15.963+00:00</DescriptorEdited>
   </UIC>
@@ -6573,7 +6601,7 @@
     <DescriptorShortRU>V-XII</DescriptorShortRU>
     <DescriptorNameZH>V-XII</DescriptorNameZH>
     <DescriptorShortZH>V-XII</DescriptorShortZH>
-    <DescriptorOrder>477</DescriptorOrder>
+    <DescriptorOrder>478</DescriptorOrder>
     <DescriptorAdded>2018-01-25T12:10:14.36+00:00</DescriptorAdded>
     <DescriptorEdited>2018-01-25T12:10:14.36+00:00</DescriptorEdited>
   </UIC>
@@ -6601,7 +6629,7 @@
     <DescriptorShortRU>V-VIII</DescriptorShortRU>
     <DescriptorNameZH>V-VIII</DescriptorNameZH>
     <DescriptorShortZH>V-VIII</DescriptorShortZH>
-    <DescriptorOrder>478</DescriptorOrder>
+    <DescriptorOrder>479</DescriptorOrder>
     <DescriptorAdded>2019-02-28T12:20:23.623+00:00</DescriptorAdded>
     <DescriptorEdited>2019-02-28T12:20:23.623+00:00</DescriptorEdited>
   </UIC>
@@ -6629,7 +6657,7 @@
     <DescriptorShortRU>V-XIV</DescriptorShortRU>
     <DescriptorNameZH>V-XIV</DescriptorNameZH>
     <DescriptorShortZH>V-XIV</DescriptorShortZH>
-    <DescriptorOrder>480</DescriptorOrder>
+    <DescriptorOrder>481</DescriptorOrder>
     <DescriptorAdded>2018-01-25T12:11:37.063+00:00</DescriptorAdded>
     <DescriptorEdited>2018-01-25T12:11:37.063+00:00</DescriptorEdited>
   </UIC>
@@ -6657,7 +6685,7 @@
     <DescriptorShortRU>VI</DescriptorShortRU>
     <DescriptorNameZH>VI</DescriptorNameZH>
     <DescriptorShortZH>VI</DescriptorShortZH>
-    <DescriptorOrder>481</DescriptorOrder>
+    <DescriptorOrder>482</DescriptorOrder>
     <DescriptorAdded>2020-05-05T08:29:57.29+00:00</DescriptorAdded>
     <DescriptorEdited>2020-05-05T08:29:57.29+00:00</DescriptorEdited>
   </UIC>
@@ -6685,7 +6713,7 @@
     <DescriptorShortRU>VI-VII</DescriptorShortRU>
     <DescriptorNameZH>VI-VII</DescriptorNameZH>
     <DescriptorShortZH>VI-VII</DescriptorShortZH>
-    <DescriptorOrder>485</DescriptorOrder>
+    <DescriptorOrder>486</DescriptorOrder>
     <DescriptorAdded>2015-09-01T06:37:49.493+00:00</DescriptorAdded>
     <DescriptorEdited>2015-09-01T06:37:49.493+00:00</DescriptorEdited>
   </UIC>
@@ -6713,7 +6741,7 @@
     <DescriptorShortRU>VI-X</DescriptorShortRU>
     <DescriptorNameZH>VI-X</DescriptorNameZH>
     <DescriptorShortZH>VI-X</DescriptorShortZH>
-    <DescriptorOrder>486</DescriptorOrder>
+    <DescriptorOrder>487</DescriptorOrder>
     <DescriptorAdded>2019-02-28T12:21:35.733+00:00</DescriptorAdded>
     <DescriptorEdited>2019-02-28T12:21:35.733+00:00</DescriptorEdited>
   </UIC>
@@ -6741,7 +6769,7 @@
     <DescriptorShortRU>VII-VIII</DescriptorShortRU>
     <DescriptorNameZH>VII-VIII</DescriptorNameZH>
     <DescriptorShortZH>VII-VIII</DescriptorShortZH>
-    <DescriptorOrder>488</DescriptorOrder>
+    <DescriptorOrder>489</DescriptorOrder>
     <DescriptorAdded>2015-09-01T06:38:32.557+00:00</DescriptorAdded>
     <DescriptorEdited>2015-09-01T06:38:32.557+00:00</DescriptorEdited>
   </UIC>
@@ -6769,7 +6797,7 @@
     <DescriptorShortRU>VII-IX</DescriptorShortRU>
     <DescriptorNameZH>VII-IX</DescriptorNameZH>
     <DescriptorShortZH>VII-IX</DescriptorShortZH>
-    <DescriptorOrder>489</DescriptorOrder>
+    <DescriptorOrder>490</DescriptorOrder>
     <DescriptorAdded>2018-03-21T17:45:45.957+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-21T17:45:45.957+00:00</DescriptorEdited>
   </UIC>
@@ -6797,7 +6825,7 @@
     <DescriptorShortRU>VII-X</DescriptorShortRU>
     <DescriptorNameZH>VII-X</DescriptorNameZH>
     <DescriptorShortZH>VII-X</DescriptorShortZH>
-    <DescriptorOrder>490</DescriptorOrder>
+    <DescriptorOrder>491</DescriptorOrder>
     <DescriptorAdded>2019-10-11T14:47:04.84+00:00</DescriptorAdded>
     <DescriptorEdited>2019-10-11T14:47:04.84+00:00</DescriptorEdited>
   </UIC>
@@ -6825,7 +6853,7 @@
     <DescriptorShortRU>VII-XII</DescriptorShortRU>
     <DescriptorNameZH>VII-XII</DescriptorNameZH>
     <DescriptorShortZH>VII-XII</DescriptorShortZH>
-    <DescriptorOrder>493</DescriptorOrder>
+    <DescriptorOrder>494</DescriptorOrder>
     <DescriptorAdded>2018-03-12T18:52:15.86+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-12T18:52:15.86+00:00</DescriptorEdited>
   </UIC>
@@ -6853,7 +6881,7 @@
     <DescriptorShortRU>IX-X</DescriptorShortRU>
     <DescriptorNameZH>IX-X</DescriptorNameZH>
     <DescriptorShortZH>IX-X</DescriptorShortZH>
-    <DescriptorOrder>495</DescriptorOrder>
+    <DescriptorOrder>496</DescriptorOrder>
     <DescriptorAdded>2016-12-21T09:49:31.54+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-21T09:49:31.54+00:00</DescriptorEdited>
   </UIC>
@@ -6881,7 +6909,7 @@
     <DescriptorShortRU>X</DescriptorShortRU>
     <DescriptorNameZH>X</DescriptorNameZH>
     <DescriptorShortZH>X</DescriptorShortZH>
-    <DescriptorOrder>496</DescriptorOrder>
+    <DescriptorOrder>497</DescriptorOrder>
     <DescriptorAdded>2018-04-24T07:08:49.803+00:00</DescriptorAdded>
     <DescriptorEdited>2018-04-24T07:08:49.803+00:00</DescriptorEdited>
   </UIC>
@@ -6909,7 +6937,7 @@
     <DescriptorShortRU>IX-XII</DescriptorShortRU>
     <DescriptorNameZH>IX-XII</DescriptorNameZH>
     <DescriptorShortZH>IX-XII</DescriptorShortZH>
-    <DescriptorOrder>498</DescriptorOrder>
+    <DescriptorOrder>499</DescriptorOrder>
     <DescriptorAdded>2018-03-12T18:51:06.157+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-12T18:51:06.157+00:00</DescriptorEdited>
   </UIC>
@@ -6937,7 +6965,7 @@
     <DescriptorShortRU>XI-XII</DescriptorShortRU>
     <DescriptorNameZH>XI-XII</DescriptorNameZH>
     <DescriptorShortZH>XI-XII</DescriptorShortZH>
-    <DescriptorOrder>500</DescriptorOrder>
+    <DescriptorOrder>501</DescriptorOrder>
     <DescriptorAdded>2016-12-21T09:49:58.917+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-21T09:49:58.917+00:00</DescriptorEdited>
   </UIC>
@@ -6965,7 +6993,7 @@
     <DescriptorShortRU>XI-XV</DescriptorShortRU>
     <DescriptorNameZH>XI-XV</DescriptorNameZH>
     <DescriptorShortZH>XI-XV</DescriptorShortZH>
-    <DescriptorOrder>501</DescriptorOrder>
+    <DescriptorOrder>502</DescriptorOrder>
     <DescriptorAdded>2022-12-20T22:19:50.227+00:00</DescriptorAdded>
     <DescriptorEdited>2022-12-20T22:19:50.227+00:00</DescriptorEdited>
   </UIC>
@@ -6993,7 +7021,7 @@
     <DescriptorShortRU>XIII-XIV</DescriptorShortRU>
     <DescriptorNameZH>XIII-XIV</DescriptorNameZH>
     <DescriptorShortZH>XIII-XIV</DescriptorShortZH>
-    <DescriptorOrder>503</DescriptorOrder>
+    <DescriptorOrder>504</DescriptorOrder>
     <DescriptorAdded>2017-05-03T21:20:20.283+00:00</DescriptorAdded>
     <DescriptorEdited>2017-05-03T21:20:20.283+00:00</DescriptorEdited>
   </UIC>
@@ -7021,7 +7049,7 @@
     <DescriptorShortRU>XV-XVI</DescriptorShortRU>
     <DescriptorNameZH>XV-XVI</DescriptorNameZH>
     <DescriptorShortZH>XV-XVI</DescriptorShortZH>
-    <DescriptorOrder>504</DescriptorOrder>
+    <DescriptorOrder>505</DescriptorOrder>
     <DescriptorAdded>2017-05-03T21:21:07.567+00:00</DescriptorAdded>
     <DescriptorEdited>2017-05-03T21:21:07.567+00:00</DescriptorEdited>
   </UIC>
@@ -7049,7 +7077,7 @@
     <DescriptorShortRU>Сопрано</DescriptorShortRU>
     <DescriptorNameZH>女高音</DescriptorNameZH>
     <DescriptorShortZH>女高音</DescriptorShortZH>
-    <DescriptorOrder>513</DescriptorOrder>
+    <DescriptorOrder>514</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>138</DescriptorID>
@@ -7075,7 +7103,7 @@
     <DescriptorShortRU>Высокие</DescriptorShortRU>
     <DescriptorNameZH>三重</DescriptorNameZH>
     <DescriptorShortZH>三重</DescriptorShortZH>
-    <DescriptorOrder>514</DescriptorOrder>
+    <DescriptorOrder>515</DescriptorOrder>
     <DescriptorAdded>2014-04-15T06:55:21.72+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-15T06:55:21.72+00:00</DescriptorEdited>
   </UIC>
@@ -7104,7 +7132,7 @@
     <DescriptorShortRU>Альт</DescriptorShortRU>
     <DescriptorNameZH>女中音</DescriptorNameZH>
     <DescriptorShortZH>女中音</DescriptorShortZH>
-    <DescriptorOrder>516</DescriptorOrder>
+    <DescriptorOrder>517</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>290</DescriptorID>
@@ -7130,7 +7158,7 @@
     <DescriptorShortRU>Контральто</DescriptorShortRU>
     <DescriptorNameZH>女低音</DescriptorNameZH>
     <DescriptorShortZH>女低音</DescriptorShortZH>
-    <DescriptorOrder>517</DescriptorOrder>
+    <DescriptorOrder>518</DescriptorOrder>
     <DescriptorAdded>2018-03-07T10:35:42.067+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-07T10:35:42.067+00:00</DescriptorEdited>
   </UIC>
@@ -7158,7 +7186,7 @@
     <DescriptorShortRU>Тенор</DescriptorShortRU>
     <DescriptorNameZH>男高音</DescriptorNameZH>
     <DescriptorShortZH>男高音</DescriptorShortZH>
-    <DescriptorOrder>519</DescriptorOrder>
+    <DescriptorOrder>520</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>130</DescriptorID>
@@ -7185,7 +7213,7 @@
     <DescriptorShortRU>Баритон</DescriptorShortRU>
     <DescriptorNameZH>男中音</DescriptorNameZH>
     <DescriptorShortZH>男中音</DescriptorShortZH>
-    <DescriptorOrder>520</DescriptorOrder>
+    <DescriptorOrder>521</DescriptorOrder>
     <DescriptorAdded>2013-10-03T08:35:53.083+00:00</DescriptorAdded>
     <DescriptorEdited>2013-10-03T08:35:53.083+00:00</DescriptorEdited>
   </UIC>
@@ -7214,7 +7242,7 @@
     <DescriptorShortRU>Бас</DescriptorShortRU>
     <DescriptorNameZH>男低音</DescriptorNameZH>
     <DescriptorShortZH>男低音</DescriptorShortZH>
-    <DescriptorOrder>522</DescriptorOrder>
+    <DescriptorOrder>523</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>107</DescriptorID>
@@ -7240,7 +7268,7 @@
     <DescriptorShortRU>SATB</DescriptorShortRU>
     <DescriptorNameZH>女高音，女中音，男高音，男低音</DescriptorNameZH>
     <DescriptorShortZH>女高音，女中音，男高</DescriptorShortZH>
-    <DescriptorOrder>523</DescriptorOrder>
+    <DescriptorOrder>524</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>106</DescriptorID>
@@ -7267,7 +7295,7 @@
     <DescriptorShortRU>Дети</DescriptorShortRU>
     <DescriptorNameZH>少年儿童</DescriptorNameZH>
     <DescriptorShortZH>少年儿童</DescriptorShortZH>
-    <DescriptorOrder>525</DescriptorOrder>
+    <DescriptorOrder>526</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>108</DescriptorID>
@@ -7293,7 +7321,7 @@
     <DescriptorShortRU>Мужской</DescriptorShortRU>
     <DescriptorNameZH>男性</DescriptorNameZH>
     <DescriptorShortZH>男性</DescriptorShortZH>
-    <DescriptorOrder>526</DescriptorOrder>
+    <DescriptorOrder>527</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>109</DescriptorID>
@@ -7319,7 +7347,7 @@
     <DescriptorShortRU>Женский</DescriptorShortRU>
     <DescriptorNameZH>女性</DescriptorNameZH>
     <DescriptorShortZH>女性</DescriptorShortZH>
-    <DescriptorOrder>527</DescriptorOrder>
+    <DescriptorOrder>528</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>410</DescriptorID>
@@ -7345,7 +7373,7 @@
     <DescriptorShortRU>Am</DescriptorShortRU>
     <DescriptorNameZH>Amateur</DescriptorNameZH>
     <DescriptorShortZH>Am</DescriptorShortZH>
-    <DescriptorOrder>528</DescriptorOrder>
+    <DescriptorOrder>529</DescriptorOrder>
     <DescriptorAdded>2022-11-23T22:25:45.65+00:00</DescriptorAdded>
     <DescriptorEdited>2022-11-23T22:27:00.533+00:00</DescriptorEdited>
   </UIC>
@@ -7373,7 +7401,7 @@
     <DescriptorShortRU>Pro</DescriptorShortRU>
     <DescriptorNameZH>Professional</DescriptorNameZH>
     <DescriptorShortZH>Pro</DescriptorShortZH>
-    <DescriptorOrder>531</DescriptorOrder>
+    <DescriptorOrder>532</DescriptorOrder>
     <DescriptorAdded>2022-11-23T22:26:47.237+00:00</DescriptorAdded>
     <DescriptorEdited>2022-11-23T22:26:47.237+00:00</DescriptorEdited>
   </UIC>
@@ -7401,7 +7429,7 @@
     <DescriptorShortRU>Начинающий</DescriptorShortRU>
     <DescriptorNameZH>初学者</DescriptorNameZH>
     <DescriptorShortZH>初学者</DescriptorShortZH>
-    <DescriptorOrder>532</DescriptorOrder>
+    <DescriptorOrder>533</DescriptorOrder>
     <DescriptorAdded>2025-03-07T06:32:38.127+00:00</DescriptorAdded>
     <DescriptorEdited>2025-03-07T06:32:38.127+00:00</DescriptorEdited>
   </UIC>
@@ -7429,7 +7457,7 @@
     <DescriptorShortRU>Средний</DescriptorShortRU>
     <DescriptorNameZH>中间的</DescriptorNameZH>
     <DescriptorShortZH>中间的</DescriptorShortZH>
-    <DescriptorOrder>533</DescriptorOrder>
+    <DescriptorOrder>534</DescriptorOrder>
     <DescriptorAdded>2025-03-07T06:33:41.867+00:00</DescriptorAdded>
     <DescriptorEdited>2025-03-07T06:33:41.867+00:00</DescriptorEdited>
   </UIC>
@@ -7457,7 +7485,7 @@
     <DescriptorShortRU>Передовой</DescriptorShortRU>
     <DescriptorNameZH>先进的</DescriptorNameZH>
     <DescriptorShortZH>先进的</DescriptorShortZH>
-    <DescriptorOrder>534</DescriptorOrder>
+    <DescriptorOrder>535</DescriptorOrder>
     <DescriptorAdded>2025-03-07T06:34:26.663+00:00</DescriptorAdded>
     <DescriptorEdited>2025-03-07T06:34:26.663+00:00</DescriptorEdited>
   </UIC>
@@ -7485,7 +7513,7 @@
     <DescriptorShortRU>Партитура</DescriptorShortRU>
     <DescriptorNameZH>总谱</DescriptorNameZH>
     <DescriptorShortZH>总谱</DescriptorShortZH>
-    <DescriptorOrder>537</DescriptorOrder>
+    <DescriptorOrder>538</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>365</DescriptorID>
@@ -7511,7 +7539,7 @@
     <DescriptorShortRU>PlyngSc</DescriptorShortRU>
     <DescriptorNameZH>Playing Score</DescriptorNameZH>
     <DescriptorShortZH>PlyngSc</DescriptorShortZH>
-    <DescriptorOrder>538</DescriptorOrder>
+    <DescriptorOrder>539</DescriptorOrder>
     <DescriptorAdded>2019-03-11T15:25:51.077+00:00</DescriptorAdded>
     <DescriptorEdited>2019-03-11T15:25:51.077+00:00</DescriptorEdited>
   </UIC>
@@ -7539,7 +7567,7 @@
     <DescriptorShortRU>Divisi</DescriptorShortRU>
     <DescriptorNameZH>Divisi</DescriptorNameZH>
     <DescriptorShortZH>Divisi</DescriptorShortZH>
-    <DescriptorOrder>539</DescriptorOrder>
+    <DescriptorOrder>540</DescriptorOrder>
     <DescriptorAdded>2021-03-23T05:07:09.513+00:00</DescriptorAdded>
     <DescriptorEdited>2021-03-23T05:07:09.513+00:00</DescriptorEdited>
   </UIC>
@@ -7567,7 +7595,7 @@
     <DescriptorShortRU>Пульт 1</DescriptorShortRU>
     <DescriptorNameZH>谱台 1</DescriptorNameZH>
     <DescriptorShortZH>谱台 1</DescriptorShortZH>
-    <DescriptorOrder>544</DescriptorOrder>
+    <DescriptorOrder>545</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>205</DescriptorID>
@@ -7593,7 +7621,7 @@
     <DescriptorShortRU>Пульт 1:1</DescriptorShortRU>
     <DescriptorNameZH>谱台 1:1</DescriptorNameZH>
     <DescriptorShortZH>谱台 1:1</DescriptorShortZH>
-    <DescriptorOrder>545</DescriptorOrder>
+    <DescriptorOrder>546</DescriptorOrder>
     <DescriptorAdded>2016-03-18T22:17:00.78+00:00</DescriptorAdded>
     <DescriptorEdited>2016-03-18T22:18:21.95+00:00</DescriptorEdited>
   </UIC>
@@ -7621,7 +7649,7 @@
     <DescriptorShortRU>Пульт 1:2 </DescriptorShortRU>
     <DescriptorNameZH>谱台 1:2</DescriptorNameZH>
     <DescriptorShortZH>谱台 1:2</DescriptorShortZH>
-    <DescriptorOrder>548</DescriptorOrder>
+    <DescriptorOrder>549</DescriptorOrder>
     <DescriptorAdded>2016-03-18T22:17:59.84+00:00</DescriptorAdded>
     <DescriptorEdited>2016-03-18T22:17:59.84+00:00</DescriptorEdited>
   </UIC>
@@ -7649,7 +7677,7 @@
     <DescriptorShortRU>Пульт 2</DescriptorShortRU>
     <DescriptorNameZH>谱台 2</DescriptorNameZH>
     <DescriptorShortZH>谱台 2</DescriptorShortZH>
-    <DescriptorOrder>551</DescriptorOrder>
+    <DescriptorOrder>552</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>99</DescriptorID>
@@ -7675,7 +7703,7 @@
     <DescriptorShortRU>Пульт 3</DescriptorShortRU>
     <DescriptorNameZH>谱台 3</DescriptorNameZH>
     <DescriptorShortZH>谱台 3</DescriptorShortZH>
-    <DescriptorOrder>552</DescriptorOrder>
+    <DescriptorOrder>553</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>282</DescriptorID>
@@ -7701,7 +7729,7 @@
     <DescriptorShortRU>Пульт 3:4</DescriptorShortRU>
     <DescriptorNameZH>谱台 3:4</DescriptorNameZH>
     <DescriptorShortZH>谱台 3:4</DescriptorShortZH>
-    <DescriptorOrder>553</DescriptorOrder>
+    <DescriptorOrder>554</DescriptorOrder>
     <DescriptorAdded>2018-01-25T08:27:38.76+00:00</DescriptorAdded>
     <DescriptorEdited>2018-01-25T08:27:38.76+00:00</DescriptorEdited>
   </UIC>
@@ -7729,7 +7757,7 @@
     <DescriptorShortRU>Пульт 4</DescriptorShortRU>
     <DescriptorNameZH>谱台 4</DescriptorNameZH>
     <DescriptorShortZH>谱台 4</DescriptorShortZH>
-    <DescriptorOrder>555</DescriptorOrder>
+    <DescriptorOrder>556</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>368</DescriptorID>
@@ -7755,7 +7783,7 @@
     <DescriptorShortRU>Desk4:6</DescriptorShortRU>
     <DescriptorNameZH>Desk 4:6</DescriptorNameZH>
     <DescriptorShortZH>Desk4:6</DescriptorShortZH>
-    <DescriptorOrder>556</DescriptorOrder>
+    <DescriptorOrder>557</DescriptorOrder>
     <DescriptorAdded>2019-04-10T12:54:41.22+00:00</DescriptorAdded>
     <DescriptorEdited>2019-04-10T12:54:41.22+00:00</DescriptorEdited>
   </UIC>
@@ -7783,7 +7811,7 @@
     <DescriptorShortRU>Пульт 5</DescriptorShortRU>
     <DescriptorNameZH>谱台 5</DescriptorNameZH>
     <DescriptorShortZH>谱台 5</DescriptorShortZH>
-    <DescriptorOrder>558</DescriptorOrder>
+    <DescriptorOrder>559</DescriptorOrder>
     <DescriptorAdded>2016-10-06T10:51:51.39+00:00</DescriptorAdded>
     <DescriptorEdited>2016-10-06T10:51:51.39+00:00</DescriptorEdited>
   </UIC>
@@ -7811,7 +7839,7 @@
     <DescriptorShortRU>Пульт 5:6</DescriptorShortRU>
     <DescriptorNameZH>谱台 5:6</DescriptorNameZH>
     <DescriptorShortZH>谱台 5:6</DescriptorShortZH>
-    <DescriptorOrder>559</DescriptorOrder>
+    <DescriptorOrder>560</DescriptorOrder>
     <DescriptorAdded>2018-01-25T08:28:18.477+00:00</DescriptorAdded>
     <DescriptorEdited>2018-01-25T12:53:39.33+00:00</DescriptorEdited>
   </UIC>
@@ -7839,7 +7867,7 @@
     <DescriptorShortRU>Desk5:7</DescriptorShortRU>
     <DescriptorNameZH>Desk 5:7</DescriptorNameZH>
     <DescriptorShortZH>Desk5:7</DescriptorShortZH>
-    <DescriptorOrder>560</DescriptorOrder>
+    <DescriptorOrder>561</DescriptorOrder>
     <DescriptorAdded>2019-04-10T12:55:55.153+00:00</DescriptorAdded>
     <DescriptorEdited>2019-04-10T12:55:55.153+00:00</DescriptorEdited>
   </UIC>
@@ -7867,7 +7895,7 @@
     <DescriptorShortRU>Пульт 6</DescriptorShortRU>
     <DescriptorNameZH>谱台 6</DescriptorNameZH>
     <DescriptorShortZH>谱台 6</DescriptorShortZH>
-    <DescriptorOrder>563</DescriptorOrder>
+    <DescriptorOrder>564</DescriptorOrder>
     <DescriptorAdded>2016-12-21T09:50:35.153+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-21T09:50:35.153+00:00</DescriptorEdited>
   </UIC>
@@ -7895,7 +7923,7 @@
     <DescriptorShortRU>Пульт 7</DescriptorShortRU>
     <DescriptorNameZH>谱台 7</DescriptorNameZH>
     <DescriptorShortZH>谱台 7</DescriptorShortZH>
-    <DescriptorOrder>564</DescriptorOrder>
+    <DescriptorOrder>565</DescriptorOrder>
     <DescriptorAdded>2016-12-21T22:08:25.243+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-21T22:08:25.243+00:00</DescriptorEdited>
   </UIC>
@@ -7923,7 +7951,7 @@
     <DescriptorShortRU>Пульт 7:8</DescriptorShortRU>
     <DescriptorNameZH>谱台 7:8</DescriptorNameZH>
     <DescriptorShortZH>谱台 7:8</DescriptorShortZH>
-    <DescriptorOrder>565</DescriptorOrder>
+    <DescriptorOrder>566</DescriptorOrder>
     <DescriptorAdded>2018-01-25T08:29:15.73+00:00</DescriptorAdded>
     <DescriptorEdited>2018-01-25T08:29:15.73+00:00</DescriptorEdited>
   </UIC>
@@ -7951,7 +7979,7 @@
     <DescriptorShortRU>Пульт 8</DescriptorShortRU>
     <DescriptorNameZH>谱台 8</DescriptorNameZH>
     <DescriptorShortZH>谱台 8</DescriptorShortZH>
-    <DescriptorOrder>567</DescriptorOrder>
+    <DescriptorOrder>568</DescriptorOrder>
     <DescriptorAdded>2016-12-21T22:08:50.633+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-21T22:08:50.633+00:00</DescriptorEdited>
   </UIC>
@@ -7979,7 +8007,7 @@
     <DescriptorShortRU>Пульт9</DescriptorShortRU>
     <DescriptorNameZH>谱台 9</DescriptorNameZH>
     <DescriptorShortZH>谱台9</DescriptorShortZH>
-    <DescriptorOrder>568</DescriptorOrder>
+    <DescriptorOrder>569</DescriptorOrder>
     <DescriptorAdded>2019-01-08T15:00:34.443+00:00</DescriptorAdded>
     <DescriptorEdited>2019-01-08T15:00:34.443+00:00</DescriptorEdited>
   </UIC>
@@ -8007,7 +8035,7 @@
     <DescriptorShortRU>Desk9:10</DescriptorShortRU>
     <DescriptorNameZH>Desk 9:10</DescriptorNameZH>
     <DescriptorShortZH>Desk9:10</DescriptorShortZH>
-    <DescriptorOrder>569</DescriptorOrder>
+    <DescriptorOrder>570</DescriptorOrder>
     <DescriptorAdded>2019-06-17T14:48:05.84+00:00</DescriptorAdded>
     <DescriptorEdited>2019-06-17T14:48:05.84+00:00</DescriptorEdited>
   </UIC>
@@ -8035,7 +8063,7 @@
     <DescriptorShortRU>Пульт10</DescriptorShortRU>
     <DescriptorNameZH>谱台 10</DescriptorNameZH>
     <DescriptorShortZH>谱台10</DescriptorShortZH>
-    <DescriptorOrder>571</DescriptorOrder>
+    <DescriptorOrder>572</DescriptorOrder>
     <DescriptorAdded>2019-01-08T15:46:50.207+00:00</DescriptorAdded>
     <DescriptorEdited>2019-01-08T15:46:50.207+00:00</DescriptorEdited>
   </UIC>
@@ -8063,7 +8091,7 @@
     <DescriptorShortRU>Пульт11</DescriptorShortRU>
     <DescriptorNameZH>谱台 11</DescriptorNameZH>
     <DescriptorShortZH>谱台11</DescriptorShortZH>
-    <DescriptorOrder>572</DescriptorOrder>
+    <DescriptorOrder>573</DescriptorOrder>
     <DescriptorAdded>2019-01-08T15:53:34.21+00:00</DescriptorAdded>
     <DescriptorEdited>2019-01-08T15:53:34.21+00:00</DescriptorEdited>
   </UIC>
@@ -8091,7 +8119,7 @@
     <DescriptorShortRU>Desk11:12</DescriptorShortRU>
     <DescriptorNameZH>Desk 11:12</DescriptorNameZH>
     <DescriptorShortZH>Desk11:12</DescriptorShortZH>
-    <DescriptorOrder>573</DescriptorOrder>
+    <DescriptorOrder>574</DescriptorOrder>
     <DescriptorAdded>2019-06-17T14:48:36.79+00:00</DescriptorAdded>
     <DescriptorEdited>2019-06-17T14:48:36.79+00:00</DescriptorEdited>
   </UIC>
@@ -8119,7 +8147,7 @@
     <DescriptorShortRU>Пульт12</DescriptorShortRU>
     <DescriptorNameZH>谱台 12</DescriptorNameZH>
     <DescriptorShortZH>谱台12</DescriptorShortZH>
-    <DescriptorOrder>575</DescriptorOrder>
+    <DescriptorOrder>576</DescriptorOrder>
     <DescriptorAdded>2019-01-08T15:56:19.21+00:00</DescriptorAdded>
     <DescriptorEdited>2019-01-08T15:56:19.21+00:00</DescriptorEdited>
   </UIC>
@@ -8147,7 +8175,7 @@
     <DescriptorShortRU>Пульт13</DescriptorShortRU>
     <DescriptorNameZH>谱台 13</DescriptorNameZH>
     <DescriptorShortZH>谱台13</DescriptorShortZH>
-    <DescriptorOrder>576</DescriptorOrder>
+    <DescriptorOrder>577</DescriptorOrder>
     <DescriptorAdded>2019-01-08T16:13:28.75+00:00</DescriptorAdded>
     <DescriptorEdited>2019-01-08T16:13:28.75+00:00</DescriptorEdited>
   </UIC>
@@ -8175,7 +8203,7 @@
     <DescriptorShortRU>Desk13:14</DescriptorShortRU>
     <DescriptorNameZH>Desk 13:14</DescriptorNameZH>
     <DescriptorShortZH>Desk13:14</DescriptorShortZH>
-    <DescriptorOrder>577</DescriptorOrder>
+    <DescriptorOrder>578</DescriptorOrder>
     <DescriptorAdded>2019-06-17T14:49:05.227+00:00</DescriptorAdded>
     <DescriptorEdited>2019-06-17T14:49:05.227+00:00</DescriptorEdited>
   </UIC>
@@ -8203,7 +8231,7 @@
     <DescriptorShortRU>Пульт14</DescriptorShortRU>
     <DescriptorNameZH>谱台  14</DescriptorNameZH>
     <DescriptorShortZH>谱台14</DescriptorShortZH>
-    <DescriptorOrder>579</DescriptorOrder>
+    <DescriptorOrder>580</DescriptorOrder>
     <DescriptorAdded>2019-01-08T16:16:16.343+00:00</DescriptorAdded>
     <DescriptorEdited>2019-01-08T16:16:16.343+00:00</DescriptorEdited>
   </UIC>
@@ -8231,7 +8259,7 @@
     <DescriptorShortRU>Пульт15</DescriptorShortRU>
     <DescriptorNameZH>谱台 15</DescriptorNameZH>
     <DescriptorShortZH>谱台15</DescriptorShortZH>
-    <DescriptorOrder>580</DescriptorOrder>
+    <DescriptorOrder>581</DescriptorOrder>
     <DescriptorAdded>2019-01-08T16:19:14.263+00:00</DescriptorAdded>
     <DescriptorEdited>2019-01-08T16:19:14.263+00:00</DescriptorEdited>
   </UIC>
@@ -8259,7 +8287,7 @@
     <DescriptorShortRU>Desk15:16</DescriptorShortRU>
     <DescriptorNameZH>Desk 15:16</DescriptorNameZH>
     <DescriptorShortZH>Desk15:16</DescriptorShortZH>
-    <DescriptorOrder>581</DescriptorOrder>
+    <DescriptorOrder>582</DescriptorOrder>
     <DescriptorAdded>2019-06-17T14:49:32.247+00:00</DescriptorAdded>
     <DescriptorEdited>2019-06-17T14:49:32.247+00:00</DescriptorEdited>
   </UIC>
@@ -8287,7 +8315,7 @@
     <DescriptorShortRU>glialtri</DescriptorShortRU>
     <DescriptorNameZH>gli altri</DescriptorNameZH>
     <DescriptorShortZH>glialtri</DescriptorShortZH>
-    <DescriptorOrder>582</DescriptorOrder>
+    <DescriptorOrder>583</DescriptorOrder>
     <DescriptorAdded>2022-07-13T12:52:01.997+00:00</DescriptorAdded>
     <DescriptorEdited>2022-07-13T12:52:49.437+00:00</DescriptorEdited>
   </UIC>
@@ -8315,7 +8343,7 @@
     <DescriptorShortRU>Ensemble</DescriptorShortRU>
     <DescriptorNameZH>Ensemble</DescriptorNameZH>
     <DescriptorShortZH>Ensemble</DescriptorShortZH>
-    <DescriptorOrder>583</DescriptorOrder>
+    <DescriptorOrder>584</DescriptorOrder>
     <DescriptorAdded>2022-11-23T22:33:33.153+00:00</DescriptorAdded>
     <DescriptorEdited>2022-11-23T22:33:33.153+00:00</DescriptorEdited>
   </UIC>
@@ -8343,7 +8371,7 @@
     <DescriptorShortRU>Джаз</DescriptorShortRU>
     <DescriptorNameZH>爵士乐</DescriptorNameZH>
     <DescriptorShortZH>爵士乐</DescriptorShortZH>
-    <DescriptorOrder>600</DescriptorOrder>
+    <DescriptorOrder>601</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>296</DescriptorID>
@@ -8369,7 +8397,7 @@
     <DescriptorShortRU>Лидер</DescriptorShortRU>
     <DescriptorNameZH>首席</DescriptorNameZH>
     <DescriptorShortZH>首席</DescriptorShortZH>
-    <DescriptorOrder>601</DescriptorOrder>
+    <DescriptorOrder>602</DescriptorOrder>
     <DescriptorAdded>2018-03-19T10:37:19.427+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-19T10:39:17.88+00:00</DescriptorEdited>
   </UIC>
@@ -8398,7 +8426,7 @@
     <DescriptorShortRU>Ритм</DescriptorShortRU>
     <DescriptorNameZH>节奏</DescriptorNameZH>
     <DescriptorShortZH>节奏</DescriptorShortZH>
-    <DescriptorOrder>602</DescriptorOrder>
+    <DescriptorOrder>603</DescriptorOrder>
     <DescriptorAdded>2016-11-16T00:16:30.537+00:00</DescriptorAdded>
     <DescriptorEdited>2016-11-16T00:16:30.537+00:00</DescriptorEdited>
   </UIC>
@@ -8426,7 +8454,7 @@
     <DescriptorShortRU>Acoustic</DescriptorShortRU>
     <DescriptorNameZH>Acoustic</DescriptorNameZH>
     <DescriptorShortZH>Acoustic</DescriptorShortZH>
-    <DescriptorOrder>604</DescriptorOrder>
+    <DescriptorOrder>605</DescriptorOrder>
     <DescriptorAdded>2020-03-13T04:49:22.083+00:00</DescriptorAdded>
     <DescriptorEdited>2020-03-13T04:49:22.083+00:00</DescriptorEdited>
   </UIC>
@@ -8454,7 +8482,7 @@
     <DescriptorShortRU>Электронна</DescriptorShortRU>
     <DescriptorNameZH>电动</DescriptorNameZH>
     <DescriptorShortZH>电动</DescriptorShortZH>
-    <DescriptorOrder>605</DescriptorOrder>
+    <DescriptorOrder>606</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>307</DescriptorID>
@@ -8480,7 +8508,7 @@
     <DescriptorShortRU>электроник</DescriptorShortRU>
     <DescriptorNameZH>电子产品</DescriptorNameZH>
     <DescriptorShortZH>电子产品</DescriptorShortZH>
-    <DescriptorOrder>606</DescriptorOrder>
+    <DescriptorOrder>607</DescriptorOrder>
     <DescriptorAdded>2018-04-18T07:09:50.36+00:00</DescriptorAdded>
     <DescriptorEdited>2018-04-18T07:09:50.36+00:00</DescriptorEdited>
   </UIC>
@@ -8508,7 +8536,7 @@
     <DescriptorShortRU>Усиленный</DescriptorShortRU>
     <DescriptorNameZH>扩音／加强</DescriptorNameZH>
     <DescriptorShortZH>扩音／加强</DescriptorShortZH>
-    <DescriptorOrder>607</DescriptorOrder>
+    <DescriptorOrder>608</DescriptorOrder>
     <DescriptorAdded>2018-04-20T07:40:55.207+00:00</DescriptorAdded>
     <DescriptorEdited>2018-04-20T07:40:55.207+00:00</DescriptorEdited>
   </UIC>
@@ -8536,7 +8564,7 @@
     <DescriptorShortRU>Midi</DescriptorShortRU>
     <DescriptorNameZH>乐器数码化接口</DescriptorNameZH>
     <DescriptorShortZH>乐器数码化接口</DescriptorShortZH>
-    <DescriptorOrder>610</DescriptorOrder>
+    <DescriptorOrder>611</DescriptorOrder>
     <DescriptorAdded>2015-11-07T06:12:53.92+00:00</DescriptorAdded>
     <DescriptorEdited>2015-11-07T06:12:53.92+00:00</DescriptorEdited>
   </UIC>
@@ -8564,7 +8592,7 @@
     <DescriptorShortRU>Препариров</DescriptorShortRU>
     <DescriptorNameZH>改装</DescriptorNameZH>
     <DescriptorShortZH>改装</DescriptorShortZH>
-    <DescriptorOrder>611</DescriptorOrder>
+    <DescriptorOrder>612</DescriptorOrder>
     <DescriptorAdded>2018-05-17T07:32:36.7+00:00</DescriptorAdded>
     <DescriptorEdited>2018-05-17T07:32:36.7+00:00</DescriptorEdited>
   </UIC>
@@ -8592,7 +8620,7 @@
     <DescriptorShortRU>Большой</DescriptorShortRU>
     <DescriptorNameZH>盛大的</DescriptorNameZH>
     <DescriptorShortZH>盛大的</DescriptorShortZH>
-    <DescriptorOrder>614</DescriptorOrder>
+    <DescriptorOrder>615</DescriptorOrder>
     <DescriptorAdded>2013-04-08T09:12:17.857+00:00</DescriptorAdded>
     <DescriptorEdited>2013-04-08T09:12:57.03+00:00</DescriptorEdited>
   </UIC>
@@ -8620,7 +8648,7 @@
     <DescriptorShortRU>Малый</DescriptorShortRU>
     <DescriptorNameZH>小的</DescriptorNameZH>
     <DescriptorShortZH>小的</DescriptorShortZH>
-    <DescriptorOrder>615</DescriptorOrder>
+    <DescriptorOrder>616</DescriptorOrder>
     <DescriptorAdded>2013-04-02T10:10:46.907+00:00</DescriptorAdded>
     <DescriptorEdited>2013-04-02T10:10:46.907+00:00</DescriptorEdited>
   </UIC>
@@ -8648,7 +8676,7 @@
     <DescriptorShortRU>Большой</DescriptorShortRU>
     <DescriptorNameZH>大的</DescriptorNameZH>
     <DescriptorShortZH>大的</DescriptorShortZH>
-    <DescriptorOrder>616</DescriptorOrder>
+    <DescriptorOrder>617</DescriptorOrder>
     <DescriptorAdded>2014-05-11T04:49:58.057+00:00</DescriptorAdded>
     <DescriptorEdited>2014-05-11T04:49:58.057+00:00</DescriptorEdited>
   </UIC>
@@ -8677,7 +8705,7 @@
     <DescriptorShortRU>Глубокий</DescriptorShortRU>
     <DescriptorNameZH>深的</DescriptorNameZH>
     <DescriptorShortZH>深的</DescriptorShortZH>
-    <DescriptorOrder>617</DescriptorOrder>
+    <DescriptorOrder>618</DescriptorOrder>
     <DescriptorAdded>2017-01-10T23:34:29.293+00:00</DescriptorAdded>
     <DescriptorEdited>2017-01-10T23:34:29.293+00:00</DescriptorEdited>
   </UIC>
@@ -8705,7 +8733,7 @@
     <DescriptorShortRU>Short</DescriptorShortRU>
     <DescriptorNameZH>Short</DescriptorNameZH>
     <DescriptorShortZH>Short</DescriptorShortZH>
-    <DescriptorOrder>618</DescriptorOrder>
+    <DescriptorOrder>619</DescriptorOrder>
     <DescriptorAdded>2021-01-24T04:21:57.87+00:00</DescriptorAdded>
     <DescriptorEdited>2021-01-24T04:21:57.87+00:00</DescriptorEdited>
   </UIC>
@@ -8733,7 +8761,7 @@
     <DescriptorShortRU>Нотация</DescriptorShortRU>
     <DescriptorNameZH>(音)符号／记谱</DescriptorNameZH>
     <DescriptorShortZH>(音)符号／记谱</DescriptorShortZH>
-    <DescriptorOrder>623</DescriptorOrder>
+    <DescriptorOrder>624</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>112</DescriptorID>
@@ -8759,7 +8787,7 @@
     <DescriptorShortRU>Табулатура</DescriptorShortRU>
     <DescriptorNameZH>指法</DescriptorNameZH>
     <DescriptorShortZH>指法</DescriptorShortZH>
-    <DescriptorOrder>624</DescriptorOrder>
+    <DescriptorOrder>625</DescriptorOrder>
   </UIC>
   <UIC>
     <DescriptorID>118</DescriptorID>
@@ -8785,7 +8813,7 @@
     <DescriptorShortRU>NTSC</DescriptorShortRU>
     <DescriptorNameZH>北美电视转播系统</DescriptorNameZH>
     <DescriptorShortZH>北美电视转播系统</DescriptorShortZH>
-    <DescriptorOrder>625</DescriptorOrder>
+    <DescriptorOrder>626</DescriptorOrder>
     <DescriptorAdded>2013-04-13T04:23:30.263+00:00</DescriptorAdded>
     <DescriptorEdited>2013-04-13T04:25:59.2+00:00</DescriptorEdited>
   </UIC>
@@ -8813,7 +8841,7 @@
     <DescriptorShortRU>PAL</DescriptorShortRU>
     <DescriptorNameZH>亚洲电视转播系统</DescriptorNameZH>
     <DescriptorShortZH>亚洲电视转播系统</DescriptorShortZH>
-    <DescriptorOrder>626</DescriptorOrder>
+    <DescriptorOrder>627</DescriptorOrder>
     <DescriptorAdded>2013-04-13T04:23:19.153+00:00</DescriptorAdded>
     <DescriptorEdited>2013-04-13T04:23:19.153+00:00</DescriptorEdited>
   </UIC>
@@ -8842,7 +8870,7 @@
     <DescriptorShortRU>Аннотирова</DescriptorShortRU>
     <DescriptorNameZH>注释</DescriptorNameZH>
     <DescriptorShortZH>注释</DescriptorShortZH>
-    <DescriptorOrder>627</DescriptorOrder>
+    <DescriptorOrder>628</DescriptorOrder>
     <DescriptorAdded>2013-04-24T00:30:29.82+00:00</DescriptorAdded>
     <DescriptorEdited>2013-04-24T00:30:29.82+00:00</DescriptorEdited>
   </UIC>
@@ -8870,7 +8898,7 @@
     <DescriptorShortRU>Открытые с</DescriptorShortRU>
     <DescriptorNameZH>空弦</DescriptorNameZH>
     <DescriptorShortZH>空弦</DescriptorShortZH>
-    <DescriptorOrder>628</DescriptorOrder>
+    <DescriptorOrder>629</DescriptorOrder>
     <DescriptorAdded>2016-05-24T11:30:12.4+00:00</DescriptorAdded>
     <DescriptorEdited>2016-05-24T11:30:12.4+00:00</DescriptorEdited>
   </UIC>
@@ -8898,7 +8926,7 @@
     <DescriptorShortRU>Пиццикато</DescriptorShortRU>
     <DescriptorNameZH>拨琴弦</DescriptorNameZH>
     <DescriptorShortZH>拨琴弦</DescriptorShortZH>
-    <DescriptorOrder>629</DescriptorOrder>
+    <DescriptorOrder>630</DescriptorOrder>
     <DescriptorAdded>2018-03-06T12:36:49.4+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-06T12:36:49.4+00:00</DescriptorEdited>
   </UIC>
@@ -8926,7 +8954,7 @@
     <DescriptorShortRU>С медиатор</DescriptorShortRU>
     <DescriptorNameZH>用拨子</DescriptorNameZH>
     <DescriptorShortZH>用拨子</DescriptorShortZH>
-    <DescriptorOrder>630</DescriptorOrder>
+    <DescriptorOrder>631</DescriptorOrder>
     <DescriptorAdded>2018-03-29T10:16:24.28+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-29T10:16:24.28+00:00</DescriptorEdited>
   </UIC>
@@ -8954,7 +8982,7 @@
     <DescriptorShortRU>withLowA</DescriptorShortRU>
     <DescriptorNameZH>with Low A</DescriptorNameZH>
     <DescriptorShortZH>withLowA</DescriptorShortZH>
-    <DescriptorOrder>631</DescriptorOrder>
+    <DescriptorOrder>632</DescriptorOrder>
     <DescriptorAdded>2018-07-16T08:23:45.563+00:00</DescriptorAdded>
     <DescriptorEdited>2018-07-16T08:23:45.563+00:00</DescriptorEdited>
   </UIC>
@@ -8982,7 +9010,7 @@
     <DescriptorShortRU>LowC</DescriptorShortRU>
     <DescriptorNameZH>with Low C</DescriptorNameZH>
     <DescriptorShortZH>LowC</DescriptorShortZH>
-    <DescriptorOrder>632</DescriptorOrder>
+    <DescriptorOrder>633</DescriptorOrder>
     <DescriptorAdded>2021-03-24T00:27:04.07+00:00</DescriptorAdded>
     <DescriptorEdited>2021-03-24T02:30:11.987+00:00</DescriptorEdited>
   </UIC>
@@ -9011,7 +9039,7 @@
     <DescriptorShortRU>Фолк</DescriptorShortRU>
     <DescriptorNameZH>民间的</DescriptorNameZH>
     <DescriptorShortZH>民间的</DescriptorShortZH>
-    <DescriptorOrder>638</DescriptorOrder>
+    <DescriptorOrder>639</DescriptorOrder>
     <DescriptorAdded>2015-10-23T05:18:31.433+00:00</DescriptorAdded>
     <DescriptorEdited>2015-10-23T05:18:31.433+00:00</DescriptorEdited>
   </UIC>
@@ -9039,7 +9067,7 @@
     <DescriptorShortRU>Этническая</DescriptorShortRU>
     <DescriptorNameZH>民族的</DescriptorNameZH>
     <DescriptorShortZH>民族的</DescriptorShortZH>
-    <DescriptorOrder>639</DescriptorOrder>
+    <DescriptorOrder>640</DescriptorOrder>
     <DescriptorAdded>2013-04-24T00:40:35.503+00:00</DescriptorAdded>
     <DescriptorEdited>2018-04-18T07:03:24.123+00:00</DescriptorEdited>
   </UIC>
@@ -9067,7 +9095,7 @@
     <DescriptorShortRU>Верхняя ст</DescriptorShortRU>
     <DescriptorNameZH>主线</DescriptorNameZH>
     <DescriptorShortZH>主线</DescriptorShortZH>
-    <DescriptorOrder>643</DescriptorOrder>
+    <DescriptorOrder>644</DescriptorOrder>
     <DescriptorAdded>2018-03-08T17:35:07.13+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-08T17:35:07.13+00:00</DescriptorEdited>
   </UIC>
@@ -9095,7 +9123,7 @@
     <DescriptorShortRU>Скрипичный</DescriptorShortRU>
     <DescriptorNameZH>G 谱号</DescriptorNameZH>
     <DescriptorShortZH>G 谱号</DescriptorShortZH>
-    <DescriptorOrder>645</DescriptorOrder>
+    <DescriptorOrder>646</DescriptorOrder>
     <DescriptorAdded>2013-04-24T01:03:31.48+00:00</DescriptorAdded>
     <DescriptorEdited>2013-04-24T01:03:31.48+00:00</DescriptorEdited>
   </UIC>
@@ -9124,7 +9152,7 @@
     <DescriptorShortRU>Альтовый к</DescriptorShortRU>
     <DescriptorNameZH>中音谱号</DescriptorNameZH>
     <DescriptorShortZH>中音谱号</DescriptorShortZH>
-    <DescriptorOrder>646</DescriptorOrder>
+    <DescriptorOrder>647</DescriptorOrder>
     <DescriptorAdded>2013-04-24T01:04:52.82+00:00</DescriptorAdded>
     <DescriptorEdited>2013-04-24T01:04:52.82+00:00</DescriptorEdited>
   </UIC>
@@ -9152,7 +9180,7 @@
     <DescriptorShortRU>Теноровый </DescriptorShortRU>
     <DescriptorNameZH>中音谱号</DescriptorNameZH>
     <DescriptorShortZH>中音谱号</DescriptorShortZH>
-    <DescriptorOrder>647</DescriptorOrder>
+    <DescriptorOrder>648</DescriptorOrder>
     <DescriptorAdded>2013-04-24T01:06:03.99+00:00</DescriptorAdded>
     <DescriptorEdited>2013-04-24T01:06:03.99+00:00</DescriptorEdited>
   </UIC>
@@ -9181,7 +9209,7 @@
     <DescriptorShortRU>Басовый кл</DescriptorShortRU>
     <DescriptorNameZH>F 谱号</DescriptorNameZH>
     <DescriptorShortZH>F 谱号</DescriptorShortZH>
-    <DescriptorOrder>648</DescriptorOrder>
+    <DescriptorOrder>649</DescriptorOrder>
     <DescriptorAdded>2013-04-24T01:06:28.757+00:00</DescriptorAdded>
     <DescriptorEdited>2013-04-24T01:06:28.757+00:00</DescriptorEdited>
   </UIC>
@@ -9210,7 +9238,7 @@
     <DescriptorShortRU>Камертон</DescriptorShortRU>
     <DescriptorNameZH>音乐会场地</DescriptorNameZH>
     <DescriptorShortZH>音乐会场地</DescriptorShortZH>
-    <DescriptorOrder>649</DescriptorOrder>
+    <DescriptorOrder>650</DescriptorOrder>
     <DescriptorAdded>2015-11-13T21:32:40.32+00:00</DescriptorAdded>
     <DescriptorEdited>2015-11-13T21:32:40.32+00:00</DescriptorEdited>
   </UIC>
@@ -9238,7 +9266,7 @@
     <DescriptorShortRU>2Octvs</DescriptorShortRU>
     <DescriptorNameZH>(2 Octaves)</DescriptorNameZH>
     <DescriptorShortZH>2Octvs</DescriptorShortZH>
-    <DescriptorOrder>650</DescriptorOrder>
+    <DescriptorOrder>651</DescriptorOrder>
     <DescriptorAdded>2025-03-07T02:32:22.113+00:00</DescriptorAdded>
     <DescriptorEdited>2025-03-07T02:32:22.113+00:00</DescriptorEdited>
   </UIC>
@@ -9266,7 +9294,7 @@
     <DescriptorShortRU>3Octv</DescriptorShortRU>
     <DescriptorNameZH>(3 Octaves)</DescriptorNameZH>
     <DescriptorShortZH>3Octv</DescriptorShortZH>
-    <DescriptorOrder>651</DescriptorOrder>
+    <DescriptorOrder>652</DescriptorOrder>
     <DescriptorAdded>2019-06-27T19:17:01.853+00:00</DescriptorAdded>
     <DescriptorEdited>2019-06-27T19:17:33.837+00:00</DescriptorEdited>
   </UIC>
@@ -9294,7 +9322,7 @@
     <DescriptorShortRU>4Octv</DescriptorShortRU>
     <DescriptorNameZH>(4 Octaves)</DescriptorNameZH>
     <DescriptorShortZH>4Octv</DescriptorShortZH>
-    <DescriptorOrder>652</DescriptorOrder>
+    <DescriptorOrder>653</DescriptorOrder>
     <DescriptorAdded>2019-06-27T19:18:18.22+00:00</DescriptorAdded>
     <DescriptorEdited>2019-06-27T19:18:18.22+00:00</DescriptorEdited>
   </UIC>
@@ -9322,7 +9350,7 @@
     <DescriptorShortRU>5Octv</DescriptorShortRU>
     <DescriptorNameZH>(5 Octaves)</DescriptorNameZH>
     <DescriptorShortZH>5Octv</DescriptorShortZH>
-    <DescriptorOrder>653</DescriptorOrder>
+    <DescriptorOrder>654</DescriptorOrder>
     <DescriptorAdded>2019-06-27T19:18:56.42+00:00</DescriptorAdded>
     <DescriptorEdited>2019-06-27T19:18:56.42+00:00</DescriptorEdited>
   </UIC>
@@ -9350,7 +9378,7 @@
     <DescriptorShortRU>1A</DescriptorShortRU>
     <DescriptorNameZH>1A</DescriptorNameZH>
     <DescriptorShortZH>1A</DescriptorShortZH>
-    <DescriptorOrder>660</DescriptorOrder>
+    <DescriptorOrder>661</DescriptorOrder>
     <DescriptorAdded>2013-10-03T08:13:10.047+00:00</DescriptorAdded>
     <DescriptorEdited>2013-10-03T08:13:10.047+00:00</DescriptorEdited>
   </UIC>
@@ -9378,7 +9406,7 @@
     <DescriptorShortRU>1B</DescriptorShortRU>
     <DescriptorNameZH>1B</DescriptorNameZH>
     <DescriptorShortZH>1B</DescriptorShortZH>
-    <DescriptorOrder>661</DescriptorOrder>
+    <DescriptorOrder>662</DescriptorOrder>
     <DescriptorAdded>2013-10-03T08:13:27.633+00:00</DescriptorAdded>
     <DescriptorEdited>2013-10-03T08:13:27.633+00:00</DescriptorEdited>
   </UIC>
@@ -9406,7 +9434,7 @@
     <DescriptorShortRU>1C</DescriptorShortRU>
     <DescriptorNameZH>1C</DescriptorNameZH>
     <DescriptorShortZH>1C</DescriptorShortZH>
-    <DescriptorOrder>662</DescriptorOrder>
+    <DescriptorOrder>663</DescriptorOrder>
     <DescriptorAdded>2016-10-07T18:42:14.407+00:00</DescriptorAdded>
     <DescriptorEdited>2016-10-07T18:42:14.407+00:00</DescriptorEdited>
   </UIC>
@@ -9435,7 +9463,7 @@
     <DescriptorShortRU>1D</DescriptorShortRU>
     <DescriptorNameZH>1D</DescriptorNameZH>
     <DescriptorShortZH>1D</DescriptorShortZH>
-    <DescriptorOrder>663</DescriptorOrder>
+    <DescriptorOrder>664</DescriptorOrder>
     <DescriptorAdded>2016-10-07T18:43:18.93+00:00</DescriptorAdded>
     <DescriptorEdited>2016-10-07T18:43:18.93+00:00</DescriptorEdited>
   </UIC>
@@ -9463,7 +9491,7 @@
     <DescriptorShortRU>2A</DescriptorShortRU>
     <DescriptorNameZH>2A</DescriptorNameZH>
     <DescriptorShortZH>2A</DescriptorShortZH>
-    <DescriptorOrder>666</DescriptorOrder>
+    <DescriptorOrder>667</DescriptorOrder>
     <DescriptorAdded>2013-10-03T08:13:40.123+00:00</DescriptorAdded>
     <DescriptorEdited>2013-10-03T08:13:40.123+00:00</DescriptorEdited>
   </UIC>
@@ -9491,7 +9519,7 @@
     <DescriptorShortRU>2B</DescriptorShortRU>
     <DescriptorNameZH>2B</DescriptorNameZH>
     <DescriptorShortZH>2B</DescriptorShortZH>
-    <DescriptorOrder>667</DescriptorOrder>
+    <DescriptorOrder>668</DescriptorOrder>
     <DescriptorAdded>2013-10-03T08:13:54.67+00:00</DescriptorAdded>
     <DescriptorEdited>2013-10-03T08:13:54.67+00:00</DescriptorEdited>
   </UIC>
@@ -9520,7 +9548,7 @@
     <DescriptorShortRU>2C</DescriptorShortRU>
     <DescriptorNameZH>2C</DescriptorNameZH>
     <DescriptorShortZH>2C</DescriptorShortZH>
-    <DescriptorOrder>668</DescriptorOrder>
+    <DescriptorOrder>669</DescriptorOrder>
     <DescriptorAdded>2016-10-07T18:44:39.49+00:00</DescriptorAdded>
     <DescriptorEdited>2016-10-07T18:44:39.49+00:00</DescriptorEdited>
   </UIC>
@@ -9549,7 +9577,7 @@
     <DescriptorShortRU>2D</DescriptorShortRU>
     <DescriptorNameZH>2D</DescriptorNameZH>
     <DescriptorShortZH>2D</DescriptorShortZH>
-    <DescriptorOrder>669</DescriptorOrder>
+    <DescriptorOrder>670</DescriptorOrder>
     <DescriptorAdded>2016-10-07T18:45:27.927+00:00</DescriptorAdded>
     <DescriptorEdited>2016-10-07T18:45:27.927+00:00</DescriptorEdited>
   </UIC>
@@ -9577,7 +9605,7 @@
     <DescriptorShortRU>3A</DescriptorShortRU>
     <DescriptorNameZH>3A</DescriptorNameZH>
     <DescriptorShortZH>3A</DescriptorShortZH>
-    <DescriptorOrder>670</DescriptorOrder>
+    <DescriptorOrder>671</DescriptorOrder>
     <DescriptorAdded>2017-09-18T20:23:02.217+00:00</DescriptorAdded>
     <DescriptorEdited>2017-09-18T20:23:02.217+00:00</DescriptorEdited>
   </UIC>
@@ -9606,7 +9634,7 @@
     <DescriptorShortRU>3B</DescriptorShortRU>
     <DescriptorNameZH>3B</DescriptorNameZH>
     <DescriptorShortZH>3B</DescriptorShortZH>
-    <DescriptorOrder>671</DescriptorOrder>
+    <DescriptorOrder>672</DescriptorOrder>
     <DescriptorAdded>2017-09-18T20:23:29.92+00:00</DescriptorAdded>
     <DescriptorEdited>2017-09-18T20:23:29.92+00:00</DescriptorEdited>
   </UIC>
@@ -9635,7 +9663,7 @@
     <DescriptorShortRU>3C</DescriptorShortRU>
     <DescriptorNameZH>3C</DescriptorNameZH>
     <DescriptorShortZH>3C</DescriptorShortZH>
-    <DescriptorOrder>672</DescriptorOrder>
+    <DescriptorOrder>673</DescriptorOrder>
     <DescriptorAdded>2017-09-18T20:23:54.653+00:00</DescriptorAdded>
     <DescriptorEdited>2017-09-18T20:23:54.653+00:00</DescriptorEdited>
   </UIC>
@@ -9664,7 +9692,7 @@
     <DescriptorShortRU>3D</DescriptorShortRU>
     <DescriptorNameZH>3D</DescriptorNameZH>
     <DescriptorShortZH>3D</DescriptorShortZH>
-    <DescriptorOrder>673</DescriptorOrder>
+    <DescriptorOrder>674</DescriptorOrder>
     <DescriptorAdded>2017-09-18T20:24:19.497+00:00</DescriptorAdded>
     <DescriptorEdited>2017-09-18T20:24:19.497+00:00</DescriptorEdited>
   </UIC>
@@ -9693,7 +9721,7 @@
     <DescriptorShortRU>4A</DescriptorShortRU>
     <DescriptorNameZH>4A</DescriptorNameZH>
     <DescriptorShortZH>4A</DescriptorShortZH>
-    <DescriptorOrder>674</DescriptorOrder>
+    <DescriptorOrder>675</DescriptorOrder>
     <DescriptorAdded>2017-09-18T20:24:38.463+00:00</DescriptorAdded>
     <DescriptorEdited>2017-09-18T20:24:38.463+00:00</DescriptorEdited>
   </UIC>
@@ -9722,7 +9750,7 @@
     <DescriptorShortRU>4B</DescriptorShortRU>
     <DescriptorNameZH>4B</DescriptorNameZH>
     <DescriptorShortZH>4B</DescriptorShortZH>
-    <DescriptorOrder>675</DescriptorOrder>
+    <DescriptorOrder>676</DescriptorOrder>
     <DescriptorAdded>2017-09-18T20:24:56.15+00:00</DescriptorAdded>
     <DescriptorEdited>2017-09-18T20:24:56.15+00:00</DescriptorEdited>
   </UIC>
@@ -9751,7 +9779,7 @@
     <DescriptorShortRU>4C</DescriptorShortRU>
     <DescriptorNameZH>4C</DescriptorNameZH>
     <DescriptorShortZH>4C</DescriptorShortZH>
-    <DescriptorOrder>676</DescriptorOrder>
+    <DescriptorOrder>677</DescriptorOrder>
     <DescriptorAdded>2017-09-18T20:25:10.043+00:00</DescriptorAdded>
     <DescriptorEdited>2017-09-18T20:25:10.043+00:00</DescriptorEdited>
   </UIC>
@@ -9780,7 +9808,7 @@
     <DescriptorShortRU>4D</DescriptorShortRU>
     <DescriptorNameZH>4D</DescriptorNameZH>
     <DescriptorShortZH>4D</DescriptorShortZH>
-    <DescriptorOrder>677</DescriptorOrder>
+    <DescriptorOrder>678</DescriptorOrder>
     <DescriptorAdded>2017-09-18T20:25:24.15+00:00</DescriptorAdded>
     <DescriptorEdited>2017-09-18T20:25:24.15+00:00</DescriptorEdited>
   </UIC>
@@ -9808,7 +9836,7 @@
     <DescriptorShortRU>Фанфары</DescriptorShortRU>
     <DescriptorNameZH>开场</DescriptorNameZH>
     <DescriptorShortZH>开场</DescriptorShortZH>
-    <DescriptorOrder>688</DescriptorOrder>
+    <DescriptorOrder>689</DescriptorOrder>
     <DescriptorAdded>2013-12-06T04:02:55.257+00:00</DescriptorAdded>
     <DescriptorEdited>2013-12-06T04:02:55.257+00:00</DescriptorEdited>
   </UIC>
@@ -9836,7 +9864,7 @@
     <DescriptorShortRU>Антифональ</DescriptorShortRU>
     <DescriptorNameZH>答唱</DescriptorNameZH>
     <DescriptorShortZH>答唱</DescriptorShortZH>
-    <DescriptorOrder>689</DescriptorOrder>
+    <DescriptorOrder>690</DescriptorOrder>
     <DescriptorAdded>2024-11-25T00:00:47.63+00:00</DescriptorAdded>
     <DescriptorEdited>2024-11-25T00:00:47.63+00:00</DescriptorEdited>
   </UIC>
@@ -9864,7 +9892,7 @@
     <DescriptorShortRU>Слева</DescriptorShortRU>
     <DescriptorNameZH>左边</DescriptorNameZH>
     <DescriptorShortZH>左边</DescriptorShortZH>
-    <DescriptorOrder>690</DescriptorOrder>
+    <DescriptorOrder>691</DescriptorOrder>
     <DescriptorAdded>2014-04-15T05:34:47.727+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-15T05:34:47.727+00:00</DescriptorEdited>
   </UIC>
@@ -9893,7 +9921,7 @@
     <DescriptorShortRU>Посередине</DescriptorShortRU>
     <DescriptorNameZH>中间</DescriptorNameZH>
     <DescriptorShortZH>中间</DescriptorShortZH>
-    <DescriptorOrder>691</DescriptorOrder>
+    <DescriptorOrder>692</DescriptorOrder>
     <DescriptorAdded>2014-04-15T05:35:16.467+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-15T05:35:58.85+00:00</DescriptorEdited>
   </UIC>
@@ -9921,7 +9949,7 @@
     <DescriptorShortRU>Справа</DescriptorShortRU>
     <DescriptorNameZH>右边</DescriptorNameZH>
     <DescriptorShortZH>右边</DescriptorShortZH>
-    <DescriptorOrder>694</DescriptorOrder>
+    <DescriptorOrder>695</DescriptorOrder>
     <DescriptorAdded>2014-04-15T05:35:37.7+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-15T05:35:37.7+00:00</DescriptorEdited>
   </UIC>
@@ -9949,7 +9977,7 @@
     <DescriptorShortRU>Приостанов</DescriptorShortRU>
     <DescriptorNameZH>暂停</DescriptorNameZH>
     <DescriptorShortZH>暂停</DescriptorShortZH>
-    <DescriptorOrder>695</DescriptorOrder>
+    <DescriptorOrder>696</DescriptorOrder>
     <DescriptorAdded>2025-03-07T02:00:45.453+00:00</DescriptorAdded>
     <DescriptorEdited>2025-03-07T02:00:45.453+00:00</DescriptorEdited>
   </UIC>
@@ -9977,7 +10005,7 @@
     <DescriptorShortRU>настенде</DescriptorShortRU>
     <DescriptorNameZH>在展台上</DescriptorNameZH>
     <DescriptorShortZH>在展台上</DescriptorShortZH>
-    <DescriptorOrder>696</DescriptorOrder>
+    <DescriptorOrder>697</DescriptorOrder>
     <DescriptorAdded>2025-03-07T02:01:59.433+00:00</DescriptorAdded>
     <DescriptorEdited>2025-03-07T02:01:59.433+00:00</DescriptorEdited>
   </UIC>
@@ -10005,7 +10033,7 @@
     <DescriptorShortRU>Инструкции</DescriptorShortRU>
     <DescriptorNameZH>指示</DescriptorNameZH>
     <DescriptorShortZH>指示</DescriptorShortZH>
-    <DescriptorOrder>697</DescriptorOrder>
+    <DescriptorOrder>698</DescriptorOrder>
     <DescriptorAdded>2014-04-16T23:57:19.027+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-16T23:57:19.027+00:00</DescriptorEdited>
   </UIC>
@@ -10033,7 +10061,7 @@
     <DescriptorShortRU>Репетиция</DescriptorShortRU>
     <DescriptorNameZH>排练</DescriptorNameZH>
     <DescriptorShortZH>排练</DescriptorShortZH>
-    <DescriptorOrder>698</DescriptorOrder>
+    <DescriptorOrder>699</DescriptorOrder>
     <DescriptorAdded>2014-05-11T04:47:09.577+00:00</DescriptorAdded>
     <DescriptorEdited>2014-05-11T04:47:09.577+00:00</DescriptorEdited>
   </UIC>
@@ -10061,7 +10089,7 @@
     <DescriptorShortRU>Case</DescriptorShortRU>
     <DescriptorNameZH>案件</DescriptorNameZH>
     <DescriptorShortZH>案件</DescriptorShortZH>
-    <DescriptorOrder>700</DescriptorOrder>
+    <DescriptorOrder>701</DescriptorOrder>
     <DescriptorAdded>2014-04-17T00:12:49.783+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-17T00:12:49.783+00:00</DescriptorEdited>
   </UIC>
@@ -10090,7 +10118,7 @@
     <DescriptorShortRU>Педаль</DescriptorShortRU>
     <DescriptorNameZH>踏板</DescriptorNameZH>
     <DescriptorShortZH>踏板</DescriptorShortZH>
-    <DescriptorOrder>701</DescriptorOrder>
+    <DescriptorOrder>702</DescriptorOrder>
     <DescriptorAdded>2016-12-09T00:26:26.673+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-09T00:26:26.673+00:00</DescriptorEdited>
   </UIC>
@@ -10119,7 +10147,7 @@
     <DescriptorShortRU>Ассистент</DescriptorShortRU>
     <DescriptorNameZH>助理</DescriptorNameZH>
     <DescriptorShortZH>助理</DescriptorShortZH>
-    <DescriptorOrder>703</DescriptorOrder>
+    <DescriptorOrder>704</DescriptorOrder>
     <DescriptorAdded>2014-04-17T00:14:31.893+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-17T00:14:31.893+00:00</DescriptorEdited>
   </UIC>
@@ -10147,7 +10175,7 @@
     <DescriptorShortRU>Полностью</DescriptorShortRU>
     <DescriptorNameZH>全面的</DescriptorNameZH>
     <DescriptorShortZH>全面的</DescriptorShortZH>
-    <DescriptorOrder>704</DescriptorOrder>
+    <DescriptorOrder>705</DescriptorOrder>
     <DescriptorAdded>2014-04-17T06:05:47.31+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-17T06:05:47.31+00:00</DescriptorEdited>
   </UIC>
@@ -10175,7 +10203,7 @@
     <DescriptorShortRU>Отрывок</DescriptorShortRU>
     <DescriptorNameZH>摘抄</DescriptorNameZH>
     <DescriptorShortZH>摘抄</DescriptorShortZH>
-    <DescriptorOrder>705</DescriptorOrder>
+    <DescriptorOrder>706</DescriptorOrder>
     <DescriptorAdded>2014-04-17T06:08:39.76+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-17T06:08:39.76+00:00</DescriptorEdited>
   </UIC>
@@ -10203,7 +10231,7 @@
     <DescriptorShortRU>Сокращенны</DescriptorShortRU>
     <DescriptorNameZH>缩减的</DescriptorNameZH>
     <DescriptorShortZH>缩减的</DescriptorShortZH>
-    <DescriptorOrder>706</DescriptorOrder>
+    <DescriptorOrder>707</DescriptorOrder>
     <DescriptorAdded>2015-09-02T23:05:21.823+00:00</DescriptorAdded>
     <DescriptorEdited>2015-09-02T23:05:21.823+00:00</DescriptorEdited>
   </UIC>
@@ -10231,7 +10259,7 @@
     <DescriptorShortRU>Промо</DescriptorShortRU>
     <DescriptorNameZH>参选的</DescriptorNameZH>
     <DescriptorShortZH>参选的</DescriptorShortZH>
-    <DescriptorOrder>708</DescriptorOrder>
+    <DescriptorOrder>709</DescriptorOrder>
     <DescriptorAdded>2014-04-17T06:16:52.333+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-17T06:16:52.333+00:00</DescriptorEdited>
   </UIC>
@@ -10259,7 +10287,7 @@
     <DescriptorShortRU>Легкий</DescriptorShortRU>
     <DescriptorNameZH>轻松</DescriptorNameZH>
     <DescriptorShortZH>轻松</DescriptorShortZH>
-    <DescriptorOrder>709</DescriptorOrder>
+    <DescriptorOrder>710</DescriptorOrder>
     <DescriptorAdded>2017-11-25T14:42:57.937+00:00</DescriptorAdded>
     <DescriptorEdited>2017-11-25T14:42:57.937+00:00</DescriptorEdited>
   </UIC>
@@ -10287,7 +10315,7 @@
     <DescriptorShortRU>[cy]</DescriptorShortRU>
     <DescriptorNameZH>[cy]</DescriptorNameZH>
     <DescriptorShortZH>[cy]</DescriptorShortZH>
-    <DescriptorOrder>710</DescriptorOrder>
+    <DescriptorOrder>711</DescriptorOrder>
     <DescriptorAdded>2018-06-14T09:29:05.473+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:16:59.603+00:00</DescriptorEdited>
   </UIC>
@@ -10315,7 +10343,7 @@
     <DescriptorShortRU>[cz]</DescriptorShortRU>
     <DescriptorNameZH>[cz]</DescriptorNameZH>
     <DescriptorShortZH>[cz]</DescriptorShortZH>
-    <DescriptorOrder>711</DescriptorOrder>
+    <DescriptorOrder>712</DescriptorOrder>
     <DescriptorAdded>2021-03-24T02:27:39.29+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:16:59.847+00:00</DescriptorEdited>
   </UIC>
@@ -10343,7 +10371,7 @@
     <DescriptorShortRU>[da]</DescriptorShortRU>
     <DescriptorNameZH>[da]</DescriptorNameZH>
     <DescriptorShortZH>[da]</DescriptorShortZH>
-    <DescriptorOrder>713</DescriptorOrder>
+    <DescriptorOrder>714</DescriptorOrder>
     <DescriptorAdded>2018-11-27T10:11:54.163+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:00.08+00:00</DescriptorEdited>
   </UIC>
@@ -10371,7 +10399,7 @@
     <DescriptorShortRU>[da/de]</DescriptorShortRU>
     <DescriptorNameZH>[da/de]</DescriptorNameZH>
     <DescriptorShortZH>[da/de]</DescriptorShortZH>
-    <DescriptorOrder>714</DescriptorOrder>
+    <DescriptorOrder>715</DescriptorOrder>
     <DescriptorAdded>2021-03-24T00:38:32.193+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:00.31+00:00</DescriptorEdited>
   </UIC>
@@ -10399,7 +10427,7 @@
     <DescriptorShortRU>[da/en]</DescriptorShortRU>
     <DescriptorNameZH>[da/en]</DescriptorNameZH>
     <DescriptorShortZH>[da/en]</DescriptorShortZH>
-    <DescriptorOrder>717</DescriptorOrder>
+    <DescriptorOrder>718</DescriptorOrder>
     <DescriptorAdded>2018-08-14T07:05:07.64+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:00.557+00:00</DescriptorEdited>
   </UIC>
@@ -10427,7 +10455,7 @@
     <DescriptorShortRU>[da/fr]</DescriptorShortRU>
     <DescriptorNameZH>[da/fr]</DescriptorNameZH>
     <DescriptorShortZH>[da/fr]</DescriptorShortZH>
-    <DescriptorOrder>718</DescriptorOrder>
+    <DescriptorOrder>719</DescriptorOrder>
     <DescriptorAdded>2021-03-24T02:20:29.213+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:00.79+00:00</DescriptorEdited>
   </UIC>
@@ -10455,7 +10483,7 @@
     <DescriptorShortRU>[de]</DescriptorShortRU>
     <DescriptorNameZH>[de]</DescriptorNameZH>
     <DescriptorShortZH>[de]</DescriptorShortZH>
-    <DescriptorOrder>721</DescriptorOrder>
+    <DescriptorOrder>722</DescriptorOrder>
     <DescriptorAdded>2014-04-17T00:24:31.00+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:01.027+00:00</DescriptorEdited>
   </UIC>
@@ -10483,7 +10511,7 @@
     <DescriptorShortRU>[de/en]</DescriptorShortRU>
     <DescriptorNameZH>[de/en]</DescriptorNameZH>
     <DescriptorShortZH>[de/en]</DescriptorShortZH>
-    <DescriptorOrder>722</DescriptorOrder>
+    <DescriptorOrder>723</DescriptorOrder>
     <DescriptorAdded>2018-05-04T06:42:35.067+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:01.26+00:00</DescriptorEdited>
   </UIC>
@@ -10511,7 +10539,7 @@
     <DescriptorShortRU>[de/en/fr]</DescriptorShortRU>
     <DescriptorNameZH>[de/en/fr]</DescriptorNameZH>
     <DescriptorShortZH>[de/en/fr]</DescriptorShortZH>
-    <DescriptorOrder>723</DescriptorOrder>
+    <DescriptorOrder>724</DescriptorOrder>
     <DescriptorAdded>2018-05-22T07:07:27.227+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:01.497+00:00</DescriptorEdited>
   </UIC>
@@ -10539,7 +10567,7 @@
     <DescriptorShortRU>[de/en/ru]</DescriptorShortRU>
     <DescriptorNameZH>[de/en/ru]</DescriptorNameZH>
     <DescriptorShortZH>[de/en/ru]</DescriptorShortZH>
-    <DescriptorOrder>724</DescriptorOrder>
+    <DescriptorOrder>725</DescriptorOrder>
     <DescriptorAdded>2021-03-23T05:45:20.5+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:01.727+00:00</DescriptorEdited>
   </UIC>
@@ -10567,7 +10595,7 @@
     <DescriptorShortRU>[de/fi]</DescriptorShortRU>
     <DescriptorNameZH>[de/fi]</DescriptorNameZH>
     <DescriptorShortZH>[de/fi]</DescriptorShortZH>
-    <DescriptorOrder>726</DescriptorOrder>
+    <DescriptorOrder>727</DescriptorOrder>
     <DescriptorAdded>2018-06-12T17:26:13.03+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:01.96+00:00</DescriptorEdited>
   </UIC>
@@ -10595,7 +10623,7 @@
     <DescriptorShortRU>[de/fr]</DescriptorShortRU>
     <DescriptorNameZH>[de/fr]</DescriptorNameZH>
     <DescriptorShortZH>[de/fr]</DescriptorShortZH>
-    <DescriptorOrder>727</DescriptorOrder>
+    <DescriptorOrder>728</DescriptorOrder>
     <DescriptorAdded>2019-03-13T12:32:20.383+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:02.207+00:00</DescriptorEdited>
   </UIC>
@@ -10623,7 +10651,7 @@
     <DescriptorShortRU>[de/fr/ru]</DescriptorShortRU>
     <DescriptorNameZH>[de/fr/ru]</DescriptorNameZH>
     <DescriptorShortZH>[de/fr/ru]</DescriptorShortZH>
-    <DescriptorOrder>730</DescriptorOrder>
+    <DescriptorOrder>731</DescriptorOrder>
     <DescriptorAdded>2018-06-07T07:43:05.76+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:02.44+00:00</DescriptorEdited>
   </UIC>
@@ -10651,7 +10679,7 @@
     <DescriptorShortRU>[de/fr/ru]</DescriptorShortRU>
     <DescriptorNameZH>[de/fr/ruc]</DescriptorNameZH>
     <DescriptorShortZH>[de/fr/ru]</DescriptorShortZH>
-    <DescriptorOrder>731</DescriptorOrder>
+    <DescriptorOrder>732</DescriptorOrder>
     <DescriptorAdded>2022-12-09T00:22:05.56+00:00</DescriptorAdded>
     <DescriptorEdited>2022-12-09T00:22:05.56+00:00</DescriptorEdited>
   </UIC>
@@ -10679,7 +10707,7 @@
     <DescriptorShortRU>[de/it]</DescriptorShortRU>
     <DescriptorNameZH>[de/it]</DescriptorNameZH>
     <DescriptorShortZH>[de/it]</DescriptorShortZH>
-    <DescriptorOrder>735</DescriptorOrder>
+    <DescriptorOrder>736</DescriptorOrder>
     <DescriptorAdded>2018-05-09T16:11:33.263+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:02.67+00:00</DescriptorEdited>
   </UIC>
@@ -10707,7 +10735,7 @@
     <DescriptorShortRU>[de/ru]</DescriptorShortRU>
     <DescriptorNameZH>[de/ru]</DescriptorNameZH>
     <DescriptorShortZH>[de/ru]</DescriptorShortZH>
-    <DescriptorOrder>736</DescriptorOrder>
+    <DescriptorOrder>737</DescriptorOrder>
     <DescriptorAdded>2021-03-23T23:54:21.707+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:02.9+00:00</DescriptorEdited>
   </UIC>
@@ -10735,7 +10763,7 @@
     <DescriptorShortRU>[de/ruc]</DescriptorShortRU>
     <DescriptorNameZH>[de/ruc]</DescriptorNameZH>
     <DescriptorShortZH>[de/ruc]</DescriptorShortZH>
-    <DescriptorOrder>737</DescriptorOrder>
+    <DescriptorOrder>738</DescriptorOrder>
     <DescriptorAdded>2022-12-09T00:22:35.14+00:00</DescriptorAdded>
     <DescriptorEdited>2022-12-09T00:22:35.14+00:00</DescriptorEdited>
   </UIC>
@@ -10763,7 +10791,7 @@
     <DescriptorShortRU>[de/rucp]</DescriptorShortRU>
     <DescriptorNameZH>[de/ruc/rup]</DescriptorNameZH>
     <DescriptorShortZH>[de/rucp]</DescriptorShortZH>
-    <DescriptorOrder>738</DescriptorOrder>
+    <DescriptorOrder>739</DescriptorOrder>
     <DescriptorAdded>2022-12-09T00:24:11.32+00:00</DescriptorAdded>
     <DescriptorEdited>2022-12-09T00:24:11.32+00:00</DescriptorEdited>
   </UIC>
@@ -10791,7 +10819,7 @@
     <DescriptorShortRU>[de/rup]</DescriptorShortRU>
     <DescriptorNameZH>[de/rup]</DescriptorNameZH>
     <DescriptorShortZH>[de/rup]</DescriptorShortZH>
-    <DescriptorOrder>740</DescriptorOrder>
+    <DescriptorOrder>741</DescriptorOrder>
     <DescriptorAdded>2022-12-09T00:23:12.28+00:00</DescriptorAdded>
     <DescriptorEdited>2022-12-09T00:23:12.28+00:00</DescriptorEdited>
   </UIC>
@@ -10819,7 +10847,7 @@
     <DescriptorShortRU>[de/sv]</DescriptorShortRU>
     <DescriptorNameZH>[de/sv]</DescriptorNameZH>
     <DescriptorShortZH>[de/sv]</DescriptorShortZH>
-    <DescriptorOrder>747</DescriptorOrder>
+    <DescriptorOrder>748</DescriptorOrder>
     <DescriptorAdded>2018-04-18T07:00:37.277+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:03.13+00:00</DescriptorEdited>
   </UIC>
@@ -10847,7 +10875,7 @@
     <DescriptorShortRU>[en]</DescriptorShortRU>
     <DescriptorNameZH>[en]</DescriptorNameZH>
     <DescriptorShortZH>[en]</DescriptorShortZH>
-    <DescriptorOrder>757</DescriptorOrder>
+    <DescriptorOrder>758</DescriptorOrder>
     <DescriptorAdded>2014-04-17T00:24:05.26+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:03.36+00:00</DescriptorEdited>
   </UIC>
@@ -10875,7 +10903,7 @@
     <DescriptorShortRU>[en/fi]</DescriptorShortRU>
     <DescriptorNameZH>[en/fi]</DescriptorNameZH>
     <DescriptorShortZH>[en/fi]</DescriptorShortZH>
-    <DescriptorOrder>758</DescriptorOrder>
+    <DescriptorOrder>759</DescriptorOrder>
     <DescriptorAdded>2018-06-12T17:22:57.287+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:03.597+00:00</DescriptorEdited>
   </UIC>
@@ -10903,7 +10931,7 @@
     <DescriptorShortRU>[en/fr]</DescriptorShortRU>
     <DescriptorNameZH>[en/fr]</DescriptorNameZH>
     <DescriptorShortZH>[en/fr]</DescriptorShortZH>
-    <DescriptorOrder>760</DescriptorOrder>
+    <DescriptorOrder>761</DescriptorOrder>
     <DescriptorAdded>2018-04-04T14:50:43.94+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:03.83+00:00</DescriptorEdited>
   </UIC>
@@ -10931,7 +10959,7 @@
     <DescriptorShortRU>[en/fr/ru]</DescriptorShortRU>
     <DescriptorNameZH>[en/fr/ru]</DescriptorNameZH>
     <DescriptorShortZH>[en/fr/ru]</DescriptorShortZH>
-    <DescriptorOrder>761</DescriptorOrder>
+    <DescriptorOrder>762</DescriptorOrder>
     <DescriptorAdded>2018-05-22T07:08:17.35+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:04.057+00:00</DescriptorEdited>
   </UIC>
@@ -10959,7 +10987,7 @@
     <DescriptorShortRU>[en/gr]</DescriptorShortRU>
     <DescriptorNameZH>[en/gr]</DescriptorNameZH>
     <DescriptorShortZH>[en/gr]</DescriptorShortZH>
-    <DescriptorOrder>762</DescriptorOrder>
+    <DescriptorOrder>763</DescriptorOrder>
     <DescriptorAdded>2021-03-24T02:22:15.113+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:04.287+00:00</DescriptorEdited>
   </UIC>
@@ -10987,7 +11015,7 @@
     <DescriptorShortRU>[en/it]</DescriptorShortRU>
     <DescriptorNameZH>[en/it]</DescriptorNameZH>
     <DescriptorShortZH>[en/it]</DescriptorShortZH>
-    <DescriptorOrder>765</DescriptorOrder>
+    <DescriptorOrder>766</DescriptorOrder>
     <DescriptorAdded>2018-04-04T14:51:17.09+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:04.52+00:00</DescriptorEdited>
   </UIC>
@@ -11015,7 +11043,7 @@
     <DescriptorShortRU>[en/la]</DescriptorShortRU>
     <DescriptorNameZH>[en/la]</DescriptorNameZH>
     <DescriptorShortZH>[en/la]</DescriptorShortZH>
-    <DescriptorOrder>766</DescriptorOrder>
+    <DescriptorOrder>767</DescriptorOrder>
     <DescriptorAdded>2018-05-09T16:14:48.17+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:04.757+00:00</DescriptorEdited>
   </UIC>
@@ -11043,7 +11071,7 @@
     <DescriptorShortRU>[en/ru]</DescriptorShortRU>
     <DescriptorNameZH>[en/ru]</DescriptorNameZH>
     <DescriptorShortZH>[en/ru]</DescriptorShortZH>
-    <DescriptorOrder>767</DescriptorOrder>
+    <DescriptorOrder>768</DescriptorOrder>
     <DescriptorAdded>2018-06-07T07:43:42.447+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:04.99+00:00</DescriptorEdited>
   </UIC>
@@ -11071,7 +11099,7 @@
     <DescriptorShortRU>[en/ruc]</DescriptorShortRU>
     <DescriptorNameZH>[en/ruc]</DescriptorNameZH>
     <DescriptorShortZH>[en/ruc]</DescriptorShortZH>
-    <DescriptorOrder>768</DescriptorOrder>
+    <DescriptorOrder>769</DescriptorOrder>
     <DescriptorAdded>2022-12-09T00:25:03.613+00:00</DescriptorAdded>
     <DescriptorEdited>2022-12-09T00:25:03.613+00:00</DescriptorEdited>
   </UIC>
@@ -11099,7 +11127,7 @@
     <DescriptorShortRU>[en/sv]</DescriptorShortRU>
     <DescriptorNameZH>[en/sv]</DescriptorNameZH>
     <DescriptorShortZH>[en/sv]</DescriptorShortZH>
-    <DescriptorOrder>770</DescriptorOrder>
+    <DescriptorOrder>771</DescriptorOrder>
     <DescriptorAdded>2021-03-24T04:13:02.817+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:05.337+00:00</DescriptorEdited>
   </UIC>
@@ -11127,7 +11155,7 @@
     <DescriptorShortRU>[es]</DescriptorShortRU>
     <DescriptorNameZH>[es]</DescriptorNameZH>
     <DescriptorShortZH>[es]</DescriptorShortZH>
-    <DescriptorOrder>777</DescriptorOrder>
+    <DescriptorOrder>778</DescriptorOrder>
     <DescriptorAdded>2016-10-17T22:39:32.17+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:05.57+00:00</DescriptorEdited>
   </UIC>
@@ -11155,7 +11183,7 @@
     <DescriptorShortRU>[es/ru]</DescriptorShortRU>
     <DescriptorNameZH>[es/ru]</DescriptorNameZH>
     <DescriptorShortZH>[es/ru]</DescriptorShortZH>
-    <DescriptorOrder>778</DescriptorOrder>
+    <DescriptorOrder>779</DescriptorOrder>
     <DescriptorAdded>2021-03-24T02:26:16.78+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:05.807+00:00</DescriptorEdited>
   </UIC>
@@ -11183,7 +11211,7 @@
     <DescriptorShortRU>[fi]</DescriptorShortRU>
     <DescriptorNameZH>[fi]</DescriptorNameZH>
     <DescriptorShortZH>[fi]</DescriptorShortZH>
-    <DescriptorOrder>780</DescriptorOrder>
+    <DescriptorOrder>781</DescriptorOrder>
     <DescriptorAdded>2017-03-04T04:48:07.247+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:06.04+00:00</DescriptorEdited>
   </UIC>
@@ -11211,7 +11239,7 @@
     <DescriptorShortRU>[fr]</DescriptorShortRU>
     <DescriptorNameZH>[fr]</DescriptorNameZH>
     <DescriptorShortZH>[fr]</DescriptorShortZH>
-    <DescriptorOrder>783</DescriptorOrder>
+    <DescriptorOrder>784</DescriptorOrder>
     <DescriptorAdded>2014-04-17T00:25:03.98+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:06.367+00:00</DescriptorEdited>
   </UIC>
@@ -11239,7 +11267,7 @@
     <DescriptorShortRU>[fr/la]</DescriptorShortRU>
     <DescriptorNameZH>[fr/la]</DescriptorNameZH>
     <DescriptorShortZH>[fr/la]</DescriptorShortZH>
-    <DescriptorOrder>784</DescriptorOrder>
+    <DescriptorOrder>785</DescriptorOrder>
     <DescriptorAdded>2018-05-09T16:13:48.56+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:06.603+00:00</DescriptorEdited>
   </UIC>
@@ -11267,7 +11295,7 @@
     <DescriptorShortRU>[fr/ru]</DescriptorShortRU>
     <DescriptorNameZH>[fr/ru]</DescriptorNameZH>
     <DescriptorShortZH>[fr/ru]</DescriptorShortZH>
-    <DescriptorOrder>786</DescriptorOrder>
+    <DescriptorOrder>787</DescriptorOrder>
     <DescriptorAdded>2016-03-14T02:38:09.27+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:06.837+00:00</DescriptorEdited>
   </UIC>
@@ -11295,7 +11323,7 @@
     <DescriptorShortRU>[hr]</DescriptorShortRU>
     <DescriptorNameZH>[hr]</DescriptorNameZH>
     <DescriptorShortZH>[hr]</DescriptorShortZH>
-    <DescriptorOrder>787</DescriptorOrder>
+    <DescriptorOrder>788</DescriptorOrder>
     <DescriptorAdded>2021-03-24T06:19:00.707+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:07.07+00:00</DescriptorEdited>
   </UIC>
@@ -11323,7 +11351,7 @@
     <DescriptorShortRU>[it]</DescriptorShortRU>
     <DescriptorNameZH>[it]</DescriptorNameZH>
     <DescriptorShortZH>[it]</DescriptorShortZH>
-    <DescriptorOrder>790</DescriptorOrder>
+    <DescriptorOrder>791</DescriptorOrder>
     <DescriptorAdded>2014-04-17T00:25:24.313+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:07.3+00:00</DescriptorEdited>
   </UIC>
@@ -11351,7 +11379,7 @@
     <DescriptorShortRU>[ja/it]</DescriptorShortRU>
     <DescriptorNameZH>[ja/it]</DescriptorNameZH>
     <DescriptorShortZH>[ja/it]</DescriptorShortZH>
-    <DescriptorOrder>791</DescriptorOrder>
+    <DescriptorOrder>792</DescriptorOrder>
     <DescriptorAdded>2019-07-18T20:14:41.047+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:07.547+00:00</DescriptorEdited>
   </UIC>
@@ -11379,7 +11407,7 @@
     <DescriptorShortRU>[nl]</DescriptorShortRU>
     <DescriptorNameZH>[nl]</DescriptorNameZH>
     <DescriptorShortZH>[nl]</DescriptorShortZH>
-    <DescriptorOrder>793</DescriptorOrder>
+    <DescriptorOrder>794</DescriptorOrder>
     <DescriptorAdded>2019-03-08T13:18:38.71+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:07.82+00:00</DescriptorEdited>
   </UIC>
@@ -11407,7 +11435,7 @@
     <DescriptorShortRU>[no]</DescriptorShortRU>
     <DescriptorNameZH>[no]</DescriptorNameZH>
     <DescriptorShortZH>[no]</DescriptorShortZH>
-    <DescriptorOrder>794</DescriptorOrder>
+    <DescriptorOrder>795</DescriptorOrder>
     <DescriptorAdded>2019-03-29T16:07:59.543+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:08.06+00:00</DescriptorEdited>
   </UIC>
@@ -11435,7 +11463,7 @@
     <DescriptorShortRU>[pl]</DescriptorShortRU>
     <DescriptorNameZH>[pl]</DescriptorNameZH>
     <DescriptorShortZH>[pl]</DescriptorShortZH>
-    <DescriptorOrder>797</DescriptorOrder>
+    <DescriptorOrder>798</DescriptorOrder>
     <DescriptorAdded>2018-06-14T09:29:58.473+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:08.293+00:00</DescriptorEdited>
   </UIC>
@@ -11463,7 +11491,7 @@
     <DescriptorShortRU>[ru]</DescriptorShortRU>
     <DescriptorNameZH>[ru]</DescriptorNameZH>
     <DescriptorShortZH>[ru]</DescriptorShortZH>
-    <DescriptorOrder>799</DescriptorOrder>
+    <DescriptorOrder>800</DescriptorOrder>
     <DescriptorAdded>2018-04-20T15:27:47.52+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:08.523+00:00</DescriptorEdited>
   </UIC>
@@ -11491,7 +11519,7 @@
     <DescriptorShortRU>[ruc]</DescriptorShortRU>
     <DescriptorNameZH>[ruc]</DescriptorNameZH>
     <DescriptorShortZH>[ruc]</DescriptorShortZH>
-    <DescriptorOrder>800</DescriptorOrder>
+    <DescriptorOrder>801</DescriptorOrder>
     <DescriptorAdded>2022-12-09T00:26:53.79+00:00</DescriptorAdded>
     <DescriptorEdited>2022-12-09T00:26:53.79+00:00</DescriptorEdited>
   </UIC>
@@ -11519,7 +11547,7 @@
     <DescriptorShortRU>[ruc/rup]</DescriptorShortRU>
     <DescriptorNameZH>[ruc/rup]</DescriptorNameZH>
     <DescriptorShortZH>[ruc/rup]</DescriptorShortZH>
-    <DescriptorOrder>801</DescriptorOrder>
+    <DescriptorOrder>802</DescriptorOrder>
     <DescriptorAdded>2022-12-09T00:28:05.84+00:00</DescriptorAdded>
     <DescriptorEdited>2022-12-09T00:28:05.84+00:00</DescriptorEdited>
   </UIC>
@@ -11547,7 +11575,7 @@
     <DescriptorShortRU>rc/rp/org</DescriptorShortRU>
     <DescriptorNameZH>[ruc/rup/orig.]</DescriptorNameZH>
     <DescriptorShortZH>rc/rp/org</DescriptorShortZH>
-    <DescriptorOrder>802</DescriptorOrder>
+    <DescriptorOrder>803</DescriptorOrder>
     <DescriptorAdded>2025-02-08T02:35:26.357+00:00</DescriptorAdded>
     <DescriptorEdited>2025-02-08T02:35:26.357+00:00</DescriptorEdited>
   </UIC>
@@ -11575,7 +11603,7 @@
     <DescriptorShortRU>[rup]</DescriptorShortRU>
     <DescriptorNameZH>[rup]</DescriptorNameZH>
     <DescriptorShortZH>[rup]</DescriptorShortZH>
-    <DescriptorOrder>803</DescriptorOrder>
+    <DescriptorOrder>804</DescriptorOrder>
     <DescriptorAdded>2022-12-09T00:27:25.753+00:00</DescriptorAdded>
     <DescriptorEdited>2022-12-09T00:27:25.753+00:00</DescriptorEdited>
   </UIC>
@@ -11603,7 +11631,7 @@
     <DescriptorShortRU>[se]</DescriptorShortRU>
     <DescriptorNameZH>[se]</DescriptorNameZH>
     <DescriptorShortZH>[se]</DescriptorShortZH>
-    <DescriptorOrder>807</DescriptorOrder>
+    <DescriptorOrder>808</DescriptorOrder>
     <DescriptorAdded>2017-05-05T15:03:20.823+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:08.757+00:00</DescriptorEdited>
   </UIC>
@@ -11631,7 +11659,7 @@
     <DescriptorShortRU>[sv]</DescriptorShortRU>
     <DescriptorNameZH>[sv]</DescriptorNameZH>
     <DescriptorShortZH>[sv]</DescriptorShortZH>
-    <DescriptorOrder>808</DescriptorOrder>
+    <DescriptorOrder>809</DescriptorOrder>
     <DescriptorAdded>2019-04-24T13:38:51.537+00:00</DescriptorAdded>
     <DescriptorEdited>2021-04-05T00:17:08.99+00:00</DescriptorEdited>
   </UIC>
@@ -11659,7 +11687,7 @@
     <DescriptorShortRU>Chinese</DescriptorShortRU>
     <DescriptorNameZH>Chinese</DescriptorNameZH>
     <DescriptorShortZH>Chinese</DescriptorShortZH>
-    <DescriptorOrder>810</DescriptorOrder>
+    <DescriptorOrder>811</DescriptorOrder>
     <DescriptorAdded>2023-09-28T00:11:00.86+00:00</DescriptorAdded>
     <DescriptorEdited>2023-09-28T00:11:00.86+00:00</DescriptorEdited>
   </UIC>
@@ -11688,7 +11716,7 @@
     <DescriptorShortRU>Индийский</DescriptorShortRU>
     <DescriptorNameZH>印度的</DescriptorNameZH>
     <DescriptorShortZH>印度的</DescriptorShortZH>
-    <DescriptorOrder>811</DescriptorOrder>
+    <DescriptorOrder>812</DescriptorOrder>
     <DescriptorAdded>2017-07-19T22:56:05.657+00:00</DescriptorAdded>
     <DescriptorEdited>2017-07-19T22:56:05.657+00:00</DescriptorEdited>
   </UIC>
@@ -11716,7 +11744,7 @@
     <DescriptorShortRU>турецкий</DescriptorShortRU>
     <DescriptorNameZH>土耳其</DescriptorNameZH>
     <DescriptorShortZH>土耳其</DescriptorShortZH>
-    <DescriptorOrder>812</DescriptorOrder>
+    <DescriptorOrder>813</DescriptorOrder>
     <DescriptorAdded>2025-03-07T01:44:52.847+00:00</DescriptorAdded>
     <DescriptorEdited>2025-03-07T01:44:52.847+00:00</DescriptorEdited>
   </UIC>
@@ -11744,7 +11772,7 @@
     <DescriptorShortRU>Транслитер</DescriptorShortRU>
     <DescriptorNameZH>转调的</DescriptorNameZH>
     <DescriptorShortZH>转调的</DescriptorShortZH>
-    <DescriptorOrder>814</DescriptorOrder>
+    <DescriptorOrder>815</DescriptorOrder>
     <DescriptorAdded>2014-04-17T06:09:45.957+00:00</DescriptorAdded>
     <DescriptorEdited>2014-04-17T06:09:45.957+00:00</DescriptorEdited>
   </UIC>
@@ -11773,7 +11801,7 @@
     <DescriptorShortRU>Masters</DescriptorShortRU>
     <DescriptorNameZH>大师</DescriptorNameZH>
     <DescriptorShortZH>大师</DescriptorShortZH>
-    <DescriptorOrder>815</DescriptorOrder>
+    <DescriptorOrder>816</DescriptorOrder>
     <DescriptorAdded>2015-09-19T07:14:15.18+00:00</DescriptorAdded>
     <DescriptorEdited>2015-09-19T07:15:00.677+00:00</DescriptorEdited>
   </UIC>
@@ -11801,7 +11829,7 @@
     <DescriptorShortRU>Уртекст</DescriptorShortRU>
     <DescriptorNameZH>原版</DescriptorNameZH>
     <DescriptorShortZH>原版</DescriptorShortZH>
-    <DescriptorOrder>816</DescriptorOrder>
+    <DescriptorOrder>817</DescriptorOrder>
     <DescriptorAdded>2018-03-23T09:27:54.76+00:00</DescriptorAdded>
     <DescriptorEdited>2018-03-23T09:27:54.76+00:00</DescriptorEdited>
   </UIC>
@@ -11829,7 +11857,7 @@
     <DescriptorShortRU>Неисправле</DescriptorShortRU>
     <DescriptorNameZH>没有校对</DescriptorNameZH>
     <DescriptorShortZH>没有校对</DescriptorShortZH>
-    <DescriptorOrder>818</DescriptorOrder>
+    <DescriptorOrder>819</DescriptorOrder>
     <DescriptorAdded>2014-05-12T04:11:10.5+00:00</DescriptorAdded>
     <DescriptorEdited>2014-05-12T04:11:10.5+00:00</DescriptorEdited>
   </UIC>
@@ -11857,7 +11885,7 @@
     <DescriptorShortRU>Временное</DescriptorShortRU>
     <DescriptorNameZH>临时的</DescriptorNameZH>
     <DescriptorShortZH>临时的</DescriptorShortZH>
-    <DescriptorOrder>819</DescriptorOrder>
+    <DescriptorOrder>820</DescriptorOrder>
     <DescriptorAdded>2015-10-18T22:02:17.243+00:00</DescriptorAdded>
     <DescriptorEdited>2015-10-18T22:02:17.243+00:00</DescriptorEdited>
   </UIC>
@@ -11885,7 +11913,7 @@
     <DescriptorShortRU>Манускрипт</DescriptorShortRU>
     <DescriptorNameZH>手稿</DescriptorNameZH>
     <DescriptorShortZH>手稿</DescriptorShortZH>
-    <DescriptorOrder>820</DescriptorOrder>
+    <DescriptorOrder>821</DescriptorOrder>
     <DescriptorAdded>2018-01-20T07:52:50.39+00:00</DescriptorAdded>
     <DescriptorEdited>2018-01-20T07:52:50.39+00:00</DescriptorEdited>
   </UIC>
@@ -11913,7 +11941,7 @@
     <DescriptorShortRU>Несвязанно</DescriptorShortRU>
     <DescriptorNameZH>未装订</DescriptorNameZH>
     <DescriptorShortZH>未装订</DescriptorShortZH>
-    <DescriptorOrder>822</DescriptorOrder>
+    <DescriptorOrder>823</DescriptorOrder>
     <DescriptorAdded>2015-10-23T05:11:25.637+00:00</DescriptorAdded>
     <DescriptorEdited>2015-10-23T05:11:25.637+00:00</DescriptorEdited>
   </UIC>
@@ -11942,7 +11970,7 @@
     <DescriptorShortRU>Приложение</DescriptorShortRU>
     <DescriptorNameZH>附录</DescriptorNameZH>
     <DescriptorShortZH>附录</DescriptorShortZH>
-    <DescriptorOrder>827</DescriptorOrder>
+    <DescriptorOrder>828</DescriptorOrder>
     <DescriptorAdded>2015-09-19T06:58:37.423+00:00</DescriptorAdded>
     <DescriptorEdited>2015-09-19T06:58:58.303+00:00</DescriptorEdited>
   </UIC>
@@ -11970,7 +11998,7 @@
     <DescriptorShortRU>Диск</DescriptorShortRU>
     <DescriptorNameZH>软盘</DescriptorNameZH>
     <DescriptorShortZH>软盘</DescriptorShortZH>
-    <DescriptorOrder>828</DescriptorOrder>
+    <DescriptorOrder>829</DescriptorOrder>
     <DescriptorAdded>2016-03-14T02:29:23.87+00:00</DescriptorAdded>
     <DescriptorEdited>2016-03-14T02:29:23.87+00:00</DescriptorEdited>
   </UIC>
@@ -11998,7 +12026,7 @@
     <DescriptorShortRU>Том 1</DescriptorShortRU>
     <DescriptorNameZH>第一卷／套</DescriptorNameZH>
     <DescriptorShortZH>第一卷／套</DescriptorShortZH>
-    <DescriptorOrder>829</DescriptorOrder>
+    <DescriptorOrder>830</DescriptorOrder>
     <DescriptorAdded>2016-12-01T08:48:21.003+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T08:48:21.003+00:00</DescriptorEdited>
   </UIC>
@@ -12026,7 +12054,7 @@
     <DescriptorShortRU>Том1-2</DescriptorShortRU>
     <DescriptorNameZH>一 － 二 卷／套</DescriptorNameZH>
     <DescriptorShortZH>一－二卷／套</DescriptorShortZH>
-    <DescriptorOrder>830</DescriptorOrder>
+    <DescriptorOrder>831</DescriptorOrder>
     <DescriptorAdded>2020-04-22T23:35:57.637+00:00</DescriptorAdded>
     <DescriptorEdited>2020-04-22T23:35:57.637+00:00</DescriptorEdited>
   </UIC>
@@ -12054,7 +12082,7 @@
     <DescriptorShortRU>Том 1-3</DescriptorShortRU>
     <DescriptorNameZH>一 － 三 卷／套</DescriptorNameZH>
     <DescriptorShortZH>一 － 三 卷／套</DescriptorShortZH>
-    <DescriptorOrder>832</DescriptorOrder>
+    <DescriptorOrder>833</DescriptorOrder>
     <DescriptorAdded>2018-04-05T14:50:32.45+00:00</DescriptorAdded>
     <DescriptorEdited>2018-04-05T14:50:32.45+00:00</DescriptorEdited>
   </UIC>
@@ -12083,7 +12111,7 @@
     <DescriptorShortRU>Том 2</DescriptorShortRU>
     <DescriptorNameZH>第二卷／套</DescriptorNameZH>
     <DescriptorShortZH>第二卷／套</DescriptorShortZH>
-    <DescriptorOrder>834</DescriptorOrder>
+    <DescriptorOrder>835</DescriptorOrder>
     <DescriptorAdded>2016-12-01T08:48:37.27+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T08:48:37.27+00:00</DescriptorEdited>
   </UIC>
@@ -12112,7 +12140,7 @@
     <DescriptorShortRU>Том 3</DescriptorShortRU>
     <DescriptorNameZH>第三卷／套</DescriptorNameZH>
     <DescriptorShortZH>第三卷／套</DescriptorShortZH>
-    <DescriptorOrder>835</DescriptorOrder>
+    <DescriptorOrder>836</DescriptorOrder>
     <DescriptorAdded>2016-12-01T08:49:00.347+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T08:49:00.347+00:00</DescriptorEdited>
   </UIC>
@@ -12141,7 +12169,7 @@
     <DescriptorShortRU>Том 4</DescriptorShortRU>
     <DescriptorNameZH>第四卷／套</DescriptorNameZH>
     <DescriptorShortZH>第四卷／套</DescriptorShortZH>
-    <DescriptorOrder>836</DescriptorOrder>
+    <DescriptorOrder>837</DescriptorOrder>
     <DescriptorAdded>2016-12-01T08:49:15.49+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T08:49:15.49+00:00</DescriptorEdited>
   </UIC>
@@ -12169,7 +12197,7 @@
     <DescriptorShortRU>Том 4-5</DescriptorShortRU>
     <DescriptorNameZH>四－五卷／套</DescriptorNameZH>
     <DescriptorShortZH>四－五卷／套</DescriptorShortZH>
-    <DescriptorOrder>837</DescriptorOrder>
+    <DescriptorOrder>838</DescriptorOrder>
     <DescriptorAdded>2018-04-05T14:51:10.373+00:00</DescriptorAdded>
     <DescriptorEdited>2018-04-05T14:51:10.373+00:00</DescriptorEdited>
   </UIC>
@@ -12197,7 +12225,7 @@
     <DescriptorShortRU>Том 5</DescriptorShortRU>
     <DescriptorNameZH>第五卷／套</DescriptorNameZH>
     <DescriptorShortZH>第五卷／套</DescriptorShortZH>
-    <DescriptorOrder>839</DescriptorOrder>
+    <DescriptorOrder>840</DescriptorOrder>
     <DescriptorAdded>2016-12-01T08:49:27.94+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T08:49:27.94+00:00</DescriptorEdited>
   </UIC>
@@ -12225,7 +12253,7 @@
     <DescriptorShortRU>Том 6</DescriptorShortRU>
     <DescriptorNameZH>第 6 卷</DescriptorNameZH>
     <DescriptorShortZH>第6卷</DescriptorShortZH>
-    <DescriptorOrder>840</DescriptorOrder>
+    <DescriptorOrder>841</DescriptorOrder>
     <DescriptorAdded>2024-06-05T03:06:03.407+00:00</DescriptorAdded>
     <DescriptorEdited>2024-06-05T03:06:03.407+00:00</DescriptorEdited>
   </UIC>
@@ -12253,7 +12281,7 @@
     <DescriptorShortRU>Том7</DescriptorShortRU>
     <DescriptorNameZH>第 7 卷</DescriptorNameZH>
     <DescriptorShortZH>第7卷</DescriptorShortZH>
-    <DescriptorOrder>841</DescriptorOrder>
+    <DescriptorOrder>842</DescriptorOrder>
     <DescriptorAdded>2024-06-05T03:08:31.833+00:00</DescriptorAdded>
     <DescriptorEdited>2024-06-05T03:08:31.833+00:00</DescriptorEdited>
   </UIC>
@@ -12282,7 +12310,7 @@
     <DescriptorShortRU>Балет</DescriptorShortRU>
     <DescriptorNameZH>芭蕾</DescriptorNameZH>
     <DescriptorShortZH>芭蕾</DescriptorShortZH>
-    <DescriptorOrder>842</DescriptorOrder>
+    <DescriptorOrder>843</DescriptorOrder>
     <DescriptorAdded>2016-12-01T22:39:43.117+00:00</DescriptorAdded>
     <DescriptorEdited>2016-12-01T22:39:43.117+00:00</DescriptorEdited>
   </UIC>
@@ -12310,7 +12338,7 @@
     <DescriptorShortRU>(Древесина</DescriptorShortRU>
     <DescriptorNameZH>（木头）</DescriptorNameZH>
     <DescriptorShortZH>（木头）</DescriptorShortZH>
-    <DescriptorOrder>843</DescriptorOrder>
+    <DescriptorOrder>844</DescriptorOrder>
     <DescriptorAdded>2025-03-07T02:47:42.16+00:00</DescriptorAdded>
     <DescriptorEdited>2025-03-07T02:47:42.16+00:00</DescriptorEdited>
   </UIC>
@@ -12338,7 +12366,7 @@
     <DescriptorShortRU>(Металл)</DescriptorShortRU>
     <DescriptorNameZH>重金属</DescriptorNameZH>
     <DescriptorShortZH>重金属</DescriptorShortZH>
-    <DescriptorOrder>844</DescriptorOrder>
+    <DescriptorOrder>845</DescriptorOrder>
     <DescriptorAdded>2017-01-12T13:56:57.00+00:00</DescriptorAdded>
     <DescriptorEdited>2017-01-12T13:56:57.00+00:00</DescriptorEdited>
   </UIC>
@@ -12366,7 +12394,7 @@
     <DescriptorShortRU>(Ceramic)</DescriptorShortRU>
     <DescriptorNameZH>(Ceramic)</DescriptorNameZH>
     <DescriptorShortZH>(Ceramic)</DescriptorShortZH>
-    <DescriptorOrder>845</DescriptorOrder>
+    <DescriptorOrder>846</DescriptorOrder>
     <DescriptorAdded>2021-03-24T02:11:45.58+00:00</DescriptorAdded>
     <DescriptorEdited>2021-03-24T02:11:45.58+00:00</DescriptorEdited>
   </UIC>
@@ -12394,7 +12422,7 @@
     <DescriptorShortRU>(Стекло)</DescriptorShortRU>
     <DescriptorNameZH>（玻璃）</DescriptorNameZH>
     <DescriptorShortZH>（玻璃）</DescriptorShortZH>
-    <DescriptorOrder>846</DescriptorOrder>
+    <DescriptorOrder>847</DescriptorOrder>
     <DescriptorAdded>2025-03-07T02:46:56.13+00:00</DescriptorAdded>
     <DescriptorEdited>2025-03-07T02:46:56.13+00:00</DescriptorEdited>
   </UIC>
@@ -12422,7 +12450,7 @@
     <DescriptorShortRU>(Plastic)</DescriptorShortRU>
     <DescriptorNameZH>(Plastic)</DescriptorNameZH>
     <DescriptorShortZH>(Plastic)</DescriptorShortZH>
-    <DescriptorOrder>847</DescriptorOrder>
+    <DescriptorOrder>848</DescriptorOrder>
     <DescriptorAdded>2018-05-23T06:49:36.537+00:00</DescriptorAdded>
     <DescriptorEdited>2018-05-23T06:49:36.537+00:00</DescriptorEdited>
   </UIC>
