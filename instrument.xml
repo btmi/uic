@@ -13362,6 +13362,51 @@
     <InstEdited>0001-01-01T00:00:00.00+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1138</InstID>
+    <InstUIC>2228251</InstUIC>
+    <InstFamily>3.Wind</InstFamily>
+    <InstGenus>Clarinets</InstGenus>
+    <InstIcon>Clarinet</InstIcon>
+    <InstAlternate>Octacontra-alto Clarinet</InstAlternate>
+    <InstName>Subcontra-alto Clarinet</InstName>
+    <InstNameShort>SbCntACl</InstNameShort>
+    <InstNamePlural>Subcontra-alto Clarinets</InstNamePlural>
+    <InstNameDE>Subkontraaltklarinette</InstNameDE>
+    <InstNameShortDE>SbkntAkl</InstNameShortDE>
+    <InstNamePluralDE>Subkontraaltklarinetten</InstNamePluralDE>
+    <InstNameFR>Clarinette subcontra-alto</InstNameFR>
+    <InstNameShortFR>ClSbCntA</InstNameShortFR>
+    <InstNamePluralFR>Clarinettes subcontra-alto</InstNamePluralFR>
+    <InstNameIT>Clarinetto subcontralto</InstNameIT>
+    <InstNameShortIT>ClSbCntA</InstNameShortIT>
+    <InstNamePluralIT>Clarinetti subcontralto</InstNamePluralIT>
+    <InstNameES>Clarinete subcontra-alto</InstNameES>
+    <InstNameShortES>ClSbCntA</InstNameShortES>
+    <InstNamePluralES>Clarinetes subcontra-alto</InstNamePluralES>
+    <InstNameJA>サブコントラアルトクラリネット</InstNameJA>
+    <InstNameShortJA>サブコントラアルトク</InstNameShortJA>
+    <InstNamePluralJA>サブコントラアルトクラリネット</InstNamePluralJA>
+    <InstNameKO>서브콘트라알토 클라리넷</InstNameKO>
+    <InstNameShortKO>서브콘트라알토클라리</InstNameShortKO>
+    <InstNamePluralKO>서브콘트라알토 클라리넷</InstNamePluralKO>
+    <InstNamePL>Klarnet subkontraaltowy</InstNamePL>
+    <InstNameShortPL>KlsbkA</InstNameShortPL>
+    <InstNamePluralPL>Klarnety subkontraaltowe</InstNamePluralPL>
+    <InstNamePT>Clarinete subcontra-alto</InstNamePT>
+    <InstNameShortPT>ClSbCntA</InstNameShortPT>
+    <InstNamePluralPT>Clarinetes subcontra-alto</InstNamePluralPT>
+    <InstNameRU>Субконтральто-кларнет</InstNameRU>
+    <InstNameShortRU>Субконтрал</InstNameShortRU>
+    <InstNamePluralRU>Субконтральто-кларнеты</InstNamePluralRU>
+    <InstNameZH>低音单簧管</InstNameZH>
+    <InstNameShortZH>低音单簧管</InstNameShortZH>
+    <InstNamePluralZH>低音单簧管</InstNamePluralZH>
+    <InstNameAlt>Octacontra-alto Clarinet</InstNameAlt>
+    <InstOrder>805634103</InstOrder>
+    <InstAdded>2025-08-20T09:29:04.723+00:00</InstAdded>
+    <InstEdited>2025-08-20T09:38:13.917+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>242</InstID>
     <InstUIC>1703963</InstUIC>
     <InstFamily>3.Wind</InstFamily>
@@ -13399,7 +13444,7 @@
     <InstNameZH>次倍低音单簧管</InstNameZH>
     <InstNameShortZH>SubCbCl</InstNameShortZH>
     <InstNamePluralZH>次倍低音单簧管</InstNamePluralZH>
-    <InstOrder>805634103</InstOrder>
+    <InstOrder>805634104</InstOrder>
     <InstAdded>0001-01-01T00:00:00.00+00:00</InstAdded>
     <InstEdited>0001-01-01T00:00:00.00+00:00</InstEdited>
   </UIC>
@@ -13441,7 +13486,7 @@
     <InstNameZH>Chalumeau</InstNameZH>
     <InstNameShortZH>Chlm</InstNameShortZH>
     <InstNamePluralZH>Chalumeaux</InstNamePluralZH>
-    <InstOrder>805634104</InstOrder>
+    <InstOrder>805634105</InstOrder>
     <InstAdded>2017-11-29T08:24:33.07+00:00</InstAdded>
     <InstEdited>2017-11-29T08:24:33.07+00:00</InstEdited>
   </UIC>

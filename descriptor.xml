@@ -6330,6 +6330,34 @@
     <DescriptorOrder>460</DescriptorOrder>
   </UIC>
   <UIC>
+    <DescriptorID>451</DescriptorID>
+    <DescriptorName>II-V</DescriptorName>
+    <DescriptorShort>II-V</DescriptorShort>
+    <DescriptorNameDE>II-V</DescriptorNameDE>
+    <DescriptorShortDE>II-V</DescriptorShortDE>
+    <DescriptorNameFR>II-V</DescriptorNameFR>
+    <DescriptorShortFR>II-V</DescriptorShortFR>
+    <DescriptorNameIT>II-V</DescriptorNameIT>
+    <DescriptorShortIT>II-V</DescriptorShortIT>
+    <DescriptorNameES>II-V</DescriptorNameES>
+    <DescriptorShortES>II-V</DescriptorShortES>
+    <DescriptorNameJA>II-V</DescriptorNameJA>
+    <DescriptorShortJA>II-V</DescriptorShortJA>
+    <DescriptorNameKO>II-V</DescriptorNameKO>
+    <DescriptorShortKO>II-V</DescriptorShortKO>
+    <DescriptorNamePL>II-V</DescriptorNamePL>
+    <DescriptorShortPL>II-V</DescriptorShortPL>
+    <DescriptorNamePT>II-V</DescriptorNamePT>
+    <DescriptorShortPT>II-V</DescriptorShortPT>
+    <DescriptorNameRU>II-V</DescriptorNameRU>
+    <DescriptorShortRU>II-V</DescriptorShortRU>
+    <DescriptorNameZH>II-V</DescriptorNameZH>
+    <DescriptorShortZH>II-V</DescriptorShortZH>
+    <DescriptorOrder>461</DescriptorOrder>
+    <DescriptorAdded>2025-08-20T09:36:33.4+00:00</DescriptorAdded>
+    <DescriptorEdited>2025-08-20T09:36:33.4+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
     <DescriptorID>88</DescriptorID>
     <DescriptorName>III-IV</DescriptorName>
     <DescriptorShort>III-IV</DescriptorShort>
@@ -11102,6 +11130,34 @@
     <DescriptorOrder>769</DescriptorOrder>
     <DescriptorAdded>2022-12-09T00:25:03.613+00:00</DescriptorAdded>
     <DescriptorEdited>2022-12-09T00:25:03.613+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
+    <DescriptorID>452</DescriptorID>
+    <DescriptorName>[en/ruc/rup]</DescriptorName>
+    <DescriptorShort>en/ruc/rup</DescriptorShort>
+    <DescriptorNameDE>[en/ruc/rup]</DescriptorNameDE>
+    <DescriptorShortDE>en/ruc/rup</DescriptorShortDE>
+    <DescriptorNameFR>[en/ruc/rup]</DescriptorNameFR>
+    <DescriptorShortFR>en/ruc/rup</DescriptorShortFR>
+    <DescriptorNameIT>[en/ruc/rup]</DescriptorNameIT>
+    <DescriptorShortIT>en/ruc/rup</DescriptorShortIT>
+    <DescriptorNameES>[en/ruc/rup]</DescriptorNameES>
+    <DescriptorShortES>en/ruc/rup</DescriptorShortES>
+    <DescriptorNameJA>[en/ruc/rup]</DescriptorNameJA>
+    <DescriptorShortJA>en/ruc/rup</DescriptorShortJA>
+    <DescriptorNameKO>[en/ruc/rup]</DescriptorNameKO>
+    <DescriptorShortKO>en/ruc/rup</DescriptorShortKO>
+    <DescriptorNamePL>[en/ruc/rup]</DescriptorNamePL>
+    <DescriptorShortPL>en/ruc/rup</DescriptorShortPL>
+    <DescriptorNamePT>[en/ruc/rup]</DescriptorNamePT>
+    <DescriptorShortPT>en/ruc/rup</DescriptorShortPT>
+    <DescriptorNameRU>[en/ruc/rup]</DescriptorNameRU>
+    <DescriptorShortRU>en/ruc/rup</DescriptorShortRU>
+    <DescriptorNameZH>[en/ruc/rup]</DescriptorNameZH>
+    <DescriptorShortZH>en/ruc/rup</DescriptorShortZH>
+    <DescriptorOrder>770</DescriptorOrder>
+    <DescriptorAdded>2025-08-20T23:44:17.29+00:00</DescriptorAdded>
+    <DescriptorEdited>2025-08-20T23:44:17.29+00:00</DescriptorEdited>
   </UIC>
   <UIC>
     <DescriptorID>404</DescriptorID>
