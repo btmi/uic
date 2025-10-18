@@ -462,6 +462,7 @@ public class UIC
             {
                 int nGenus = (int)((nInst >> 3) & MASK_GENUS);
                 int nRepeat = (int)((nInst >> 17) & MASK_GENUS);
+                if (nNumber > 0) nRepeat = nNumber; //ALTERNATE REPEAT USING NUMBER
                 char mark;
                 if (nGenus == 1000) mark = 'º';
                 else if (nGenus == 1001) mark = '¹';
