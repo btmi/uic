@@ -41864,7 +41864,7 @@
     {
       "InstID": 1156,
       "InstUIC": 7471133,
-      "InstIcon": "Percussion",
+      "InstIcon": "Piano",
       "InstFamily": "5.Other",
       "InstGenus": "Keyboard",
       "InstGenusID": 0,
@@ -41905,12 +41905,12 @@
       "InstAlternate": null,
       "InstOrder": 1342455858,
       "InstAdded": "2025-09-30T00:32:16.763+00:00",
-      "InstEdited": "2025-11-04T00:37:04.3+00:00"
+      "InstEdited": "2025-11-04T00:13:41.96+00:00"
     },
     {
       "InstID": 1162,
       "InstUIC": 7208989,
-      "InstIcon": "Percussion",
+      "InstIcon": "Piano",
       "InstFamily": "5.Other",
       "InstGenus": "Keyboard",
       "InstGenusID": 0,
@@ -41951,7 +41951,7 @@
       "InstAlternate": null,
       "InstOrder": 1342455859,
       "InstAdded": "2025-09-30T00:55:01.657+00:00",
-      "InstEdited": "2025-09-30T00:55:01.657+00:00"
+      "InstEdited": "2025-11-04T00:14:08.037+00:00"
     },
     {
       "InstID": 1021,

@@ -38679,7 +38679,7 @@ High Sheng</InstNameAlt>
     <InstUIC>7471133</InstUIC>
     <InstFamily>5.Other</InstFamily>
     <InstGenus>Keyboard</InstGenus>
-    <InstIcon>Percussion</InstIcon>
+    <InstIcon>Piano</InstIcon>
     <InstName>Amplified Harpsichord</InstName>
     <InstNameShort>AmpHpsd</InstNameShort>
     <InstNamePlural>Amplified Harpsichords</InstNamePlural>
@@ -38715,14 +38715,14 @@ High Sheng</InstNameAlt>
     <InstNamePluralZH>扩音大键琴</InstNamePluralZH>
     <InstOrder>1342455858</InstOrder>
     <InstAdded>2025-09-30T00:32:16.763+00:00</InstAdded>
-    <InstEdited>2025-11-04T00:37:04.3+00:00</InstEdited>
+    <InstEdited>2025-11-04T00:13:41.96+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>1162</InstID>
     <InstUIC>7208989</InstUIC>
     <InstFamily>5.Other</InstFamily>
     <InstGenus>Keyboard</InstGenus>
-    <InstIcon>Percussion</InstIcon>
+    <InstIcon>Piano</InstIcon>
     <InstName>Electric Harpsichord</InstName>
     <InstNameShort>ElecHpsd</InstNameShort>
     <InstNamePlural>Electric Harpsichords</InstNamePlural>
@@ -38758,7 +38758,7 @@ High Sheng</InstNameAlt>
     <InstNamePluralZH>电动大键琴</InstNamePluralZH>
     <InstOrder>1342455859</InstOrder>
     <InstAdded>2025-09-30T00:55:01.657+00:00</InstAdded>
-    <InstEdited>2025-09-30T00:55:01.657+00:00</InstEdited>
+    <InstEdited>2025-11-04T00:14:08.037+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>1021</InstID>
