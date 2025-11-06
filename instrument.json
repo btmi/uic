@@ -7224,6 +7224,52 @@
       "InstEdited": "2013-04-11T11:19:44.23+00:00"
     },
     {
+      "InstID": 1171,
+      "InstUIC": 4587561,
+      "InstIcon": "FullScore",
+      "InstFamily": "1.General",
+      "InstGenus": "Miscellaneous",
+      "InstGenusID": 0,
+      "InstGenusItemID": 0,
+      "InstName": "Collected Works",
+      "InstNameShort": "ClctdWrk",
+      "InstNamePlural": "Collected Works",
+      "InstNameDE": "Gesamtausgabe",
+      "InstNameShortDE": "Gsmtsgb",
+      "InstNamePluralDE": "Gesamtausgabe",
+      "InstNameFR": "Œuvres complètes",
+      "InstNameShortFR": "Œvrscmplèt",
+      "InstNamePluralFR": "Œuvres complètes",
+      "InstNameIT": "Opere complete",
+      "InstNameShortIT": "Oprcmplt",
+      "InstNamePluralIT": "Opere complete",
+      "InstNameES": "Obras completas",
+      "InstNameShortES": "Obrscmplts",
+      "InstNamePluralES": "Obras completas",
+      "InstNameJA": "全集",
+      "InstNameShortJA": "全集",
+      "InstNamePluralJA": "全集",
+      "InstNameKO": "전집",
+      "InstNameShortKO": "전집",
+      "InstNamePluralKO": "전집",
+      "InstNamePL": "Dzieła zebrane",
+      "InstNameShortPL": "Dzłzbrn",
+      "InstNamePluralPL": "Dzieła zebrane",
+      "InstNamePT": "Obras Completas",
+      "InstNameShortPT": "ObrsCmplts",
+      "InstNamePluralPT": "Obras Completas",
+      "InstNameRU": "Собрание сочинений",
+      "InstNameShortRU": "Собраниесо",
+      "InstNamePluralRU": "Собрание сочинений",
+      "InstNameZH": "文集",
+      "InstNameShortZH": "文集",
+      "InstNamePluralZH": "文集",
+      "InstAlternate": null,
+      "InstOrder": 268648464,
+      "InstAdded": "2025-11-05T22:42:19.85+00:00",
+      "InstEdited": "2025-11-05T22:42:19.85+00:00"
+    },
+    {
       "InstID": 268,
       "InstUIC": 393257,
       "InstIcon": "Libretto",
@@ -7265,7 +7311,7 @@
       "InstNameShortZH": "指示",
       "InstNamePluralZH": "指示",
       "InstAlternate": null,
-      "InstOrder": 268648464,
+      "InstOrder": 268648465,
       "InstAdded": "2013-04-11T11:21:23.57+00:00",
       "InstEdited": "2013-04-11T11:21:23.57+00:00"
     },
@@ -7311,7 +7357,7 @@
       "InstNameShortZH": "SftwrInstr",
       "InstNamePluralZH": "Instructions",
       "InstAlternate": null,
-      "InstOrder": 268648465,
+      "InstOrder": 268648466,
       "InstAdded": "2023-10-02T07:45:16.487+00:00",
       "InstEdited": "2023-10-02T07:45:16.487+00:00"
     },
@@ -7357,7 +7403,7 @@
       "InstNameShortZH": "PrgmNt",
       "InstNamePluralZH": "Program Notes",
       "InstAlternate": null,
-      "InstOrder": 268648467,
+      "InstOrder": 268648468,
       "InstAdded": "2019-01-28T12:13:55.413+00:00",
       "InstEdited": "2019-01-28T12:13:55.413+00:00"
     },
@@ -7403,7 +7449,7 @@
       "InstNameShortZH": "EdtrlNts",
       "InstNamePluralZH": "Editorial Notes",
       "InstAlternate": null,
-      "InstOrder": 268648468,
+      "InstOrder": 268648469,
       "InstAdded": "2021-03-24T01:28:33.383+00:00",
       "InstEdited": "2021-03-24T01:28:33.383+00:00"
     },
@@ -7449,7 +7495,7 @@
       "InstNameShortZH": "PrfrmncNt",
       "InstNamePluralZH": "Performance Notes",
       "InstAlternate": null,
-      "InstOrder": 268648471,
+      "InstOrder": 268648472,
       "InstAdded": "2018-12-06T10:25:51.153+00:00",
       "InstEdited": "2018-12-06T10:25:51.153+00:00"
     },
@@ -7495,7 +7541,7 @@
       "InstNameShortZH": "产品介绍",
       "InstNamePluralZH": "产品介绍",
       "InstAlternate": null,
-      "InstOrder": 268648473,
+      "InstOrder": 268648474,
       "InstAdded": "2013-04-23T11:20:11.82+00:00",
       "InstEdited": "2013-04-23T11:20:11.82+00:00"
     },
@@ -7541,7 +7587,7 @@
       "InstNameShortZH": "产品手册",
       "InstNamePluralZH": "产品手册",
       "InstAlternate": null,
-      "InstOrder": 268648474,
+      "InstOrder": 268648475,
       "InstAdded": "2014-05-11T04:51:11.103+00:00",
       "InstEdited": "2014-05-11T04:51:11.103+00:00"
     },
@@ -7587,7 +7633,7 @@
       "InstNameShortZH": "钢琴和产品介绍",
       "InstNamePluralZH": "钢琴和产品介绍",
       "InstAlternate": null,
-      "InstOrder": 268648476,
+      "InstOrder": 268648477,
       "InstAdded": "2013-04-24T01:38:17.303+00:00",
       "InstEdited": "2013-04-24T01:38:56.56+00:00"
     },
@@ -7633,7 +7679,7 @@
       "InstNameShortZH": "提示文件",
       "InstNamePluralZH": "提示文件",
       "InstAlternate": null,
-      "InstOrder": 268648478,
+      "InstOrder": 268648479,
       "InstAdded": "2014-04-16T23:54:48.94+00:00",
       "InstEdited": "2014-04-16T23:54:48.94+00:00"
     },
@@ -7679,7 +7725,7 @@
       "InstNameShortZH": "AudCuBk",
       "InstNamePluralZH": "Audio Cue Books",
       "InstAlternate": null,
-      "InstOrder": 268648479,
+      "InstOrder": 268648480,
       "InstAdded": "2019-05-16T17:04:59.82+00:00",
       "InstEdited": "2019-05-16T17:04:59.82+00:00"
     },
@@ -7725,7 +7771,7 @@
       "InstNameShortZH": "手册",
       "InstNamePluralZH": "手册",
       "InstAlternate": null,
-      "InstOrder": 268648481,
+      "InstOrder": 268648482,
       "InstAdded": "2014-04-17T06:21:26.833+00:00",
       "InstEdited": "2014-04-17T06:21:26.833+00:00"
     },
@@ -7771,7 +7817,7 @@
       "InstNameShortZH": "散页",
       "InstNamePluralZH": "散页",
       "InstAlternate": null,
-      "InstOrder": 268648482,
+      "InstOrder": 268648483,
       "InstAdded": "2016-03-14T03:15:46.737+00:00",
       "InstEdited": "2016-03-14T03:15:46.737+00:00"
     },
@@ -7817,7 +7863,7 @@
       "InstNameShortZH": "Wallet",
       "InstNamePluralZH": "Wallets",
       "InstAlternate": null,
-      "InstOrder": 268648483,
+      "InstOrder": 268648484,
       "InstAdded": "2020-01-14T23:49:44.83+00:00",
       "InstEdited": "2020-01-14T23:49:44.83+00:00"
     },
@@ -7863,7 +7909,7 @@
       "InstNameShortZH": "圣歌页",
       "InstNamePluralZH": "圣歌页",
       "InstAlternate": null,
-      "InstOrder": 268648487,
+      "InstOrder": 268648488,
       "InstAdded": "2013-04-24T01:10:40.437+00:00",
       "InstEdited": "2013-04-24T01:10:40.437+00:00"
     },
@@ -7909,7 +7955,7 @@
       "InstNameShortZH": "听－总谱",
       "InstNamePluralZH": "听－总谱",
       "InstAlternate": null,
-      "InstOrder": 268648488,
+      "InstOrder": 268648489,
       "InstAdded": "2013-04-24T01:36:03.567+00:00",
       "InstEdited": "2013-04-24T01:36:03.567+00:00"
     },
@@ -7955,7 +8001,7 @@
       "InstNameShortZH": "乐理",
       "InstNamePluralZH": "乐理",
       "InstAlternate": null,
-      "InstOrder": 268648489,
+      "InstOrder": 268648490,
       "InstAdded": "2017-11-25T15:31:32.417+00:00",
       "InstEdited": "2017-11-25T15:31:32.417+00:00"
     },
@@ -8001,7 +8047,7 @@
       "InstNameShortZH": "ArlTrnng",
       "InstNamePluralZH": "Aural Training",
       "InstAlternate": null,
-      "InstOrder": 268648490,
+      "InstOrder": 268648491,
       "InstAdded": "2019-04-30T16:39:01.643+00:00",
       "InstEdited": "2019-04-30T16:39:01.643+00:00"
     },
@@ -8047,7 +8093,7 @@
       "InstNameShortZH": "RthmEx",
       "InstNamePluralZH": "Rhythmic Exercises",
       "InstAlternate": null,
-      "InstOrder": 268648491,
+      "InstOrder": 268648492,
       "InstAdded": "2019-05-14T16:37:54.323+00:00",
       "InstEdited": "2019-05-14T16:37:54.323+00:00"
     },
@@ -8093,7 +8139,7 @@
       "InstNameShortZH": "上／高",
       "InstNamePluralZH": "上／高",
       "InstAlternate": null,
-      "InstOrder": 268648495,
+      "InstOrder": 268648496,
       "InstAdded": "2018-01-25T08:20:49.217+00:00",
       "InstEdited": "2018-01-25T08:21:03.513+00:00"
     },
@@ -8139,7 +8185,7 @@
       "InstNameShortZH": "中",
       "InstNamePluralZH": "中",
       "InstAlternate": null,
-      "InstOrder": 268648496,
+      "InstOrder": 268648497,
       "InstAdded": "2014-05-11T04:34:11.613+00:00",
       "InstEdited": "2014-05-11T04:34:11.613+00:00"
     },
@@ -8185,7 +8231,7 @@
       "InstNameShortZH": "低／下",
       "InstNamePluralZH": "低／下",
       "InstAlternate": null,
-      "InstOrder": 268648497,
+      "InstOrder": 268648498,
       "InstAdded": "2018-01-25T08:21:29.563+00:00",
       "InstEdited": "2018-01-25T08:21:29.563+00:00"
     },
@@ -8231,7 +8277,7 @@
       "InstNameShortZH": "贴纸",
       "InstNamePluralZH": "贴纸",
       "InstAlternate": null,
-      "InstOrder": 268648501,
+      "InstOrder": 268648502,
       "InstAdded": "2016-03-14T03:54:45.633+00:00",
       "InstEdited": "2016-03-14T03:54:45.633+00:00"
     },
@@ -8277,7 +8323,7 @@
       "InstNameShortZH": "Crctdgrm",
       "InstNamePluralZH": "Circuit diagrams",
       "InstAlternate": null,
-      "InstOrder": 268648502,
+      "InstOrder": 268648503,
       "InstAdded": "2021-03-24T05:22:53.733+00:00",
       "InstEdited": "2021-03-24T05:22:53.733+00:00"
     },
@@ -8323,7 +8369,7 @@
       "InstNameShortZH": "时间线",
       "InstNamePluralZH": "时间线",
       "InstAlternate": null,
-      "InstOrder": 268648503,
+      "InstOrder": 268648504,
       "InstAdded": "2023-10-02T07:51:13.103+00:00",
       "InstEdited": "2024-03-17T05:03:13.617+00:00"
     },
@@ -8369,7 +8415,7 @@
       "InstNameShortZH": "Biography",
       "InstNamePluralZH": "Biographies",
       "InstAlternate": null,
-      "InstOrder": 268648506,
+      "InstOrder": 268648507,
       "InstAdded": "2019-04-25T10:36:38.487+00:00",
       "InstEdited": "2019-04-25T10:36:38.487+00:00"
     },

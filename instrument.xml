@@ -6676,6 +6676,49 @@
     <InstEdited>2013-04-11T11:19:44.23+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1171</InstID>
+    <InstUIC>4587561</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Miscellaneous</InstGenus>
+    <InstIcon>FullScore</InstIcon>
+    <InstName>Collected Works</InstName>
+    <InstNameShort>ClctdWrk</InstNameShort>
+    <InstNamePlural>Collected Works</InstNamePlural>
+    <InstNameDE>Gesamtausgabe</InstNameDE>
+    <InstNameShortDE>Gsmtsgb</InstNameShortDE>
+    <InstNamePluralDE>Gesamtausgabe</InstNamePluralDE>
+    <InstNameFR>Œuvres complètes</InstNameFR>
+    <InstNameShortFR>Œvrscmplèt</InstNameShortFR>
+    <InstNamePluralFR>Œuvres complètes</InstNamePluralFR>
+    <InstNameIT>Opere complete</InstNameIT>
+    <InstNameShortIT>Oprcmplt</InstNameShortIT>
+    <InstNamePluralIT>Opere complete</InstNamePluralIT>
+    <InstNameES>Obras completas</InstNameES>
+    <InstNameShortES>Obrscmplts</InstNameShortES>
+    <InstNamePluralES>Obras completas</InstNamePluralES>
+    <InstNameJA>全集</InstNameJA>
+    <InstNameShortJA>全集</InstNameShortJA>
+    <InstNamePluralJA>全集</InstNamePluralJA>
+    <InstNameKO>전집</InstNameKO>
+    <InstNameShortKO>전집</InstNameShortKO>
+    <InstNamePluralKO>전집</InstNamePluralKO>
+    <InstNamePL>Dzieła zebrane</InstNamePL>
+    <InstNameShortPL>Dzłzbrn</InstNameShortPL>
+    <InstNamePluralPL>Dzieła zebrane</InstNamePluralPL>
+    <InstNamePT>Obras Completas</InstNamePT>
+    <InstNameShortPT>ObrsCmplts</InstNameShortPT>
+    <InstNamePluralPT>Obras Completas</InstNamePluralPT>
+    <InstNameRU>Собрание сочинений</InstNameRU>
+    <InstNameShortRU>Собраниесо</InstNameShortRU>
+    <InstNamePluralRU>Собрание сочинений</InstNamePluralRU>
+    <InstNameZH>文集</InstNameZH>
+    <InstNameShortZH>文集</InstNameShortZH>
+    <InstNamePluralZH>文集</InstNamePluralZH>
+    <InstOrder>268648464</InstOrder>
+    <InstAdded>2025-11-05T22:42:19.85+00:00</InstAdded>
+    <InstEdited>2025-11-05T22:42:19.85+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>268</InstID>
     <InstUIC>393257</InstUIC>
     <InstFamily>1.General</InstFamily>
@@ -6714,7 +6757,7 @@
     <InstNameZH>指示</InstNameZH>
     <InstNameShortZH>指示</InstNameShortZH>
     <InstNamePluralZH>指示</InstNamePluralZH>
-    <InstOrder>268648464</InstOrder>
+    <InstOrder>268648465</InstOrder>
     <InstAdded>2013-04-11T11:21:23.57+00:00</InstAdded>
     <InstEdited>2013-04-11T11:21:23.57+00:00</InstEdited>
   </UIC>
@@ -6757,7 +6800,7 @@
     <InstNameZH>Software Instruction</InstNameZH>
     <InstNameShortZH>SftwrInstr</InstNameShortZH>
     <InstNamePluralZH>Instructions</InstNamePluralZH>
-    <InstOrder>268648465</InstOrder>
+    <InstOrder>268648466</InstOrder>
     <InstAdded>2023-10-02T07:45:16.487+00:00</InstAdded>
     <InstEdited>2023-10-02T07:45:16.487+00:00</InstEdited>
   </UIC>
@@ -6799,7 +6842,7 @@
     <InstNameZH>Program Note</InstNameZH>
     <InstNameShortZH>PrgmNt</InstNameShortZH>
     <InstNamePluralZH>Program Notes</InstNamePluralZH>
-    <InstOrder>268648467</InstOrder>
+    <InstOrder>268648468</InstOrder>
     <InstAdded>2019-01-28T12:13:55.413+00:00</InstAdded>
     <InstEdited>2019-01-28T12:13:55.413+00:00</InstEdited>
   </UIC>
@@ -6841,7 +6884,7 @@
     <InstNameZH>Editorial Notes</InstNameZH>
     <InstNameShortZH>EdtrlNts</InstNameShortZH>
     <InstNamePluralZH>Editorial Notes</InstNamePluralZH>
-    <InstOrder>268648468</InstOrder>
+    <InstOrder>268648469</InstOrder>
     <InstAdded>2021-03-24T01:28:33.383+00:00</InstAdded>
     <InstEdited>2021-03-24T01:28:33.383+00:00</InstEdited>
   </UIC>
@@ -6883,7 +6926,7 @@
     <InstNameZH>Performance Note</InstNameZH>
     <InstNameShortZH>PrfrmncNt</InstNameShortZH>
     <InstNamePluralZH>Performance Notes</InstNamePluralZH>
-    <InstOrder>268648471</InstOrder>
+    <InstOrder>268648472</InstOrder>
     <InstAdded>2018-12-06T10:25:51.153+00:00</InstAdded>
     <InstEdited>2018-12-06T10:25:51.153+00:00</InstEdited>
   </UIC>
@@ -6926,7 +6969,7 @@
     <InstNameZH>产品介绍</InstNameZH>
     <InstNameShortZH>产品介绍</InstNameShortZH>
     <InstNamePluralZH>产品介绍</InstNamePluralZH>
-    <InstOrder>268648473</InstOrder>
+    <InstOrder>268648474</InstOrder>
     <InstAdded>2013-04-23T11:20:11.82+00:00</InstAdded>
     <InstEdited>2013-04-23T11:20:11.82+00:00</InstEdited>
   </UIC>
@@ -6969,7 +7012,7 @@
     <InstNameZH>产品手册</InstNameZH>
     <InstNameShortZH>产品手册</InstNameShortZH>
     <InstNamePluralZH>产品手册</InstNamePluralZH>
-    <InstOrder>268648474</InstOrder>
+    <InstOrder>268648475</InstOrder>
     <InstAdded>2014-05-11T04:51:11.103+00:00</InstAdded>
     <InstEdited>2014-05-11T04:51:11.103+00:00</InstEdited>
   </UIC>
@@ -7012,7 +7055,7 @@
     <InstNameZH>钢琴和产品介绍</InstNameZH>
     <InstNameShortZH>钢琴和产品介绍</InstNameShortZH>
     <InstNamePluralZH>钢琴和产品介绍</InstNamePluralZH>
-    <InstOrder>268648476</InstOrder>
+    <InstOrder>268648477</InstOrder>
     <InstAdded>2013-04-24T01:38:17.303+00:00</InstAdded>
     <InstEdited>2013-04-24T01:38:56.56+00:00</InstEdited>
   </UIC>
@@ -7055,7 +7098,7 @@
     <InstNameZH>提示文件</InstNameZH>
     <InstNameShortZH>提示文件</InstNameShortZH>
     <InstNamePluralZH>提示文件</InstNamePluralZH>
-    <InstOrder>268648478</InstOrder>
+    <InstOrder>268648479</InstOrder>
     <InstAdded>2014-04-16T23:54:48.94+00:00</InstAdded>
     <InstEdited>2014-04-16T23:54:48.94+00:00</InstEdited>
   </UIC>
@@ -7097,7 +7140,7 @@
     <InstNameZH>Audio Cue Book</InstNameZH>
     <InstNameShortZH>AudCuBk</InstNameShortZH>
     <InstNamePluralZH>Audio Cue Books</InstNamePluralZH>
-    <InstOrder>268648479</InstOrder>
+    <InstOrder>268648480</InstOrder>
     <InstAdded>2019-05-16T17:04:59.82+00:00</InstAdded>
     <InstEdited>2019-05-16T17:04:59.82+00:00</InstEdited>
   </UIC>
@@ -7139,7 +7182,7 @@
     <InstNameZH>手册</InstNameZH>
     <InstNameShortZH>手册</InstNameShortZH>
     <InstNamePluralZH>手册</InstNamePluralZH>
-    <InstOrder>268648481</InstOrder>
+    <InstOrder>268648482</InstOrder>
     <InstAdded>2014-04-17T06:21:26.833+00:00</InstAdded>
     <InstEdited>2014-04-17T06:21:26.833+00:00</InstEdited>
   </UIC>
@@ -7181,7 +7224,7 @@
     <InstNameZH>散页</InstNameZH>
     <InstNameShortZH>散页</InstNameShortZH>
     <InstNamePluralZH>散页</InstNamePluralZH>
-    <InstOrder>268648482</InstOrder>
+    <InstOrder>268648483</InstOrder>
     <InstAdded>2016-03-14T03:15:46.737+00:00</InstAdded>
     <InstEdited>2016-03-14T03:15:46.737+00:00</InstEdited>
   </UIC>
@@ -7223,7 +7266,7 @@
     <InstNameZH>Wallet</InstNameZH>
     <InstNameShortZH>Wallet</InstNameShortZH>
     <InstNamePluralZH>Wallets</InstNamePluralZH>
-    <InstOrder>268648483</InstOrder>
+    <InstOrder>268648484</InstOrder>
     <InstAdded>2020-01-14T23:49:44.83+00:00</InstAdded>
     <InstEdited>2020-01-14T23:49:44.83+00:00</InstEdited>
   </UIC>
@@ -7265,7 +7308,7 @@
     <InstNameZH>圣歌页</InstNameZH>
     <InstNameShortZH>圣歌页</InstNameShortZH>
     <InstNamePluralZH>圣歌页</InstNamePluralZH>
-    <InstOrder>268648487</InstOrder>
+    <InstOrder>268648488</InstOrder>
     <InstAdded>2013-04-24T01:10:40.437+00:00</InstAdded>
     <InstEdited>2013-04-24T01:10:40.437+00:00</InstEdited>
   </UIC>
@@ -7307,7 +7350,7 @@
     <InstNameZH>听－总谱</InstNameZH>
     <InstNameShortZH>听－总谱</InstNameShortZH>
     <InstNamePluralZH>听－总谱</InstNamePluralZH>
-    <InstOrder>268648488</InstOrder>
+    <InstOrder>268648489</InstOrder>
     <InstAdded>2013-04-24T01:36:03.567+00:00</InstAdded>
     <InstEdited>2013-04-24T01:36:03.567+00:00</InstEdited>
   </UIC>
@@ -7349,7 +7392,7 @@
     <InstNameZH>乐理</InstNameZH>
     <InstNameShortZH>乐理</InstNameShortZH>
     <InstNamePluralZH>乐理</InstNamePluralZH>
-    <InstOrder>268648489</InstOrder>
+    <InstOrder>268648490</InstOrder>
     <InstAdded>2017-11-25T15:31:32.417+00:00</InstAdded>
     <InstEdited>2017-11-25T15:31:32.417+00:00</InstEdited>
   </UIC>
@@ -7391,7 +7434,7 @@
     <InstNameZH>Aural Training</InstNameZH>
     <InstNameShortZH>ArlTrnng</InstNameShortZH>
     <InstNamePluralZH>Aural Training</InstNamePluralZH>
-    <InstOrder>268648490</InstOrder>
+    <InstOrder>268648491</InstOrder>
     <InstAdded>2019-04-30T16:39:01.643+00:00</InstAdded>
     <InstEdited>2019-04-30T16:39:01.643+00:00</InstEdited>
   </UIC>
@@ -7433,7 +7476,7 @@
     <InstNameZH>Rhythmic Exercises</InstNameZH>
     <InstNameShortZH>RthmEx</InstNameShortZH>
     <InstNamePluralZH>Rhythmic Exercises</InstNamePluralZH>
-    <InstOrder>268648491</InstOrder>
+    <InstOrder>268648492</InstOrder>
     <InstAdded>2019-05-14T16:37:54.323+00:00</InstAdded>
     <InstEdited>2019-05-14T16:37:54.323+00:00</InstEdited>
   </UIC>
@@ -7475,7 +7518,7 @@
     <InstNameZH>上／高</InstNameZH>
     <InstNameShortZH>上／高</InstNameShortZH>
     <InstNamePluralZH>上／高</InstNamePluralZH>
-    <InstOrder>268648495</InstOrder>
+    <InstOrder>268648496</InstOrder>
     <InstAdded>2018-01-25T08:20:49.217+00:00</InstAdded>
     <InstEdited>2018-01-25T08:21:03.513+00:00</InstEdited>
   </UIC>
@@ -7517,7 +7560,7 @@
     <InstNameZH>中</InstNameZH>
     <InstNameShortZH>中</InstNameShortZH>
     <InstNamePluralZH>中</InstNamePluralZH>
-    <InstOrder>268648496</InstOrder>
+    <InstOrder>268648497</InstOrder>
     <InstAdded>2014-05-11T04:34:11.613+00:00</InstAdded>
     <InstEdited>2014-05-11T04:34:11.613+00:00</InstEdited>
   </UIC>
@@ -7559,7 +7602,7 @@
     <InstNameZH>低／下</InstNameZH>
     <InstNameShortZH>低／下</InstNameShortZH>
     <InstNamePluralZH>低／下</InstNamePluralZH>
-    <InstOrder>268648497</InstOrder>
+    <InstOrder>268648498</InstOrder>
     <InstAdded>2018-01-25T08:21:29.563+00:00</InstAdded>
     <InstEdited>2018-01-25T08:21:29.563+00:00</InstEdited>
   </UIC>
@@ -7601,7 +7644,7 @@
     <InstNameZH>贴纸</InstNameZH>
     <InstNameShortZH>贴纸</InstNameShortZH>
     <InstNamePluralZH>贴纸</InstNamePluralZH>
-    <InstOrder>268648501</InstOrder>
+    <InstOrder>268648502</InstOrder>
     <InstAdded>2016-03-14T03:54:45.633+00:00</InstAdded>
     <InstEdited>2016-03-14T03:54:45.633+00:00</InstEdited>
   </UIC>
@@ -7643,7 +7686,7 @@
     <InstNameZH>Circuit diagram</InstNameZH>
     <InstNameShortZH>Crctdgrm</InstNameShortZH>
     <InstNamePluralZH>Circuit diagrams</InstNamePluralZH>
-    <InstOrder>268648502</InstOrder>
+    <InstOrder>268648503</InstOrder>
     <InstAdded>2021-03-24T05:22:53.733+00:00</InstAdded>
     <InstEdited>2021-03-24T05:22:53.733+00:00</InstEdited>
   </UIC>
@@ -7686,7 +7729,7 @@
     <InstNameZH>时间线</InstNameZH>
     <InstNameShortZH>时间线</InstNameShortZH>
     <InstNamePluralZH>时间线</InstNamePluralZH>
-    <InstOrder>268648503</InstOrder>
+    <InstOrder>268648504</InstOrder>
     <InstAdded>2023-10-02T07:51:13.103+00:00</InstAdded>
     <InstEdited>2024-03-17T05:03:13.617+00:00</InstEdited>
   </UIC>
@@ -7728,7 +7771,7 @@
     <InstNameZH>Biography</InstNameZH>
     <InstNameShortZH>Biography</InstNameShortZH>
     <InstNamePluralZH>Biographies</InstNamePluralZH>
-    <InstOrder>268648506</InstOrder>
+    <InstOrder>268648507</InstOrder>
     <InstAdded>2019-04-25T10:36:38.487+00:00</InstAdded>
     <InstEdited>2019-04-25T10:36:38.487+00:00</InstEdited>
   </UIC>
