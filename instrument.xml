@@ -81,9 +81,95 @@
     <InstNameZH>（全）总谱</InstNameZH>
     <InstNameShortZH>（全）总谱</InstNameShortZH>
     <InstNamePluralZH>（全）总谱</InstNamePluralZH>
-    <InstOrder>268451844</InstOrder>
+    <InstOrder>268451845</InstOrder>
     <InstAdded>2016-03-14T03:02:32.51+00:00</InstAdded>
     <InstEdited>2016-03-14T03:02:32.51+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1180</InstID>
+    <InstUIC>4980745</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Scores</InstGenus>
+    <InstIcon>FullScore</InstIcon>
+    <InstName>Full Score A4</InstName>
+    <InstNameShort>FScA4</InstNameShort>
+    <InstNamePlural>Full Scores A4</InstNamePlural>
+    <InstNameDE>Partitur A4</InstNameDE>
+    <InstNameShortDE>PartA4</InstNameShortDE>
+    <InstNamePluralDE>Partituren A4</InstNamePluralDE>
+    <InstNameFR>Partition d'orchestre A4</InstNameFR>
+    <InstNameShortFR>PartA4</InstNameShortFR>
+    <InstNamePluralFR>Partitions d'orchestreA4</InstNamePluralFR>
+    <InstNameIT>Partitura A4</InstNameIT>
+    <InstNameShortIT>PartA4</InstNameShortIT>
+    <InstNamePluralIT>Partiture A4</InstNamePluralIT>
+    <InstNameES>Partitura Completa A4</InstNameES>
+    <InstNameShortES>PartCmpA4</InstNameShortES>
+    <InstNamePluralES>Partituras Completas A4</InstNamePluralES>
+    <InstNameJA>スコア A4</InstNameJA>
+    <InstNameShortJA>スコアA4</InstNameShortJA>
+    <InstNamePluralJA>スコアA4</InstNamePluralJA>
+    <InstNameKO>총보A4</InstNameKO>
+    <InstNameShortKO>총보A4</InstNameShortKO>
+    <InstNamePluralKO>총보들A4</InstNamePluralKO>
+    <InstNamePL>Partytura A4</InstNamePL>
+    <InstNameShortPL>FScA4</InstNameShortPL>
+    <InstNamePluralPL>PartyturyA4</InstNamePluralPL>
+    <InstNamePT>Partitura completa A4</InstNamePT>
+    <InstNameShortPT>PartA4</InstNameShortPT>
+    <InstNamePluralPT>Partituras completas A4</InstNamePluralPT>
+    <InstNameRU>Партитура A4</InstNameRU>
+    <InstNameShortRU>ПартитурA4</InstNameShortRU>
+    <InstNamePluralRU>Партитуры A4</InstNamePluralRU>
+    <InstNameZH>（全）总谱 A4</InstNameZH>
+    <InstNameShortZH>（全）总谱A4</InstNameShortZH>
+    <InstNamePluralZH>（全）总谱 A4</InstNamePluralZH>
+    <InstOrder>268451847</InstOrder>
+    <InstAdded>2025-11-30T07:03:29.427+00:00</InstAdded>
+    <InstEdited>2025-11-30T07:06:38.767+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1181</InstID>
+    <InstUIC>5111817</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Scores</InstGenus>
+    <InstIcon>FullScore</InstIcon>
+    <InstName>Full Score A3</InstName>
+    <InstNameShort>FScA3</InstNameShort>
+    <InstNamePlural>Full Scores A3</InstNamePlural>
+    <InstNameDE>Partitur A3</InstNameDE>
+    <InstNameShortDE>PartA3</InstNameShortDE>
+    <InstNamePluralDE>Partituren A3</InstNamePluralDE>
+    <InstNameFR>Partition d'orchestre A3</InstNameFR>
+    <InstNameShortFR>PartA3</InstNameShortFR>
+    <InstNamePluralFR>Partitions d'orchestreA3</InstNamePluralFR>
+    <InstNameIT>Partitura A3</InstNameIT>
+    <InstNameShortIT>PartA3</InstNameShortIT>
+    <InstNamePluralIT>Partiture A3</InstNamePluralIT>
+    <InstNameES>Partitura Completa A3</InstNameES>
+    <InstNameShortES>PartCmpA3</InstNameShortES>
+    <InstNamePluralES>Partituras Completas A3</InstNamePluralES>
+    <InstNameJA>スコア A3</InstNameJA>
+    <InstNameShortJA>スコアA3</InstNameShortJA>
+    <InstNamePluralJA>スコアA3</InstNamePluralJA>
+    <InstNameKO>총보A3</InstNameKO>
+    <InstNameShortKO>총보A3</InstNameShortKO>
+    <InstNamePluralKO>총보들A3</InstNamePluralKO>
+    <InstNamePL>Partytura A3</InstNamePL>
+    <InstNameShortPL>FScA3</InstNameShortPL>
+    <InstNamePluralPL>Partytury A3</InstNamePluralPL>
+    <InstNamePT>Partitura completa A3</InstNamePT>
+    <InstNameShortPT>PartA3</InstNameShortPT>
+    <InstNamePluralPT>Partituras completas A3</InstNamePluralPT>
+    <InstNameRU>Партитура A3</InstNameRU>
+    <InstNameShortRU>ПартитурA3</InstNameShortRU>
+    <InstNamePluralRU>Партитуры A3</InstNamePluralRU>
+    <InstNameZH>（全）总谱 A3</InstNameZH>
+    <InstNameShortZH>（全）总谱A3</InstNameShortZH>
+    <InstNamePluralZH>（全）总谱 A3</InstNamePluralZH>
+    <InstOrder>268451848</InstOrder>
+    <InstAdded>2025-11-30T07:08:18.813+00:00</InstAdded>
+    <InstEdited>2025-11-30T07:08:26.803+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>105</InstID>
@@ -123,7 +209,7 @@
     <InstNameZH>指挥谱</InstNameZH>
     <InstNameShortZH>指挥谱</InstNameShortZH>
     <InstNamePluralZH>指挥谱</InstNamePluralZH>
-    <InstOrder>268451845</InstOrder>
+    <InstOrder>268451849</InstOrder>
     <InstAdded>2013-04-23T11:28:36.803+00:00</InstAdded>
     <InstEdited>2013-04-23T11:28:36.803+00:00</InstEdited>
   </UIC>
@@ -167,7 +253,7 @@
     <InstNameShortZH>微型总谱</InstNameShortZH>
     <InstNamePluralZH>微型总谱</InstNamePluralZH>
     <InstNameAlt>Pocket ScoreTaschenpartitur</InstNameAlt>
-    <InstOrder>268451852</InstOrder>
+    <InstOrder>268451856</InstOrder>
     <InstAdded>2016-03-10T07:47:04.403+00:00</InstAdded>
     <InstEdited>2016-03-10T07:47:04.403+00:00</InstEdited>
   </UIC>
@@ -209,7 +295,7 @@
     <InstNameZH>简缩总谱</InstNameZH>
     <InstNameShortZH>简缩总谱</InstNameShortZH>
     <InstNamePluralZH>简缩总谱</InstNamePluralZH>
-    <InstOrder>268451853</InstOrder>
+    <InstOrder>268451857</InstOrder>
     <InstAdded>2014-04-16T23:51:34.9+00:00</InstAdded>
     <InstEdited>2014-04-16T23:51:34.9+00:00</InstEdited>
   </UIC>
@@ -251,7 +337,7 @@
     <InstNameZH>总谱和声乐部分</InstNameZH>
     <InstNameShortZH>总谱和声乐部分</InstNameShortZH>
     <InstNamePluralZH>总谱和声乐部分</InstNamePluralZH>
-    <InstOrder>268451854</InstOrder>
+    <InstOrder>268451858</InstOrder>
     <InstAdded>2014-05-11T04:59:34.627+00:00</InstAdded>
     <InstEdited>2014-05-11T04:59:34.627+00:00</InstEdited>
   </UIC>
@@ -293,7 +379,7 @@
     <InstNameZH>总谱和钢琴</InstNameZH>
     <InstNameShortZH>总谱和钢琴</InstNameShortZH>
     <InstNamePluralZH>总谱和钢琴</InstNamePluralZH>
-    <InstOrder>268451855</InstOrder>
+    <InstOrder>268451859</InstOrder>
     <InstAdded>2014-05-11T05:01:35.587+00:00</InstAdded>
     <InstEdited>2014-05-11T05:01:35.587+00:00</InstEdited>
   </UIC>
@@ -335,7 +421,7 @@
     <InstNameZH>低音谱</InstNameZH>
     <InstNameShortZH>低音谱</InstNameShortZH>
     <InstNamePluralZH>低音谱</InstNamePluralZH>
-    <InstOrder>268451861</InstOrder>
+    <InstOrder>268451865</InstOrder>
     <InstAdded>2016-06-05T04:27:27.99+00:00</InstAdded>
     <InstEdited>2016-06-05T04:27:27.99+00:00</InstEdited>
   </UIC>
@@ -377,7 +463,7 @@
     <InstNameZH>宣叙调</InstNameZH>
     <InstNameShortZH>宣叙调</InstNameShortZH>
     <InstNamePluralZH>宣叙调</InstNamePluralZH>
-    <InstOrder>268451862</InstOrder>
+    <InstOrder>268451866</InstOrder>
     <InstAdded>2014-05-11T04:55:54.143+00:00</InstAdded>
     <InstEdited>2014-05-11T04:55:54.143+00:00</InstEdited>
   </UIC>
@@ -419,7 +505,7 @@
     <InstNameZH>低音部</InstNameZH>
     <InstNameShortZH>低音部</InstNameShortZH>
     <InstNamePluralZH>低音部</InstNamePluralZH>
-    <InstOrder>268451864</InstOrder>
+    <InstOrder>268451868</InstOrder>
     <InstAdded>2013-04-24T00:39:33.5+00:00</InstAdded>
     <InstEdited>2013-04-24T00:39:33.5+00:00</InstEdited>
   </UIC>
@@ -462,7 +548,7 @@
     <InstNameZH>木管乐谱</InstNameZH>
     <InstNameShortZH>木管乐谱</InstNameShortZH>
     <InstNamePluralZH>木管乐谱</InstNamePluralZH>
-    <InstOrder>268451865</InstOrder>
+    <InstOrder>268451869</InstOrder>
     <InstAdded>2017-01-10T23:31:16.95+00:00</InstAdded>
     <InstEdited>2025-01-14T09:59:22.603+00:00</InstEdited>
   </UIC>
@@ -505,7 +591,7 @@
     <InstNameZH>铜管乐谱</InstNameZH>
     <InstNameShortZH>铜管乐谱</InstNameShortZH>
     <InstNamePluralZH>铜管乐谱</InstNamePluralZH>
-    <InstOrder>268451866</InstOrder>
+    <InstOrder>268451870</InstOrder>
     <InstAdded>2017-01-10T23:29:56.823+00:00</InstAdded>
     <InstEdited>2025-01-14T09:57:16.907+00:00</InstEdited>
   </UIC>
@@ -548,7 +634,7 @@
     <InstNameZH>打击乐谱</InstNameZH>
     <InstNameShortZH>打击乐谱</InstNameShortZH>
     <InstNamePluralZH>打击乐谱</InstNamePluralZH>
-    <InstOrder>268451869</InstOrder>
+    <InstOrder>268451873</InstOrder>
     <InstAdded>2013-05-15T10:14:30.393+00:00</InstAdded>
     <InstEdited>2013-05-15T10:14:30.393+00:00</InstEdited>
   </UIC>
@@ -591,7 +677,7 @@
     <InstNameZH>弦乐谱</InstNameZH>
     <InstNameShortZH>弦乐谱</InstNameShortZH>
     <InstNamePluralZH>弦乐谱</InstNamePluralZH>
-    <InstOrder>268451870</InstOrder>
+    <InstOrder>268451874</InstOrder>
     <InstAdded>2017-01-10T23:31:54.26+00:00</InstAdded>
     <InstEdited>2025-01-14T10:03:23.363+00:00</InstEdited>
   </UIC>
@@ -633,7 +719,7 @@
     <InstNameZH>管风琴谱</InstNameZH>
     <InstNameShortZH>管风琴谱</InstNameShortZH>
     <InstNamePluralZH>管风琴谱</InstNamePluralZH>
-    <InstOrder>268451872</InstOrder>
+    <InstOrder>268451876</InstOrder>
     <InstAdded>2013-10-03T05:56:05.153+00:00</InstAdded>
     <InstEdited>2013-10-03T05:56:05.153+00:00</InstEdited>
   </UIC>
@@ -675,7 +761,7 @@
     <InstNameZH>细读谱</InstNameZH>
     <InstNameShortZH>细读谱</InstNameShortZH>
     <InstNamePluralZH>细读谱</InstNamePluralZH>
-    <InstOrder>268451874</InstOrder>
+    <InstOrder>268451878</InstOrder>
     <InstAdded>2013-05-15T10:11:39.25+00:00</InstAdded>
     <InstEdited>2013-05-15T10:11:39.25+00:00</InstEdited>
   </UIC>
@@ -717,7 +803,7 @@
     <InstNameZH>研究谱</InstNameZH>
     <InstNameShortZH>研究谱</InstNameShortZH>
     <InstNamePluralZH>研究谱</InstNamePluralZH>
-    <InstOrder>268451875</InstOrder>
+    <InstOrder>268451879</InstOrder>
     <InstAdded>0001-01-01T00:00:00.00+00:00</InstAdded>
     <InstEdited>0001-01-01T00:00:00.00+00:00</InstEdited>
   </UIC>
@@ -759,7 +845,7 @@
     <InstNameZH>演奏谱</InstNameZH>
     <InstNameShortZH>演奏谱</InstNameShortZH>
     <InstNamePluralZH>演奏谱</InstNamePluralZH>
-    <InstOrder>268451876</InstOrder>
+    <InstOrder>268451880</InstOrder>
     <InstAdded>0001-01-01T00:00:00.00+00:00</InstAdded>
     <InstEdited>0001-01-01T00:00:00.00+00:00</InstEdited>
   </UIC>
@@ -801,7 +887,7 @@
     <InstNameZH>附录</InstNameZH>
     <InstNameShortZH>附录</InstNameShortZH>
     <InstNamePluralZH>附录</InstNamePluralZH>
-    <InstOrder>268451877</InstOrder>
+    <InstOrder>268451881</InstOrder>
     <InstAdded>2013-04-24T00:35:55.047+00:00</InstAdded>
     <InstEdited>2013-05-15T10:19:01.273+00:00</InstEdited>
   </UIC>
@@ -843,7 +929,7 @@
     <InstNameZH>华彩乐段</InstNameZH>
     <InstNameShortZH>华彩乐段</InstNameShortZH>
     <InstNamePluralZH>华彩乐段</InstNamePluralZH>
-    <InstOrder>268451878</InstOrder>
+    <InstOrder>268451882</InstOrder>
     <InstAdded>2013-04-24T00:48:24.947+00:00</InstAdded>
     <InstEdited>2013-05-15T10:12:22.46+00:00</InstEdited>
   </UIC>
@@ -885,7 +971,7 @@
     <InstNameZH>CD 总谱</InstNameZH>
     <InstNameShortZH>CD 总谱</InstNameShortZH>
     <InstNamePluralZH>CD 总谱</InstNamePluralZH>
-    <InstOrder>268451879</InstOrder>
+    <InstOrder>268451883</InstOrder>
     <InstAdded>2013-04-24T00:51:05.46+00:00</InstAdded>
     <InstEdited>2013-05-15T10:13:04.027+00:00</InstEdited>
   </UIC>
@@ -927,7 +1013,7 @@
     <InstNameZH>指挥总谱</InstNameZH>
     <InstNameShortZH>指挥总谱</InstNameShortZH>
     <InstNamePluralZH>指挥总谱</InstNamePluralZH>
-    <InstOrder>268451880</InstOrder>
+    <InstOrder>268451884</InstOrder>
     <InstAdded>2013-04-24T00:58:13.487+00:00</InstAdded>
     <InstEdited>2013-04-24T00:58:13.487+00:00</InstEdited>
   </UIC>
@@ -969,7 +1055,7 @@
     <InstNameZH>对照总谱</InstNameZH>
     <InstNameShortZH>对照总谱</InstNameShortZH>
     <InstNamePluralZH>对照总谱</InstNamePluralZH>
-    <InstOrder>268451881</InstOrder>
+    <InstOrder>268451885</InstOrder>
     <InstAdded>2014-04-16T23:53:23.37+00:00</InstAdded>
     <InstEdited>2014-04-16T23:53:23.37+00:00</InstEdited>
   </UIC>
@@ -1012,7 +1098,7 @@
     <InstNameZH>歌剧总谱</InstNameZH>
     <InstNameShortZH>歌剧总谱</InstNameShortZH>
     <InstNamePluralZH>歌剧总谱</InstNamePluralZH>
-    <InstOrder>268451882</InstOrder>
+    <InstOrder>268451886</InstOrder>
     <InstAdded>2018-02-06T05:59:05.62+00:00</InstAdded>
     <InstEdited>2025-01-14T10:05:05.287+00:00</InstEdited>
   </UIC>
@@ -1054,7 +1140,7 @@
     <InstNameZH>滑稽歌剧总谱</InstNameZH>
     <InstNameShortZH>滑稽歌剧总谱</InstNameShortZH>
     <InstNamePluralZH>滑稽歌剧总谱</InstNamePluralZH>
-    <InstOrder>268451896</InstOrder>
+    <InstOrder>268451900</InstOrder>
     <InstAdded>2018-02-06T05:59:52.46+00:00</InstAdded>
     <InstEdited>2018-02-06T06:17:13.603+00:00</InstEdited>
   </UIC>
@@ -1096,7 +1182,7 @@
     <InstNameZH>音乐剧总谱</InstNameZH>
     <InstNameShortZH>音乐剧总谱</InstNameShortZH>
     <InstNamePluralZH>音乐剧总谱</InstNamePluralZH>
-    <InstOrder>268451897</InstOrder>
+    <InstOrder>268451901</InstOrder>
     <InstAdded>2018-02-06T06:00:23.573+00:00</InstAdded>
     <InstEdited>2018-02-06T06:00:23.573+00:00</InstEdited>
   </UIC>
@@ -1138,7 +1224,7 @@
     <InstNameZH>芭蕾舞剧总谱</InstNameZH>
     <InstNameShortZH>芭蕾舞剧总谱</InstNameShortZH>
     <InstNamePluralZH>芭蕾舞剧总谱</InstNamePluralZH>
-    <InstOrder>268451898</InstOrder>
+    <InstOrder>268451902</InstOrder>
     <InstAdded>2018-02-06T06:00:42.39+00:00</InstAdded>
     <InstEdited>2018-02-06T06:00:42.39+00:00</InstEdited>
   </UIC>
@@ -1180,7 +1266,7 @@
     <InstNameZH>字幕－总谱</InstNameZH>
     <InstNameShortZH>字幕－总谱</InstNameShortZH>
     <InstNamePluralZH>字幕－总谱</InstNamePluralZH>
-    <InstOrder>268451903</InstOrder>
+    <InstOrder>268451907</InstOrder>
     <InstAdded>2017-01-26T22:27:06.09+00:00</InstAdded>
     <InstEdited>2017-01-26T22:27:06.09+00:00</InstEdited>
   </UIC>
@@ -1223,7 +1309,7 @@
     <InstNameZH>电影音乐总谱</InstNameZH>
     <InstNameShortZH>电影音乐总谱</InstNameShortZH>
     <InstNamePluralZH>电影音乐总谱</InstNamePluralZH>
-    <InstOrder>268451904</InstOrder>
+    <InstOrder>268451908</InstOrder>
     <InstAdded>2018-02-19T21:19:01.517+00:00</InstAdded>
     <InstEdited>2018-02-19T21:19:01.517+00:00</InstEdited>
   </UIC>
@@ -1265,7 +1351,7 @@
     <InstNameZH>总谱部分</InstNameZH>
     <InstNameShortZH>总谱部分</InstNameShortZH>
     <InstNamePluralZH>总谱部分</InstNamePluralZH>
-    <InstOrder>268451908</InstOrder>
+    <InstOrder>268451912</InstOrder>
     <InstAdded>2013-04-24T01:33:52.117+00:00</InstAdded>
     <InstEdited>2013-05-15T10:25:12.38+00:00</InstEdited>
   </UIC>
@@ -1307,7 +1393,7 @@
     <InstNameZH>乐队总谱</InstNameZH>
     <InstNameShortZH>乐队总谱</InstNameShortZH>
     <InstNamePluralZH>乐队总谱</InstNamePluralZH>
-    <InstOrder>268451909</InstOrder>
+    <InstOrder>268451913</InstOrder>
     <InstAdded>2014-04-16T07:17:17.47+00:00</InstAdded>
     <InstEdited>2014-04-16T07:17:17.47+00:00</InstEdited>
   </UIC>
@@ -1349,7 +1435,7 @@
     <InstNameZH>Violin Conductor</InstNameZH>
     <InstNameShortZH>VlnCndctr</InstNameShortZH>
     <InstNamePluralZH>Violin Conductors</InstNamePluralZH>
-    <InstOrder>268451910</InstOrder>
+    <InstOrder>268451914</InstOrder>
     <InstAdded>2021-03-24T06:52:14.393+00:00</InstAdded>
     <InstEdited>2021-03-24T06:52:14.393+00:00</InstEdited>
   </UIC>
@@ -1391,7 +1477,7 @@
     <InstNameZH>大提琴指挥</InstNameZH>
     <InstNameShortZH>大提琴指挥</InstNameShortZH>
     <InstNamePluralZH>大提琴指挥</InstNamePluralZH>
-    <InstOrder>268451912</InstOrder>
+    <InstOrder>268451916</InstOrder>
     <InstAdded>2017-07-03T23:19:41.22+00:00</InstAdded>
     <InstEdited>2017-07-03T23:19:41.22+00:00</InstEdited>
   </UIC>
@@ -1433,7 +1519,7 @@
     <InstNameZH>三重奏演奏谱</InstNameZH>
     <InstNameShortZH>三重奏演奏谱</InstNameShortZH>
     <InstNamePluralZH>三重奏演奏谱</InstNamePluralZH>
-    <InstOrder>268451914</InstOrder>
+    <InstOrder>268451918</InstOrder>
     <InstAdded>2016-03-15T23:07:54.89+00:00</InstAdded>
     <InstEdited>2016-03-15T23:07:54.89+00:00</InstEdited>
   </UIC>
@@ -1475,7 +1561,7 @@
     <InstNameZH>四重奏演奏谱</InstNameZH>
     <InstNameShortZH>四重奏演奏谱</InstNameShortZH>
     <InstNamePluralZH>四重奏演奏谱</InstNamePluralZH>
-    <InstOrder>268451915</InstOrder>
+    <InstOrder>268451919</InstOrder>
     <InstAdded>2016-03-15T23:07:14.917+00:00</InstAdded>
     <InstEdited>2016-03-15T23:08:18.827+00:00</InstEdited>
   </UIC>
@@ -1517,7 +1603,7 @@
     <InstNameZH>歌谱与手风琴</InstNameZH>
     <InstNameShortZH>歌谱与手风琴</InstNameShortZH>
     <InstNamePluralZH>歌谱与手风琴</InstNamePluralZH>
-    <InstOrder>268451916</InstOrder>
+    <InstOrder>268451920</InstOrder>
     <InstAdded>2017-11-25T14:41:27.483+00:00</InstAdded>
     <InstEdited>2017-11-25T14:41:27.483+00:00</InstEdited>
   </UIC>
@@ -1559,7 +1645,7 @@
     <InstNameZH>Graphic Score</InstNameZH>
     <InstNameShortZH>GrphcSc</InstNameShortZH>
     <InstNamePluralZH>Graphic Scores</InstNamePluralZH>
-    <InstOrder>268451917</InstOrder>
+    <InstOrder>268451921</InstOrder>
     <InstAdded>2019-04-01T12:34:48.257+00:00</InstAdded>
     <InstEdited>2019-04-01T12:34:48.257+00:00</InstEdited>
   </UIC>
@@ -2458,6 +2544,49 @@
     <InstEdited>2025-03-08T22:15:17.263+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1175</InstID>
+    <InstUIC>2228249</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Spoken Word and Action</InstGenus>
+    <InstIcon>FullScore</InstIcon>
+    <InstName>Evangelist</InstName>
+    <InstNameShort>Evnglst</InstNameShort>
+    <InstNamePlural>Evangelists</InstNamePlural>
+    <InstNameDE>Evangelist</InstNameDE>
+    <InstNameShortDE>Evnglst</InstNameShortDE>
+    <InstNamePluralDE>Evangelisten</InstNamePluralDE>
+    <InstNameFR>Évangéliste</InstNameFR>
+    <InstNameShortFR>Évngélst</InstNameShortFR>
+    <InstNamePluralFR>évangélistes</InstNamePluralFR>
+    <InstNameIT>Evangelista</InstNameIT>
+    <InstNameShortIT>Evnglst</InstNameShortIT>
+    <InstNamePluralIT>Evangelisti</InstNamePluralIT>
+    <InstNameES>Evangelista</InstNameES>
+    <InstNameShortES>Evnglst</InstNameShortES>
+    <InstNamePluralES>Evangelistas</InstNamePluralES>
+    <InstNameJA>エバンジェリスト</InstNameJA>
+    <InstNameShortJA>エバンジェリスト</InstNameShortJA>
+    <InstNamePluralJA>伝道者</InstNamePluralJA>
+    <InstNameKO>복음 전도자</InstNameKO>
+    <InstNameShortKO>복음전도자</InstNameShortKO>
+    <InstNamePluralKO>전도사들</InstNamePluralKO>
+    <InstNamePL>Ewangelista</InstNamePL>
+    <InstNameShortPL>Ewnglst</InstNameShortPL>
+    <InstNamePluralPL>Ewangeliści</InstNamePluralPL>
+    <InstNamePT>Evangelista</InstNamePT>
+    <InstNameShortPT>Evnglst</InstNameShortPT>
+    <InstNamePluralPT>Evangelistas</InstNamePluralPT>
+    <InstNameRU>евангелист</InstNameRU>
+    <InstNameShortRU>евангелист</InstNameShortRU>
+    <InstNamePluralRU>Евангелисты</InstNamePluralRU>
+    <InstNameZH>福音传道者</InstNameZH>
+    <InstNameShortZH>福音传道者</InstNameShortZH>
+    <InstNamePluralZH>福音传道者</InstNamePluralZH>
+    <InstOrder>268484625</InstOrder>
+    <InstAdded>2025-11-30T06:20:28.57+00:00</InstAdded>
+    <InstEdited>2025-11-30T06:20:28.57+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>537</InstID>
     <InstUIC>1310745</InstUIC>
     <InstFamily>1.General</InstFamily>
@@ -2495,7 +2624,7 @@
     <InstNameZH>舞蹈家／演员</InstNameZH>
     <InstNameShortZH>舞蹈家／演员</InstNameShortZH>
     <InstNamePluralZH>舞蹈家／演员</InstNamePluralZH>
-    <InstOrder>268484625</InstOrder>
+    <InstOrder>268484626</InstOrder>
     <InstAdded>2016-09-09T01:34:23.18+00:00</InstAdded>
     <InstEdited>2016-09-09T01:34:23.18+00:00</InstEdited>
   </UIC>
@@ -2537,7 +2666,7 @@
     <InstNameZH>Choreography Guide</InstNameZH>
     <InstNameShortZH>ChrgrphyGd</InstNameShortZH>
     <InstNamePluralZH>Choreography Guides</InstNamePluralZH>
-    <InstOrder>268484626</InstOrder>
+    <InstOrder>268484627</InstOrder>
     <InstAdded>2019-02-07T13:50:51.783+00:00</InstAdded>
     <InstEdited>2019-02-07T13:50:51.783+00:00</InstEdited>
   </UIC>
@@ -2579,7 +2708,7 @@
     <InstNameZH>台词</InstNameZH>
     <InstNameShortZH>台词</InstNameShortZH>
     <InstNamePluralZH>台词</InstNamePluralZH>
-    <InstOrder>268484629</InstOrder>
+    <InstOrder>268484630</InstOrder>
     <InstAdded>2013-04-24T01:46:57.247+00:00</InstAdded>
     <InstEdited>2013-04-24T01:46:57.247+00:00</InstEdited>
   </UIC>
@@ -2621,7 +2750,7 @@
     <InstNameZH>纯台词</InstNameZH>
     <InstNameShortZH>纯台词</InstNameShortZH>
     <InstNamePluralZH>纯台词</InstNamePluralZH>
-    <InstOrder>268484630</InstOrder>
+    <InstOrder>268484631</InstOrder>
     <InstAdded>2017-10-05T22:57:16.393+00:00</InstAdded>
     <InstEdited>2018-03-27T14:02:04.873+00:00</InstEdited>
   </UIC>
@@ -3890,6 +4019,49 @@
     <InstOrder>268550193</InstOrder>
     <InstAdded>2023-09-29T07:51:39.25+00:00</InstAdded>
     <InstEdited>2023-09-29T07:51:39.25+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1172</InstID>
+    <InstUIC>4456505</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Generic</InstGenus>
+    <InstIcon>FullScore</InstIcon>
+    <InstName>Copy</InstName>
+    <InstNameShort>Copy</InstNameShort>
+    <InstNamePlural>Copies</InstNamePlural>
+    <InstNameDE>Kopie</InstNameDE>
+    <InstNameShortDE>Kopie</InstNameShortDE>
+    <InstNamePluralDE>Kopien</InstNamePluralDE>
+    <InstNameFR>Copie</InstNameFR>
+    <InstNameShortFR>Copie</InstNameShortFR>
+    <InstNamePluralFR>Copies</InstNamePluralFR>
+    <InstNameIT>Copia</InstNameIT>
+    <InstNameShortIT>Copia</InstNameShortIT>
+    <InstNamePluralIT>Copie</InstNamePluralIT>
+    <InstNameES>Copiar</InstNameES>
+    <InstNameShortES>Copiar</InstNameShortES>
+    <InstNamePluralES>Copias</InstNamePluralES>
+    <InstNameJA>コピー</InstNameJA>
+    <InstNameShortJA>コピー</InstNameShortJA>
+    <InstNamePluralJA>コピー</InstNamePluralJA>
+    <InstNameKO>복사</InstNameKO>
+    <InstNameShortKO>복사</InstNameShortKO>
+    <InstNamePluralKO>사본</InstNamePluralKO>
+    <InstNamePL>Kopia</InstNamePL>
+    <InstNameShortPL>Kopia</InstNameShortPL>
+    <InstNamePluralPL>Kopie</InstNamePluralPL>
+    <InstNamePT>Cópia</InstNamePT>
+    <InstNameShortPT>Cópia</InstNameShortPT>
+    <InstNamePluralPT>Cópias</InstNamePluralPT>
+    <InstNameRU>Копировать</InstNameRU>
+    <InstNameShortRU>Копировать</InstNameShortRU>
+    <InstNamePluralRU>Копии</InstNamePluralRU>
+    <InstNameZH>复制</InstNameZH>
+    <InstNameShortZH>复制</InstNameShortZH>
+    <InstNamePluralZH>副本</InstNamePluralZH>
+    <InstOrder>268550194</InstOrder>
+    <InstAdded>2025-11-30T06:12:56.947+00:00</InstAdded>
+    <InstEdited>2025-11-30T06:12:56.947+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>639</InstID>
@@ -5949,6 +6121,49 @@
     <InstEdited>2024-07-04T23:55:56.813+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1173</InstID>
+    <InstUIC>6422577</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Groups</InstGenus>
+    <InstIcon>FullScore</InstIcon>
+    <InstName>Flower Girl</InstName>
+    <InstNameShort>FlwrGrl</InstNameShort>
+    <InstNamePlural>Flower Girls</InstNamePlural>
+    <InstNameDE>Blumenmädchen</InstNameDE>
+    <InstNameShortDE>Blmnmädchn</InstNameShortDE>
+    <InstNamePluralDE>Blumenmädchen</InstNamePluralDE>
+    <InstNameFR>Demoiselle d'honneur</InstNameFR>
+    <InstNameShortFR>Dmslld'hnn</InstNameShortFR>
+    <InstNamePluralFR>Demoiselles d'honneur</InstNamePluralFR>
+    <InstNameIT>Ragazza dei fiori</InstNameIT>
+    <InstNameShortIT>Rgzzdfr</InstNameShortIT>
+    <InstNamePluralIT>Ragazze dei fiori</InstNamePluralIT>
+    <InstNameES>Niña de las flores</InstNameES>
+    <InstNameShortES>Nñdelsflrs</InstNameShortES>
+    <InstNamePluralES>Niñas de las flores</InstNamePluralES>
+    <InstNameJA>フラワーガール</InstNameJA>
+    <InstNameShortJA>フラワーガール</InstNameShortJA>
+    <InstNamePluralJA>フラワーガールズ</InstNamePluralJA>
+    <InstNameKO>꽃 소녀</InstNameKO>
+    <InstNameShortKO>꽃소녀</InstNameShortKO>
+    <InstNamePluralKO>꽃 소녀들</InstNamePluralKO>
+    <InstNamePL>Dziewczynka sypiąca kwiaty</InstNamePL>
+    <InstNameShortPL>Dzwczynksy</InstNameShortPL>
+    <InstNamePluralPL>Dziewczynki sypiące kwiaty</InstNamePluralPL>
+    <InstNamePT>Menina das Flores</InstNamePT>
+    <InstNameShortPT>MnndsFlrs</InstNameShortPT>
+    <InstNamePluralPT>Meninas das Flores</InstNamePluralPT>
+    <InstNameRU>Цветочница</InstNameRU>
+    <InstNameShortRU>Цветочница</InstNameShortRU>
+    <InstNamePluralRU>Цветочницы</InstNamePluralRU>
+    <InstNameZH>花童</InstNameZH>
+    <InstNameShortZH>花童</InstNameShortZH>
+    <InstNamePluralZH>花童</InstNamePluralZH>
+    <InstOrder>268582988</InstOrder>
+    <InstAdded>2025-11-30T06:15:38.963+00:00</InstAdded>
+    <InstEdited>2025-11-30T06:15:38.963+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>1106</InstID>
     <InstUIC>5242929</InstUIC>
     <InstFamily>1.General</InstFamily>
@@ -5987,7 +6202,7 @@
     <InstNameZH>Frog Duo</InstNameZH>
     <InstNameShortZH>FrogDuo</InstNameShortZH>
     <InstNamePluralZH>Frog Duos</InstNamePluralZH>
-    <InstOrder>268582988</InstOrder>
+    <InstOrder>268582989</InstOrder>
     <InstAdded>2024-07-04T23:56:30.687+00:00</InstAdded>
     <InstEdited>2024-07-04T23:56:30.687+00:00</InstEdited>
   </UIC>
@@ -6030,7 +6245,7 @@
     <InstNameZH>Chicks Trio</InstNameZH>
     <InstNameShortZH>ChcksTro</InstNameShortZH>
     <InstNamePluralZH>Chicks Trios</InstNamePluralZH>
-    <InstOrder>268582989</InstOrder>
+    <InstOrder>268582990</InstOrder>
     <InstAdded>2024-07-04T23:57:12.53+00:00</InstAdded>
     <InstEdited>2024-07-04T23:57:12.53+00:00</InstEdited>
   </UIC>
@@ -6073,7 +6288,7 @@
     <InstNameZH>Radio Duo</InstNameZH>
     <InstNameShortZH>RadioDuo</InstNameShortZH>
     <InstNamePluralZH>Radio Duos</InstNamePluralZH>
-    <InstOrder>268582990</InstOrder>
+    <InstOrder>268582991</InstOrder>
     <InstAdded>2024-07-04T23:57:40.69+00:00</InstAdded>
     <InstEdited>2024-07-04T23:57:40.69+00:00</InstEdited>
   </UIC>
@@ -6116,7 +6331,7 @@
     <InstNameZH>Heurigenmusik</InstNameZH>
     <InstNameShortZH>Hrgnmsk</InstNameShortZH>
     <InstNamePluralZH>Heurigenmusik</InstNamePluralZH>
-    <InstOrder>268582991</InstOrder>
+    <InstOrder>268582992</InstOrder>
     <InstAdded>2025-10-25T01:31:49.593+00:00</InstAdded>
     <InstEdited>2025-10-25T01:31:49.593+00:00</InstEdited>
   </UIC>
@@ -6159,7 +6374,7 @@
     <InstNameZH>Schrammelmusik</InstNameZH>
     <InstNameShortZH>Schrmmlmsk</InstNameShortZH>
     <InstNamePluralZH>Schrammelmusik</InstNamePluralZH>
-    <InstOrder>268582992</InstOrder>
+    <InstOrder>268582993</InstOrder>
     <InstAdded>2025-10-25T01:32:26.367+00:00</InstAdded>
     <InstEdited>2025-10-25T01:32:26.367+00:00</InstEdited>
   </UIC>
@@ -11068,6 +11283,49 @@
     <InstEdited>2014-04-16T07:18:43.907+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1179</InstID>
+    <InstUIC>2752538</InstUIC>
+    <InstFamily>2.Vocal</InstFamily>
+    <InstGenus>Chorus Parts</InstGenus>
+    <InstIcon>Voices</InstIcon>
+    <InstName>Speaking Choir</InstName>
+    <InstNameShort>SpkngChr</InstNameShort>
+    <InstNamePlural>Speaking Choirs</InstNamePlural>
+    <InstNameDE>Sprechchor</InstNameDE>
+    <InstNameShortDE>Sprchchr</InstNameShortDE>
+    <InstNamePluralDE>Sprechchöre</InstNamePluralDE>
+    <InstNameFR>Chœur parlant</InstNameFR>
+    <InstNameShortFR>Choeurprln</InstNameShortFR>
+    <InstNamePluralFR>Chœurs parlants</InstNamePluralFR>
+    <InstNameIT>Coro Parlante</InstNameIT>
+    <InstNameShortIT>CoroPrlnt</InstNameShortIT>
+    <InstNamePluralIT>Cori parlanti</InstNamePluralIT>
+    <InstNameES>Coro de habla</InstNameES>
+    <InstNameShortES>Corodehbl</InstNameShortES>
+    <InstNamePluralES>Coros parlantes</InstNamePluralES>
+    <InstNameJA>スピーチ合唱団</InstNameJA>
+    <InstNameShortJA>スピーチ合唱団</InstNameShortJA>
+    <InstNamePluralJA>スピーチ合唱団</InstNamePluralJA>
+    <InstNameKO>스피킹 합창단</InstNameKO>
+    <InstNameShortKO>스피킹합창단</InstNameShortKO>
+    <InstNamePluralKO>말하는 합창단</InstNamePluralKO>
+    <InstNamePL>Chór mówiony</InstNamePL>
+    <InstNameShortPL>Chmówny</InstNameShortPL>
+    <InstNamePluralPL>Chóry mówiące</InstNamePluralPL>
+    <InstNamePT>Coro falado</InstNamePT>
+    <InstNameShortPT>Corofld</InstNameShortPT>
+    <InstNamePluralPT>Coros Falados</InstNamePluralPT>
+    <InstNameRU>Говорящий хор</InstNameRU>
+    <InstNameShortRU>ГоворящийХ</InstNameShortRU>
+    <InstNamePluralRU>Говорящие хоры</InstNamePluralRU>
+    <InstNameZH>朗诵合唱团</InstNameZH>
+    <InstNameShortZH>朗诵合唱团</InstNameShortZH>
+    <InstNamePluralZH>朗诵合唱团</InstNamePluralZH>
+    <InstOrder>537018402</InstOrder>
+    <InstAdded>2025-11-30T06:43:29.303+00:00</InstAdded>
+    <InstEdited>2025-11-30T06:43:29.303+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>494</InstID>
     <InstUIC>1835034</InstUIC>
     <InstFamily>2.Vocal</InstFamily>
@@ -11105,7 +11363,7 @@
     <InstNameZH>唱诗班领唱</InstNameZH>
     <InstNameShortZH>唱诗班领唱</InstNameShortZH>
     <InstNamePluralZH>唱诗班领唱</InstNamePluralZH>
-    <InstOrder>537018402</InstOrder>
+    <InstOrder>537018403</InstOrder>
     <InstAdded>2015-10-23T05:20:29.197+00:00</InstAdded>
     <InstEdited>2015-10-23T05:20:29.197+00:00</InstEdited>
   </UIC>
@@ -13032,6 +13290,49 @@
     <InstEdited>2018-01-19T11:52:35.927+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1178</InstID>
+    <InstUIC>1703955</InstUIC>
+    <InstFamily>3.Wind</InstFamily>
+    <InstGenus>Oboes</InstGenus>
+    <InstIcon>Oboe</InstIcon>
+    <InstName>Piston</InstName>
+    <InstNameShort>Pstn</InstNameShort>
+    <InstNamePlural>Pistons</InstNamePlural>
+    <InstNameDE>Piston</InstNameDE>
+    <InstNameShortDE>Pstn</InstNameShortDE>
+    <InstNamePluralDE>Pistons</InstNamePluralDE>
+    <InstNameFR>Piston</InstNameFR>
+    <InstNameShortFR>Pstn</InstNameShortFR>
+    <InstNamePluralFR>Pistons</InstNamePluralFR>
+    <InstNameIT>Pistone</InstNameIT>
+    <InstNameShortIT>Pstn</InstNameShortIT>
+    <InstNamePluralIT>Pistoni</InstNamePluralIT>
+    <InstNameES>Pistón</InstNameES>
+    <InstNameShortES>Pstón</InstNameShortES>
+    <InstNamePluralES>Pistones</InstNamePluralES>
+    <InstNameJA>ピストン</InstNameJA>
+    <InstNameShortJA>ピストン</InstNameShortJA>
+    <InstNamePluralJA>ピストン</InstNamePluralJA>
+    <InstNameKO>피스톤</InstNameKO>
+    <InstNameShortKO>피스톤</InstNameShortKO>
+    <InstNamePluralKO>피스톤</InstNamePluralKO>
+    <InstNamePL>Tłok</InstNamePL>
+    <InstNameShortPL>Tłk</InstNameShortPL>
+    <InstNamePluralPL>Tłoki</InstNamePluralPL>
+    <InstNamePT>Pistão</InstNamePT>
+    <InstNameShortPT>Pstã</InstNameShortPT>
+    <InstNamePluralPT>Pistões</InstNamePluralPT>
+    <InstNameRU>Поршень</InstNameRU>
+    <InstNameShortRU>Поршень</InstNameShortRU>
+    <InstNamePluralRU>Поршни</InstNamePluralRU>
+    <InstNameZH>活塞</InstNameZH>
+    <InstNameShortZH>活塞</InstNameShortZH>
+    <InstNamePluralZH>活塞</InstNamePluralZH>
+    <InstOrder>805486611</InstOrder>
+    <InstAdded>2025-11-30T06:40:07.35+00:00</InstAdded>
+    <InstEdited>2025-11-30T06:40:07.35+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>848</InstID>
     <InstUIC>1572883</InstUIC>
     <InstFamily>3.Wind</InstFamily>
@@ -13071,7 +13372,7 @@
     <InstNameShortZH>Taille</InstNameShortZH>
     <InstNamePluralZH>Tailles</InstNamePluralZH>
     <InstNameAlt>Taille de hautbois</InstNameAlt>
-    <InstOrder>805486611</InstOrder>
+    <InstOrder>805486612</InstOrder>
     <InstAdded>2018-05-25T07:18:55.13+00:00</InstAdded>
     <InstEdited>2018-05-25T07:18:55.13+00:00</InstEdited>
   </UIC>
@@ -13115,7 +13416,7 @@
     <InstNameShortZH>BOb</InstNameShortZH>
     <InstNamePluralZH>低音双簧管</InstNamePluralZH>
     <InstNameAlt>Baritone OboeBaritonoboe</InstNameAlt>
-    <InstOrder>805486616</InstOrder>
+    <InstOrder>805486617</InstOrder>
     <InstAdded>0001-01-01T00:00:00.00+00:00</InstAdded>
     <InstEdited>0001-01-01T00:00:00.00+00:00</InstEdited>
   </UIC>
@@ -13157,7 +13458,7 @@
     <InstNameZH>赫格管</InstNameZH>
     <InstNameShortZH>Hph</InstNameShortZH>
     <InstNamePluralZH>赫格管</InstNamePluralZH>
-    <InstOrder>805486617</InstOrder>
+    <InstOrder>805486618</InstOrder>
     <InstAdded>0001-01-01T00:00:00.00+00:00</InstAdded>
     <InstEdited>0001-01-01T00:00:00.00+00:00</InstEdited>
   </UIC>
@@ -13199,7 +13500,7 @@
     <InstNameZH>Lupophone</InstNameZH>
     <InstNameShortZH>Lph</InstNameShortZH>
     <InstNamePluralZH>Lupophones</InstNamePluralZH>
-    <InstOrder>805486618</InstOrder>
+    <InstOrder>805486619</InstOrder>
     <InstAdded>2018-05-17T07:13:38.903+00:00</InstAdded>
     <InstEdited>2018-05-17T07:13:38.903+00:00</InstEdited>
   </UIC>
@@ -13241,7 +13542,7 @@
     <InstNameZH>Piffero</InstNameZH>
     <InstNameShortZH>Piffero</InstNameShortZH>
     <InstNamePluralZH>Pifferos</InstNamePluralZH>
-    <InstOrder>805486620</InstOrder>
+    <InstOrder>805486621</InstOrder>
     <InstAdded>2018-04-17T07:43:03.363+00:00</InstAdded>
     <InstEdited>2018-04-17T07:43:03.363+00:00</InstEdited>
   </UIC>
@@ -16113,6 +16414,51 @@
     <InstOrder>805765123</InstOrder>
     <InstAdded>2013-04-12T03:29:29.44+00:00</InstAdded>
     <InstEdited>2018-04-17T07:26:11.743+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1174</InstID>
+    <InstUIC>3145811</InstUIC>
+    <InstFamily>3.Wind</InstFamily>
+    <InstGenus>Non-Western Reeds</InstGenus>
+    <InstIcon>Recorder</InstIcon>
+    <InstAlternate>bryolka </InstAlternate>
+    <InstName>Zhaleika</InstName>
+    <InstNameShort>Zhlk</InstNameShort>
+    <InstNamePlural>Zhaleikas</InstNamePlural>
+    <InstNameDE>Zhaleika</InstNameDE>
+    <InstNameShortDE>Zhlk</InstNameShortDE>
+    <InstNamePluralDE>Zhaleikas</InstNamePluralDE>
+    <InstNameFR>Jaléika</InstNameFR>
+    <InstNameShortFR>Jlék</InstNameShortFR>
+    <InstNamePluralFR>Zhaleikas</InstNamePluralFR>
+    <InstNameIT>Zhaleika</InstNameIT>
+    <InstNameShortIT>Zhlk</InstNameShortIT>
+    <InstNamePluralIT>Zhaleikas</InstNamePluralIT>
+    <InstNameES>Zhaleika</InstNameES>
+    <InstNameShortES>Zhlk</InstNameShortES>
+    <InstNamePluralES>Zhaleikas</InstNamePluralES>
+    <InstNameJA>ザレイカ</InstNameJA>
+    <InstNameShortJA>ザレイカ</InstNameShortJA>
+    <InstNamePluralJA>ザレイカス</InstNamePluralJA>
+    <InstNameKO>잘레이카</InstNameKO>
+    <InstNameShortKO>잘레이카</InstNameShortKO>
+    <InstNamePluralKO>잘레이카스</InstNamePluralKO>
+    <InstNamePL>Żaleika</InstNamePL>
+    <InstNameShortPL>Żlk</InstNameShortPL>
+    <InstNamePluralPL>Zhaleikas</InstNamePluralPL>
+    <InstNamePT>Zhaleika</InstNamePT>
+    <InstNameShortPT>Zhlk</InstNameShortPT>
+    <InstNamePluralPT>Zhaleikas</InstNamePluralPT>
+    <InstNameRU>Жалейка</InstNameRU>
+    <InstNameShortRU>Жалейка</InstNameShortRU>
+    <InstNamePluralRU>Жалейкас</InstNamePluralRU>
+    <InstNameZH>扎莱卡</InstNameZH>
+    <InstNameShortZH>扎莱卡</InstNameShortZH>
+    <InstNamePluralZH>扎莱卡斯</InstNamePluralZH>
+    <InstNameAlt>bryolka </InstNameAlt>
+    <InstOrder>805765124</InstOrder>
+    <InstAdded>2025-11-30T06:18:58.277+00:00</InstAdded>
+    <InstEdited>2025-11-30T06:18:58.277+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>970</InstID>
@@ -19604,6 +19950,49 @@ High Sheng</InstNameAlt>
     <InstEdited>0001-01-01T00:00:00.00+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1177</InstID>
+    <InstUIC>3538964</InstUIC>
+    <InstFamily>4.Brass</InstFamily>
+    <InstGenus>Trumpets</InstGenus>
+    <InstIcon>Trumpet</InstIcon>
+    <InstName>Keyed Trumpet</InstName>
+    <InstNameShort>KydTpt</InstNameShort>
+    <InstNamePlural>Keyed Trumpets</InstNamePlural>
+    <InstNameDE>Klappentrompete</InstNameDE>
+    <InstNameShortDE>Klppntrmpt</InstNameShortDE>
+    <InstNamePluralDE>Klappentrompeten</InstNamePluralDE>
+    <InstNameFR>Trompette à clés</InstNameFR>
+    <InstNameShortFR>Trp.àclés</InstNameShortFR>
+    <InstNamePluralFR>Trompettes à clés</InstNamePluralFR>
+    <InstNameIT>Tromba a chiave</InstNameIT>
+    <InstNameShortIT>Trb.achv</InstNameShortIT>
+    <InstNamePluralIT>Trombe a chiave</InstNamePluralIT>
+    <InstNameES>Trompeta con llave</InstNameES>
+    <InstNameShortES>Tptcnllv</InstNameShortES>
+    <InstNamePluralES>Trompetas con llave</InstNamePluralES>
+    <InstNameJA>キー付きトランペット</InstNameJA>
+    <InstNameShortJA>キー付きトランペット</InstNameShortJA>
+    <InstNamePluralJA>キー付きトランペット</InstNamePluralJA>
+    <InstNameKO>키드 트럼펫</InstNameKO>
+    <InstNameShortKO>키드트럼펫</InstNameShortKO>
+    <InstNamePluralKO>키드 트럼펫</InstNamePluralKO>
+    <InstNamePL>Trąbka z kluczem</InstNamePL>
+    <InstNameShortPL>Tptzklczm</InstNameShortPL>
+    <InstNamePluralPL>Trąbki z kluczem</InstNamePluralPL>
+    <InstNamePT>Trompete com Chaves</InstNamePT>
+    <InstNameShortPT>Trompetecm</InstNameShortPT>
+    <InstNamePluralPT>Trombetas com Chaves</InstNamePluralPT>
+    <InstNameRU>Труба с ключом</InstNameRU>
+    <InstNameShortRU>Трубасключ</InstNameShortRU>
+    <InstNamePluralRU>Трубы с ключом</InstNamePluralRU>
+    <InstNameZH>键控小号</InstNameZH>
+    <InstNameShortZH>键控小号</InstNameShortZH>
+    <InstNamePluralZH>键控小号</InstNamePluralZH>
+    <InstOrder>1073791033</InstOrder>
+    <InstAdded>2025-11-30T06:37:44.097+00:00</InstAdded>
+    <InstEdited>2025-11-30T06:37:44.097+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>791</InstID>
     <InstUIC>2621460</InstUIC>
     <InstFamily>4.Brass</InstFamily>
@@ -19641,7 +20030,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Slide Trumpet</InstNameZH>
     <InstNameShortZH>SlideTpt</InstNameShortZH>
     <InstNamePluralZH>Slide Trumpets</InstNamePluralZH>
-    <InstOrder>1073791033</InstOrder>
+    <InstOrder>1073791034</InstOrder>
     <InstAdded>2018-04-17T07:23:43.803+00:00</InstAdded>
     <InstEdited>2018-04-17T07:23:43.803+00:00</InstEdited>
   </UIC>
@@ -19683,7 +20072,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>自然小号</InstNameZH>
     <InstNameShortZH>NatTpt</InstNameShortZH>
     <InstNamePluralZH>自然小号</InstNamePluralZH>
-    <InstOrder>1073791039</InstOrder>
+    <InstOrder>1073791040</InstOrder>
     <InstAdded>2019-08-14T12:46:13.373+00:00</InstAdded>
     <InstEdited>2019-08-14T12:46:13.373+00:00</InstEdited>
   </UIC>
@@ -19725,7 +20114,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>巴洛克小号</InstNameZH>
     <InstNameShortZH>BrqTpt</InstNameShortZH>
     <InstNamePluralZH>巴洛克小号</InstNamePluralZH>
-    <InstOrder>1073791040</InstOrder>
+    <InstOrder>1073791041</InstOrder>
     <InstAdded>0001-01-01T00:00:00.00+00:00</InstAdded>
     <InstEdited>0001-01-01T00:00:00.00+00:00</InstEdited>
   </UIC>
@@ -19767,7 +20156,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Clarion</InstNameZH>
     <InstNameShortZH>Clarion</InstNameShortZH>
     <InstNamePluralZH>Clarions</InstNamePluralZH>
-    <InstOrder>1073791041</InstOrder>
+    <InstOrder>1073791042</InstOrder>
     <InstAdded>2018-03-08T12:30:15.607+00:00</InstAdded>
     <InstEdited>2018-03-08T12:30:15.607+00:00</InstEdited>
   </UIC>
@@ -19809,7 +20198,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Aida Trumpet</InstNameZH>
     <InstNameShortZH>Aida Tpt</InstNameShortZH>
     <InstNamePluralZH>Aida Trumpets</InstNamePluralZH>
-    <InstOrder>1073791043</InstOrder>
+    <InstOrder>1073791044</InstOrder>
     <InstAdded>2013-10-16T10:14:23.097+00:00</InstAdded>
     <InstEdited>2013-10-16T10:17:07.487+00:00</InstEdited>
   </UIC>
@@ -19851,7 +20240,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>Fanfare Trumpet</InstNameZH>
     <InstNameShortZH>FnfrTpt</InstNameShortZH>
     <InstNamePluralZH>Fanfare Trumpets</InstNamePluralZH>
-    <InstOrder>1073791044</InstOrder>
+    <InstOrder>1073791045</InstOrder>
     <InstAdded>2014-04-15T05:39:01.227+00:00</InstAdded>
     <InstEdited>2014-04-15T05:39:01.227+00:00</InstEdited>
   </UIC>
@@ -19893,7 +20282,7 @@ High Sheng</InstNameAlt>
     <InstNameZH>埃及小号</InstNameZH>
     <InstNameShortZH>EgyptnTpt</InstNameShortZH>
     <InstNamePluralZH>埃及小号</InstNamePluralZH>
-    <InstOrder>1073791045</InstOrder>
+    <InstOrder>1073791046</InstOrder>
     <InstAdded>2018-03-29T14:47:33.807+00:00</InstAdded>
     <InstEdited>2018-03-29T14:47:33.807+00:00</InstEdited>
   </UIC>
@@ -20444,6 +20833,49 @@ High Sheng</InstNameAlt>
     <InstOrder>1073922049</InstOrder>
     <InstAdded>0001-01-01T00:00:00.00+00:00</InstAdded>
     <InstEdited>0001-01-01T00:00:00.00+00:00</InstEdited>
+  </UIC>
+  <UIC>
+    <InstID>1176</InstID>
+    <InstUIC>262212</InstUIC>
+    <InstFamily>4.Brass</InstFamily>
+    <InstGenus>Bugles</InstGenus>
+    <InstIcon>Trumpet</InstIcon>
+    <InstName>Keyed Bugle</InstName>
+    <InstNameShort>KydBugle</InstNameShort>
+    <InstNamePlural>Keyed Bugles</InstNamePlural>
+    <InstNameDE>Klappenhorn</InstNameDE>
+    <InstNameShortDE>Klppnhrn</InstNameShortDE>
+    <InstNamePluralDE>Klappenhorner</InstNamePluralDE>
+    <InstNameFR>clairon à clés</InstNameFR>
+    <InstNameShortFR>Claironàcl</InstNameShortFR>
+    <InstNamePluralFR>Clairons à clés</InstNamePluralFR>
+    <InstNameIT>Tromba a chiave</InstNameIT>
+    <InstNameShortIT>Trb.achv</InstNameShortIT>
+    <InstNamePluralIT>Trombe a chiave</InstNamePluralIT>
+    <InstNameES>Corneta con llave</InstNameES>
+    <InstNameShortES>KydBugle</InstNameShortES>
+    <InstNamePluralES>Cornetas con llave</InstNamePluralES>
+    <InstNameJA>鍵付きラッパ</InstNameJA>
+    <InstNameShortJA>鍵付きラッパ</InstNameShortJA>
+    <InstNamePluralJA>鍵付きラッパ</InstNamePluralJA>
+    <InstNameKO>키드 버글</InstNameKO>
+    <InstNameShortKO>키드버글</InstNameShortKO>
+    <InstNamePluralKO>키드 버글</InstNamePluralKO>
+    <InstNamePL>Trąbka z kluczem</InstNamePL>
+    <InstNameShortPL>Tptzklczm</InstNameShortPL>
+    <InstNamePluralPL>Trąbki z kluczem</InstNamePluralPL>
+    <InstNamePT>Corneta com Chave</InstNamePT>
+    <InstNameShortPT>CornetacmC</InstNameShortPT>
+    <InstNamePluralPT>Cornetas com Chave</InstNamePluralPT>
+    <InstNameRU>Ключевой горн</InstNameRU>
+    <InstNameShortRU>Ключевойго</InstNameShortRU>
+    <InstNamePluralRU>Ключевые горны</InstNamePluralRU>
+    <InstNameZH>带键号</InstNameZH>
+    <InstNameShortZH>带键号</InstNameShortZH>
+    <InstNamePluralZH>带键号</InstNamePluralZH>
+    <InstOrder>1073922050</InstOrder>
+    <InstAdded>2025-11-30T06:35:28.587+00:00</InstAdded>
+    <InstEdited>2025-11-30T06:35:28.587+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>181</InstID>
