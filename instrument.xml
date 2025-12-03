@@ -2587,6 +2587,49 @@
     <InstEdited>2025-11-30T06:20:28.57+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1182</InstID>
+    <InstUIC>2359321</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Spoken Word and Action</InstGenus>
+    <InstIcon>FullScore</InstIcon>
+    <InstName>Talking Bush</InstName>
+    <InstNameShort>TlkngBsh</InstNameShort>
+    <InstNamePlural>Talking Bushes</InstNamePlural>
+    <InstNameDE>Dornbusch</InstNameDE>
+    <InstNameShortDE>Drnbsch</InstNameShortDE>
+    <InstNamePluralDE>Dornbüsche</InstNamePluralDE>
+    <InstNameFR>Bush parlant</InstNameFR>
+    <InstNameShortFR>Bshprlnt</InstNameShortFR>
+    <InstNamePluralFR>Les buissons qui parlent</InstNamePluralFR>
+    <InstNameIT>Bush parlante</InstNameIT>
+    <InstNameShortIT>Bshprlnt</InstNameShortIT>
+    <InstNamePluralIT>Cespugli parlanti</InstNamePluralIT>
+    <InstNameES>Bush parlante</InstNameES>
+    <InstNameShortES>Bshprlnt</InstNameShortES>
+    <InstNamePluralES>Arbustos parlantes</InstNamePluralES>
+    <InstNameJA>トーキング・ブッシュ</InstNameJA>
+    <InstNameShortJA>トーキング・ブッシュ</InstNameShortJA>
+    <InstNamePluralJA>話す茂み</InstNamePluralJA>
+    <InstNameKO>토킹 부시</InstNameKO>
+    <InstNameShortKO>토킹부시</InstNameShortKO>
+    <InstNamePluralKO>말하는 덤불</InstNamePluralKO>
+    <InstNamePL>Mówiące krzewy</InstNamePL>
+    <InstNameShortPL>TlkngBsh</InstNameShortPL>
+    <InstNamePluralPL>Mówiące krzewy</InstNamePluralPL>
+    <InstNamePT>Bush falante</InstNamePT>
+    <InstNameShortPT>Bshflnt</InstNameShortPT>
+    <InstNamePluralPT>Arbustos falantes</InstNamePluralPT>
+    <InstNameRU>Говорящий Буш</InstNameRU>
+    <InstNameShortRU>ГоворящийБ</InstNameShortRU>
+    <InstNamePluralRU>Говорящие кусты</InstNamePluralRU>
+    <InstNameZH>布什谈话</InstNameZH>
+    <InstNameShortZH>布什谈话</InstNameShortZH>
+    <InstNamePluralZH>会说话的灌木丛</InstNamePluralZH>
+    <InstOrder>268484626</InstOrder>
+    <InstAdded>2025-12-02T08:38:11.083+00:00</InstAdded>
+    <InstEdited>2025-12-02T08:38:11.083+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>537</InstID>
     <InstUIC>1310745</InstUIC>
     <InstFamily>1.General</InstFamily>
@@ -2624,7 +2667,7 @@
     <InstNameZH>舞蹈家／演员</InstNameZH>
     <InstNameShortZH>舞蹈家／演员</InstNameShortZH>
     <InstNamePluralZH>舞蹈家／演员</InstNamePluralZH>
-    <InstOrder>268484626</InstOrder>
+    <InstOrder>268484627</InstOrder>
     <InstAdded>2016-09-09T01:34:23.18+00:00</InstAdded>
     <InstEdited>2016-09-09T01:34:23.18+00:00</InstEdited>
   </UIC>
@@ -2666,7 +2709,7 @@
     <InstNameZH>Choreography Guide</InstNameZH>
     <InstNameShortZH>ChrgrphyGd</InstNameShortZH>
     <InstNamePluralZH>Choreography Guides</InstNamePluralZH>
-    <InstOrder>268484627</InstOrder>
+    <InstOrder>268484628</InstOrder>
     <InstAdded>2019-02-07T13:50:51.783+00:00</InstAdded>
     <InstEdited>2019-02-07T13:50:51.783+00:00</InstEdited>
   </UIC>
@@ -2708,7 +2751,7 @@
     <InstNameZH>台词</InstNameZH>
     <InstNameShortZH>台词</InstNameShortZH>
     <InstNamePluralZH>台词</InstNamePluralZH>
-    <InstOrder>268484630</InstOrder>
+    <InstOrder>268484631</InstOrder>
     <InstAdded>2013-04-24T01:46:57.247+00:00</InstAdded>
     <InstEdited>2013-04-24T01:46:57.247+00:00</InstEdited>
   </UIC>
@@ -2750,7 +2793,7 @@
     <InstNameZH>纯台词</InstNameZH>
     <InstNameShortZH>纯台词</InstNameShortZH>
     <InstNamePluralZH>纯台词</InstNamePluralZH>
-    <InstOrder>268484631</InstOrder>
+    <InstOrder>268484632</InstOrder>
     <InstAdded>2017-10-05T22:57:16.393+00:00</InstAdded>
     <InstEdited>2018-03-27T14:02:04.873+00:00</InstEdited>
   </UIC>
