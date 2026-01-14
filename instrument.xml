@@ -8164,6 +8164,49 @@
     <InstEdited>2021-03-24T05:22:53.733+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1205</InstID>
+    <InstUIC>4980777</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Miscellaneous</InstGenus>
+    <InstIcon>FullScore</InstIcon>
+    <InstName>Photographic Slides</InstName>
+    <InstNameShort>PhtSld</InstNameShort>
+    <InstNamePlural>Photographic Slides</InstNamePlural>
+    <InstNameDE>Fotodias</InstNameDE>
+    <InstNameShortDE>Ftds</InstNameShortDE>
+    <InstNamePluralDE>Fotodias</InstNamePluralDE>
+    <InstNameFR>Diapositives photographiques</InstNameFR>
+    <InstNameShortFR>Dpstvsphtg</InstNameShortFR>
+    <InstNamePluralFR>Diapositives photographiques</InstNamePluralFR>
+    <InstNameIT>Diapositive fotografiche</InstNameIT>
+    <InstNameShortIT>Dpstvftgrf</InstNameShortIT>
+    <InstNamePluralIT>Diapositive fotografiche</InstNamePluralIT>
+    <InstNameES>Diapositivas fotográficas</InstNameES>
+    <InstNameShortES>Dpstvsftgr</InstNameShortES>
+    <InstNamePluralES>Diapositivas fotográficas</InstNamePluralES>
+    <InstNameJA>写真スライド</InstNameJA>
+    <InstNameShortJA>写真スライド</InstNameShortJA>
+    <InstNamePluralJA>写真スライド</InstNamePluralJA>
+    <InstNameKO>사진 슬라이드</InstNameKO>
+    <InstNameShortKO>사진슬라이드</InstNameShortKO>
+    <InstNamePluralKO>사진 슬라이드</InstNamePluralKO>
+    <InstNamePL>Slajdy fotograficzne</InstNamePL>
+    <InstNameShortPL>Sljdyftgrf</InstNameShortPL>
+    <InstNamePluralPL>Slajdy fotograficzne</InstNamePluralPL>
+    <InstNamePT>Slides fotográficos</InstNamePT>
+    <InstNameShortPT>Sldsftgráf</InstNameShortPT>
+    <InstNamePluralPT>Slides fotográficos</InstNamePluralPT>
+    <InstNameRU>Фотослайды</InstNameRU>
+    <InstNameShortRU>Фотослайды</InstNameShortRU>
+    <InstNamePluralRU>Фотослайды</InstNamePluralRU>
+    <InstNameZH>照片幻灯片</InstNameZH>
+    <InstNameShortZH>照片幻灯片</InstNameShortZH>
+    <InstNamePluralZH>照片幻灯片</InstNamePluralZH>
+    <InstOrder>268648505</InstOrder>
+    <InstAdded>2026-01-13T23:44:41.68+00:00</InstAdded>
+    <InstEdited>2026-01-13T23:44:41.68+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>1092</InstID>
     <InstUIC>4456489</InstUIC>
     <InstFamily>1.General</InstFamily>
@@ -8202,7 +8245,7 @@
     <InstNameZH>时间线</InstNameZH>
     <InstNameShortZH>时间线</InstNameShortZH>
     <InstNamePluralZH>时间线</InstNamePluralZH>
-    <InstOrder>268648505</InstOrder>
+    <InstOrder>268648506</InstOrder>
     <InstAdded>2023-10-02T07:51:13.103+00:00</InstAdded>
     <InstEdited>2024-03-17T05:03:13.617+00:00</InstEdited>
   </UIC>
@@ -8244,7 +8287,7 @@
     <InstNameZH>Biography</InstNameZH>
     <InstNameShortZH>Biography</InstNameShortZH>
     <InstNamePluralZH>Biographies</InstNamePluralZH>
-    <InstOrder>268648508</InstOrder>
+    <InstOrder>268648509</InstOrder>
     <InstAdded>2019-04-25T10:36:38.487+00:00</InstAdded>
     <InstEdited>2019-04-25T10:36:38.487+00:00</InstEdited>
   </UIC>
