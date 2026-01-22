@@ -7660,6 +7660,49 @@
     <InstEdited>2014-04-17T06:21:26.833+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1206</InstID>
+    <InstUIC>5111849</InstUIC>
+    <InstFamily>1.General</InstFamily>
+    <InstGenus>Miscellaneous</InstGenus>
+    <InstIcon>FullScore</InstIcon>
+    <InstName>Symbol Key</InstName>
+    <InstNameShort>SymblKy</InstNameShort>
+    <InstNamePlural>Symbol Keys</InstNamePlural>
+    <InstNameDE>Zeichenerklärung</InstNameDE>
+    <InstNameShortDE>Zchnrklärn</InstNameShortDE>
+    <InstNamePluralDE>Zeichenerklärungen</InstNamePluralDE>
+    <InstNameFR>Légende des symboles</InstNameFR>
+    <InstNameShortFR>Légnddssym</InstNameShortFR>
+    <InstNamePluralFR>Clés symboliques</InstNamePluralFR>
+    <InstNameIT>Simbolo Chiave</InstNameIT>
+    <InstNameShortIT>SmblChv</InstNameShortIT>
+    <InstNamePluralIT>Tasti dei simboli</InstNamePluralIT>
+    <InstNameES>Clave de símbolos</InstNameES>
+    <InstNameShortES>Clvdesímbl</InstNameShortES>
+    <InstNamePluralES>Teclas de símbolos</InstNamePluralES>
+    <InstNameJA>シンボルキー</InstNameJA>
+    <InstNameShortJA>シンボルキー</InstNameShortJA>
+    <InstNamePluralJA>記号キー</InstNamePluralJA>
+    <InstNameKO>기호 키</InstNameKO>
+    <InstNameShortKO>기호키</InstNameShortKO>
+    <InstNamePluralKO>기호 키</InstNamePluralKO>
+    <InstNamePL>Klucz symboli</InstNamePL>
+    <InstNameShortPL>Klczsymbl</InstNameShortPL>
+    <InstNamePluralPL>Klucze symboli</InstNamePluralPL>
+    <InstNamePT>Legenda de símbolos</InstNamePT>
+    <InstNameShortPT>Lgnddesímb</InstNameShortPT>
+    <InstNamePluralPT>Legendas de símbolos</InstNamePluralPT>
+    <InstNameRU>Условные обозначения</InstNameRU>
+    <InstNameShortRU>Условныеоб</InstNameShortRU>
+    <InstNamePluralRU>Символьные ключи</InstNamePluralRU>
+    <InstNameZH>图例说明</InstNameZH>
+    <InstNameShortZH>图例说明</InstNameShortZH>
+    <InstNamePluralZH>图例</InstNamePluralZH>
+    <InstOrder>268648484</InstOrder>
+    <InstAdded>2026-01-21T02:14:50.353+00:00</InstAdded>
+    <InstEdited>2026-01-21T02:14:50.353+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>508</InstID>
     <InstUIC>1835049</InstUIC>
     <InstFamily>1.General</InstFamily>
@@ -7697,7 +7740,7 @@
     <InstNameZH>散页</InstNameZH>
     <InstNameShortZH>散页</InstNameShortZH>
     <InstNamePluralZH>散页</InstNamePluralZH>
-    <InstOrder>268648484</InstOrder>
+    <InstOrder>268648485</InstOrder>
     <InstAdded>2016-03-14T03:15:46.737+00:00</InstAdded>
     <InstEdited>2016-03-14T03:15:46.737+00:00</InstEdited>
   </UIC>
@@ -7739,7 +7782,7 @@
     <InstNameZH>Wallet</InstNameZH>
     <InstNameShortZH>Wallet</InstNameShortZH>
     <InstNamePluralZH>Wallets</InstNamePluralZH>
-    <InstOrder>268648485</InstOrder>
+    <InstOrder>268648486</InstOrder>
     <InstAdded>2020-01-14T23:49:44.83+00:00</InstAdded>
     <InstEdited>2020-01-14T23:49:44.83+00:00</InstEdited>
   </UIC>
@@ -7781,7 +7824,7 @@
     <InstNameZH>圣歌页</InstNameZH>
     <InstNameShortZH>圣歌页</InstNameShortZH>
     <InstNamePluralZH>圣歌页</InstNamePluralZH>
-    <InstOrder>268648489</InstOrder>
+    <InstOrder>268648490</InstOrder>
     <InstAdded>2013-04-24T01:10:40.437+00:00</InstAdded>
     <InstEdited>2013-04-24T01:10:40.437+00:00</InstEdited>
   </UIC>
@@ -7823,7 +7866,7 @@
     <InstNameZH>听－总谱</InstNameZH>
     <InstNameShortZH>听－总谱</InstNameShortZH>
     <InstNamePluralZH>听－总谱</InstNamePluralZH>
-    <InstOrder>268648490</InstOrder>
+    <InstOrder>268648491</InstOrder>
     <InstAdded>2013-04-24T01:36:03.567+00:00</InstAdded>
     <InstEdited>2013-04-24T01:36:03.567+00:00</InstEdited>
   </UIC>
@@ -7865,7 +7908,7 @@
     <InstNameZH>乐理</InstNameZH>
     <InstNameShortZH>乐理</InstNameShortZH>
     <InstNamePluralZH>乐理</InstNamePluralZH>
-    <InstOrder>268648491</InstOrder>
+    <InstOrder>268648492</InstOrder>
     <InstAdded>2017-11-25T15:31:32.417+00:00</InstAdded>
     <InstEdited>2017-11-25T15:31:32.417+00:00</InstEdited>
   </UIC>
@@ -7907,7 +7950,7 @@
     <InstNameZH>Aural Training</InstNameZH>
     <InstNameShortZH>ArlTrnng</InstNameShortZH>
     <InstNamePluralZH>Aural Training</InstNamePluralZH>
-    <InstOrder>268648492</InstOrder>
+    <InstOrder>268648493</InstOrder>
     <InstAdded>2019-04-30T16:39:01.643+00:00</InstAdded>
     <InstEdited>2019-04-30T16:39:01.643+00:00</InstEdited>
   </UIC>
@@ -7949,7 +7992,7 @@
     <InstNameZH>Rhythmic Exercises</InstNameZH>
     <InstNameShortZH>RthmEx</InstNameShortZH>
     <InstNamePluralZH>Rhythmic Exercises</InstNamePluralZH>
-    <InstOrder>268648493</InstOrder>
+    <InstOrder>268648494</InstOrder>
     <InstAdded>2019-05-14T16:37:54.323+00:00</InstAdded>
     <InstEdited>2019-05-14T16:37:54.323+00:00</InstEdited>
   </UIC>
@@ -7991,7 +8034,7 @@
     <InstNameZH>上／高</InstNameZH>
     <InstNameShortZH>上／高</InstNameShortZH>
     <InstNamePluralZH>上／高</InstNamePluralZH>
-    <InstOrder>268648497</InstOrder>
+    <InstOrder>268648498</InstOrder>
     <InstAdded>2018-01-25T08:20:49.217+00:00</InstAdded>
     <InstEdited>2018-01-25T08:21:03.513+00:00</InstEdited>
   </UIC>
@@ -8033,7 +8076,7 @@
     <InstNameZH>中</InstNameZH>
     <InstNameShortZH>中</InstNameShortZH>
     <InstNamePluralZH>中</InstNamePluralZH>
-    <InstOrder>268648498</InstOrder>
+    <InstOrder>268648499</InstOrder>
     <InstAdded>2014-05-11T04:34:11.613+00:00</InstAdded>
     <InstEdited>2014-05-11T04:34:11.613+00:00</InstEdited>
   </UIC>
@@ -8075,7 +8118,7 @@
     <InstNameZH>低／下</InstNameZH>
     <InstNameShortZH>低／下</InstNameShortZH>
     <InstNamePluralZH>低／下</InstNamePluralZH>
-    <InstOrder>268648499</InstOrder>
+    <InstOrder>268648500</InstOrder>
     <InstAdded>2018-01-25T08:21:29.563+00:00</InstAdded>
     <InstEdited>2018-01-25T08:21:29.563+00:00</InstEdited>
   </UIC>
@@ -8117,7 +8160,7 @@
     <InstNameZH>贴纸</InstNameZH>
     <InstNameShortZH>贴纸</InstNameShortZH>
     <InstNamePluralZH>贴纸</InstNamePluralZH>
-    <InstOrder>268648503</InstOrder>
+    <InstOrder>268648504</InstOrder>
     <InstAdded>2016-03-14T03:54:45.633+00:00</InstAdded>
     <InstEdited>2016-03-14T03:54:45.633+00:00</InstEdited>
   </UIC>
@@ -8159,7 +8202,7 @@
     <InstNameZH>Circuit diagram</InstNameZH>
     <InstNameShortZH>Crctdgrm</InstNameShortZH>
     <InstNamePluralZH>Circuit diagrams</InstNamePluralZH>
-    <InstOrder>268648504</InstOrder>
+    <InstOrder>268648505</InstOrder>
     <InstAdded>2021-03-24T05:22:53.733+00:00</InstAdded>
     <InstEdited>2021-03-24T05:22:53.733+00:00</InstEdited>
   </UIC>
@@ -8202,7 +8245,7 @@
     <InstNameZH>照片幻灯片</InstNameZH>
     <InstNameShortZH>照片幻灯片</InstNameShortZH>
     <InstNamePluralZH>照片幻灯片</InstNamePluralZH>
-    <InstOrder>268648505</InstOrder>
+    <InstOrder>268648506</InstOrder>
     <InstAdded>2026-01-13T23:44:41.68+00:00</InstAdded>
     <InstEdited>2026-01-13T23:44:41.68+00:00</InstEdited>
   </UIC>
@@ -8245,7 +8288,7 @@
     <InstNameZH>时间线</InstNameZH>
     <InstNameShortZH>时间线</InstNameShortZH>
     <InstNamePluralZH>时间线</InstNamePluralZH>
-    <InstOrder>268648506</InstOrder>
+    <InstOrder>268648507</InstOrder>
     <InstAdded>2023-10-02T07:51:13.103+00:00</InstAdded>
     <InstEdited>2024-03-17T05:03:13.617+00:00</InstEdited>
   </UIC>
@@ -8287,7 +8330,7 @@
     <InstNameZH>Biography</InstNameZH>
     <InstNameShortZH>Biography</InstNameShortZH>
     <InstNamePluralZH>Biographies</InstNamePluralZH>
-    <InstOrder>268648509</InstOrder>
+    <InstOrder>268648510</InstOrder>
     <InstAdded>2019-04-25T10:36:38.487+00:00</InstAdded>
     <InstEdited>2019-04-25T10:36:38.487+00:00</InstEdited>
   </UIC>
