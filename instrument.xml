@@ -11881,6 +11881,49 @@
     <InstEdited>2016-03-14T04:21:42.48+00:00</InstEdited>
   </UIC>
   <UIC>
+    <InstID>1207</InstID>
+    <InstUIC>2752523</InstUIC>
+    <InstFamily>3.Wind</InstFamily>
+    <InstGenus>Flutes</InstGenus>
+    <InstIcon>Flute</InstIcon>
+    <InstName>Soprano Flute</InstName>
+    <InstNameShort>SFl</InstNameShort>
+    <InstNamePlural>Soprano Flutes</InstNamePlural>
+    <InstNameDE>Sopranflöte</InstNameDE>
+    <InstNameShortDE>Sfl</InstNameShortDE>
+    <InstNamePluralDE>Sopranflöten</InstNamePluralDE>
+    <InstNameFR>Flûte soprano</InstNameFR>
+    <InstNameShortFR>FlS</InstNameShortFR>
+    <InstNamePluralFR>Flûtes soprano</InstNamePluralFR>
+    <InstNameIT>Flauto soprano</InstNameIT>
+    <InstNameShortIT>FlS</InstNameShortIT>
+    <InstNamePluralIT>Flauti soprano</InstNamePluralIT>
+    <InstNameES>Flauta soprano</InstNameES>
+    <InstNameShortES>FlS</InstNameShortES>
+    <InstNamePluralES>Flautas soprano</InstNamePluralES>
+    <InstNameJA>ソプラノフルート</InstNameJA>
+    <InstNameShortJA>ソプラノフルート</InstNameShortJA>
+    <InstNamePluralJA>ソプラノフルート</InstNamePluralJA>
+    <InstNameKO>소프라노 플루트</InstNameKO>
+    <InstNameShortKO>소프라노플루트</InstNameShortKO>
+    <InstNamePluralKO>소프라노 플루트</InstNamePluralKO>
+    <InstNamePL>Flet sopranowy</InstNamePL>
+    <InstNameShortPL>FlS</InstNameShortPL>
+    <InstNamePluralPL>Flety sopranowe</InstNamePluralPL>
+    <InstNamePT>Flauta soprano</InstNamePT>
+    <InstNameShortPT>FlS</InstNameShortPT>
+    <InstNamePluralPT>Flautas soprano</InstNamePluralPT>
+    <InstNameRU>Сопрано-флейта</InstNameRU>
+    <InstNameShortRU>Сопфл</InstNameShortRU>
+    <InstNamePluralRU>Сопрано-флейты</InstNamePluralRU>
+    <InstNameZH>高音长笛</InstNameZH>
+    <InstNameShortZH>高音长笛</InstNameShortZH>
+    <InstNamePluralZH>女高音长笛</InstNamePluralZH>
+    <InstOrder>805339140</InstOrder>
+    <InstAdded>2026-01-31T00:12:40.45+00:00</InstAdded>
+    <InstEdited>2026-01-31T00:12:40.45+00:00</InstEdited>
+  </UIC>
+  <UIC>
     <InstID>6</InstID>
     <InstUIC>131083</InstUIC>
     <InstFamily>3.Wind</InstFamily>
@@ -11918,7 +11961,7 @@
     <InstNameZH>长笛</InstNameZH>
     <InstNameShortZH>长笛</InstNameShortZH>
     <InstNamePluralZH>长笛</InstNamePluralZH>
-    <InstOrder>805339140</InstOrder>
+    <InstOrder>805339141</InstOrder>
     <InstAdded>2016-03-14T04:19:43.107+00:00</InstAdded>
     <InstEdited>2016-03-14T04:19:43.107+00:00</InstEdited>
   </UIC>
@@ -11961,7 +12004,7 @@
     <InstNameZH>扩音长笛</InstNameZH>
     <InstNameShortZH>扩音长笛</InstNameShortZH>
     <InstNamePluralZH>扩音长笛</InstNamePluralZH>
-    <InstOrder>805339141</InstOrder>
+    <InstOrder>805339142</InstOrder>
     <InstAdded>2025-09-30T00:20:20.21+00:00</InstAdded>
     <InstEdited>2025-09-30T00:20:20.21+00:00</InstEdited>
   </UIC>
@@ -12003,7 +12046,7 @@
     <InstNameZH>Kingma System Flute</InstNameZH>
     <InstNameShortZH>KngmFl</InstNameShortZH>
     <InstNamePluralZH>Kingma System Flutes</InstNamePluralZH>
-    <InstOrder>805339142</InstOrder>
+    <InstOrder>805339143</InstOrder>
     <InstAdded>2019-06-17T14:05:17.53+00:00</InstAdded>
     <InstEdited>2019-06-17T14:05:17.53+00:00</InstEdited>
   </UIC>
@@ -12046,7 +12089,7 @@
     <InstNameZH>中音笛</InstNameZH>
     <InstNameShortZH>中音笛</InstNameShortZH>
     <InstNamePluralZH>中音笛</InstNamePluralZH>
-    <InstOrder>805339149</InstOrder>
+    <InstOrder>805339150</InstOrder>
     <InstAdded>2016-03-14T04:19:01.12+00:00</InstAdded>
     <InstEdited>2016-03-14T04:19:01.12+00:00</InstEdited>
   </UIC>
@@ -12089,7 +12132,7 @@
     <InstNameZH>扩音中音长笛</InstNameZH>
     <InstNameShortZH>扩音中音长笛</InstNameShortZH>
     <InstNamePluralZH>扩音中音长笛</InstNamePluralZH>
-    <InstOrder>805339150</InstOrder>
+    <InstOrder>805339151</InstOrder>
     <InstAdded>2025-09-30T00:18:47.82+00:00</InstAdded>
     <InstEdited>2025-09-30T00:18:47.82+00:00</InstEdited>
   </UIC>
@@ -12133,7 +12176,7 @@
     <InstNameShortZH>Fldmr</InstNameShortZH>
     <InstNamePluralZH>Flûtes d'amour</InstNamePluralZH>
     <InstNameAlt>Tenor flute</InstNameAlt>
-    <InstOrder>805339151</InstOrder>
+    <InstOrder>805339152</InstOrder>
     <InstAdded>2021-03-24T06:15:25.777+00:00</InstAdded>
     <InstEdited>2021-03-24T06:15:25.777+00:00</InstEdited>
   </UIC>
@@ -12176,7 +12219,7 @@
     <InstNameZH>低音笛</InstNameZH>
     <InstNameShortZH>低音笛</InstNameShortZH>
     <InstNamePluralZH>低音笛</InstNamePluralZH>
-    <InstOrder>805339153</InstOrder>
+    <InstOrder>805339154</InstOrder>
     <InstAdded>2016-03-14T02:35:06.95+00:00</InstAdded>
     <InstEdited>2016-03-14T02:35:06.95+00:00</InstEdited>
   </UIC>
@@ -12219,7 +12262,7 @@
     <InstNameZH>最低音笛</InstNameZH>
     <InstNameShortZH>最低音笛</InstNameShortZH>
     <InstNamePluralZH>最低音笛</InstNamePluralZH>
-    <InstOrder>805339154</InstOrder>
+    <InstOrder>805339155</InstOrder>
     <InstAdded>0001-01-01T00:00:00.00+00:00</InstAdded>
     <InstEdited>0001-01-01T00:00:00.00+00:00</InstEdited>
   </UIC>
@@ -12261,7 +12304,7 @@
     <InstNameZH>超低音笛</InstNameZH>
     <InstNameShortZH>SubCbFl</InstNameShortZH>
     <InstNamePluralZH>超低音笛</InstNamePluralZH>
-    <InstOrder>805339155</InstOrder>
+    <InstOrder>805339156</InstOrder>
     <InstAdded>2018-01-16T14:28:17.39+00:00</InstAdded>
     <InstEdited>2018-01-16T14:28:17.39+00:00</InstEdited>
   </UIC>
@@ -12303,7 +12346,7 @@
     <InstNameZH>双长笛</InstNameZH>
     <InstNameShortZH>DblFl</InstNameShortZH>
     <InstNamePluralZH>双长笛</InstNamePluralZH>
-    <InstOrder>805339157</InstOrder>
+    <InstOrder>805339158</InstOrder>
     <InstAdded>2016-10-20T23:18:33.61+00:00</InstAdded>
     <InstEdited>2016-10-20T23:18:33.61+00:00</InstEdited>
   </UIC>
@@ -12345,7 +12388,7 @@
     <InstNameZH>Transverse Flute</InstNameZH>
     <InstNameShortZH>TrnsvrsFl</InstNameShortZH>
     <InstNamePluralZH>Transverse Flutes</InstNamePluralZH>
-    <InstOrder>805339158</InstOrder>
+    <InstOrder>805339159</InstOrder>
     <InstAdded>2017-08-23T22:45:55.217+00:00</InstAdded>
     <InstEdited>2017-08-23T22:45:55.217+00:00</InstEdited>
   </UIC>
@@ -12387,7 +12430,7 @@
     <InstNameZH>Baroque Flute</InstNameZH>
     <InstNameShortZH>BrqFl</InstNameShortZH>
     <InstNamePluralZH>Baroque Flutes</InstNamePluralZH>
-    <InstOrder>805339159</InstOrder>
+    <InstOrder>805339160</InstOrder>
     <InstAdded>2019-05-01T10:05:57.323+00:00</InstAdded>
     <InstEdited>2019-05-01T10:05:57.323+00:00</InstEdited>
   </UIC>
@@ -12429,7 +12472,7 @@
     <InstNameZH>Wood Flute</InstNameZH>
     <InstNameShortZH>WdFl</InstNameShortZH>
     <InstNamePluralZH>Wood Flutes</InstNamePluralZH>
-    <InstOrder>805339160</InstOrder>
+    <InstOrder>805339161</InstOrder>
     <InstAdded>2019-07-12T10:39:15.263+00:00</InstAdded>
     <InstEdited>2019-07-12T10:39:15.263+00:00</InstEdited>
   </UIC>
@@ -12472,7 +12515,7 @@
     <InstNameZH>弗拉比奥</InstNameZH>
     <InstNameShortZH>弗拉比奥</InstNameShortZH>
     <InstNamePluralZH>弗拉比奥醇</InstNamePluralZH>
-    <InstOrder>805339161</InstOrder>
+    <InstOrder>805339162</InstOrder>
     <InstAdded>2024-08-21T23:22:50.853+00:00</InstAdded>
     <InstEdited>2024-08-21T23:22:50.853+00:00</InstEdited>
   </UIC>
@@ -12515,7 +12558,7 @@
     <InstNameZH>陶笛</InstNameZH>
     <InstNameShortZH>Ocarina</InstNameShortZH>
     <InstNamePluralZH>陶笛</InstNamePluralZH>
-    <InstOrder>805339165</InstOrder>
+    <InstOrder>805339166</InstOrder>
     <InstAdded>2016-07-25T09:07:19.063+00:00</InstAdded>
     <InstEdited>2016-07-25T09:07:19.063+00:00</InstEdited>
   </UIC>
@@ -12557,7 +12600,7 @@
     <InstNameZH>横笛</InstNameZH>
     <InstNameShortZH>Fife</InstNameShortZH>
     <InstNamePluralZH>横笛</InstNamePluralZH>
-    <InstOrder>805339167</InstOrder>
+    <InstOrder>805339168</InstOrder>
     <InstAdded>2014-04-16T23:59:39.797+00:00</InstAdded>
     <InstEdited>2014-04-16T23:59:39.797+00:00</InstEdited>
   </UIC>
@@ -12600,7 +12643,7 @@
     <InstNameZH>锡笛</InstNameZH>
     <InstNameShortZH>锡笛</InstNameShortZH>
     <InstNamePluralZH>锡哨</InstNamePluralZH>
-    <InstOrder>805339168</InstOrder>
+    <InstOrder>805339169</InstOrder>
     <InstAdded>2025-09-30T00:23:34.48+00:00</InstAdded>
     <InstEdited>2025-09-30T00:23:34.48+00:00</InstEdited>
   </UIC>
@@ -12642,7 +12685,7 @@
     <InstNameZH>排笛</InstNameZH>
     <InstNameShortZH>PanFl</InstNameShortZH>
     <InstNamePluralZH>排笛</InstNamePluralZH>
-    <InstOrder>805339169</InstOrder>
+    <InstOrder>805339170</InstOrder>
     <InstAdded>2013-10-16T10:24:35.87+00:00</InstAdded>
     <InstEdited>2013-10-16T10:24:35.87+00:00</InstEdited>
   </UIC>
@@ -12684,7 +12727,7 @@
     <InstNameZH>竹笛</InstNameZH>
     <InstNameShortZH>BambooFl</InstNameShortZH>
     <InstNamePluralZH>竹笛</InstNamePluralZH>
-    <InstOrder>805339170</InstOrder>
+    <InstOrder>805339171</InstOrder>
     <InstAdded>2016-03-14T04:18:26.717+00:00</InstAdded>
     <InstEdited>2016-03-14T04:20:03.47+00:00</InstEdited>
   </UIC>
