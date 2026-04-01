@@ -13485,6 +13485,34 @@
     <DescriptorEdited>2025-03-07T01:44:52.847+00:00</DescriptorEdited>
   </UIC>
   <UIC>
+    <DescriptorID>514</DescriptorID>
+    <DescriptorName>Benelux</DescriptorName>
+    <DescriptorShort>Bnlx</DescriptorShort>
+    <DescriptorNameDE>Benelux</DescriptorNameDE>
+    <DescriptorShortDE>Bnlx</DescriptorShortDE>
+    <DescriptorNameFR>Benelux</DescriptorNameFR>
+    <DescriptorShortFR>Bnlx</DescriptorShortFR>
+    <DescriptorNameIT>Benelux</DescriptorNameIT>
+    <DescriptorShortIT>Bnlx</DescriptorShortIT>
+    <DescriptorNameES>Benelux</DescriptorNameES>
+    <DescriptorShortES>Bnlx</DescriptorShortES>
+    <DescriptorNameJA>ベネルクス</DescriptorNameJA>
+    <DescriptorShortJA>ベネルクス</DescriptorShortJA>
+    <DescriptorNameKO>베네룩스</DescriptorNameKO>
+    <DescriptorShortKO>Bnlx</DescriptorShortKO>
+    <DescriptorNamePL>Benelux</DescriptorNamePL>
+    <DescriptorShortPL>Bnlx</DescriptorShortPL>
+    <DescriptorNamePT>Benelux</DescriptorNamePT>
+    <DescriptorShortPT>Bnlx</DescriptorShortPT>
+    <DescriptorNameRU>Бенилюкс</DescriptorNameRU>
+    <DescriptorShortRU>Bnlx</DescriptorShortRU>
+    <DescriptorNameZH>比荷卢经济联盟</DescriptorNameZH>
+    <DescriptorShortZH>Bnlx</DescriptorShortZH>
+    <DescriptorOrder>855</DescriptorOrder>
+    <DescriptorAdded>2026-03-31T06:47:20.94+00:00</DescriptorAdded>
+    <DescriptorEdited>2026-03-31T06:47:20.94+00:00</DescriptorEdited>
+  </UIC>
+  <UIC>
     <DescriptorID>148</DescriptorID>
     <DescriptorName>Transliterated</DescriptorName>
     <DescriptorShort>Trnsltrtd</DescriptorShort>
