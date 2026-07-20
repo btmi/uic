@@ -15,8 +15,8 @@
       "DomainNameRU": "Главное",
       "DomainNameZH": "主要的",
       "DomainOrder": 1,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 88,
@@ -32,8 +32,8 @@
       "DomainNameRU": "Партитуры",
       "DomainNameZH": "总谱",
       "DomainOrder": 2,
-      "DomainAdded": "2017-04-04T09:15:17.377+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2017-04-04T11:15:17.377+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 2,
@@ -49,8 +49,8 @@
       "DomainNameRU": "Соло",
       "DomainNameZH": "独奏",
       "DomainOrder": 4,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 132,
@@ -66,8 +66,8 @@
       "DomainNameRU": "Соло 1",
       "DomainNameZH": "独奏 1",
       "DomainOrder": 5,
-      "DomainAdded": "2018-11-22T15:33:29.163+00:00",
-      "DomainEdited": "2018-11-22T15:33:29.163+00:00"
+      "DomainAdded": "2018-11-22T16:33:29.163+01:00",
+      "DomainEdited": "2018-11-22T16:33:29.163+01:00"
     },
     {
       "DomainID": 133,
@@ -83,8 +83,8 @@
       "DomainNameRU": "Соло 2",
       "DomainNameZH": "独奏 2",
       "DomainOrder": 6,
-      "DomainAdded": "2018-11-22T15:33:44.397+00:00",
-      "DomainEdited": "2018-11-22T15:33:44.397+00:00"
+      "DomainAdded": "2018-11-22T16:33:44.397+01:00",
+      "DomainEdited": "2018-11-22T16:33:44.397+01:00"
     },
     {
       "DomainID": 4,
@@ -100,8 +100,8 @@
       "DomainNameRU": "За сценой",
       "DomainNameZH": "后台",
       "DomainOrder": 10,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 3,
@@ -117,8 +117,8 @@
       "DomainNameRU": "На сцене",
       "DomainNameZH": "舞台",
       "DomainOrder": 11,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 67,
@@ -134,8 +134,8 @@
       "DomainNameRU": "Слева от сцены",
       "DomainNameZH": "舞台左边",
       "DomainOrder": 12,
-      "DomainAdded": "2016-03-14T03:29:31.297+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-03-14T04:29:31.297+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 68,
@@ -151,8 +151,8 @@
       "DomainNameRU": "Справа от сцены",
       "DomainNameZH": "舞台右边",
       "DomainOrder": 13,
-      "DomainAdded": "2016-03-14T03:30:03.17+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-03-14T04:30:03.17+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 148,
@@ -168,8 +168,8 @@
       "DomainNameRU": "В зале",
       "DomainNameZH": "在大厅",
       "DomainOrder": 14,
-      "DomainAdded": "2025-11-30T06:09:31.033+00:00",
-      "DomainEdited": "2025-11-30T06:09:31.033+00:00"
+      "DomainAdded": "2025-11-30T07:09:31.033+01:00",
+      "DomainEdited": "2025-11-30T07:09:31.033+01:00"
     },
     {
       "DomainID": 147,
@@ -185,8 +185,8 @@
       "DomainNameRU": "Вдали",
       "DomainNameZH": "远处",
       "DomainOrder": 15,
-      "DomainAdded": "2025-11-30T06:07:50.613+00:00",
-      "DomainEdited": "2025-11-30T06:07:50.613+00:00"
+      "DomainAdded": "2025-11-30T07:07:50.613+01:00",
+      "DomainEdited": "2025-11-30T07:07:50.613+01:00"
     },
     {
       "DomainID": 149,
@@ -202,8 +202,8 @@
       "DomainNameRU": "Под землей",
       "DomainNameZH": "地底之下",
       "DomainOrder": 16,
-      "DomainAdded": "2025-11-30T06:10:37.987+00:00",
-      "DomainEdited": "2025-11-30T06:10:37.987+00:00"
+      "DomainAdded": "2025-11-30T07:10:37.987+01:00",
+      "DomainEdited": "2025-11-30T07:10:37.987+01:00"
     },
     {
       "DomainID": 146,
@@ -219,8 +219,8 @@
       "DomainNameRU": "Квартет",
       "DomainNameZH": "四重奏",
       "DomainOrder": 17,
-      "DomainAdded": "2025-11-30T06:06:22.12+00:00",
-      "DomainEdited": "2025-11-30T06:06:22.12+00:00"
+      "DomainAdded": "2025-11-30T07:06:22.12+01:00",
+      "DomainEdited": "2025-11-30T07:06:22.12+01:00"
     },
     {
       "DomainID": 49,
@@ -236,8 +236,8 @@
       "DomainNameRU": "Квартет 1",
       "DomainNameZH": "四重奏1",
       "DomainOrder": 21,
-      "DomainAdded": "2013-12-06T03:51:53.353+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-12-06T04:51:53.353+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 50,
@@ -253,8 +253,8 @@
       "DomainNameRU": "Квартет 2",
       "DomainNameZH": "四重奏2",
       "DomainOrder": 22,
-      "DomainAdded": "2013-12-06T03:52:23.05+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-12-06T04:52:23.05+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 115,
@@ -270,8 +270,8 @@
       "DomainNameRU": "Трио",
       "DomainNameZH": "三重奏",
       "DomainOrder": 25,
-      "DomainAdded": "2018-04-20T07:36:14.14+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-04-20T09:36:14.14+02:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 5,
@@ -287,8 +287,8 @@
       "DomainNameRU": "Струнное трио",
       "DomainNameZH": "弦乐三重奏",
       "DomainOrder": 26,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 6,
@@ -304,8 +304,8 @@
       "DomainNameRU": "Струнный квартет",
       "DomainNameZH": "弦乐四重奏",
       "DomainOrder": 27,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 8,
@@ -321,8 +321,8 @@
       "DomainNameRU": "Струнный квартет 1",
       "DomainNameZH": "弦乐四重奏 1",
       "DomainOrder": 28,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 9,
@@ -338,8 +338,8 @@
       "DomainNameRU": "Струнный квартет 2",
       "DomainNameZH": "弦乐四重奏 2",
       "DomainOrder": 29,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 10,
@@ -355,8 +355,8 @@
       "DomainNameRU": "Струнный квартет 3",
       "DomainNameZH": "弦乐四重奏 3",
       "DomainOrder": 32,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 11,
@@ -372,8 +372,8 @@
       "DomainNameRU": "Струнный квартет 4",
       "DomainNameZH": "弦乐四重奏 4",
       "DomainOrder": 33,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 7,
@@ -389,8 +389,8 @@
       "DomainNameRU": "Струнный квинтет",
       "DomainNameZH": "弦乐五重奏",
       "DomainOrder": 34,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 12,
@@ -406,8 +406,8 @@
       "DomainNameRU": "Оркестр",
       "DomainNameZH": "交响乐队／团",
       "DomainOrder": 38,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 13,
@@ -423,8 +423,8 @@
       "DomainNameRU": "Оркестр 1",
       "DomainNameZH": "交响乐队 1",
       "DomainOrder": 39,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 14,
@@ -440,8 +440,8 @@
       "DomainNameRU": "Оркестр 2",
       "DomainNameZH": "交响乐队 2",
       "DomainOrder": 40,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 16,
@@ -457,8 +457,8 @@
       "DomainNameRU": "Оркестр 3",
       "DomainNameZH": "交响乐队 3",
       "DomainOrder": 41,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 17,
@@ -474,8 +474,8 @@
       "DomainNameRU": "Оркестр 4",
       "DomainNameZH": "交响乐队 4",
       "DomainOrder": 42,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 18,
@@ -491,8 +491,8 @@
       "DomainNameRU": "Оркестр 5",
       "DomainNameZH": "交响乐队 5",
       "DomainOrder": 43,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 82,
@@ -508,8 +508,8 @@
       "DomainNameRU": "Оркестр 6",
       "DomainNameZH": "交响乐队 6",
       "DomainOrder": 44,
-      "DomainAdded": "2017-04-03T09:32:31.237+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2017-04-03T11:32:31.237+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 83,
@@ -525,8 +525,8 @@
       "DomainNameRU": "Оркестр 7",
       "DomainNameZH": "交响乐队 7",
       "DomainOrder": 45,
-      "DomainAdded": "2017-04-03T09:32:55.207+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2017-04-03T11:32:55.207+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 84,
@@ -542,8 +542,8 @@
       "DomainNameRU": "Оркестр 8",
       "DomainNameZH": "交响乐队 8",
       "DomainOrder": 46,
-      "DomainAdded": "2017-04-03T09:33:12.207+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2017-04-03T11:33:12.207+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 85,
@@ -559,8 +559,8 @@
       "DomainNameRU": "Оркестр 9",
       "DomainNameZH": "交响乐队 9",
       "DomainOrder": 47,
-      "DomainAdded": "2017-04-03T09:33:39.317+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2017-04-03T11:33:39.317+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 86,
@@ -576,8 +576,8 @@
       "DomainNameRU": "Оркестр 10",
       "DomainNameZH": "交响乐队 10",
       "DomainOrder": 48,
-      "DomainAdded": "2017-04-03T09:34:14.253+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2017-04-03T11:34:14.253+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 89,
@@ -593,8 +593,8 @@
       "DomainNameRU": "Оркестр 11",
       "DomainNameZH": "交响乐队 11",
       "DomainOrder": 49,
-      "DomainAdded": "2017-05-03T21:18:26.41+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2017-05-03T23:18:26.41+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 90,
@@ -610,8 +610,8 @@
       "DomainNameRU": "Оркестр 12",
       "DomainNameZH": "交响乐队 12",
       "DomainOrder": 50,
-      "DomainAdded": "2017-05-03T21:18:47.467+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2017-05-03T23:18:47.467+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 113,
@@ -627,8 +627,8 @@
       "DomainNameRU": "Оркестр А",
       "DomainNameZH": "交响乐队 A",
       "DomainOrder": 51,
-      "DomainAdded": "2018-04-10T13:22:33.047+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-04-10T15:22:33.047+02:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 114,
@@ -644,8 +644,8 @@
       "DomainNameRU": "Оркестр Б",
       "DomainNameZH": "交响乐队 B",
       "DomainOrder": 52,
-      "DomainAdded": "2018-04-10T13:22:49.237+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-04-10T15:22:49.237+02:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 15,
@@ -661,8 +661,8 @@
       "DomainNameRU": "Камерный оркестр",
       "DomainNameZH": "室内乐队 ／团",
       "DomainOrder": 63,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 112,
@@ -678,8 +678,8 @@
       "DomainNameRU": "Ансамбль",
       "DomainNameZH": "合奏",
       "DomainOrder": 64,
-      "DomainAdded": "2018-04-06T13:35:44.053+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-04-06T15:35:44.053+02:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 144,
@@ -695,8 +695,8 @@
       "DomainNameRU": "Ensemble 1",
       "DomainNameZH": "Ensemble 1",
       "DomainOrder": 65,
-      "DomainAdded": "2023-10-06T00:08:48.387+00:00",
-      "DomainEdited": "2023-10-06T00:08:48.387+00:00"
+      "DomainAdded": "2023-10-06T02:08:48.387+02:00",
+      "DomainEdited": "2023-10-06T02:08:48.387+02:00"
     },
     {
       "DomainID": 145,
@@ -712,8 +712,8 @@
       "DomainNameRU": "Ensemble 2",
       "DomainNameZH": "Ensemble 2",
       "DomainOrder": 66,
-      "DomainAdded": "2023-10-06T00:09:14.163+00:00",
-      "DomainEdited": "2023-10-06T00:09:14.163+00:00"
+      "DomainAdded": "2023-10-06T02:09:14.163+02:00",
+      "DomainEdited": "2023-10-06T02:09:14.163+02:00"
     },
     {
       "DomainID": 150,
@@ -729,8 +729,8 @@
       "DomainNameRU": "Ensemble 3",
       "DomainNameZH": "Ensemble 3",
       "DomainOrder": 67,
-      "DomainAdded": "2025-12-29T04:30:18.813+00:00",
-      "DomainEdited": "2025-12-29T04:30:18.813+00:00"
+      "DomainAdded": "2025-12-29T05:30:18.813+01:00",
+      "DomainEdited": "2025-12-29T05:30:18.813+01:00"
     },
     {
       "DomainID": 141,
@@ -746,8 +746,8 @@
       "DomainNameRU": "Module 1",
       "DomainNameZH": "Module 1",
       "DomainOrder": 69,
-      "DomainAdded": "2023-10-02T07:41:58.87+00:00",
-      "DomainEdited": "2023-10-02T07:41:58.87+00:00"
+      "DomainAdded": "2023-10-02T09:41:58.87+02:00",
+      "DomainEdited": "2023-10-02T09:41:58.87+02:00"
     },
     {
       "DomainID": 142,
@@ -763,8 +763,8 @@
       "DomainNameRU": "Module 2",
       "DomainNameZH": "Module 2",
       "DomainOrder": 70,
-      "DomainAdded": "2023-10-02T07:42:13.787+00:00",
-      "DomainEdited": "2023-10-02T07:42:13.787+00:00"
+      "DomainAdded": "2023-10-02T09:42:13.787+02:00",
+      "DomainEdited": "2023-10-02T09:42:13.787+02:00"
     },
     {
       "DomainID": 143,
@@ -780,8 +780,8 @@
       "DomainNameRU": "Module 3",
       "DomainNameZH": "Module 3",
       "DomainOrder": 71,
-      "DomainAdded": "2023-10-02T07:42:32.257+00:00",
-      "DomainEdited": "2023-10-02T07:42:32.257+00:00"
+      "DomainAdded": "2023-10-02T09:42:32.257+02:00",
+      "DomainEdited": "2023-10-02T09:42:32.257+02:00"
     },
     {
       "DomainID": 124,
@@ -797,8 +797,8 @@
       "DomainNameRU": "Пролог",
       "DomainNameZH": "序幕",
       "DomainOrder": 75,
-      "DomainAdded": "2018-05-15T06:36:49.9+00:00",
-      "DomainEdited": "2018-05-15T06:36:49.9+00:00"
+      "DomainAdded": "2018-05-15T08:36:49.9+02:00",
+      "DomainEdited": "2018-05-15T08:36:49.9+02:00"
     },
     {
       "DomainID": 19,
@@ -814,8 +814,8 @@
       "DomainNameRU": "Акт 1",
       "DomainNameZH": "第一章／节",
       "DomainOrder": 78,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 34,
@@ -831,8 +831,8 @@
       "DomainNameRU": "Акты 1-2",
       "DomainNameZH": "1-2 章／节",
       "DomainOrder": 79,
-      "DomainAdded": "2013-04-13T04:14:00.913+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-04-13T06:14:00.913+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 96,
@@ -848,8 +848,8 @@
       "DomainNameRU": "Акты 1-3",
       "DomainNameZH": "1-3 章／节",
       "DomainOrder": 80,
-      "DomainAdded": "2018-03-19T10:40:11.97+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-19T11:40:11.97+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 20,
@@ -865,8 +865,8 @@
       "DomainNameRU": "Акт 2",
       "DomainNameZH": "第二章／节",
       "DomainOrder": 85,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 35,
@@ -882,8 +882,8 @@
       "DomainNameRU": "Акты 2-3",
       "DomainNameZH": "2-3 章／节",
       "DomainOrder": 86,
-      "DomainAdded": "2013-04-13T04:14:52.48+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-04-13T06:14:52.48+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 21,
@@ -899,8 +899,8 @@
       "DomainNameRU": "Акт 3",
       "DomainNameZH": "第三章／节",
       "DomainOrder": 88,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 91,
@@ -916,8 +916,8 @@
       "DomainNameRU": "Акты 3-4",
       "DomainNameZH": "3-4 章／节",
       "DomainOrder": 89,
-      "DomainAdded": "2017-05-11T11:45:50.537+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2017-05-11T13:45:50.537+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 125,
@@ -933,8 +933,8 @@
       "DomainNameRU": "Acts 3-5",
       "DomainNameZH": "Acts 3-5",
       "DomainOrder": 90,
-      "DomainAdded": "2018-05-22T06:58:00.247+00:00",
-      "DomainEdited": "2018-05-22T06:58:00.247+00:00"
+      "DomainAdded": "2018-05-22T08:58:00.247+02:00",
+      "DomainEdited": "2018-05-22T08:58:00.247+02:00"
     },
     {
       "DomainID": 22,
@@ -950,8 +950,8 @@
       "DomainNameRU": "Акт 4",
       "DomainNameZH": "第四章／节",
       "DomainOrder": 93,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 94,
@@ -967,8 +967,8 @@
       "DomainNameRU": "Акты 4-5",
       "DomainNameZH": "4-5 章／节",
       "DomainOrder": 94,
-      "DomainAdded": "2018-03-12T12:35:40.173+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-12T13:35:40.173+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 42,
@@ -984,8 +984,8 @@
       "DomainNameRU": "Акт 5",
       "DomainNameZH": "第五章／节",
       "DomainOrder": 96,
-      "DomainAdded": "2013-07-16T10:59:02.71+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-07-16T12:59:02.71+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 95,
@@ -1001,8 +1001,8 @@
       "DomainNameRU": "Акты 5-6",
       "DomainNameZH": "5-6 章／节",
       "DomainOrder": 97,
-      "DomainAdded": "2018-03-12T12:35:56.387+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-12T13:35:56.387+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 92,
@@ -1018,8 +1018,8 @@
       "DomainNameRU": "Акт 6",
       "DomainNameZH": "第六章／节",
       "DomainOrder": 99,
-      "DomainAdded": "2018-03-12T12:34:52.817+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-12T13:34:52.817+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 93,
@@ -1035,8 +1035,8 @@
       "DomainNameRU": "Акт 7",
       "DomainNameZH": "第七章／节",
       "DomainOrder": 100,
-      "DomainAdded": "2018-03-12T12:35:20.667+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-12T13:35:20.667+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 137,
@@ -1052,8 +1052,8 @@
       "DomainNameRU": "Situation 1",
       "DomainNameZH": "Situation 1",
       "DomainOrder": 101,
-      "DomainAdded": "2023-10-02T07:39:00.39+00:00",
-      "DomainEdited": "2023-10-02T07:39:00.39+00:00"
+      "DomainAdded": "2023-10-02T09:39:00.39+02:00",
+      "DomainEdited": "2023-10-02T09:39:00.39+02:00"
     },
     {
       "DomainID": 138,
@@ -1069,8 +1069,8 @@
       "DomainNameRU": "Situation 2",
       "DomainNameZH": "Situation 2",
       "DomainOrder": 102,
-      "DomainAdded": "2023-10-02T07:39:32.52+00:00",
-      "DomainEdited": "2023-10-02T07:39:32.52+00:00"
+      "DomainAdded": "2023-10-02T09:39:32.52+02:00",
+      "DomainEdited": "2023-10-02T09:39:32.52+02:00"
     },
     {
       "DomainID": 139,
@@ -1086,8 +1086,8 @@
       "DomainNameRU": "Situation 3",
       "DomainNameZH": "Situation 3",
       "DomainOrder": 103,
-      "DomainAdded": "2023-10-02T07:39:52.68+00:00",
-      "DomainEdited": "2023-10-02T07:39:52.68+00:00"
+      "DomainAdded": "2023-10-02T09:39:52.68+02:00",
+      "DomainEdited": "2023-10-02T09:39:52.68+02:00"
     },
     {
       "DomainID": 140,
@@ -1103,8 +1103,8 @@
       "DomainNameRU": "Situation 4",
       "DomainNameZH": "Situation 4",
       "DomainOrder": 104,
-      "DomainAdded": "2023-10-02T07:40:07.487+00:00",
-      "DomainEdited": "2023-10-02T07:40:07.487+00:00"
+      "DomainAdded": "2023-10-02T09:40:07.487+02:00",
+      "DomainEdited": "2023-10-02T09:40:07.487+02:00"
     },
     {
       "DomainID": 87,
@@ -1120,8 +1120,8 @@
       "DomainNameRU": "Отрывок",
       "DomainNameZH": "摘抄",
       "DomainOrder": 111,
-      "DomainAdded": "2017-04-03T09:56:03.027+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2017-04-03T11:56:03.027+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 27,
@@ -1137,8 +1137,8 @@
       "DomainNameRU": "Сценический оркестр",
       "DomainNameZH": "乐队",
       "DomainOrder": 114,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 23,
@@ -1154,8 +1154,8 @@
       "DomainNameRU": "Биг-бенд",
       "DomainNameZH": "大乐队",
       "DomainOrder": 115,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 24,
@@ -1171,8 +1171,8 @@
       "DomainNameRU": "Духовой оркестр ",
       "DomainNameZH": "铜管乐队／团",
       "DomainOrder": 116,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 74,
@@ -1188,8 +1188,8 @@
       "DomainNameRU": "Духовой оркестр слева",
       "DomainNameZH": "铜管乐队左",
       "DomainOrder": 117,
-      "DomainAdded": "2016-05-24T22:37:52.643+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-05-25T00:37:52.643+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 75,
@@ -1205,8 +1205,8 @@
       "DomainNameRU": "Духовой оркестр справа",
       "DomainNameZH": "铜管乐队右",
       "DomainOrder": 118,
-      "DomainAdded": "2016-05-24T22:38:19.033+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-05-25T00:38:19.033+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 25,
@@ -1222,8 +1222,8 @@
       "DomainNameRU": "Concert Band",
       "DomainNameZH": "音乐会乐队",
       "DomainOrder": 121,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 127,
@@ -1239,8 +1239,8 @@
       "DomainNameRU": "Wind Band",
       "DomainNameZH": "Wind Band",
       "DomainOrder": 122,
-      "DomainAdded": "2018-09-28T08:17:32.697+00:00",
-      "DomainEdited": "2018-09-28T08:17:32.697+00:00"
+      "DomainAdded": "2018-09-28T10:17:32.697+02:00",
+      "DomainEdited": "2018-09-28T10:17:32.697+02:00"
     },
     {
       "DomainID": 111,
@@ -1256,8 +1256,8 @@
       "DomainNameRU": "Военный оркестр",
       "DomainNameZH": "军乐队／团",
       "DomainOrder": 124,
-      "DomainAdded": "2018-04-06T12:04:47.057+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-04-06T14:04:47.057+02:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 48,
@@ -1273,8 +1273,8 @@
       "DomainNameRU": "Джазовая группа",
       "DomainNameZH": "爵士乐队",
       "DomainOrder": 126,
-      "DomainAdded": "2013-10-15T09:56:08.66+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-10-15T11:56:08.66+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 33,
@@ -1290,8 +1290,8 @@
       "DomainNameRU": "Рок-группа",
       "DomainNameZH": "摇滚乐队",
       "DomainOrder": 128,
-      "DomainAdded": "2013-04-12T03:31:08.997+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-04-12T05:31:08.997+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 26,
@@ -1307,8 +1307,8 @@
       "DomainNameRU": "Блюзовая группа",
       "DomainNameZH": "布鲁斯乐队",
       "DomainOrder": 129,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 56,
@@ -1324,8 +1324,8 @@
       "DomainNameRU": "Антифонарий",
       "DomainNameZH": "对歌",
       "DomainOrder": 131,
-      "DomainAdded": "2015-09-18T23:54:25.687+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2015-09-19T01:54:25.687+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 69,
@@ -1341,8 +1341,8 @@
       "DomainNameRU": "Эхо",
       "DomainNameZH": "回声",
       "DomainOrder": 132,
-      "DomainAdded": "2016-03-26T00:15:05.7+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-03-26T01:15:05.7+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 57,
@@ -1358,8 +1358,8 @@
       "DomainNameRU": "Фанфары",
       "DomainNameZH": "开场曲",
       "DomainOrder": 136,
-      "DomainAdded": "2015-09-18T23:55:01.85+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2015-09-19T01:55:01.85+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 126,
@@ -1375,8 +1375,8 @@
       "DomainNameRU": "Alternate",
       "DomainNameZH": "Alternate",
       "DomainOrder": 137,
-      "DomainAdded": "2018-06-25T06:59:24.017+00:00",
-      "DomainEdited": "2018-06-25T06:59:24.017+00:00"
+      "DomainAdded": "2018-06-25T08:59:24.017+02:00",
+      "DomainEdited": "2018-06-25T08:59:24.017+02:00"
     },
     {
       "DomainID": 28,
@@ -1392,8 +1392,8 @@
       "DomainNameRU": "Вставить",
       "DomainNameZH": "插入",
       "DomainOrder": 139,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 29,
@@ -1409,8 +1409,8 @@
       "DomainNameRU": "Концертино",
       "DomainNameZH": "协奏曲",
       "DomainOrder": 144,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 43,
@@ -1426,8 +1426,8 @@
       "DomainNameRU": "Тутти",
       "DomainNameZH": "合奏",
       "DomainOrder": 147,
-      "DomainAdded": "2013-10-03T05:48:26.827+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-10-03T07:48:26.827+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 31,
@@ -1443,8 +1443,8 @@
       "DomainNameRU": "Континуо",
       "DomainNameZH": "低音部",
       "DomainOrder": 149,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 30,
@@ -1460,8 +1460,8 @@
       "DomainNameRU": "Ripieno",
       "DomainNameZH": "乐队合奏",
       "DomainOrder": 151,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 151,
@@ -1477,8 +1477,8 @@
       "DomainNameRU": "Concerto Grosso",
       "DomainNameZH": "Concerto Grosso",
       "DomainOrder": 152,
-      "DomainAdded": "2026-01-11T22:07:34.48+00:00",
-      "DomainEdited": "2026-01-11T22:07:34.48+00:00"
+      "DomainAdded": "2026-01-11T23:07:34.48+01:00",
+      "DomainEdited": "2026-01-11T23:07:34.48+01:00"
     },
     {
       "DomainID": 152,
@@ -1494,8 +1494,8 @@
       "DomainNameRU": "Concerto Terzo",
       "DomainNameZH": "Concerto Terzo",
       "DomainOrder": 153,
-      "DomainAdded": "2026-01-11T22:08:01.657+00:00",
-      "DomainEdited": "2026-01-11T22:08:01.657+00:00"
+      "DomainAdded": "2026-01-11T23:08:01.657+01:00",
+      "DomainEdited": "2026-01-11T23:08:01.657+01:00"
     },
     {
       "DomainID": 32,
@@ -1511,8 +1511,8 @@
       "DomainNameRU": "Сокращение",
       "DomainNameZH": "减少的",
       "DomainOrder": 154,
-      "DomainAdded": "2018-01-10T11:15:17.91+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2018-01-10T12:15:17.91+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 73,
@@ -1528,8 +1528,8 @@
       "DomainNameRU": "ad lib",
       "DomainNameZH": "任意的",
       "DomainOrder": 155,
-      "DomainAdded": "2016-05-24T11:28:42.523+00:00",
-      "DomainEdited": "2016-06-05T05:32:17.45+00:00"
+      "DomainAdded": "2016-05-24T13:28:42.523+02:00",
+      "DomainEdited": "2016-06-05T07:32:17.45+02:00"
     },
     {
       "DomainID": 116,
@@ -1545,8 +1545,8 @@
       "DomainNameRU": "Партия 1",
       "DomainNameZH": "第一部分",
       "DomainOrder": 157,
-      "DomainAdded": "2018-04-25T06:58:34.15+00:00",
-      "DomainEdited": "2018-04-25T06:58:34.15+00:00"
+      "DomainAdded": "2018-04-25T08:58:34.15+02:00",
+      "DomainEdited": "2018-04-25T08:58:34.15+02:00"
     },
     {
       "DomainID": 117,
@@ -1562,8 +1562,8 @@
       "DomainNameRU": "Партия 2",
       "DomainNameZH": "第二部分",
       "DomainOrder": 158,
-      "DomainAdded": "2018-04-25T06:58:55.747+00:00",
-      "DomainEdited": "2018-04-25T06:58:55.747+00:00"
+      "DomainAdded": "2018-04-25T08:58:55.747+02:00",
+      "DomainEdited": "2018-04-25T08:58:55.747+02:00"
     },
     {
       "DomainID": 118,
@@ -1579,8 +1579,8 @@
       "DomainNameRU": "Партия 3",
       "DomainNameZH": "第三部分",
       "DomainOrder": 159,
-      "DomainAdded": "2018-04-26T07:25:10.65+00:00",
-      "DomainEdited": "2018-04-26T07:25:10.65+00:00"
+      "DomainAdded": "2018-04-26T09:25:10.65+02:00",
+      "DomainEdited": "2018-04-26T09:25:10.65+02:00"
     },
     {
       "DomainID": 119,
@@ -1596,8 +1596,8 @@
       "DomainNameRU": "Партия 4",
       "DomainNameZH": "第四部分",
       "DomainOrder": 160,
-      "DomainAdded": "2018-05-01T07:26:14.833+00:00",
-      "DomainEdited": "2018-05-01T07:26:14.833+00:00"
+      "DomainAdded": "2018-05-01T09:26:14.833+02:00",
+      "DomainEdited": "2018-05-01T09:26:14.833+02:00"
     },
     {
       "DomainID": 120,
@@ -1613,8 +1613,8 @@
       "DomainNameRU": "Партия 5",
       "DomainNameZH": "第五部分",
       "DomainOrder": 161,
-      "DomainAdded": "2018-05-01T07:26:26.55+00:00",
-      "DomainEdited": "2018-05-01T07:26:26.55+00:00"
+      "DomainAdded": "2018-05-01T09:26:26.55+02:00",
+      "DomainEdited": "2018-05-01T09:26:26.55+02:00"
     },
     {
       "DomainID": 121,
@@ -1630,8 +1630,8 @@
       "DomainNameRU": "Партия 6",
       "DomainNameZH": "第六部分",
       "DomainOrder": 162,
-      "DomainAdded": "2018-05-01T07:26:36.613+00:00",
-      "DomainEdited": "2018-05-01T07:26:36.613+00:00"
+      "DomainAdded": "2018-05-01T09:26:36.613+02:00",
+      "DomainEdited": "2018-05-01T09:26:36.613+02:00"
     },
     {
       "DomainID": 122,
@@ -1647,8 +1647,8 @@
       "DomainNameRU": "Партия 7",
       "DomainNameZH": "第七部分",
       "DomainOrder": 163,
-      "DomainAdded": "2018-05-01T07:26:47.05+00:00",
-      "DomainEdited": "2018-05-01T07:26:47.05+00:00"
+      "DomainAdded": "2018-05-01T09:26:47.05+02:00",
+      "DomainEdited": "2018-05-01T09:26:47.05+02:00"
     },
     {
       "DomainID": 123,
@@ -1664,8 +1664,8 @@
       "DomainNameRU": "Партия 8",
       "DomainNameZH": "第八部分",
       "DomainOrder": 164,
-      "DomainAdded": "2018-05-09T06:40:34.95+00:00",
-      "DomainEdited": "2018-05-09T06:40:34.95+00:00"
+      "DomainAdded": "2018-05-09T08:40:34.95+02:00",
+      "DomainEdited": "2018-05-09T08:40:34.95+02:00"
     },
     {
       "DomainID": 36,
@@ -1681,8 +1681,8 @@
       "DomainNameRU": "Группа 1",
       "DomainNameZH": "第一组",
       "DomainOrder": 172,
-      "DomainAdded": "2013-04-13T04:18:34.687+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-04-13T06:18:34.687+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 37,
@@ -1698,8 +1698,8 @@
       "DomainNameRU": "Группа 2",
       "DomainNameZH": "第二组",
       "DomainOrder": 173,
-      "DomainAdded": "2013-04-13T04:18:42.67+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-04-13T06:18:42.67+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 38,
@@ -1715,8 +1715,8 @@
       "DomainNameRU": "Группа 3",
       "DomainNameZH": "第三组",
       "DomainOrder": 174,
-      "DomainAdded": "2013-04-13T04:18:52.533+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-04-13T06:18:52.533+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 39,
@@ -1732,8 +1732,8 @@
       "DomainNameRU": "Группа 4",
       "DomainNameZH": "第四组",
       "DomainOrder": 175,
-      "DomainAdded": "2013-04-13T04:18:59.89+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-04-13T06:18:59.89+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 77,
@@ -1749,8 +1749,8 @@
       "DomainNameRU": "Группа 5",
       "DomainNameZH": "第五组",
       "DomainOrder": 176,
-      "DomainAdded": "2016-10-25T22:15:52.447+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-10-26T00:15:52.447+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 97,
@@ -1766,8 +1766,8 @@
       "DomainNameRU": "Группа 6",
       "DomainNameZH": "第六组",
       "DomainOrder": 177,
-      "DomainAdded": "2018-03-20T14:41:37.803+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:41:37.803+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 98,
@@ -1783,8 +1783,8 @@
       "DomainNameRU": "Группа 7",
       "DomainNameZH": "第七组",
       "DomainOrder": 178,
-      "DomainAdded": "2018-03-20T14:42:04.46+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:42:04.46+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 99,
@@ -1800,8 +1800,8 @@
       "DomainNameRU": "Группа 8",
       "DomainNameZH": "第八组",
       "DomainOrder": 179,
-      "DomainAdded": "2018-03-20T14:42:20.957+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:42:20.957+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 100,
@@ -1817,8 +1817,8 @@
       "DomainNameRU": "Группа 9",
       "DomainNameZH": "第九组",
       "DomainOrder": 180,
-      "DomainAdded": "2018-03-20T14:42:44.737+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:42:44.737+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 101,
@@ -1834,8 +1834,8 @@
       "DomainNameRU": "Группа 10",
       "DomainNameZH": "第十组",
       "DomainOrder": 181,
-      "DomainAdded": "2018-03-20T14:42:58.737+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:42:58.737+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 102,
@@ -1851,8 +1851,8 @@
       "DomainNameRU": "Группа 11",
       "DomainNameZH": "第十一组",
       "DomainOrder": 182,
-      "DomainAdded": "2018-03-20T14:43:20.937+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:43:20.937+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 103,
@@ -1868,8 +1868,8 @@
       "DomainNameRU": "Группа 12",
       "DomainNameZH": "第十二组",
       "DomainOrder": 183,
-      "DomainAdded": "2018-03-20T14:43:47.98+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:43:47.98+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 104,
@@ -1885,8 +1885,8 @@
       "DomainNameRU": "Группа 13",
       "DomainNameZH": "第十三组",
       "DomainOrder": 184,
-      "DomainAdded": "2018-03-20T14:44:02.323+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:44:02.323+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 105,
@@ -1902,8 +1902,8 @@
       "DomainNameRU": "Группа 14",
       "DomainNameZH": "第十四组",
       "DomainOrder": 185,
-      "DomainAdded": "2018-03-20T14:44:17.48+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:44:17.48+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 106,
@@ -1919,8 +1919,8 @@
       "DomainNameRU": "Группа 15",
       "DomainNameZH": "第十五组",
       "DomainOrder": 186,
-      "DomainAdded": "2018-03-20T14:44:31.697+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:44:31.697+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 107,
@@ -1936,8 +1936,8 @@
       "DomainNameRU": "Группа 16",
       "DomainNameZH": "第十六组",
       "DomainOrder": 187,
-      "DomainAdded": "2018-03-20T14:44:45.557+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:44:45.557+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 108,
@@ -1953,8 +1953,8 @@
       "DomainNameRU": "Группа 17",
       "DomainNameZH": "第十七组",
       "DomainOrder": 188,
-      "DomainAdded": "2018-03-20T14:45:00.197+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:45:00.197+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 109,
@@ -1970,8 +1970,8 @@
       "DomainNameRU": "Группа 18",
       "DomainNameZH": "第十八组",
       "DomainOrder": 189,
-      "DomainAdded": "2018-03-20T14:45:12.523+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-03-20T15:45:12.523+01:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 58,
@@ -1987,8 +1987,8 @@
       "DomainNameRU": "Тростевые инструменты 1",
       "DomainNameZH": "簧片 1",
       "DomainOrder": 204,
-      "DomainAdded": "2015-10-02T09:20:55.18+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2015-10-02T11:20:55.18+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 59,
@@ -2004,8 +2004,8 @@
       "DomainNameRU": "Тростевые инструменты 2",
       "DomainNameZH": "簧片 2",
       "DomainOrder": 205,
-      "DomainAdded": "2015-10-02T09:21:36.953+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2015-10-02T11:21:36.953+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 60,
@@ -2021,8 +2021,8 @@
       "DomainNameRU": "Тростевые инструменты 3",
       "DomainNameZH": "簧片 3",
       "DomainOrder": 207,
-      "DomainAdded": "2015-10-02T09:22:08.98+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2015-10-02T11:22:08.98+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 61,
@@ -2038,8 +2038,8 @@
       "DomainNameRU": "Тростевые инструменты 4",
       "DomainNameZH": "簧片 4",
       "DomainOrder": 208,
-      "DomainAdded": "2015-10-02T09:22:50.387+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2015-10-02T11:22:50.387+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 62,
@@ -2055,8 +2055,8 @@
       "DomainNameRU": "Тростевые инструменты 5",
       "DomainNameZH": "簧片 5",
       "DomainOrder": 209,
-      "DomainAdded": "2015-10-02T09:23:10.02+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2015-10-02T11:23:10.02+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 40,
@@ -2072,8 +2072,8 @@
       "DomainNameRU": "Репетиция",
       "DomainNameZH": "排练",
       "DomainOrder": 213,
-      "DomainAdded": "2013-04-24T01:41:56.603+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-04-24T03:41:56.603+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 41,
@@ -2089,8 +2089,8 @@
       "DomainNameRU": "Выступление",
       "DomainNameZH": "演出",
       "DomainOrder": 216,
-      "DomainAdded": "2013-04-24T01:45:58.647+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-04-24T03:45:58.647+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 136,
@@ -2106,8 +2106,8 @@
       "DomainNameRU": "Хор",
       "DomainNameZH": "合唱团",
       "DomainOrder": 217,
-      "DomainAdded": "2023-09-28T00:04:44.483+00:00",
-      "DomainEdited": "2023-09-28T00:04:44.483+00:00"
+      "DomainAdded": "2023-09-28T02:04:44.483+02:00",
+      "DomainEdited": "2023-09-28T02:04:44.483+02:00"
     },
     {
       "DomainID": 44,
@@ -2123,8 +2123,8 @@
       "DomainNameRU": "Хор 1",
       "DomainNameZH": "合唱团 1",
       "DomainOrder": 218,
-      "DomainAdded": "2013-10-03T06:02:24.74+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-10-03T08:02:24.74+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 45,
@@ -2140,8 +2140,8 @@
       "DomainNameRU": "Хор 2",
       "DomainNameZH": "合唱团 2",
       "DomainOrder": 219,
-      "DomainAdded": "2013-10-03T06:02:41.943+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-10-03T08:02:41.943+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 46,
@@ -2157,8 +2157,8 @@
       "DomainNameRU": "Хор 3",
       "DomainNameZH": "合唱团 3",
       "DomainOrder": 220,
-      "DomainAdded": "2013-10-03T06:02:53.433+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-10-03T08:02:53.433+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 47,
@@ -2174,8 +2174,8 @@
       "DomainNameRU": "Хор 4",
       "DomainNameZH": "合唱团 4",
       "DomainOrder": 221,
-      "DomainAdded": "2013-10-03T06:03:09.637+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2013-10-03T08:03:09.637+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 51,
@@ -2191,8 +2191,8 @@
       "DomainNameRU": "Взрослые",
       "DomainNameZH": "成人",
       "DomainOrder": 222,
-      "DomainAdded": "2014-04-16T07:17:44.803+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2014-04-16T09:17:44.803+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 52,
@@ -2208,8 +2208,8 @@
       "DomainNameRU": "Дети",
       "DomainNameZH": "儿童",
       "DomainOrder": 223,
-      "DomainAdded": "2014-04-16T07:18:08.607+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2014-04-16T09:18:08.607+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 70,
@@ -2225,8 +2225,8 @@
       "DomainNameRU": "Деревянные духовые",
       "DomainNameZH": "木管乐器",
       "DomainOrder": 224,
-      "DomainAdded": "2016-03-26T00:32:32.31+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-03-26T01:32:32.31+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 53,
@@ -2242,8 +2242,8 @@
       "DomainNameRU": "Версия для духовых",
       "DomainNameZH": "木管乐器版本",
       "DomainOrder": 225,
-      "DomainAdded": "2014-05-12T04:16:05.377+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2014-05-12T06:16:05.377+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 128,
@@ -2259,8 +2259,8 @@
       "DomainNameRU": "Clarinet Quintet",
       "DomainNameZH": "Clarinet Quintet",
       "DomainOrder": 226,
-      "DomainAdded": "2018-09-28T08:18:31.947+00:00",
-      "DomainEdited": "2018-09-28T08:18:31.947+00:00"
+      "DomainAdded": "2018-09-28T10:18:31.947+02:00",
+      "DomainEdited": "2018-09-28T10:18:31.947+02:00"
     },
     {
       "DomainID": 129,
@@ -2276,8 +2276,8 @@
       "DomainNameRU": "Saxophone Quintet",
       "DomainNameZH": "Saxophone Quintet",
       "DomainOrder": 227,
-      "DomainAdded": "2018-09-28T08:19:14.963+00:00",
-      "DomainEdited": "2018-09-28T08:19:14.963+00:00"
+      "DomainAdded": "2018-09-28T10:19:14.963+02:00",
+      "DomainEdited": "2018-09-28T10:19:14.963+02:00"
     },
     {
       "DomainID": 130,
@@ -2293,8 +2293,8 @@
       "DomainNameRU": "Wind Quintet",
       "DomainNameZH": "Wind Quintet",
       "DomainOrder": 228,
-      "DomainAdded": "2018-09-28T08:19:37.87+00:00",
-      "DomainEdited": "2018-09-28T08:19:37.87+00:00"
+      "DomainAdded": "2018-09-28T10:19:37.87+02:00",
+      "DomainEdited": "2018-09-28T10:19:37.87+02:00"
     },
     {
       "DomainID": 71,
@@ -2310,8 +2310,8 @@
       "DomainNameRU": "Медные духовые",
       "DomainNameZH": "铜管乐器",
       "DomainOrder": 238,
-      "DomainAdded": "2016-03-26T00:33:20.153+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-03-26T01:33:20.153+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 54,
@@ -2327,8 +2327,8 @@
       "DomainNameRU": "Версия для медных духовых",
       "DomainNameZH": "铜管乐器版本",
       "DomainOrder": 239,
-      "DomainAdded": "2014-05-12T04:16:43.557+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2014-05-12T06:16:43.557+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 131,
@@ -2344,8 +2344,8 @@
       "DomainNameRU": "Brass Quintet",
       "DomainNameZH": "Brass Quintet",
       "DomainOrder": 240,
-      "DomainAdded": "2018-09-28T08:20:08.697+00:00",
-      "DomainEdited": "2018-09-28T08:20:08.697+00:00"
+      "DomainAdded": "2018-09-28T10:20:08.697+02:00",
+      "DomainEdited": "2018-09-28T10:20:08.697+02:00"
     },
     {
       "DomainID": 72,
@@ -2361,8 +2361,8 @@
       "DomainNameRU": "Струнные",
       "DomainNameZH": "弦乐",
       "DomainOrder": 242,
-      "DomainAdded": "2016-03-26T00:33:52.003+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-03-26T01:33:52.003+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 55,
@@ -2378,8 +2378,8 @@
       "DomainNameRU": "Версия для струнных",
       "DomainNameZH": "版本",
       "DomainOrder": 243,
-      "DomainAdded": "2014-05-12T04:16:58.16+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2014-05-12T06:16:58.16+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 63,
@@ -2395,8 +2395,8 @@
       "DomainNameRU": "Север",
       "DomainNameZH": "北方",
       "DomainOrder": 244,
-      "DomainAdded": "2016-03-10T07:48:15.87+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-03-10T08:48:15.87+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 64,
@@ -2412,8 +2412,8 @@
       "DomainNameRU": "Восток",
       "DomainNameZH": "东方",
       "DomainOrder": 245,
-      "DomainAdded": "2016-03-10T07:48:44.283+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-03-10T08:48:44.283+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 65,
@@ -2429,8 +2429,8 @@
       "DomainNameRU": "Юг",
       "DomainNameZH": "南方",
       "DomainOrder": 246,
-      "DomainAdded": "2016-03-10T07:49:00.61+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-03-10T08:49:00.61+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 66,
@@ -2446,8 +2446,8 @@
       "DomainNameRU": "Запад",
       "DomainNameZH": "西方",
       "DomainOrder": 247,
-      "DomainAdded": "2016-03-10T07:49:13.843+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-03-10T08:49:13.843+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 76,
@@ -2463,8 +2463,8 @@
       "DomainNameRU": "Tavern Music",
       "DomainNameZH": "酒馆音乐",
       "DomainOrder": 248,
-      "DomainAdded": "2016-10-07T18:46:50.237+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-10-07T20:46:50.237+02:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 79,
@@ -2480,8 +2480,8 @@
       "DomainNameRU": "Аренда",
       "DomainNameZH": "聘请",
       "DomainOrder": 249,
-      "DomainAdded": "2016-11-10T23:00:02.14+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-11-11T00:00:02.14+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 78,
@@ -2497,8 +2497,8 @@
       "DomainNameRU": "Продажа",
       "DomainNameZH": "销售",
       "DomainOrder": 250,
-      "DomainAdded": "2016-11-10T22:59:35.86+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-11-10T23:59:35.86+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 80,
@@ -2514,8 +2514,8 @@
       "DomainNameRU": "Печать по требованию",
       "DomainNameZH": "POD",
       "DomainOrder": 251,
-      "DomainAdded": "2016-11-10T23:00:13.83+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-11-11T00:00:13.83+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 110,
@@ -2531,8 +2531,8 @@
       "DomainNameRU": "Запись",
       "DomainNameZH": "录制",
       "DomainOrder": 252,
-      "DomainAdded": "2018-04-04T14:48:25.943+00:00",
-      "DomainEdited": "2018-04-23T07:36:30.937+00:00"
+      "DomainAdded": "2018-04-04T16:48:25.943+02:00",
+      "DomainEdited": "2018-04-23T09:36:30.937+02:00"
     },
     {
       "DomainID": 81,
@@ -2548,8 +2548,8 @@
       "DomainNameRU": "Digital",
       "DomainNameZH": "数码",
       "DomainOrder": 254,
-      "DomainAdded": "2016-11-10T23:00:26.547+00:00",
-      "DomainEdited": "2018-01-10T11:15:17.91+00:00"
+      "DomainAdded": "2016-11-11T00:00:26.547+01:00",
+      "DomainEdited": "2018-01-10T12:15:17.91+01:00"
     },
     {
       "DomainID": 134,
@@ -2565,8 +2565,8 @@
       "DomainNameRU": "Teacher",
       "DomainNameZH": "Teacher",
       "DomainOrder": 255,
-      "DomainAdded": "2019-05-31T13:44:59.75+00:00",
-      "DomainEdited": "2019-05-31T13:44:59.75+00:00"
+      "DomainAdded": "2019-05-31T15:44:59.75+02:00",
+      "DomainEdited": "2019-05-31T15:44:59.75+02:00"
     },
     {
       "DomainID": 135,
@@ -2582,8 +2582,8 @@
       "DomainNameRU": "Student",
       "DomainNameZH": "Student",
       "DomainOrder": 256,
-      "DomainAdded": "2019-05-31T13:45:23.407+00:00",
-      "DomainEdited": "2019-05-31T13:45:23.407+00:00"
+      "DomainAdded": "2019-05-31T15:45:23.407+02:00",
+      "DomainEdited": "2019-05-31T15:45:23.407+02:00"
     }
   ]
 }
