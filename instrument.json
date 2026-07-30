@@ -31016,9 +31016,9 @@
       "InstName": "Gourd Shaker",
       "InstNameShort": "GrdShaker",
       "InstNamePlural": "Gourd Shakers",
-      "InstNameDE": "Kürbisstreuer",
-      "InstNameShortDE": "Kürbsstrr",
-      "InstNamePluralDE": "Kürbisstreuer",
+      "InstNameDE": "Gourd",
+      "InstNameShortDE": "Gourd",
+      "InstNamePluralDE": "Gourds",
       "InstNameFR": "Gourde Shaker",
       "InstNameShortFR": "GrdShaker",
       "InstNamePluralFR": "Gourdes",
@@ -31049,7 +31049,7 @@
       "InstAlternate": null,
       "InstOrder": 1342210286,
       "InstAdded": "2025-09-30T03:04:11.31+02:00",
-      "InstEdited": "2025-09-30T03:04:11.31+02:00"
+      "InstEdited": "2026-07-29T18:55:28.767+02:00"
     },
     {
       "InstID": 995,
@@ -38782,7 +38782,7 @@
     {
       "InstID": 597,
       "InstUIC": 2752629,
-      "InstIcon": null,
+      "InstIcon": "Generic",
       "InstFamily": "5.Other",
       "InstGenus": "Effects",
       "InstGenusID": 0,
@@ -38790,9 +38790,9 @@
       "InstName": "Wind Chimes",
       "InstNameShort": "WindChms",
       "InstNamePlural": "Wind Chimes",
-      "InstNameDE": "Windspiel",
-      "InstNameShortDE": "Windspiel",
-      "InstNamePluralDE": "Windspiele",
+      "InstNameDE": "Windglöckchen",
+      "InstNameShortDE": "Wndglöckch",
+      "InstNamePluralDE": "Windglöckchen",
       "InstNameFR": "Chimes à vent",
       "InstNameShortFR": "Chimes à v",
       "InstNamePluralFR": "Chimes à vent",
@@ -38821,9 +38821,9 @@
       "InstNameShortZH": "WindChms",
       "InstNamePluralZH": "Wind Chimes",
       "InstAlternate": null,
-      "InstOrder": 1342373947,
+      "InstOrder": 1342373946,
       "InstAdded": "2016-12-16T03:44:47.74+01:00",
-      "InstEdited": "2016-12-16T03:44:47.74+01:00"
+      "InstEdited": "2026-07-29T11:52:13.543+02:00"
     },
     {
       "InstID": 760,

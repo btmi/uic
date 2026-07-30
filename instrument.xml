@@ -28687,9 +28687,9 @@ waldhorn</InstNameAlt>
     <InstName>Gourd Shaker</InstName>
     <InstNameShort>GrdShaker</InstNameShort>
     <InstNamePlural>Gourd Shakers</InstNamePlural>
-    <InstNameDE>Kürbisstreuer</InstNameDE>
-    <InstNameShortDE>Kürbsstrr</InstNameShortDE>
-    <InstNamePluralDE>Kürbisstreuer</InstNamePluralDE>
+    <InstNameDE>Gourd</InstNameDE>
+    <InstNameShortDE>Gourd</InstNameShortDE>
+    <InstNamePluralDE>Gourds</InstNamePluralDE>
     <InstNameFR>Gourde Shaker</InstNameFR>
     <InstNameShortFR>GrdShaker</InstNameShortFR>
     <InstNamePluralFR>Gourdes</InstNamePluralFR>
@@ -28719,7 +28719,7 @@ waldhorn</InstNameAlt>
     <InstNamePluralZH>葫芦摇壶</InstNamePluralZH>
     <InstOrder>1342210286</InstOrder>
     <InstAdded>2025-09-30T01:04:11.31+00:00</InstAdded>
-    <InstEdited>2025-09-30T01:04:11.31+00:00</InstEdited>
+    <InstEdited>2026-07-29T16:55:28.767+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>995</InstID>
@@ -35865,12 +35865,13 @@ waldhorn</InstNameAlt>
     <InstUIC>2752629</InstUIC>
     <InstFamily>5.Other</InstFamily>
     <InstGenus>Effects</InstGenus>
+    <InstIcon>Generic</InstIcon>
     <InstName>Wind Chimes</InstName>
     <InstNameShort>WindChms</InstNameShort>
     <InstNamePlural>Wind Chimes</InstNamePlural>
-    <InstNameDE>Windspiel</InstNameDE>
-    <InstNameShortDE>Windspiel</InstNameShortDE>
-    <InstNamePluralDE>Windspiele</InstNamePluralDE>
+    <InstNameDE>Windglöckchen</InstNameDE>
+    <InstNameShortDE>Wndglöckch</InstNameShortDE>
+    <InstNamePluralDE>Windglöckchen</InstNamePluralDE>
     <InstNameFR>Chimes à vent</InstNameFR>
     <InstNameShortFR>Chimes à v</InstNameShortFR>
     <InstNamePluralFR>Chimes à vent</InstNamePluralFR>
@@ -35898,9 +35899,9 @@ waldhorn</InstNameAlt>
     <InstNameZH>Wind Chimes</InstNameZH>
     <InstNameShortZH>WindChms</InstNameShortZH>
     <InstNamePluralZH>Wind Chimes</InstNamePluralZH>
-    <InstOrder>1342373947</InstOrder>
+    <InstOrder>1342373946</InstOrder>
     <InstAdded>2016-12-16T02:44:47.74+00:00</InstAdded>
-    <InstEdited>2016-12-16T02:44:47.74+00:00</InstEdited>
+    <InstEdited>2026-07-29T09:52:13.543+00:00</InstEdited>
   </UIC>
   <UIC>
     <InstID>760</InstID>
